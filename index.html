@@ -274,6 +274,7 @@ async function getTTS() {
         },
       });
       tts = model;
+      setStatus("Voice model ready. Generating the first part…");
       return model;
     })();
   }
