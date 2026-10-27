@@ -132,6 +132,16 @@ ol.transcript { list-style: none; margin: 0; padding: 0; display: grid; gap: 4px
           <option value="1.5">1.5×</option>
         </select>
       </label>
+      <label for="voiceB"><span id="voiceBLabel">Host B</span> voice
+        <select id="voiceB">
+          <option value="am_puck">Puck (lively)</option>
+          <option value="am_fenrir">Fenrir (punchy)</option>
+          <option value="am_eric">Eric (crisp)</option>
+          <option value="am_liam">Liam (warm)</option>
+          <option value="am_michael">Michael (calm)</option>
+          <option value="bm_george">George (British)</option>
+        </select>
+      </label>
       <button class="btn" id="save" type="button">Save MP3</button>
     </div>
     <div class="bar" aria-hidden="true"><i id="barFill"></i></div>
@@ -150,7 +160,9 @@ ol.transcript { list-style: none; margin: 0; padding: 0; display: grid; gap: 4px
 <script type="module">
 const KOKORO_URL = "https://cdn.jsdelivr.net/npm/kokoro-js@1.2.1/dist/kokoro.web.js";
 const MODEL_ID = "onnx-community/Kokoro-82M-v1.0-ONNX";
-const VOICES = { A: "af_heart", B: "am_michael" };
+const VOICES = { A: "af_heart", B: "am_puck" };
+const SPEED = { A: 1.0, B: 1.08 };
+try { const saved = localStorage.getItem("voiceB"); if (saved) VOICES.B = saved; } catch {}
 const GAP_SEC = 0.3;
 
 const SAMPLE = {
@@ -184,15 +196,37 @@ async function decodePayload(hash) {
   return JSON.parse(await new Response(stream).text());
 }
 
+/* v2 links carry readable text: "v2." + URL-encoded lines, spaces as "+".
+   Lines: T:title, D:date, H:hostA|hostB, C:name|turn;name|turn, A:/B: turns. */
+function decodeTextPayload(h) {
+  const raw = h.slice(3).replace(/\+/g, " ").replace(/%(?![0-9A-Fa-f]{2})/g, "%25");
+  let text;
+  try { text = decodeURIComponent(raw); }
+  catch { text = raw.replace(/%([0-9A-Fa-f]{2})/g, (m, x) => { const c = parseInt(x, 16); return c < 128 ? String.fromCharCode(c) : m; }); }
+  const out = { title: "", date: "", hosts: { A: "Host A", B: "Host B" }, chapters: [], turns: [] };
+  for (const line of text.split("\n")) {
+    const tag = line.slice(0, 2), val = line.slice(2).trim();
+    if (tag === "T:") out.title = val;
+    else if (tag === "D:") out.date = val;
+    else if (tag === "H:") { const [a, b] = val.split("|"); out.hosts = { A: a || "Host A", B: b || "Host B" }; }
+    else if (tag === "C:") out.chapters = val.split(";").map((c) => { const [t, i] = c.split("|"); return { title: t, i: parseInt(i, 10) }; }).filter((c) => c.title && c.i >= 0);
+    else if ((tag === "A:" || tag === "B:") && val) out.turns.push([tag[0], val]);
+  }
+  if (!out.turns.length) throw new Error("no turns");
+  return out;
+}
+
 async function loadEpisode() {
   const h = location.hash.slice(1);
   if (h.length > 20) {
-    try { ep = await decodePayload(h); isSample = false; }
+    try { ep = h.startsWith("v2.") ? decodeTextPayload(h) : await decodePayload(h); isSample = false; }
     catch (e) { $("note").textContent = "This link's script couldn't be read, so a sample is shown. Open the Listen button from the email again."; }
   }
   if (isSample && !$("note").textContent) $("note").textContent = "No episode in this link, so a short sample is loaded. Use the Listen button in your Nightly Brief email.";
   ep.hosts = ep.hosts || { A: "Host A", B: "Host B" };
   $("title").textContent = ep.title || "Tonight's episode";
+  $("voiceBLabel").textContent = ep.hosts.B;
+  $("voiceB").value = VOICES.B;
   $("eyebrow").textContent = `Nightly Brief · ${ep.date || "podcast"}`;
   document.title = ep.title ? `${ep.title} · Nightly Brief Radio` : "Nightly Brief Radio";
   render();
@@ -298,7 +332,7 @@ async function synth(i) {
   const pieces = [];
   let rate = 24000;
   for (const c of chunks(text)) {
-    const out = await model.generate(c, { voice: VOICES[who] || VOICES.A });
+    const out = await model.generate(c, { voice: VOICES[who] || VOICES.A, speed: SPEED[who] || 1 });
     rate = out.sampling_rate; pieces.push(out.audio);
   }
   const gap = new Float32Array(Math.round(rate * GAP_SEC));
@@ -395,6 +429,13 @@ function jump(i) {
 }
 
 $("play").onclick = () => (playing ? pause() : start());
+$("voiceB").onchange = () => {
+  VOICES.B = $("voiceB").value;
+  try { localStorage.setItem("voiceB", VOICES.B); } catch {}
+  for (const [i, v] of [...cache]) if (ep.turns[i][0] === "B") { URL.revokeObjectURL(v.url); cache.delete(i); }
+  markReady();
+  if (playing && $("engine").value === "kokoro") { audio.pause(); playTurn(cur); }
+};
 $("speed").onchange = () => { audio.playbackRate = Number($("speed").value); };
 $("engine").onchange = () => { const was = playing; if (was) pause(); if (was) start(); };
 
