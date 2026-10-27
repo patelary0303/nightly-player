@@ -1,0 +1,438 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<title>Nightly Brief Radio</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@500;700&family=Newsreader:opsz,wght@6..72,400;6..72,500&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: one narrow "studio console" column. Sticky transport bar on top, chapters, then the live transcript. */
+:root {
+  --bg: #f3f4f1;
+  --surface: #ffffff;
+  --ink: #15201c;
+  --muted: #5d6b65;
+  --line: #d9ded9;
+  --accent: #c2410c;      /* on-air lamp */
+  --accent-ink: #ffffff;
+  --host-a: #0f6b5c;
+  --host-b: #3b4fa8;
+  --now: #fff4e6;
+  --font-display: "Familjen Grotesk", "Helvetica Neue", Arial, sans-serif;
+  --font-body: "Newsreader", Georgia, "Times New Roman", serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0f1412; --surface: #161d1a; --ink: #e7ece9; --muted: #95a39c; --line: #26302c;
+    --accent: #f26b2f; --accent-ink: #120a05; --host-a: #4fc4ab; --host-b: #8fa2f5; --now: #2a2118;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0f1412; --surface: #161d1a; --ink: #e7ece9; --muted: #95a39c; --line: #26302c;
+  --accent: #f26b2f; --accent-ink: #120a05; --host-a: #4fc4ab; --host-b: #8fa2f5; --now: #2a2118;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body {
+  background: var(--bg); color: var(--ink);
+  font: 400 17px/1.55 var(--font-body);
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 0 calc(40px + env(safe-area-inset-bottom, 0px));
+}
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--surface); }
+.wrap { max-width: 720px; margin: 0 auto; display: grid; gap: 20px; }
+
+header.console {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5;
+  background: var(--surface); border-bottom: 1px solid var(--line);
+  margin-inline: calc(-1 * max(16px, env(safe-area-inset-left, 0px)));
+  padding: 14px max(16px, env(safe-area-inset-left, 0px));
+}
+.console-inner { max-width: 720px; margin: 0 auto; display: grid; gap: 10px; }
+.top { display: flex; align-items: center; gap: 14px; min-width: 0; }
+.lamp { width: 10px; height: 10px; border-radius: 50%; background: var(--line); flex: none; }
+.lamp.on { background: var(--accent); box-shadow: 0 0 0 4px color-mix(in srgb, var(--accent) 25%, transparent); }
+.titles { min-width: 0; flex: 1; }
+.eyebrow { font: 500 11px/1.2 var(--font-mono); letter-spacing: .12em; text-transform: uppercase; color: var(--muted); }
+h1 { margin: 2px 0 0; font: 700 clamp(20px, 4.6vw, 26px)/1.15 var(--font-display); text-wrap: balance; }
+.play {
+  flex: none; width: 56px; height: 56px; border-radius: 50%; border: 0; cursor: pointer;
+  background: var(--accent); color: var(--accent-ink); display: grid; place-items: center;
+}
+.play:focus-visible, button:focus-visible, select:focus-visible { outline: 3px solid var(--host-b); outline-offset: 2px; }
+.play svg { width: 22px; height: 22px; fill: currentColor; }
+.controls { display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: center; font: 400 13px/1.3 var(--font-mono); color: var(--muted); }
+.controls label { display: inline-flex; gap: 6px; align-items: center; }
+select, .btn {
+  font: 500 13px/1 var(--font-mono); color: var(--ink); background: var(--bg);
+  border: 1px solid var(--line); border-radius: 6px; padding: 7px 9px; cursor: pointer;
+}
+.btn[disabled] { opacity: .5; cursor: default; }
+.status { font: 400 13px/1.4 var(--font-mono); color: var(--muted); min-height: 1.4em; }
+.bar { height: 3px; background: var(--line); border-radius: 2px; overflow: hidden; }
+.bar > i { display: block; height: 100%; width: 0; background: var(--accent); transition: width .3s; }
+
+.chapters { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip {
+  font: 500 13px/1 var(--font-display); border: 1px solid var(--line); background: var(--surface); color: var(--ink);
+  border-radius: 999px; padding: 8px 12px; cursor: pointer; display: inline-flex; gap: 8px; align-items: baseline;
+}
+.chip small { font: 400 11px var(--font-mono); color: var(--muted); }
+
+ol.transcript { list-style: none; margin: 0; padding: 0; display: grid; gap: 4px; }
+.turn { display: grid; grid-template-columns: 76px 1fr; gap: 12px; padding: 10px 12px; border-radius: 8px; cursor: pointer; }
+.turn:hover { background: color-mix(in srgb, var(--surface) 70%, transparent); }
+.turn.now { background: var(--now); }
+.who { font: 700 13px/1.6 var(--font-display); letter-spacing: .02em; padding-top: 2px; }
+.who.A { color: var(--host-a); } .who.B { color: var(--host-b); }
+.who .ready { display: block; font: 400 10px var(--font-mono); color: var(--muted); letter-spacing: .06em; text-transform: uppercase; }
+.turn p { margin: 0; min-width: 0; }
+.chapter-mark { font: 500 11px/1.2 var(--font-mono); letter-spacing: .12em; text-transform: uppercase; color: var(--accent); padding: 14px 12px 2px; }
+.note { font: 400 14px/1.5 var(--font-body); color: var(--muted); }
+@media (max-width: 460px) {
+  .turn { grid-template-columns: 1fr; gap: 2px; }
+}
+@media (prefers-reduced-motion: reduce) { .bar > i { transition: none; } }
+</style>
+</head>
+<body>
+<header class="console">
+  <div class="console-inner">
+    <div class="top">
+      <span class="lamp" id="lamp" aria-hidden="true"></span>
+      <div class="titles">
+        <div class="eyebrow" id="eyebrow">Nightly Brief · podcast</div>
+        <h1 id="title">Tonight's episode</h1>
+      </div>
+      <button class="play" id="play" aria-label="Play">
+        <svg viewBox="0 0 24 24" id="playIcon"><path d="M7 4.5v15l13-7.5z"/></svg>
+      </button>
+    </div>
+    <div class="controls">
+      <label for="engine">Voice
+        <select id="engine">
+          <option value="kokoro">Kokoro (natural)</option>
+          <option value="device">Quick (device voice)</option>
+        </select>
+      </label>
+      <label for="speed">Speed
+        <select id="speed">
+          <option value="0.9">0.9×</option>
+          <option value="1" selected>1×</option>
+          <option value="1.15">1.15×</option>
+          <option value="1.3">1.3×</option>
+          <option value="1.5">1.5×</option>
+        </select>
+      </label>
+      <button class="btn" id="save" type="button">Save MP3</button>
+    </div>
+    <div class="bar" aria-hidden="true"><i id="barFill"></i></div>
+    <div class="status" id="status" role="status">Tap play. The first time, the voice model downloads once (about 90 MB).</div>
+  </div>
+</header>
+
+<main class="wrap">
+  <nav class="chapters" id="chapters" aria-label="Chapters"></nav>
+  <ol class="transcript" id="transcript"></ol>
+  <p class="note" id="note"></p>
+</main>
+
+<audio id="audio" preload="auto"></audio>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lamejs/1.2.1/lame.min.js"></script>
+<script type="module">
+const KOKORO_URL = "https://cdn.jsdelivr.net/npm/kokoro-js@1.2.1/dist/kokoro.web.js";
+const MODEL_ID = "onnx-community/Kokoro-82M-v1.0-ONNX";
+const VOICES = { A: "af_heart", B: "am_michael" };
+const GAP_SEC = 0.3;
+
+const SAMPLE = {
+  title: "Sample episode",
+  date: "Demo",
+  hosts: { A: "Maya", B: "Theo" },
+  chapters: [{ title: "Cold open", i: 0 }, { title: "Basis points", i: 2 }],
+  turns: [
+    ["A", "Welcome to the Nightly Brief, I'm Maya."],
+    ["B", "And I'm Theo. This is a sample episode, so tonight's real script isn't loaded."],
+    ["A", "Theo, quick one. The Fed moved rates a quarter point. People keep saying twenty-five basis points. What's a basis point?"],
+    ["B", "A basis point is one hundredth of a percent. So a quarter of a percent is twenty-five of them. It sounds tiny, but on a mortgage it can mean real money every month."],
+    ["A", "Wait, really? That's it?"],
+    ["B", "That's it. Traders just like units that make small moves sound precise."],
+  ],
+};
+
+const $ = (id) => document.getElementById(id);
+const audio = $("audio");
+let ep = SAMPLE, isSample = true;
+let tts = null, ttsLoading = null;
+const cache = new Map();        // turn index -> { url, samples }
+let cur = 0, playing = false, waitingFor = null, genRunning = false, wantAll = false;
+let wakeLock = null;
+
+/* ---------- load the episode from the link (#<base64url zlib JSON>) ---------- */
+async function decodePayload(hash) {
+  const b64 = hash.replace(/-/g, "+").replace(/_/g, "/");
+  const bin = Uint8Array.from(atob(b64 + "===".slice((b64.length + 3) % 4)), (c) => c.charCodeAt(0));
+  const stream = new Blob([bin]).stream().pipeThrough(new DecompressionStream("deflate"));
+  return JSON.parse(await new Response(stream).text());
+}
+
+async function loadEpisode() {
+  const h = location.hash.slice(1);
+  if (h.length > 20) {
+    try { ep = await decodePayload(h); isSample = false; }
+    catch (e) { $("note").textContent = "This link's script couldn't be read, so a sample is shown. Open the Listen button from the email again."; }
+  }
+  if (isSample && !$("note").textContent) $("note").textContent = "No episode in this link, so a short sample is loaded. Use the Listen button in your Nightly Brief email.";
+  ep.hosts = ep.hosts || { A: "Host A", B: "Host B" };
+  $("title").textContent = ep.title || "Tonight's episode";
+  $("eyebrow").textContent = `Nightly Brief · ${ep.date || "podcast"}`;
+  document.title = ep.title ? `${ep.title} · Nightly Brief Radio` : "Nightly Brief Radio";
+  render();
+}
+
+function render() {
+  const chapterAt = new Map((ep.chapters || []).map((c) => [c.i, c.title]));
+  const words = ep.turns.map((t) => t[1].split(/\s+/).length);
+  const startMin = (i) => words.slice(0, i).reduce((a, b) => a + b, 0) / 150;
+  $("chapters").innerHTML = "";
+  for (const c of ep.chapters || []) {
+    const b = document.createElement("button");
+    b.className = "chip"; b.type = "button";
+    const sec = Math.round(startMin(c.i) * 60);
+    b.innerHTML = `<span></span><small>${Math.floor(sec / 60)}:${String(sec % 60).padStart(2, "0")}</small>`;
+    b.firstChild.textContent = c.title;
+    b.onclick = () => jump(c.i);
+    $("chapters").append(b);
+  }
+  const ol = $("transcript"); ol.innerHTML = "";
+  ep.turns.forEach(([who, text], i) => {
+    if (chapterAt.has(i)) {
+      const m = document.createElement("li"); m.className = "chapter-mark"; m.textContent = chapterAt.get(i); ol.append(m);
+    }
+    const li = document.createElement("li");
+    li.className = "turn"; li.id = `t${i}`; li.tabIndex = 0;
+    li.innerHTML = `<div class="who ${who}"><span></span><span class="ready"></span></div><p></p>`;
+    li.querySelector(".who span").textContent = ep.hosts[who] || who;
+    li.querySelector("p").textContent = text;
+    li.onclick = () => jump(i);
+    li.onkeydown = (e) => { if (e.key === "Enter") jump(i); };
+    ol.append(li);
+  });
+  markReady();
+}
+
+function markReady() {
+  ep.turns.forEach((_, i) => {
+    const r = document.querySelector(`#t${i} .ready`);
+    if (r) r.textContent = cache.has(i) ? "ready" : "";
+  });
+  $("barFill").style.width = `${(cache.size / ep.turns.length) * 100}%`;
+}
+
+function highlight(i) {
+  document.querySelectorAll(".turn.now").forEach((el) => el.classList.remove("now"));
+  const el = $(`t${i}`);
+  if (el) { el.classList.add("now"); el.scrollIntoView({ block: "center", behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" }); }
+}
+
+function setStatus(s) { $("status").textContent = s; }
+function setPlayingUI(on) {
+  playing = on;
+  $("lamp").classList.toggle("on", on);
+  $("play").setAttribute("aria-label", on ? "Pause" : "Play");
+  $("playIcon").innerHTML = on ? '<path d="M6 4h4v16H6zM14 4h4v16h-4z"/>' : '<path d="M7 4.5v15l13-7.5z"/>';
+  if (on && "wakeLock" in navigator) navigator.wakeLock.request("screen").then((w) => (wakeLock = w)).catch(() => {});
+  if (!on && wakeLock) { wakeLock.release().catch(() => {}); wakeLock = null; }
+}
+
+/* ---------- Kokoro (runs in this browser) ---------- */
+async function getTTS() {
+  if (tts) return tts;
+  if (!ttsLoading) {
+    ttsLoading = (async () => {
+      setStatus("Loading the voice model…");
+      const { KokoroTTS } = await import(KOKORO_URL);
+      const webgpu = !!navigator.gpu && !!(await navigator.gpu.requestAdapter().catch(() => null));
+      const files = {};
+      const model = await KokoroTTS.from_pretrained(MODEL_ID, {
+        dtype: webgpu ? "fp32" : "q8",
+        device: webgpu ? "webgpu" : "wasm",
+        progress_callback: (p) => {
+          if (p.status === "progress" && p.total) {
+            files[p.file] = [p.loaded, p.total];
+            const [l, t] = Object.values(files).reduce((a, [x, y]) => [a[0] + x, a[1] + y], [0, 0]);
+            setStatus(`Downloading voice model… ${Math.round((l / t) * 100)}% (one time only)`);
+          }
+        },
+      });
+      tts = model;
+      return model;
+    })();
+  }
+  return ttsLoading;
+}
+
+function chunks(text) {
+  const parts = text.match(/[^.!?]+[.!?]+["')\]]*\s*|[^.!?]+$/g) || [text];
+  const out = []; let buf = "";
+  for (const p of parts) {
+    if ((buf + p).length > 320 && buf) { out.push(buf.trim()); buf = ""; }
+    buf += p;
+  }
+  if (buf.trim()) out.push(buf.trim());
+  return out;
+}
+
+async function synth(i) {
+  const model = await getTTS();
+  const [who, text] = ep.turns[i];
+  const pieces = [];
+  let rate = 24000;
+  for (const c of chunks(text)) {
+    const out = await model.generate(c, { voice: VOICES[who] || VOICES.A });
+    rate = out.sampling_rate; pieces.push(out.audio);
+  }
+  const gap = new Float32Array(Math.round(rate * GAP_SEC));
+  const total = pieces.reduce((n, p) => n + p.length, 0) + gap.length;
+  const samples = new Float32Array(total);
+  let o = 0; for (const p of pieces) { samples.set(p, o); o += p.length; }
+  const url = URL.createObjectURL(wavBlob(samples, rate));
+  cache.set(i, { url, samples, rate });
+}
+
+function wavBlob(samples, rate) {
+  const buf = new ArrayBuffer(44 + samples.length * 2), v = new DataView(buf);
+  const w = (o, s) => [...s].forEach((c, k) => v.setUint8(o + k, c.charCodeAt(0)));
+  w(0, "RIFF"); v.setUint32(4, 36 + samples.length * 2, true); w(8, "WAVE"); w(12, "fmt ");
+  v.setUint32(16, 16, true); v.setUint16(20, 1, true); v.setUint16(22, 1, true);
+  v.setUint32(24, rate, true); v.setUint32(28, rate * 2, true); v.setUint16(32, 2, true); v.setUint16(34, 16, true);
+  w(36, "data"); v.setUint32(40, samples.length * 2, true);
+  for (let k = 0; k < samples.length; k++) v.setInt16(44 + k * 2, Math.max(-1, Math.min(1, samples[k])) * 0x7fff, true);
+  return new Blob([buf], { type: "audio/wav" });
+}
+
+function nextMissing() {
+  for (let i = cur; i < ep.turns.length; i++) if (!cache.has(i)) return i;
+  if (wantAll) for (let i = 0; i < cur; i++) if (!cache.has(i)) return i;
+  return -1;
+}
+
+async function genLoop() {
+  if (genRunning) return;
+  genRunning = true;
+  try {
+    for (let i = nextMissing(); i >= 0; i = nextMissing()) {
+      await synth(i);
+      markReady();
+      if (waitingFor === i) { waitingFor = null; playTurn(i); }
+      if (playing && $("engine").value === "kokoro") setStatus(`Playing · ${cache.size} of ${ep.turns.length} parts ready`);
+    }
+    if (wantAll) finishSave();
+  } catch (e) {
+    console.error(e);
+    setStatus(`Kokoro couldn't run here (${e.message || e}). Switch Voice to "Quick (device voice)".`);
+    setPlayingUI(false);
+  } finally { genRunning = false; }
+}
+
+function playTurn(i) {
+  cur = i; highlight(i);
+  if (!cache.has(i)) { waitingFor = i; setStatus("Generating the next part…"); genLoop(); return; }
+  audio.src = cache.get(i).url;
+  audio.playbackRate = Number($("speed").value);
+  audio.preservesPitch = true;
+  audio.play().catch(() => setPlayingUI(false));
+  genLoop();
+}
+
+audio.addEventListener("ended", () => {
+  if (cur + 1 < ep.turns.length) playTurn(cur + 1);
+  else { setPlayingUI(false); setStatus("That's the episode."); }
+});
+
+/* ---------- device voice fallback (Web Speech) ---------- */
+function deviceVoices() {
+  const vs = speechSynthesis.getVoices().filter((v) => v.lang && v.lang.startsWith("en"));
+  const pick = (re) => vs.find((v) => re.test(v.name));
+  const a = pick(/Ava|Samantha|Aria|Jenny|Female|Zira/i) || vs[0];
+  const b = pick(/Andrew|Daniel|Guy|Alex|Male|David/i) || vs.find((v) => v !== a) || a;
+  return { A: a, B: b };
+}
+function speakTurn(i) {
+  cur = i; highlight(i);
+  const u = new SpeechSynthesisUtterance(ep.turns[i][1]);
+  const v = deviceVoices()[ep.turns[i][0]];
+  if (v) u.voice = v;
+  u.rate = Number($("speed").value);
+  u.onend = () => { if (!playing) return; if (cur + 1 < ep.turns.length) speakTurn(cur + 1); else { setPlayingUI(false); setStatus("That's the episode."); } };
+  speechSynthesis.speak(u);
+}
+
+/* ---------- transport ---------- */
+function start() {
+  setPlayingUI(true);
+  if ($("engine").value === "device") { speechSynthesis.cancel(); setStatus("Playing with your device's voice."); speakTurn(cur); }
+  else playTurn(cur);
+}
+function pause() {
+  setPlayingUI(false);
+  if ($("engine").value === "device") speechSynthesis.cancel(); else audio.pause();
+  setStatus("Paused.");
+}
+function jump(i) {
+  speechSynthesis.cancel(); audio.pause();
+  cur = i; waitingFor = null;
+  if (playing) start(); else highlight(i);
+}
+
+$("play").onclick = () => (playing ? pause() : start());
+$("speed").onchange = () => { audio.playbackRate = Number($("speed").value); };
+$("engine").onchange = () => { const was = playing; if (was) pause(); if (was) start(); };
+
+/* ---------- save MP3 (needs every part generated) ---------- */
+$("save").onclick = () => {
+  if (typeof lamejs === "undefined") { setStatus("The MP3 encoder didn't load. Check your connection and reload."); return; }
+  wantAll = true; $("save").disabled = true;
+  setStatus(`Preparing the MP3… generating ${ep.turns.length - cache.size} remaining parts.`);
+  if (cache.size === ep.turns.length) finishSave(); else genLoop();
+};
+function finishSave() {
+  if (!wantAll || cache.size < ep.turns.length) return;
+  wantAll = false;
+  setStatus("Encoding MP3…");
+  setTimeout(() => {
+    const rate = cache.get(0).rate;
+    const enc = new lamejs.Mp3Encoder(1, rate, 64);
+    const parts = [];
+    for (let i = 0; i < ep.turns.length; i++) {
+      const s = cache.get(i).samples, pcm = new Int16Array(s.length);
+      for (let k = 0; k < s.length; k++) pcm[k] = Math.max(-1, Math.min(1, s[k])) * 0x7fff;
+      for (let k = 0; k < pcm.length; k += 1152) { const m = enc.encodeBuffer(pcm.subarray(k, k + 1152)); if (m.length) parts.push(m); }
+    }
+    parts.push(enc.flush());
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(new Blob(parts, { type: "audio/mpeg" }));
+    a.download = `${(ep.title || "Nightly Brief").replace(/[^\w\- ]+/g, "").trim() || "Nightly Brief"}.mp3`;
+    document.body.append(a); a.click(); a.remove();
+    $("save").disabled = false;
+    setStatus("MP3 saved.");
+  }, 50);
+}
+
+if ("mediaSession" in navigator) {
+  navigator.mediaSession.setActionHandler("play", () => !playing && start());
+  navigator.mediaSession.setActionHandler("pause", () => playing && pause());
+}
+
+loadEpisode();
+</script>
+</body>
+</html>
