@@ -1,0 +1,64 @@
+# Records any new episode pushed to claude/episodes, stores the newest 14 MP3s
+# on the orphan "audio" branch (one force-pushed commit, so history never
+# grows), then asks pages.yml to redeploy the site from main.
+name: Record episode
+
+on:
+  push:
+    branches: ["claude/episodes"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: record
+  cancel-in-progress: false
+
+jobs:
+  record:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: claude/episodes
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        run: |
+          sudo apt-get update -q && sudo apt-get install -y -q espeak-ng ffmpeg
+          python -m pip install -q torch --index-url https://download.pytorch.org/whl/cpu
+          python -m pip install -q "kokoro>=0.9.4" soundfile numpy
+
+      - name: Get stored audio
+        run: |
+          mkdir -p audio
+          if git ls-remote --exit-code origin audio >/dev/null; then
+            git fetch -q origin audio
+            git --work-tree=audio checkout origin/audio -- .
+          fi
+
+      - name: Record
+        run: |
+          git fetch -q origin main
+          git show origin/main:record.py > /tmp/record.py
+          python /tmp/record.py episodes audio 14
+
+      - name: Save audio branch
+        run: |
+          cd audio
+          rm -rf .git
+          git init -q -b audio
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" add -A
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -q -m "Episodes"
+          git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" audio
+
+      - name: Redeploy site
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run pages.yml --ref main -R "${{ github.repository }}"

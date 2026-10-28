@@ -192,6 +192,9 @@ let segs = [];                  // playback units: { t: turn index, text, last: 
 const cache = new Map();        // seg index -> { url, samples, rate }
 let cur = 0, playing = false, waitingFor = null, genRunning = false, wantAll = false;
 let wakeLock = null;
+let rec = null;                 // the episode's MP3 timing, { starts, duration }, once it has been recorded
+const recUrl = (ext) => `episodes/${ep.id}.${ext}`;
+const RECHECK_MS = 30000;
 const SILENT_URL = URL.createObjectURL(wavBlob(new Float32Array(240), 24000));
 
 /* ---------- load the episode from the link (#<base64url zlib JSON>) ---------- */
@@ -203,7 +206,7 @@ async function decodePayload(hash) {
 }
 
 /* v2 links carry readable text: "v2." + URL-encoded lines, spaces as "+".
-   Lines: T:title, D:date, H:hostA|hostB, C:name|turn;name|turn, A:/B: turns. */
+   Lines: T:title, D:date, H:hostA|hostB, C:name|turn;name|turn, E:episode id, A:/B: turns. */
 function decodeTextPayload(h) {
   const raw = h.slice(3).replace(/\+/g, " ").replace(/%(?![0-9A-Fa-f]{2})/g, "%25");
   let text;
@@ -216,6 +219,7 @@ function decodeTextPayload(h) {
     else if (tag === "D:") out.date = val;
     else if (tag === "H:") { const [a, b] = val.split("|"); out.hosts = { A: a || "Host A", B: b || "Host B" }; }
     else if (tag === "C:") out.chapters = val.split(";").map((c) => { const [t, i] = c.split("|"); return { title: t, i: parseInt(i, 10) }; }).filter((c) => c.title && c.i >= 0);
+    else if (tag === "E:") out.id = val.replace(/[^\w-]/g, "");
     else if ((tag === "A:" || tag === "B:") && val) out.turns.push([tag[0], val]);
   }
   if (!out.turns.length) throw new Error("no turns");
@@ -236,14 +240,43 @@ async function loadEpisode() {
   $("eyebrow").textContent = `Nightly Brief · ${ep.date || "podcast"}`;
   document.title = ep.title ? `${ep.title} · Nightly Brief Radio` : "Nightly Brief Radio";
   $("status").textContent = `Tap play. The first time, the voice model downloads once (about ${MODEL_MB} MB).`;
+  // Phones can't run Kokoro, so without a recording they read the script with the device voice.
+  if (MOBILE) { $("engine").value = "device"; $("status").textContent = "Tap play to hear it in your phone's voice."; }
   segs = ep.turns.flatMap(([, text], t) => { const cs = chunks(text); return cs.map((c, k) => ({ t, text: c, last: k === cs.length - 1 })); });
   render();
+  if (ep.id) { setStatus("Checking for tonight's recording…"); checkRecording(); }
+}
+
+/* ---------- recorded MP3 (made by the record workflow, served from episodes/) ---------- */
+async function checkRecording() {
+  if (playing) { setTimeout(checkRecording, RECHECK_MS); return; }
+  try {
+    const r = await fetch(recUrl("times.json"), { cache: "no-store" });
+    if (r.ok) {
+      rec = await r.json();
+      audio.src = recUrl("mp3");
+      $("engine").value = "kokoro";
+      $("engine").closest("label").hidden = true;
+      $("voiceB").closest("label").hidden = true;
+      setStatus("Ready. Tap play.");
+      render();
+      return;
+    }
+  } catch {}
+  setStatus(`Recording tonight's episode… it's usually ready about 10 minutes after the email, and this page checks every 30 seconds.${MOBILE ? " Tap play to hear it in your phone's voice now." : " Tap play to hear it generated in this browser now."}`);
+  setTimeout(checkRecording, RECHECK_MS);
+}
+
+function turnAt(t) {
+  let i = 0;
+  while (i + 1 < rec.starts.length && rec.starts[i + 1] <= t + 0.05) i++;
+  return i;
 }
 
 function render() {
   const chapterAt = new Map((ep.chapters || []).map((c) => [c.i, c.title]));
   const words = ep.turns.map((t) => t[1].split(/\s+/).length);
-  const startMin = (i) => words.slice(0, i).reduce((a, b) => a + b, 0) / 150;
+  const startMin = (i) => (rec ? (rec.starts[i] || 0) / 60 : words.slice(0, i).reduce((a, b) => a + b, 0) / 150);
   $("chapters").innerHTML = "";
   for (const c of ep.chapters || []) {
     const b = document.createElement("button");
@@ -408,7 +441,15 @@ function playSeg(i) {
   genLoop();
 }
 
+audio.addEventListener("timeupdate", () => {
+  if (!rec) return;
+  const i = turnAt(audio.currentTime);
+  if (i !== cur) { cur = i; highlight(i); }
+  $("barFill").style.width = `${(audio.currentTime / (rec.duration || audio.duration || 1)) * 100}%`;
+});
+
 audio.addEventListener("ended", () => {
+  if (rec) { setPlayingUI(false); setStatus("That's the episode."); return; }
   if (!playing || audio.src === SILENT_URL) return;
   if (cur + 1 < segs.length) playSeg(cur + 1);
   else { setPlayingUI(false); setStatus("That's the episode."); }
@@ -435,6 +476,12 @@ function speakSeg(i) {
 /* ---------- transport ---------- */
 function start() {
   setPlayingUI(true);
+  if (rec) {
+    audio.playbackRate = Number($("speed").value);
+    audio.play().catch(() => { setPlayingUI(false); setStatus("Tap play to continue."); });
+    setStatus("Playing.");
+    return;
+  }
   if ($("engine").value === "device") { speechSynthesis.cancel(); setStatus("Playing with your device's voice."); speakSeg(cur); return; }
   // iOS only lets this <audio> play later, after awaits, if it already started playing inside the tap.
   if (!cache.has(cur)) { audio.src = SILENT_URL; audio.play().catch(() => {}); }
@@ -447,6 +494,12 @@ function pause() {
   setStatus("Paused.");
 }
 function jump(turn) {
+  if (rec) {
+    audio.currentTime = rec.starts[turn] || 0;
+    cur = turn; highlight(turn);
+    if (playing) audio.play().catch(() => {});
+    return;
+  }
   speechSynthesis.cancel(); audio.pause();
   cur = firstSeg(turn); waitingFor = null;
   if (playing) start(); else highlight(turn);
@@ -465,6 +518,13 @@ $("engine").onchange = () => { const was = playing; if (was) pause(); if (was) s
 
 /* ---------- save MP3 (needs every part generated) ---------- */
 $("save").onclick = () => {
+  if (rec) {
+    const a = document.createElement("a");
+    a.href = recUrl("mp3");
+    a.download = `${(ep.title || "Nightly Brief").replace(/[^\w\- ]+/g, "").trim() || "Nightly Brief"}.mp3`;
+    document.body.append(a); a.click(); a.remove();
+    return;
+  }
   if (typeof lamejs === "undefined") { setStatus("The MP3 encoder didn't load. Check your connection and reload."); return; }
   wantAll = true; $("save").disabled = true;
   setStatus(`Preparing the MP3… generating ${segs.length - cache.size} remaining parts.`);
