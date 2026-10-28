@@ -256,8 +256,8 @@ async function checkRecording() {
       rec = await r.json();
       audio.src = recUrl("mp3");
       $("engine").value = "kokoro";
-      $("engine").closest("label").hidden = true;
-      $("voiceB").closest("label").hidden = true;
+      $("engine").closest("label").style.display = "none";
+      $("voiceB").closest("label").style.display = "none";
       setStatus("Ready. Tap play.");
       render();
       return;
@@ -479,6 +479,7 @@ function start() {
   if (rec) {
     audio.playbackRate = Number($("speed").value);
     audio.play().catch(() => { setPlayingUI(false); setStatus("Tap play to continue."); });
+    cur = turnAt(audio.currentTime); highlight(cur);
     setStatus("Playing.");
     return;
   }
