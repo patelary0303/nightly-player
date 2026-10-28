@@ -1,0 +1,41 @@
+{
+ "id": "2026-10-28",
+ "title": "Nightly Brief - Test",
+ "date": "Wed, Oct 28",
+ "hosts": {
+  "A": "Maya",
+  "B": "Theo"
+ },
+ "chapters": [
+  {
+   "title": "Cold open",
+   "i": 0
+  },
+  {
+   "title": "Basis points",
+   "i": 2
+  }
+ ],
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Welcome to the Nightly Brief, I'm Maya. This is a test recording, made on GitHub so it plays on any phone."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. If you can hear both of us on your iPhone, the new setup works."
+  },
+  {
+   "speaker": "A",
+   "text": "Theo, quick one. What's a basis point?"
+  },
+  {
+   "speaker": "B",
+   "text": "One hundredth of a percent. So a quarter point move is twenty-five of them. Tiny sounding, but on a mortgage it is real money every month."
+  },
+  {
+   "speaker": "A",
+   "text": "That's the test. Tonight's real episode replaces this one."
+  }
+ ]
+}
