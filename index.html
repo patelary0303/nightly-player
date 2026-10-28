@@ -164,6 +164,10 @@ const VOICES = { A: "af_heart", B: "am_puck" };
 const SPEED = { A: 1.0, B: 1.08 };
 try { const saved = localStorage.getItem("voiceB"); if (saved) VOICES.B = saved; } catch {}
 const GAP_SEC = 0.3;
+// Phones get the small q8 model on WASM: the fp32 WebGPU model is ~310 MB and stalls iPhone Safari.
+const MOBILE = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent) || (navigator.maxTouchPoints > 1 && /Macintosh/.test(navigator.userAgent));
+const MODEL_MB = MOBILE || !navigator.gpu ? 90 : 300;
+const STALL_MS = 60000;
 
 const SAMPLE = {
   title: "Sample episode",
@@ -184,9 +188,11 @@ const $ = (id) => document.getElementById(id);
 const audio = $("audio");
 let ep = SAMPLE, isSample = true;
 let tts = null, ttsLoading = null;
-const cache = new Map();        // turn index -> { url, samples }
+let segs = [];                  // playback units: { t: turn index, text, last: ends its turn }
+const cache = new Map();        // seg index -> { url, samples, rate }
 let cur = 0, playing = false, waitingFor = null, genRunning = false, wantAll = false;
 let wakeLock = null;
+const SILENT_URL = URL.createObjectURL(wavBlob(new Float32Array(240), 24000));
 
 /* ---------- load the episode from the link (#<base64url zlib JSON>) ---------- */
 async function decodePayload(hash) {
@@ -229,6 +235,8 @@ async function loadEpisode() {
   $("voiceB").value = VOICES.B;
   $("eyebrow").textContent = `Nightly Brief · ${ep.date || "podcast"}`;
   document.title = ep.title ? `${ep.title} · Nightly Brief Radio` : "Nightly Brief Radio";
+  $("status").textContent = `Tap play. The first time, the voice model downloads once (about ${MODEL_MB} MB).`;
+  segs = ep.turns.flatMap(([, text], t) => { const cs = chunks(text); return cs.map((c, k) => ({ t, text: c, last: k === cs.length - 1 })); });
   render();
 }
 
@@ -266,10 +274,12 @@ function render() {
 function markReady() {
   ep.turns.forEach((_, i) => {
     const r = document.querySelector(`#t${i} .ready`);
-    if (r) r.textContent = cache.has(i) ? "ready" : "";
+    if (r) r.textContent = segs.every((s, j) => s.t !== i || cache.has(j)) ? "ready" : "";
   });
-  $("barFill").style.width = `${(cache.size / ep.turns.length) * 100}%`;
+  $("barFill").style.width = `${(cache.size / segs.length) * 100}%`;
 }
+
+const firstSeg = (turn) => segs.findIndex((s) => s.t === turn);
 
 function highlight(i) {
   document.querySelectorAll(".turn.now").forEach((el) => el.classList.remove("now"));
@@ -293,23 +303,35 @@ async function getTTS() {
   if (!ttsLoading) {
     ttsLoading = (async () => {
       setStatus("Loading the voice model…");
-      const { KokoroTTS } = await import(KOKORO_URL);
-      const webgpu = !!navigator.gpu && !!(await navigator.gpu.requestAdapter().catch(() => null));
-      const files = {};
-      const model = await KokoroTTS.from_pretrained(MODEL_ID, {
-        dtype: webgpu ? "fp32" : "q8",
-        device: webgpu ? "webgpu" : "wasm",
-        progress_callback: (p) => {
-          if (p.status === "progress" && p.total) {
-            files[p.file] = [p.loaded, p.total];
-            const [l, t] = Object.values(files).reduce((a, [x, y]) => [a[0] + x, a[1] + y], [0, 0]);
-            setStatus(`Downloading voice model… ${Math.round((l / t) * 100)}% (one time only)`);
-          }
-        },
-      });
-      tts = model;
-      setStatus("Voice model ready. Generating the first part…");
-      return model;
+      let stall;
+      const poke = () => {
+        clearTimeout(stall);
+        stall = setTimeout(() => setStatus(`The voice model is taking a while. Keep this page open, or switch Voice to "Quick (device voice)".`), STALL_MS);
+      };
+      poke();
+      try {
+        const { KokoroTTS } = await import(KOKORO_URL);
+        const webgpu = !MOBILE && !!navigator.gpu && !!(await navigator.gpu.requestAdapter().catch(() => null));
+        const files = {};
+        const model = await KokoroTTS.from_pretrained(MODEL_ID, {
+          dtype: webgpu ? "fp32" : "q8",
+          device: webgpu ? "webgpu" : "wasm",
+          progress_callback: (p) => {
+            if (p.status === "progress" && p.total) {
+              poke();
+              files[p.file] = [p.loaded, p.total];
+              const [l, t] = Object.values(files).reduce((a, [x, y]) => [a[0] + x, a[1] + y], [0, 0]);
+              setStatus(`Downloading voice model… ${Math.round((l / t) * 100)}% of about ${MODEL_MB} MB (one time only)`);
+            }
+          },
+        });
+        tts = model;
+        setStatus("Voice model ready. Generating the first part…");
+        return model;
+      } catch (e) {
+        ttsLoading = null;   // let the next tap try again
+        throw e;
+      } finally { clearTimeout(stall); }
     })();
   }
   return ttsLoading;
@@ -319,7 +341,7 @@ function chunks(text) {
   const parts = text.match(/[^.!?]+[.!?]+["')\]]*\s*|[^.!?]+$/g) || [text];
   const out = []; let buf = "";
   for (const p of parts) {
-    if ((buf + p).length > 320 && buf) { out.push(buf.trim()); buf = ""; }
+    if ((buf + p).length > 200 && buf) { out.push(buf.trim()); buf = ""; }
     buf += p;
   }
   if (buf.trim()) out.push(buf.trim());
@@ -328,17 +350,11 @@ function chunks(text) {
 
 async function synth(i) {
   const model = await getTTS();
-  const [who, text] = ep.turns[i];
-  const pieces = [];
-  let rate = 24000;
-  for (const c of chunks(text)) {
-    const out = await model.generate(c, { voice: VOICES[who] || VOICES.A, speed: SPEED[who] || 1 });
-    rate = out.sampling_rate; pieces.push(out.audio);
-  }
-  const gap = new Float32Array(Math.round(rate * GAP_SEC));
-  const total = pieces.reduce((n, p) => n + p.length, 0) + gap.length;
-  const samples = new Float32Array(total);
-  let o = 0; for (const p of pieces) { samples.set(p, o); o += p.length; }
+  const s = segs[i], who = ep.turns[s.t][0];
+  const out = await model.generate(s.text, { voice: VOICES[who] || VOICES.A, speed: SPEED[who] || 1 });
+  const rate = out.sampling_rate;
+  const samples = new Float32Array(out.audio.length + (s.last ? Math.round(rate * GAP_SEC) : 0));
+  samples.set(out.audio);
   const url = URL.createObjectURL(wavBlob(samples, rate));
   cache.set(i, { url, samples, rate });
 }
@@ -355,7 +371,7 @@ function wavBlob(samples, rate) {
 }
 
 function nextMissing() {
-  for (let i = cur; i < ep.turns.length; i++) if (!cache.has(i)) return i;
+  for (let i = cur; i < segs.length; i++) if (!cache.has(i)) return i;
   if (wantAll) for (let i = 0; i < cur; i++) if (!cache.has(i)) return i;
   return -1;
 }
@@ -367,29 +383,34 @@ async function genLoop() {
     for (let i = nextMissing(); i >= 0; i = nextMissing()) {
       await synth(i);
       markReady();
-      if (waitingFor === i) { waitingFor = null; playTurn(i); }
-      if (playing && $("engine").value === "kokoro") setStatus(`Playing · ${cache.size} of ${ep.turns.length} parts ready`);
+      if (waitingFor === i) { waitingFor = null; playSeg(i); }
+      if (playing && $("engine").value === "kokoro") setStatus(`Playing · ${Math.round((cache.size / segs.length) * 100)}% generated`);
     }
     if (wantAll) finishSave();
   } catch (e) {
     console.error(e);
-    setStatus(`Kokoro couldn't run here (${e.message || e}). Switch Voice to "Quick (device voice)".`);
+    setStatus(`Kokoro couldn't run here (${e.message || e}). Tap play to try again, or switch Voice to "Quick (device voice)".`);
     setPlayingUI(false);
+    wantAll = false; $("save").disabled = false;
   } finally { genRunning = false; }
 }
 
-function playTurn(i) {
-  cur = i; highlight(i);
-  if (!cache.has(i)) { waitingFor = i; setStatus("Generating the next part…"); genLoop(); return; }
+function playSeg(i) {
+  cur = i; highlight(segs[i].t);
+  if (!cache.has(i)) { waitingFor = i; setStatus(tts ? "Generating the next part…" : "Loading the voice model…"); genLoop(); return; }
   audio.src = cache.get(i).url;
   audio.playbackRate = Number($("speed").value);
   audio.preservesPitch = true;
-  audio.play().catch(() => setPlayingUI(false));
+  audio.play().catch((e) => {
+    if (e.name !== "NotAllowedError") return;   // AbortError just means a newer src replaced this one
+    setPlayingUI(false); setStatus("Tap play to continue.");
+  });
   genLoop();
 }
 
 audio.addEventListener("ended", () => {
-  if (cur + 1 < ep.turns.length) playTurn(cur + 1);
+  if (!playing || audio.src === SILENT_URL) return;
+  if (cur + 1 < segs.length) playSeg(cur + 1);
   else { setPlayingUI(false); setStatus("That's the episode."); }
 });
 
@@ -401,40 +422,43 @@ function deviceVoices() {
   const b = pick(/Andrew|Daniel|Guy|Alex|Male|David/i) || vs.find((v) => v !== a) || a;
   return { A: a, B: b };
 }
-function speakTurn(i) {
-  cur = i; highlight(i);
-  const u = new SpeechSynthesisUtterance(ep.turns[i][1]);
-  const v = deviceVoices()[ep.turns[i][0]];
+function speakSeg(i) {
+  cur = i; highlight(segs[i].t);
+  const u = new SpeechSynthesisUtterance(segs[i].text);
+  const v = deviceVoices()[ep.turns[segs[i].t][0]];
   if (v) u.voice = v;
   u.rate = Number($("speed").value);
-  u.onend = () => { if (!playing) return; if (cur + 1 < ep.turns.length) speakTurn(cur + 1); else { setPlayingUI(false); setStatus("That's the episode."); } };
+  u.onend = () => { if (!playing) return; if (cur + 1 < segs.length) speakSeg(cur + 1); else { setPlayingUI(false); setStatus("That's the episode."); } };
   speechSynthesis.speak(u);
 }
 
 /* ---------- transport ---------- */
 function start() {
   setPlayingUI(true);
-  if ($("engine").value === "device") { speechSynthesis.cancel(); setStatus("Playing with your device's voice."); speakTurn(cur); }
-  else playTurn(cur);
+  if ($("engine").value === "device") { speechSynthesis.cancel(); setStatus("Playing with your device's voice."); speakSeg(cur); return; }
+  // iOS only lets this <audio> play later, after awaits, if it already started playing inside the tap.
+  if (!cache.has(cur)) { audio.src = SILENT_URL; audio.play().catch(() => {}); }
+  setStatus("Playing.");
+  playSeg(cur);
 }
 function pause() {
   setPlayingUI(false);
   if ($("engine").value === "device") speechSynthesis.cancel(); else audio.pause();
   setStatus("Paused.");
 }
-function jump(i) {
+function jump(turn) {
   speechSynthesis.cancel(); audio.pause();
-  cur = i; waitingFor = null;
-  if (playing) start(); else highlight(i);
+  cur = firstSeg(turn); waitingFor = null;
+  if (playing) start(); else highlight(turn);
 }
 
 $("play").onclick = () => (playing ? pause() : start());
 $("voiceB").onchange = () => {
   VOICES.B = $("voiceB").value;
   try { localStorage.setItem("voiceB", VOICES.B); } catch {}
-  for (const [i, v] of [...cache]) if (ep.turns[i][0] === "B") { URL.revokeObjectURL(v.url); cache.delete(i); }
+  for (const [i, v] of [...cache]) if (ep.turns[segs[i].t][0] === "B") { URL.revokeObjectURL(v.url); cache.delete(i); }
   markReady();
-  if (playing && $("engine").value === "kokoro") { audio.pause(); playTurn(cur); }
+  if (playing && $("engine").value === "kokoro") { audio.pause(); playSeg(cur); }
 };
 $("speed").onchange = () => { audio.playbackRate = Number($("speed").value); };
 $("engine").onchange = () => { const was = playing; if (was) pause(); if (was) start(); };
@@ -443,18 +467,18 @@ $("engine").onchange = () => { const was = playing; if (was) pause(); if (was) s
 $("save").onclick = () => {
   if (typeof lamejs === "undefined") { setStatus("The MP3 encoder didn't load. Check your connection and reload."); return; }
   wantAll = true; $("save").disabled = true;
-  setStatus(`Preparing the MP3… generating ${ep.turns.length - cache.size} remaining parts.`);
-  if (cache.size === ep.turns.length) finishSave(); else genLoop();
+  setStatus(`Preparing the MP3… generating ${segs.length - cache.size} remaining parts.`);
+  if (cache.size === segs.length) finishSave(); else genLoop();
 };
 function finishSave() {
-  if (!wantAll || cache.size < ep.turns.length) return;
+  if (!wantAll || cache.size < segs.length) return;
   wantAll = false;
   setStatus("Encoding MP3…");
   setTimeout(() => {
     const rate = cache.get(0).rate;
     const enc = new lamejs.Mp3Encoder(1, rate, 64);
     const parts = [];
-    for (let i = 0; i < ep.turns.length; i++) {
+    for (let i = 0; i < segs.length; i++) {
       const s = cache.get(i).samples, pcm = new Int16Array(s.length);
       for (let k = 0; k < s.length; k++) pcm[k] = Math.max(-1, Math.min(1, s[k])) * 0x7fff;
       for (let k = 0; k < pcm.length; k += 1152) { const m = enc.encodeBuffer(pcm.subarray(k, k + 1152)); if (m.length) parts.push(m); }
