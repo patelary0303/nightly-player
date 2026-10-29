@@ -1,6 +1,6 @@
 {
  "id": "2026-10-28",
- "title": "Nightly Brief - Test",
+ "title": "Nightly Brief - Wed, Oct 28",
  "date": "Wed, Oct 28",
  "hosts": {
   "A": "Maya",
@@ -12,30 +12,342 @@
    "i": 0
   },
   {
-   "title": "Basis points",
-   "i": 2
+   "title": "Macro & Rates",
+   "i": 7
+  },
+  {
+   "title": "Energy, Commodities & Geopolitics",
+   "i": 22
+  },
+  {
+   "title": "Deals & Capital Markets",
+   "i": 32
+  },
+  {
+   "title": "Companies",
+   "i": 57
+  },
+  {
+   "title": "Industry Trends",
+   "i": 64
+  },
+  {
+   "title": "Markets",
+   "i": 70
+  },
+  {
+   "title": "Wrap-up",
+   "i": 73
   }
  ],
  "turns": [
   {
    "speaker": "A",
-   "text": "Welcome to the Nightly Brief, I'm Maya. This is a test recording, made on GitHub so it plays on any phone."
+   "text": "A private equity firm just offered to buy Wendy's for one point four billion dollars, Beijing is lining up to prop up China's stock market, and a company founded in nineteen eleven is leaving the New York Stock Exchange. And that is just the warm-up."
   },
   {
    "speaker": "B",
-   "text": "And I'm Theo. If you can hear both of us on your iPhone, the new setup works."
+   "text": "Wait, the burger chain, the stock market, and a car company, all in one breath? Maya, you are showing off."
   },
   {
    "speaker": "A",
-   "text": "Theo, quick one. What's a basis point?"
+   "text": "I contain multitudes, Theo. Welcome to the Nightly Brief podcast, the deep-dive companion to tonight's email. I'm Maya."
   },
   {
    "speaker": "B",
-   "text": "One hundredth of a percent. So a quarter point move is twenty-five of them. Tiny sounding, but on a mortgage it is real money every month."
+   "text": "And I'm Theo. Quick promise: if we say a finance word you have never heard, we stop and explain it. No gatekeeping here."
   },
   {
    "speaker": "A",
-   "text": "That's the test. Tonight's real episode replaces this one."
+   "text": "Here's what's on tonight's show. First, macro and rates: bond yields sitting around five percent, a big Federal Reserve day, and China propping up its stocks. Then energy and geopolitics: oil at a hundred and fifteen dollars, Israel's cliffhanger election, and a Brazilian politician on the run."
+  },
+  {
+   "speaker": "B",
+   "text": "Then deals, which is a big one tonight, from Jio's record IPO to a nine billion dollar power-grid purchase. After that, companies, including Boeing's rough day and the Cheerios breakthrough we have all been waiting for."
+  },
+  {
+   "speaker": "A",
+   "text": "Then industry trends, a quick lap around the markets table, and a three-point wrap-up. Let's go."
+  },
+  {
+   "speaker": "A",
+   "text": "Starting with the thing that quietly touches your car loan, your mortgage, and your savings account: the ten-year Treasury yield. Theo, what's a Treasury yield for the folks at home?"
+  },
+  {
+   "speaker": "B",
+   "text": "Sure. The government borrows money by selling bonds. The yield is the annual interest rate investors get for lending to it. The ten-year is the benchmark, because lots of other rates, like mortgages, are priced off it."
+  },
+  {
+   "speaker": "A",
+   "text": "And tonight it's sitting right around five percent. The Financial Times had it at five point zero one one percent early this morning, up about two basis points. Morning Brew had Tuesday's close at four point nine nine three percent, up one basis point."
+  },
+  {
+   "speaker": "B",
+   "text": "A basis point is one hundredth of a percentage point. So a move of one basis point is tiny, a hundredth of a percent. But the headline is the level. Five percent on the ten-year is a number that makes borrowing expensive for everyone, from the government to your next house."
+  },
+  {
+   "speaker": "A",
+   "text": "And the world is in the same boat. In that same snapshot, the British ten-year yield was about five point three five percent, Germany's was about three point three seven, and Japan's was about two point eight two."
+  },
+  {
+   "speaker": "B",
+   "text": "Wait, Japan at nearly three percent? That is a number worth noticing. The higher a country's own yield, the less reason its investors have to send money abroad."
+  },
+  {
+   "speaker": "A",
+   "text": "Now, the big event on today's calendar. The Federal Reserve announces its latest interest rate decision, followed by a news conference from Fed chair Kevin Warsh. Theo, quick refresher on the Fed?"
+  },
+  {
+   "speaker": "B",
+   "text": "The Fed is the central bank of the United States. Its main lever is the federal funds rate, the rate banks charge each other for overnight loans. When the Fed moves it, borrowing costs across the economy tend to follow. And an important note: tonight's newsletters were written before the decision, so we don't know what happened. We are not going to guess."
+  },
+  {
+   "speaker": "A",
+   "text": "Good discipline. Also on deck today, the United Kingdom's chancellor, John Healey, presents his first Budget. That's basically the government's annual plan for taxes and spending."
+  },
+  {
+   "speaker": "B",
+   "text": "And earnings. Alphabet and Microsoft report third-quarter results, along with Ford, FedEx, GE Vernova, Phillips sixty-six, Biogen, and Chipotle. Earnings are when companies report how much they made, and what they expect next. Again, those results had not landed in what we read."
+  },
+  {
+   "speaker": "A",
+   "text": "Now to China. The Financial Times says Beijing is rushing to shore up its struggling stock markets, as China's AI trade, that is, the rally in AI-related stocks, goes into reverse."
+  },
+  {
+   "speaker": "B",
+   "text": "The signs point to what they call the national team, state-aligned funds and brokers, buying Chinese stocks to convince regular investors not to flee. It is happening amid slowing economic momentum and no big fiscal stimulus, which means no large government spending push."
+  },
+  {
+   "speaker": "A",
+   "text": "So when a government has to be the buyer of last resort for its own stock market, that tells you something about confidence."
+  },
+  {
+   "speaker": "B",
+   "text": "It does. And one more macro flavor from The Economist's Buttonwood column: credit default swaps are back in vogue amid fears of a debt disaster. A credit default swap is basically insurance against a borrower not paying you back. Rising demand for it tells you investors are nervous about debt. The same column asks whether insurance would even pay out in an AI blow-up."
+  },
+  {
+   "speaker": "A",
+   "text": "Both are headlines we only saw in summary, so take them as signals of mood, not as detailed forecasts. Regular-person takeaway: with yields around five percent, cash and bonds pay well, and borrowing is pricey. Keep an eye on today's Fed language."
+  },
+  {
+   "speaker": "A",
+   "text": "Okay, energy. Brent crude, the global oil benchmark, was about a hundred and fifteen dollars and sixteen cents a barrel in the early snapshot, up about one point one percent. American crude, called WTI, was about a hundred and one sixty-seven, up one point eight percent."
+  },
+  {
+   "speaker": "B",
+   "text": "At these levels, gasoline, shipping, and airline costs all feel it. Morning Brew noted oil prices eased for a moment on Tuesday, helping stocks, but this morning they were climbing again."
+  },
+  {
+   "speaker": "A",
+   "text": "And gold, the classic nervous-money asset, was about four thousand fifty-eight dollars and eighty cents an ounce, basically flat."
+  },
+  {
+   "speaker": "B",
+   "text": "Four thousand dollars an ounce. Wait, really? That is the kind of number that makes a jewelry shopper sit down."
+  },
+  {
+   "speaker": "A",
+   "text": "Now geopolitics, and Israel's election. With seventy-two percent of votes counted, the Financial Times had Prime Minister Benjamin Netanyahu's bloc on course for fifty-four seats in the hundred-and-twenty-seat Knesset, which is seven short of a majority."
+  },
+  {
+   "speaker": "B",
+   "text": "The Jewish opposition parties, led by Gadi Eisenkot's party Yashar, were heading for forty-eight seats, and Israel's two Arab parties were set for eighteen, helped by a surge in Arab voting. The Economist's headline sums it up: voters denied Netanyahu a majority."
+  },
+  {
+   "speaker": "A",
+   "text": "But here's the twist. His opponents don't clearly have a majority either, and the key could be whether they will work with Arab parties. The Joint List, forecast at twelve seats, and Ra'am, forecast at six, have signaled openness to helping oust Netanyahu. But some in Eisenkot's coalition have ruled it out."
+  },
+  {
+   "speaker": "B",
+   "text": "So the next step is that President Isaac Herzog talks to party leaders and hands a mandate to whoever looks most likely to build a coalition. Translation for beginners: weeks of haggling. Counts could still change as the remaining votes come in."
+  },
+  {
+   "speaker": "A",
+   "text": "Next, Brazil. We covered the election drama earlier this week. The new development: Flávio Bolsonaro, who lost Sunday's presidential run-off and is under investigation for corruption and money laundering, has landed in Florida after fleeing Brazil, according to people briefed on the matter."
+  },
+  {
+   "speaker": "B",
+   "text": "The Economist says it could mean a fresh start for the country's political right. And remember, Brazil's currency took a beating earlier this week, so markets will be watching what comes next."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for deals, which Theo, you love."
+  },
+  {
+   "speaker": "B",
+   "text": "I do. Let's start with the big one: India's Jio Platforms. It raised three point two billion dollars in the country's largest IPO ever. An IPO, an initial public offering, is when a private company first sells shares to the public on a stock exchange."
+  },
+  {
+   "speaker": "A",
+   "text": "It was valued around a hundred and six billion dollars, a hundred and eight in the Financial Times' count. It beat the old record held by Hyundai Motor India. Jio is a carve-out, meaning a business split off, from Mukesh Ambani's Reliance Industries, and it had earlier raised billions from Alphabet, Meta, KKR, Silver Lake, and others."
+  },
+  {
+   "speaker": "B",
+   "text": "And the debut was a rocket. Shares jumped more than twenty percent, twenty-two percent in the Financial Times' early report and twenty-seven percent in Axios, helping Reliance leapfrog the Tata Group as India's largest conglomerate by market value."
+  },
+  {
+   "speaker": "A",
+   "text": "The risk, per Reuters Breakingviews: Elon Musk's Starlink has been waiting since twenty twenty-two for permission to operate commercially in India, and could become a direct competitor. And The Economist notes India's ultra-cheap internet may get more expensive after the listing."
+  },
+  {
+   "speaker": "B",
+   "text": "So the same cheap data that made Jio huge may get pricier for customers. Interesting tension."
+  },
+  {
+   "speaker": "A",
+   "text": "Next, a follow-up on Anthropic, which we covered last night. New part: the Financial Times reports that the seven billionaire co-founders, including chief executive Dario Amodei and president Daniela Amodei, will gain a special class of stock giving them fifty point one percent of the voting power after the listing."
+  },
+  {
+   "speaker": "B",
+   "text": "That's called dual-class stock: some shares carry more votes than others, so founders keep control even when they own a smaller slice of the company. And The Economist's figure of the day: Anthropic's quarterly revenue has grown thirty-fold since early twenty twenty-five, to eleven point six billion dollars in the second quarter, though slowing growth and soaring computing costs could temper investor enthusiasm."
+  },
+  {
+   "speaker": "A",
+   "text": "Another follow-up: Weil, Gotshal and Manges. The Financial Times says the law firm has tapped restructuring specialists, including Brian Resnick of Davis Polk, to assess options including a possible wind-down."
+  },
+  {
+   "speaker": "B",
+   "text": "And Axios adds that two former SEC attorneys, Andrew Dean and Christopher Mulligan, are leaving Weil for Skadden. One of the most prestigious law firms in America, in crisis. Wild."
+  },
+  {
+   "speaker": "A",
+   "text": "Now to Axios Pro Rata's Top of the Morning, from Dan Primack, and it's about politics and private equity. Private equity, for beginners, means firms that raise big pools of money to buy companies, fix them up, and sell them later."
+  },
+  {
+   "speaker": "B",
+   "text": "The story: if Democrats win full control of Congress next week, as many polls and prediction markets suggest, private equity could be in the crosshairs. More than a dozen Democratic candidates have made it a punching bag, especially on housing, mobile homes, and health care."
+  },
+  {
+   "speaker": "A",
+   "text": "Senator Elizabeth Warren would likely take the Banking Committee gavel, so she would go from writing letters to holding hearings. Congress already passed a bipartisan bill this summer restricting private equity ownership of single-family homes, and Treasury issued related rules last week."
+  },
+  {
+   "speaker": "B",
+   "text": "But Axios's bottom line is that private equity has a strong record of beating back federal legislation that could hurt its profits. So the question is whether the past is a preview."
+  },
+  {
+   "speaker": "A",
+   "text": "Now the private equity deal flow. Nelson Peltz's Trian Fund Management offered about one point four billion dollars for Wendy's, seven dollars thirty-five a share, a twenty percent premium to yesterday's close."
+  },
+  {
+   "speaker": "B",
+   "text": "I Squared Capital agreed to buy Orizon Aerostructures for around two billion dollars. TPG is in talks to buy British data center group Ark from Elliott for around five billion, per the Financial Times. And CVC, Cinven, and Puig are circling the fragrance brand Parfums de Marly, owned by Advent."
+  },
+  {
+   "speaker": "A",
+   "text": "There was also a pile of smaller deals: Truelink Capital buying Johnson Controls' global intrusion products business, Leonard Green buying Radon Medical Imaging, and a string of add-on acquisitions by portfolio companies."
+  },
+  {
+   "speaker": "B",
+   "text": "Then the corporate buyers. GE Vernova agreed to buy Trench Group, a German maker of high-voltage grid equipment, for nine billion dollars from Triton. Intel is buying Israeli quantum software startup Classiq for two point three billion. Guidewire is buying Hyperexponential for one point seven billion in cash plus up to four hundred million in earnouts."
+  },
+  {
+   "speaker": "A",
+   "text": "An earnout is extra money the sellers get only if the business hits future targets. Also, CoStar is buying aerial imagery group Vexcel for seven hundred thirty million, and RadNet is buying Onrad for about seven hundred seventeen million dollars upfront plus up to two hundred ten million in earnouts. US WorldMeds bought brain tumor biotech Orbus."
+  },
+  {
+   "speaker": "B",
+   "text": "Regulators and mergers: the FTC will seek to block Cintas from buying UniFirst for five point five billion dollars, per Semafor. Amazon got FCC approval for its eleven point five seven billion dollar acquisition of satellite telecom Globalstar. And Ares Capital agreed to acquire MidCap Financial Investment for two point six billion in cash and stock."
+  },
+  {
+   "speaker": "A",
+   "text": "And the deal everyone on the grocery aisle is watching: DoorDash reportedly in talks to buy Instacart at around seventeen billion dollars, per both the Wall Street Journal and Reuters. Morning Brew says Instacart stock is up nineteen percent this week, and its market value was thirteen billion before the report."
+  },
+  {
+   "speaker": "B",
+   "text": "Why does DoorDash want it? Grocery delivery. Instacart is thought to hold the largest share, though Walmart and Amazon have taken some. Uber reportedly looked and walked away."
+  },
+  {
+   "speaker": "A",
+   "text": "More IPO news: Syngenta, the Swiss seeds and pesticides giant owned by China National Chemical, could raise about ten billion dollars at a sixty-six billion dollar valuation in a Hong Kong IPO early next year, per Reuters. And a SPAC, a blank-check company that raises money to buy something later, called Heroic Empire filed for a hundred million dollar IPO."
+  },
+  {
+   "speaker": "B",
+   "text": "Venture capital quickfire. Israeli cloud security company Upwind raised four hundred million at a three point eight billion dollar valuation, led by Bessemer. Lumaril, a New York factory optimization startup, raised sixty-six million. Intake Breathing raised sixty-two million. Fragment raised fifty-six, Infisical forty, Maxinsights thirty, and Vera Health twenty-eight and a half million."
+  },
+  {
+   "speaker": "A",
+   "text": "And smaller rounds: Circuit Mind eighteen and a half million, Luxor and Plato sixteen million each, Sava ten, FluxCap six point four, Mostest four, Parasol two point seven five, and Edge Sound two million dollars. Money is flowing, especially into AI and security."
+  },
+  {
+   "speaker": "A",
+   "text": "Companies. General Motors announced it will leave the New York Stock Exchange for the Nasdaq, becoming the first legacy automaker on the tech-heavy exchange. GM first listed in nineteen eleven."
+  },
+  {
+   "speaker": "B",
+   "text": "Morning Brew says the move takes effect November seventeenth, the ticker stays the same, and GM's market value is about sixty-four billion dollars, which makes it eligible for the Nasdaq-one-hundred index. The stock closed up five and a half percent Tuesday. It's about looking like a tech company, with AI in car design and software like eyes-off highway driving."
+  },
+  {
+   "speaker": "A",
+   "text": "Boeing had a rough day: down about ten point seven percent to a hundred sixty-eight dollars and sixteen cents after it tempered its forecast and said it won't increase seven thirty-seven Max production until the second half of twenty twenty-seven."
+  },
+  {
+   "speaker": "B",
+   "text": "Coca-Cola reported third-quarter results and raised its profit projections. Global volume grew five percent, driven by India, China, Mexico, and Brazil, while North America was flat. Diet Coke up six percent, Coke Zero up sixteen. Coke's stock is up thirty percent this year, PepsiCo's down seven."
+  },
+  {
+   "speaker": "A",
+   "text": "And the Cheerios saga. General Mills teamed with Ziploc for a resealable bag inside the box, after eighty-five years. The company's fiscal first-quarter sales fell three percent, though they beat estimates, and its stock is down twenty-eight percent this year."
+  },
+  {
+   "speaker": "B",
+   "text": "Also, the Knicks and Rangers spun off from MSG Sports yesterday into two separate publicly traded companies. And European banks: UBS, Deutsche Bank, and BNP Paribas all posted profits that met or beat analysts' expectations."
+  },
+  {
+   "speaker": "A",
+   "text": "And a fun one from the Financial Times: the top gambler on Polymarket, a pseudonymous account called swisstony, has made twelve million dollars trading on sports events. But most gamblers lost money."
+  },
+  {
+   "speaker": "A",
+   "text": "Industry trends, starting with tech and AI. President Trump says he is banning the term artificial intelligence in official documents, preferring Super Intelligence. Morning Brew says it's unclear how he could enforce it."
+  },
+  {
+   "speaker": "B",
+   "text": "Also from the Financial Times: AI's growing math skills threaten to crack encryption tools that protect digital data. Encryption is the scrambling that keeps your bank info private. The worry is that stronger AI could eventually unscramble it."
+  },
+  {
+   "speaker": "A",
+   "text": "Industrials and autos: a Honda executive warned that Trump's fifty percent tariffs on Canadian vehicles would be catastrophic for the auto industry. A tariff is a tax on imports."
+  },
+  {
+   "speaker": "B",
+   "text": "Real estate, from the Wall Street Journal's weekly newsletter. New York's office-to-apartment conversions are charging ahead after a July scare when pillars buckled at the former Pfizer headquarters. The city has issued permits for sixteen new projects since then, even though rising interest rates make them harder to pencil out."
+  },
+  {
+   "speaker": "A",
+   "text": "And the unexpected AI winner: industrial outdoor storage, the yards for construction equipment and trucks. Rents are up more than a hundred ten percent since twenty twenty across the top eight markets. CBRE says industrial leasing hit two hundred seventy-six point eight million square feet in the third quarter, up twenty-seven percent."
+  },
+  {
+   "speaker": "B",
+   "text": "Telecom and financials we covered in deals. And one more Economist note: the Middle East essay and the midterm election model are on their site if you want a deeper read."
+  },
+  {
+   "speaker": "A",
+   "text": "Quick lap around the markets. Per Morning Brew's Tuesday close, the S and P five hundred was seventy-seven twenty-two point six, up point six percent. The Dow was fifty-two thousand three hundred seventy-seven, up three hundredths of a percent. The Nasdaq was twenty-six thousand four hundred seventy-eight, up one point one eight percent."
+  },
+  {
+   "speaker": "B",
+   "text": "The ten-year yield is about five point zero one percent per the Financial Times at six thirty this morning. Brent is a hundred fifteen sixteen. Gold is forty fifty-eight eighty. Bitcoin was eighty thousand six hundred fifty-three dollars at four thirty Tuesday, up one point one seven percent."
+  },
+  {
+   "speaker": "A",
+   "text": "Our comparison columns for six months and one year ago are not available tonight because the historical data sources were blocked, and we don't guess numbers."
+  },
+  {
+   "speaker": "A",
+   "text": "Three-point recap. One: yields near five percent and a Fed decision day mean borrowing costs are the story. Two: oil at a hundred fifteen and Israel's unresolved election keep geopolitics priced into markets. Three: deals are booming, from Jio's record IPO to GE Vernova's nine billion dollar purchase."
+  },
+  {
+   "speaker": "B",
+   "text": "What to watch tomorrow: the Fed's decision and Warsh's press conference, Alphabet and Microsoft results, Britain's Budget, Israel's final vote count, and whether DoorDash and Instacart make it official."
+  },
+  {
+   "speaker": "A",
+   "text": "That's the Nightly Brief podcast. I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. Thanks for listening, and see you tomorrow night."
   }
  ]
 }
