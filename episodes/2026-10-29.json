@@ -1,0 +1,357 @@
+{
+ "id": "2026-10-29",
+ "title": "Nightly Brief - Thu, Oct 29",
+ "date": "Thu, Oct 29",
+ "hosts": {
+  "A": "Maya",
+  "B": "Theo"
+ },
+ "chapters": [
+  {
+   "title": "Cold open",
+   "i": 0
+  },
+  {
+   "title": "Macro & Rates",
+   "i": 6
+  },
+  {
+   "title": "Energy, Commodities & Geopolitics",
+   "i": 31
+  },
+  {
+   "title": "Deals & Capital Markets",
+   "i": 40
+  },
+  {
+   "title": "Companies",
+   "i": 58
+  },
+  {
+   "title": "Industry Trends",
+   "i": 66
+  },
+  {
+   "title": "Markets",
+   "i": 70
+  },
+  {
+   "title": "Wrap-up",
+   "i": 74
+  }
+ ],
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "A law firm that advised on Enron and Lehman is shutting down. A tech giant just lost half a trillion dollars in a single day. And the Federal Reserve is about to hold fewer meetings. Wait, really?"
+  },
+  {
+   "speaker": "B",
+   "text": "Really. It's a Thursday that felt like a month. Welcome to the Nightly Brief, I'm Theo."
+  },
+  {
+   "speaker": "A",
+   "text": "And I'm Maya. Tonight we're your two-person news desk, and we've got a packed show."
+  },
+  {
+   "speaker": "B",
+   "text": "Here's what's on tonight's show. First, the Fed and the economy, including a surprisingly strong growth number and a very big debt milestone. Then oil and geopolitics. Then deals, where it was a wild morning. Then the companies, led by Google's terrible day. A quick industry check, a walk through the markets, and a three-point recap."
+  },
+  {
+   "speaker": "A",
+   "text": "And as always, if a word sounds like finance jargon, we will stop and explain it. No gatekeeping here."
+  },
+  {
+   "speaker": "B",
+   "text": "Deal. Let's go."
+  },
+  {
+   "speaker": "A",
+   "text": "Starting with the Fed. The Federal Reserve is the central bank of the United States, and its rate-setting committee left interest rates unchanged yesterday. The benchmark range stays at three point seven five to four percent."
+  },
+  {
+   "speaker": "B",
+   "text": "Quick translation. That benchmark is the rate banks charge each other for overnight loans, and it ripples out to what you pay on credit cards, car loans and eventually mortgages. Holding steady means those costs don't get pushed up further, at least for now."
+  },
+  {
+   "speaker": "A",
+   "text": "But it wasn't a calm vote. Two members dissented, meaning they voted against the group, because they wanted to raise rates by another quarter of a percentage point right away."
+  },
+  {
+   "speaker": "B",
+   "text": "And this is the part that surprised me. Morning Brew notes that last month the vote to raise rates was unanimous. So the hawks, the people who worry most about inflation, are getting louder."
+  },
+  {
+   "speaker": "A",
+   "text": "Why do they want to hike? Inflation is still elevated. The two dissenters argued the causes have spread beyond the Iran war. They pointed to huge spending on AI infrastructure, which pushes up the price of computer chips and components."
+  },
+  {
+   "speaker": "B",
+   "text": "So the AI boom isn't just a stock market story, it can show up in prices. Keep that in mind for the Google segment later."
+  },
+  {
+   "speaker": "A",
+   "text": "Now the twist. Fed Chair Kevin Warsh said that starting in twenty twenty seven, only seven of the Fed's eight meetings a year will be used to set rates. In twenty twenty eight that becomes six of eight."
+  },
+  {
+   "speaker": "B",
+   "text": "The other meetings would be used to discuss broad monetary policy. The Wall Street Journal sees upsides and downsides. More time between decisions lets officials look at data more thoroughly. But it could make the Fed slower to react if something sudden happens, like a new war or a market crash."
+  },
+  {
+   "speaker": "A",
+   "text": "And markets are not betting on relief. Morning Brew cites a tool called FedWatch, which turns futures prices into odds. It puts the chance of a rate hike in December at about eighty five percent, with two more quarter point hikes likely in the first half of twenty twenty seven."
+  },
+  {
+   "speaker": "B",
+   "text": "So if you've been hoping for cheaper borrowing, the message is, not soon."
+  },
+  {
+   "speaker": "A",
+   "text": "Next, the economy itself. The Commerce Department says the economy grew at an annual rate of three point four percent in the third quarter. That's the fastest pace in a year."
+  },
+  {
+   "speaker": "B",
+   "text": "Annual rate just means they take the quarter's growth and project it over twelve months, so it's comparable across quarters. And what drove it? A surge in business investment from the AI build out, plus healthy consumer spending."
+  },
+  {
+   "speaker": "A",
+   "text": "Strong growth sounds great, but it's a tricky mix with inflation. A hot economy gives the Fed more reason to keep rates high."
+  },
+  {
+   "speaker": "B",
+   "text": "Right. And speaking of big numbers, the Wall Street Journal reports that the national debt has hit one hundred percent of gross domestic product."
+  },
+  {
+   "speaker": "A",
+   "text": "Okay, explain that one. What does one hundred percent of GDP mean?"
+  },
+  {
+   "speaker": "B",
+   "text": "Think of GDP as the country's yearly income. Debt at a hundred percent means the government owes about as much as the whole economy produces in a year. It was ninety nine point four percent at the end of fiscal twenty twenty five. It's slightly below the Congressional Budget Office's forecast of one hundred point six percent, but the record is one hundred six percent, set in nineteen forty six after World War Two borrowing."
+  },
+  {
+   "speaker": "A",
+   "text": "So we're creeping toward a record. Why should a regular person care?"
+  },
+  {
+   "speaker": "B",
+   "text": "Because the more the government borrows, the more it competes for investors' money, and that can keep bond yields high. Which brings us to the ten year Treasury yield."
+  },
+  {
+   "speaker": "A",
+   "text": "A bond yield is basically the interest rate you earn for lending money to the government. The ten year is the big benchmark, since it influences mortgage rates."
+  },
+  {
+   "speaker": "B",
+   "text": "Morning Brew had it at five point oh four five percent at Wednesday's close, up five basis points. The Financial Times had it at five point oh oh three percent early Thursday, down about four basis points."
+  },
+  {
+   "speaker": "A",
+   "text": "And a basis point?"
+  },
+  {
+   "speaker": "B",
+   "text": "One one hundredth of a percentage point. So five basis points is point oh five percent. Tiny numbers, but in bonds, tiny moves matter."
+  },
+  {
+   "speaker": "A",
+   "text": "One more rate story. Christine Lagarde, president of the European Central Bank, says she will step down on February seventh, twenty twenty seven, about nine months before her term was due to end. The ECB was also announcing its rate decision this morning."
+  },
+  {
+   "speaker": "B",
+   "text": "The newsletters we have don't include the decision itself, so we'll leave that one open. But the Financial Times adds some context: European office deals fell to their lowest level since the depths of the financial crisis in the third quarter, because soaring bond yields and a new cycle of central bank rate rises choked off hopes for a recovery."
+  },
+  {
+   "speaker": "A",
+   "text": "Higher rates are hitting buildings, not just borrowers."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's go to oil and geopolitics, which are tied together right now. Brent crude, the global oil benchmark, was around one hundred fourteen dollars and twenty cents a barrel early Thursday, down about one percent. The Financial Times says the surge in fuel prices from the Iran war is still reverberating through the US economy."
+  },
+  {
+   "speaker": "B",
+   "text": "And the Wall Street Journal reports that the top US commander in the Middle East, Admiral Brad Cooper, briefed President Trump on options to attack Iran, in a rare in person visit to the White House. The US is weighing resuming major combat operations."
+  },
+  {
+   "speaker": "A",
+   "text": "The Journal has also reported that Trump officials told Arab Gulf states to be ready for a short, intense campaign after the midterm elections. At the same time, Vice President Vance has reached out to one of Iran's most powerful hard liners to try to revive peace talks."
+  },
+  {
+   "speaker": "B",
+   "text": "So two tracks at once. That matters for oil, because any escalation in that region can tighten supply, and markets hate uncertainty."
+  },
+  {
+   "speaker": "A",
+   "text": "Over to Israel. Its election was inconclusive. Benjamin Netanyahu fell short of a majority, but the Financial Times points out he can stay on as caretaker prime minister while parties haggle, possibly for months."
+  },
+  {
+   "speaker": "B",
+   "text": "And Israeli security experts say that could give him room to launch a new bombing campaign with the US against Iran. Meanwhile the opposition is arguing about whether to work with Arab parties, who had a record turnout and could become kingmakers. The Economist argues that Jewish and Arab opposition parties should work together, and fast, if they want to dislodge him."
+  },
+  {
+   "speaker": "A",
+   "text": "Next, Brazil. Flavio Bolsonaro landed in Miami after President Trump agreed to give him refuge. He had lost the election to Lula, and a judge had ordered him not to leave Brazil. The Financial Times says he claims he was the real winner of a stolen election."
+  },
+  {
+   "speaker": "B",
+   "text": "And a domestic politics note. The Economist published its forecast for the midterm elections just days away. Its conclusion is that Democrats' chances of taking the Senate are good, but not as good as betting markets think."
+  },
+  {
+   "speaker": "A",
+   "text": "Politics matter for markets because a shift in who controls Congress changes the odds on taxes, spending and deficits."
+  },
+  {
+   "speaker": "A",
+   "text": "Now to deals. Axios Pro Rata called this a very busy morning, and it was. Let's start with the biggest. Thrive Holdings agreed to buy the home security company ADT for about fifteen point three billion dollars."
+  },
+  {
+   "speaker": "B",
+   "text": "DoorDash also made its Instacart deal official. Last night we mentioned reports of this; now it's confirmed. DoorDash will pay seventeen billion dollars, or sixty five dollars per share, for Instacart."
+  },
+  {
+   "speaker": "A",
+   "text": "And possibly the biggest tech merger ever may be brewing. Bloomberg reports that Marvell Technology is in advanced talks to buy Lumentum, which makes optics for data centers. Lumentum's market value is nearly eighty three billion dollars."
+  },
+  {
+   "speaker": "B",
+   "text": "Optics there means the light based components that move data between servers. As AI data centers grow, that plumbing becomes valuable."
+  },
+  {
+   "speaker": "A",
+   "text": "Now, the story Axios put in its big deal slot. Weil, Gotshal and Manges, one of Wall Street's top law firms, has decided to dissolve. Last night we told you it was weighing a wind down. Now leadership has recommended shutting down."
+  },
+  {
+   "speaker": "B",
+   "text": "Here's the nuance. Axios says the full partnership still needs to vote. The firm has about twelve hundred lawyers and roughly a thousand other staff, and it made about two billion dollars in revenue last year. The Financial Times says it has little to no debt, but it still has office leases and a pension plan."
+  },
+  {
+   "speaker": "A",
+   "text": "What went wrong? The Wall Street Journal, quoted by Axios, says the roots date back more than a decade. The firm made a lot of money after the financial crisis but didn't reinvest, and fell behind rivals, which made it vulnerable to being raided for talent."
+  },
+  {
+   "speaker": "B",
+   "text": "Axios compares it to a bank run. A law firm's most valuable assets walk out the door every night, so when partners start leaving, it can snowball. Weil once ranked ninth among global deal advisors in twenty twenty two, but had fallen outside the top twenty five by last year. The Economist's Schumpeter column calls it the death of corporate loyalty."
+  },
+  {
+   "speaker": "A",
+   "text": "It's also a reminder that Weil led the restructurings of Enron and Lehman Brothers. That's a long way down."
+  },
+  {
+   "speaker": "B",
+   "text": "Another unusual one, the lead story in Axios's top slot. A biotech startup called Formation Bio raised a six hundred million dollar fund. But Formation isn't a venture capital firm. It's a company that is acting like one."
+  },
+  {
+   "speaker": "A",
+   "text": "Explain the structure."
+  },
+  {
+   "speaker": "B",
+   "text": "In a normal venture fund, there's a general partner who picks investments and earns a share of profits, called carried interest, and limited partners who supply the money. Formation plays the general partner, and the limited partners are mostly university endowments, foundations and hospitals. The fund will buy drug programs and help them through development, with each becoming its own new company."
+  },
+  {
+   "speaker": "A",
+   "text": "What's the pitch?"
+  },
+  {
+   "speaker": "B",
+   "text": "CEO Ben Liu says AI is much better at discovering drugs than developing them, and that nearly half of drug development cost is the margin paid to contract research organizations, which are companies that run clinical trials. He thinks Formation can cut spending by thirty to fifty percent. He also says it has no plans for another venture round."
+  },
+  {
+   "speaker": "A",
+   "text": "Quick lightning round on other deals. Private equity, which means investment firms that buy companies using pooled money, was active. Cobblers Cove Capital and Arkhouse offered about four hundred ninety four million dollars in cash, or thirty nine dollars a share, for Dine Brands, the company behind Applebee's and IHOP."
+  },
+  {
+   "speaker": "B",
+   "text": "Monomoy Capital made a nonbinding bid of one hundred one dollars a share for LCI Industries, which already has an all stock merger agreement with Patrick Industries. Platinum Equity agreed to buy a propane distributor called EDP. Amphenol agreed to buy AdvancedPCB. And onsemi is in talks to buy a chip startup called Ferric for nearly a billion dollars."
+  },
+  {
+   "speaker": "A",
+   "text": "And Wendy's. Last night we told you about Nelson Peltz's fund offering about one point four billion dollars for the chain. The new part, from Morning Brew, is that Wendy's stock jumped about fifteen percent, to seven dollars and seven cents."
+  },
+  {
+   "speaker": "B",
+   "text": "In venture news, Firehawk, a rocket motor maker, raised one hundred fifty million dollars at a one point four billion dollar valuation. Serval, an IT service platform, raised one hundred fifty million at a three billion dollar valuation. Lightspeed also raised seven hundred fifty million dollars for a new AI focused fund, according to the Wall Street Journal. And the Adani Group in India is weighing a three billion euro takeover of the Dutch energy storage firm VTTI."
+  },
+  {
+   "speaker": "A",
+   "text": "Now companies, and it begins with Alphabet, Google's parent. Its stock fell thirteen percent, its worst day ever, wiping out about half a trillion dollars in market value."
+  },
+  {
+   "speaker": "B",
+   "text": "Half a trillion. That's bigger than the entire value of most companies on Earth. Why? Google Services, the unit that includes search ads, missed analyst expectations. The Financial Times says Google also boosted AI spending to more than fifty billion dollars in the third quarter, driving a record cash burn."
+  },
+  {
+   "speaker": "A",
+   "text": "Morning Brew adds that free cash flow, the cash left after paying for operations and investments, was negative nine point one billion dollars. On the bright side, cloud did better than expected, and search queries are growing at the fastest rate in five years because of AI Mode."
+  },
+  {
+   "speaker": "B",
+   "text": "The catch is that AI Mode isn't yet as profitable per search as the traditional version. And it fed a broader fear: that the cost of the global AI build out may be outrunning the returns. Microsoft, by contrast, spent less on data centers than Wall Street expected and still had positive free cash flow, which sent its stock up after hours."
+  },
+  {
+   "speaker": "A",
+   "text": "Amazon also reported. Net income was twenty point seven billion dollars on revenue up twelve percent to two hundred one point nine billion. Both were below analysts' estimates."
+  },
+  {
+   "speaker": "B",
+   "text": "Even though cloud growth was the biggest in years, shares dropped about five percent in after hours trading. Expectations were just very high."
+  },
+  {
+   "speaker": "A",
+   "text": "On a lighter note, Apple unveiled its first touchscreen MacBook Pro, under new CEO John Ternus. It has an OLED screen, starts at two thousand eight hundred ninety nine dollars, and goes on sale November sixth."
+  },
+  {
+   "speaker": "B",
+   "text": "And the Cheesecake Factory reported a third quarter profit of sixty one point three million dollars, up from thirty one point nine million a year ago, with comparable restaurant sales at its namesake locations up fifteen point two percent. Yes, it's also in the news because former President Obama made a joke about White House decor."
+  },
+  {
+   "speaker": "A",
+   "text": "Industry check. Starting with tech and AI. The common thread tonight is that investors are asking whether AI spending will pay off. The Wall Street Journal asked the same, and the Fed dissenters tied AI to higher chip prices."
+  },
+  {
+   "speaker": "B",
+   "text": "Real estate. European office deals hit their lowest level since the financial crisis because higher bond yields and rate rises hit valuations."
+  },
+  {
+   "speaker": "A",
+   "text": "Financials and crypto. Polymarket, the prediction market site, paused trading after users said their accounts had been drained. The Journal says the cause was a security flaw in a vendor called DebugBear. A wallet tied to the suspected attacker showed over two point five million dollars taken in more than nine hundred transactions."
+  },
+  {
+   "speaker": "B",
+   "text": "And the Financial Times has a column by Robert Armstrong arguing that private equity at scale is a differentiated asset class, but not a better form of capitalism. Make of that what you will."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for the markets. Remember, newsletter levels are from different times. Morning Brew's stock numbers are Wednesday's close."
+  },
+  {
+   "speaker": "B",
+   "text": "The S&P 500 closed at seven thousand seven hundred forty four, up point two eight percent. The Dow at fifty two thousand four hundred seventy five, up point one nine. The Nasdaq at twenty six thousand five hundred fifty, up point two seven."
+  },
+  {
+   "speaker": "A",
+   "text": "Bitcoin was about eighty one thousand three hundred dollars at five thirty Wednesday evening, up point six nine percent. The Financial Times early Thursday numbers: Brent at one hundred fourteen twenty, down point nine seven percent, gold at four thousand twenty one, down point four percent, and the ten year yield at five point oh oh three percent."
+  },
+  {
+   "speaker": "B",
+   "text": "We don't have reliable numbers for six months or one year ago, so we're leaving those blank rather than guessing. The email table says n slash a for those."
+  },
+  {
+   "speaker": "A",
+   "text": "Here is the three point recap. One, the Fed held rates but is split, with two members wanting a hike, and the economy grew three point four percent. Two, Alphabet's record drop shows investors are nervous about the cost of AI. Three, big deals and a big collapse: Thrive and ADT, DoorDash and Instacart, and Weil dissolving."
+  },
+  {
+   "speaker": "B",
+   "text": "Tomorrow, keep an eye on whether Alphabet's selloff spreads to other AI names, any further word on Iran after the midterms, and how Weil's partners vote."
+  },
+  {
+   "speaker": "A",
+   "text": "That's the Nightly Brief. I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. Sleep well, and see you tomorrow."
+  }
+ ]
+}
