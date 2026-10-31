@@ -1,0 +1,341 @@
+{
+ "id": "2026-10-30",
+ "title": "Nightly Brief - Fri, Oct 30",
+ "date": "Fri, Oct 30",
+ "hosts": {
+  "A": "Maya",
+  "B": "Theo"
+ },
+ "chapters": [
+  {
+   "title": "Cold open",
+   "i": 0
+  },
+  {
+   "title": "Macro & Rates",
+   "i": 6
+  },
+  {
+   "title": "Energy, Commodities & Geopolitics",
+   "i": 24
+  },
+  {
+   "title": "Deals & Capital Markets",
+   "i": 31
+  },
+  {
+   "title": "Companies",
+   "i": 48
+  },
+  {
+   "title": "Industry Trends",
+   "i": 60
+  },
+  {
+   "title": "Markets",
+   "i": 64
+  },
+  {
+   "title": "Wrap-up",
+   "i": 68
+  }
+ ],
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Six point three billion dollars. Stolen from a crypto exchange. By hackers who started with one engineer's laptop."
+  },
+  {
+   "speaker": "B",
+   "text": "Wait, one laptop? Maya, that is the least relaxing sentence I have heard all week."
+  },
+  {
+   "speaker": "A",
+   "text": "Welcome to Nightly Brief, I'm Maya, and it's Friday, October thirtieth."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. Tonight we have a record crypto heist, a chip giant having the worst day in its history, and a central bank that just declared victory over a thirty-year problem."
+  },
+  {
+   "speaker": "A",
+   "text": "Here's what's on tonight's show. Economy and interest rates first, then oil and geopolitics, then deals and money-raising, then individual companies, then a quick tour of industry trends, and finally the markets scoreboard."
+  },
+  {
+   "speaker": "B",
+   "text": "Grab a snack. Not a Halloween one that's still in the pantry from last year. Let's go."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's start with inflation, because it's back in the conversation. Yesterday's government report showed the Federal Reserve's preferred inflation gauge, a measure called PCE, sped up again in September. It rose faster both month to month and year over year."
+  },
+  {
+   "speaker": "B",
+   "text": "And PCE just means personal consumption expenditures. Think of it as the Fed's favorite grocery receipt for the whole economy. It tracks what households pay for stuff, and the Fed aims for two percent a year. We're well above that."
+  },
+  {
+   "speaker": "A",
+   "text": "Which is why Morning Brew says this strengthens the case for raising interest rates, not cutting them."
+  },
+  {
+   "speaker": "B",
+   "text": "Right, and here's the plain-English version. Interest rates are the price of borrowing money. When inflation runs hot, the Fed can raise that price so people and companies borrow and spend less, which cools prices down. It also makes your car loan and your mortgage more expensive."
+  },
+  {
+   "speaker": "A",
+   "text": "Speaking of regular people, here's the wait-really moment. The savings rate, the share of after-tax income Americans actually save, dipped to three point eight percent. That's the lowest since twenty twenty-two."
+  },
+  {
+   "speaker": "B",
+   "text": "So prices are climbing faster than paychecks, and people are dipping into savings to keep up. Morning Brew also notes that purchases like cars, furniture and electronics stagnated."
+  },
+  {
+   "speaker": "A",
+   "text": "Now, we told you last night that the economy grew three point four percent in the third quarter. Tonight there's some new detail on what drove it."
+  },
+  {
+   "speaker": "B",
+   "text": "Consumer spending was up three point eight percent from a year earlier, the fastest since twenty twenty-four. Business investment jumped twelve point seven percent, which was over half of the total growth. And equipment purchases soared almost twenty-one percent, much of it AI data center gear."
+  },
+  {
+   "speaker": "A",
+   "text": "But here's the twist. The AI build-out was also a drag, because lots of the chips are bought overseas. Imports get subtracted from GDP. Plus rising mortgage rates hurt homebuilding."
+  },
+  {
+   "speaker": "B",
+   "text": "The worry economists have is that wealthier Americans, feeling rich because of AI-fueled stock gains, are propping up spending. If stocks wobble, that support wobbles too."
+  },
+  {
+   "speaker": "A",
+   "text": "And the Financial Times adds a political angle. In its reader Q and A, it points out that the Fed's last projections had PCE inflation easing to about two point three percent. The open question is whether the new Fed chair, Kevin Warsh, needs to push through rate increases to get there, likely against the White House's wishes."
+  },
+  {
+   "speaker": "B",
+   "text": "That's a spicy setup. Rate hikes right after an election season."
+  },
+  {
+   "speaker": "A",
+   "text": "Now overseas. The Bank of Japan said today that underlying inflation has reached its two percent target."
+  },
+  {
+   "speaker": "B",
+   "text": "This is a big deal, and here's why. Japan spent decades fighting deflation, which is when prices fall and everyone waits to buy things because they'll be cheaper later. It's like a whole country frozen in a sale that never ends. The FT says this is in effect the Bank of Japan declaring victory."
+  },
+  {
+   "speaker": "A",
+   "text": "And Europe, not so cheerful. France's economy shrank point one percent in the third quarter, according to a flash estimate, which is a quick first guess before the final numbers. It missed expectations. The FT blames a steep rise in borrowing costs, high energy prices and rising political instability."
+  },
+  {
+   "speaker": "B",
+   "text": "France is the Eurozone's second-largest economy, so a shrinking France matters for everyone using the euro."
+  },
+  {
+   "speaker": "A",
+   "text": "Looking ahead, here's what's on deck. Oil giants ExxonMobil and Chevron report third-quarter earnings today, after BP reported record profits earlier. Colgate-Palmolive and AbbVie also report."
+  },
+  {
+   "speaker": "B",
+   "text": "And earnings just means companies telling us how much money they made. Mexico publishes a first estimate of third-quarter GDP. On Sunday, the oil-producing group OPEC Plus is likely to keep its output targets steady. And clocks go back one hour Saturday night, so enjoy your extra hour of sleep."
+  },
+  {
+   "speaker": "A",
+   "text": "On to oil. Ukraine struck a Russian oil refinery, ending a pause in refinery attacks, and doing it in defiance of President Trump."
+  },
+  {
+   "speaker": "B",
+   "text": "The Wall Street Journal says Ukraine had hit a refinery on October fifteenth, and hadn't struck any Russian oil infrastructure since October twentieth. During that pause, Trump and other U.S. officials repeatedly demanded Kyiv stop hitting refineries."
+  },
+  {
+   "speaker": "A",
+   "text": "Why would the U.S. care? Because refineries turn crude oil into gasoline and diesel. Hit them and you can squeeze fuel supply, and prices climb. Ukraine says this came as Russian bombardment of its cities intensified. Russian drones and missiles killed at least twenty-seven civilians yesterday."
+  },
+  {
+   "speaker": "B",
+   "text": "Now look at the oil price. Brent crude, the global benchmark, was up two point five percent to about one hundred seventeen dollars and seventy-six cents a barrel in the FT's early-morning snapshot."
+  },
+  {
+   "speaker": "A",
+   "text": "And the Iran war keeps showing up in the economics. The FT's Q and A says U.S. inflation depends heavily on what happens with Iran. New strikes after the midterms could push inflation higher, while more oil flowing through the Strait of Hormuz could ease it."
+  },
+  {
+   "speaker": "B",
+   "text": "The Strait of Hormuz is a narrow waterway that a big slice of the world's oil ships through. Squeeze it and the whole world feels it at the gas pump."
+  },
+  {
+   "speaker": "A",
+   "text": "The Journal also says the war in Iran, plus tariffs and the AI build-out, have pushed up costs for building a house, materials, labor and borrowing. We'll come back to that in industry trends."
+  },
+  {
+   "speaker": "A",
+   "text": "Deals time. First, a courtroom drama. Albertsons and Kroger today are scheduled to wrap up witness testimony in a Delaware court over their failed twenty-five billion dollar merger."
+  },
+  {
+   "speaker": "B",
+   "text": "Albertsons says Kroger didn't do enough to win antitrust approval, and wants nine point three billion dollars in damages, including a six hundred million dollar termination fee. Kroger says the deal was doomed from the start because of regulators, and that it did offer a big divestiture, meaning selling off stores to win approval."
+  },
+  {
+   "speaker": "A",
+   "text": "Why do dealmakers care? If Albertsons wins big, future merger contracts might spell out detailed store-sale plans, or say that the termination fee is the only remedy if regulators block a deal."
+  },
+  {
+   "speaker": "B",
+   "text": "Related plot twist. Axios reports that DoorDash's seventeen billion dollar deal for Instacart almost happened years ago at a much higher price. Back in twenty twenty-one, Instacart was valued at thirty-nine billion dollars, but antitrust worries scuttled it."
+  },
+  {
+   "speaker": "A",
+   "text": "What changed? The argument is that Amazon and Walmart are now major grocery delivery players. Also, two big early Instacart investors still hold stakes: D1 Capital with nine point seven percent and Sequoia with eight point one."
+  },
+  {
+   "speaker": "B",
+   "text": "Next, the Axios Pro Rata big deal of the day. Salesforce agreed to buy Rune Technologies, a company making predictive software for the battlefield."
+  },
+  {
+   "speaker": "A",
+   "text": "Axios says it shows it's not just Silicon Valley startups chasing the Pentagon's growing budget. Defense officials reportedly plan to ask Congress for one point one trillion dollars of new spending, while President Trump asked for one point five trillion. Salesforce says its defense business is growing eighty percent a year."
+  },
+  {
+   "speaker": "B",
+   "text": "Now the funding frenzy. Kalshi, the biggest U.S. prediction market, raised one billion dollars at a forty billion dollar valuation, led by Wellington and Sequoia. A prediction market is where people trade contracts on whether future events will happen."
+  },
+  {
+   "speaker": "A",
+   "text": "The Canadian government will invest up to one point six billion Canadian dollars in Cohere, an enterprise AI company raising a seven billion Canadian dollar round at a thirty-five point seven billion Canadian dollar valuation. Valuation just means what investors say the whole company is worth."
+  },
+  {
+   "speaker": "B",
+   "text": "Smaller ones. Dulo, an engineering AI developer led by Sebastian Thrun, raised one hundred thirty million dollars in seed money. Wabi, an AI assistant maker, raised fifty-five million at a one point two five billion dollar valuation. And Setara Biosciences, a rare disease biotech, raised ninety million."
+  },
+  {
+   "speaker": "A",
+   "text": "In private equity, which means investment firms buying companies using pooled money, Oak Hill Capital agreed to buy a majority stake in fiber broadband provider Wyyerd from Carlyle. And PAG agreed to buy fifty-one percent of Evergrande Property Services for about five hundred fourteen million dollars. That's the property arm of the failed China Evergrande."
+  },
+  {
+   "speaker": "B",
+   "text": "IPOs, which are when a private company first sells shares to the public. OPay, an Africa-focused payments firm, raised three hundred four million dollars on the New York Stock Exchange, but priced at the bottom of its range for a four billion dollar market value. Bambusa Therapeutics raised one hundred sixty-nine million, and Aspen Neuroscience raised one hundred forty-one million at the low end of its range."
+  },
+  {
+   "speaker": "A",
+   "text": "Other mergers. Evonik rejected an eleven point two billion euro takeover offer from fellow German chemicals company BASF. Ahold Delhaize will pay one point seven billion euros for Tesco's Czech and Slovak businesses. Valero is buying a Houston refinery site from LyondellBasell for three hundred twenty point five million dollars."
+  },
+  {
+   "speaker": "B",
+   "text": "And a quick roundup. Perrigo is selling its infant formula business for up to one hundred seventy-five million. RedBird formed a one billion dollar partnership with Sound Ventures. And 10Beauty bought nail-care robot company Nimble, which once had a one billion dollar valuation, in what a buyside source called a fire sale."
+  },
+  {
+   "speaker": "A",
+   "text": "One more, with a warning label. Axios says leveraged loans trading at distressed levels have more than doubled since last year. Leveraged loans are loans to companies that already carry a lot of debt."
+  },
+  {
+   "speaker": "B",
+   "text": "A hundred thirty-one billion dollars of loans are priced below eighty cents on the dollar. That's eight point three percent of the market, up from four point three percent at the end of last year, and the most since May twenty twenty. Axios links it to ongoing software stress."
+  },
+  {
+   "speaker": "A",
+   "text": "And a political note. The proposed eighty-five billion dollar Union Pacific and Norfolk Southern railroad merger has become an issue in the Nebraska Senate race. An independent candidate argues it could hurt worker safety, while the incumbent supports it."
+  },
+  {
+   "speaker": "A",
+   "text": "Now individual companies, starting with the headline of the night. Binance, the world's largest crypto exchange, says hackers stole an estimated six point three billion dollars. That's an industry record."
+  },
+  {
+   "speaker": "B",
+   "text": "The Journal says they got in by breaking into an engineer's laptop, among other breaches. Tether, Circle and other firms froze about three billion dollars, leaving roughly three point three billion under the hackers' control."
+  },
+  {
+   "speaker": "A",
+   "text": "Researchers link it to North Korea's TraderTraitor group. Binance suspended withdrawals and deposits. Bitcoin fell about four percent after the news, then recovered to trade above seventy-eight thousand dollars Friday morning."
+  },
+  {
+   "speaker": "B",
+   "text": "Why should a regular person care? Because it shakes trust in crypto, and exchanges hold other people's money. Binance holds about one hundred forty billion dollars of digital assets, and it already paid a four point three billion dollar fine in twenty twenty-three."
+  },
+  {
+   "speaker": "A",
+   "text": "Next, Intel. The shares crashed twenty-nine percent, the worst session in the company's history, according to the Journal. That wiped out more than fifteen billion dollars in paper holdings for two big shareholders, the U.S. government and Nvidia."
+  },
+  {
+   "speaker": "B",
+   "text": "Why? The FT says Intel issued a much weaker than expected forecast. Morning Brew says it blamed a soft PC market worldwide."
+  },
+  {
+   "speaker": "A",
+   "text": "Zooming out, the Journal says cracks in the AI trade produced a sharp tech selloff. The Nasdaq had its worst day since June and its worst month in over a year. Earlier in the week, a filing from Anthropic showed soaring revenue ahead of its planned IPO, which lifted spirits. Then big companies reported earnings and reality hit."
+  },
+  {
+   "speaker": "B",
+   "text": "The FT says Big Tech lost nearly nine hundred billion dollars of market value after spending jumped again. Amazon reported negative free cash flow, meaning more cash went out than came in. Morning Brew says it's the latest AI hyperscaler to do so."
+  },
+  {
+   "speaker": "A",
+   "text": "A hyperscaler is just a giant cloud company, think Amazon, Microsoft, Google, building huge data centers."
+  },
+  {
+   "speaker": "B",
+   "text": "And on Alphabet, we covered the five hundred billion dollar drop last night. New tonight is The Economist's take: the drop reflects the danger Google faces from AI, as its search engine sputters and rivals gain ground."
+  },
+  {
+   "speaker": "A",
+   "text": "Two more. Spotify is targeting an early twenty-twenty-seven launch for an AI service that lets listeners create remixes and covers of songs. It's negotiating licensing deals, and one person says it may charge four to five dollars more a month."
+  },
+  {
+   "speaker": "B",
+   "text": "And a spy story. The New York Times reports Nvidia's CEO Jensen Huang had a close relationship with an executive at a Singapore cloud company that U.S. intelligence believed was a Chinese asset. Nvidia says his interactions were not unusual and the export-control allegations were investigated and debunked."
+  },
+  {
+   "speaker": "A",
+   "text": "Industry trends. Tech and AI first. Money keeps pouring into AI startups, from Kalshi to Cohere to Dulo, even as public tech stocks wobble. Private investors and public markets are telling different stories right now."
+  },
+  {
+   "speaker": "B",
+   "text": "Defense. Salesforce buying Rune is the latest sign that software companies want Pentagon dollars. The Journal also has a story on the wild rise of a Trump-backed drone company."
+  },
+  {
+   "speaker": "A",
+   "text": "Real estate. The Journal says nearly every part of building a house is getting more expensive, and with stagnant demand, builders are pulling back on production. Efforts to remove regulatory obstacles have fallen flat."
+  },
+  {
+   "speaker": "B",
+   "text": "Healthcare. Three biotech names, Aspen, Bambusa and Setara, show investors still back drug developers, though the IPOs priced at the low end for Aspen. Telecom. Fiber broadband is attracting private equity, with Oak Hill buying Wyyerd. Energy. Valero's Houston refinery purchase shows refiners still shuffling assets while oil sits near one hundred seventeen dollars."
+  },
+  {
+   "speaker": "A",
+   "text": "Quick scoreboard. Remember most stock numbers are Thursday's close, from Morning Brew. The S and P five hundred closed at seven thousand seven hundred twenty, down point three percent. The Dow, fifty-two thousand three hundred forty-two, down point two five percent. The Nasdaq composite, twenty-six thousand one hundred eighty-five, down one point three eight percent."
+  },
+  {
+   "speaker": "B",
+   "text": "The ten-year Treasury yield, which is what the government pays to borrow for ten years, was about four point nine three five percent at six thirty Friday morning, down about five basis points from Thursday. A basis point is one hundredth of a percentage point, so five of them is tiny but traders watch it."
+  },
+  {
+   "speaker": "A",
+   "text": "Brent oil was about one hundred seventeen seventy-six, gold about three thousand nine hundred eighty-nine, and Bitcoin about seventy-eight thousand nine hundred eighty-six at five p.m. Thursday, down two point eight percent."
+  },
+  {
+   "speaker": "B",
+   "text": "Fair warning: we couldn't pull reliable numbers from six months or a year ago tonight, so those comparisons are marked not available in the email. And Friday's closing prices weren't in any of tonight's newsletters."
+  },
+  {
+   "speaker": "A",
+   "text": "Three-point recap. One, inflation is running hot and the Fed's next move might be a hike, not a cut."
+  },
+  {
+   "speaker": "B",
+   "text": "Two, the AI trade is cracking, with Intel's record plunge and nearly nine hundred billion dollars off Big Tech. Three, Binance suffered the biggest crypto theft on record, with about three point three billion dollars still gone."
+  },
+  {
+   "speaker": "A",
+   "text": "What to watch: Exxon and Chevron earnings today, OPEC Plus on Sunday, clocks going back Saturday night, and midterm elections Tuesday."
+  },
+  {
+   "speaker": "B",
+   "text": "Thanks for listening, everybody. Get some rest, enjoy the extra hour, and don't leave your laptop unlocked."
+  },
+  {
+   "speaker": "A",
+   "text": "I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. Good night."
+  }
+ ]
+}
