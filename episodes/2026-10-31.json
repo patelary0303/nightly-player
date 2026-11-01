@@ -1,0 +1,409 @@
+{
+ "id": "2026-10-31",
+ "title": "Nightly Brief - Sat, Oct 31",
+ "date": "Sat, Oct 31",
+ "hosts": {
+  "A": "Maya",
+  "B": "Theo"
+ },
+ "chapters": [
+  {
+   "title": "Cold open",
+   "i": 0
+  },
+  {
+   "title": "Macro & Rates",
+   "i": 10
+  },
+  {
+   "title": "Energy, Commodities & Geopolitics",
+   "i": 28
+  },
+  {
+   "title": "Deals & Capital Markets",
+   "i": 39
+  },
+  {
+   "title": "Companies",
+   "i": 48
+  },
+  {
+   "title": "Industry Trends",
+   "i": 71
+  },
+  {
+   "title": "Markets",
+   "i": 78
+  },
+  {
+   "title": "Wrap-up",
+   "i": 85
+  }
+ ],
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Quick question. What do you get when the biggest names in tech all report earnings in the same week and investors suddenly ask, wait, where is all that AI money going?"
+  },
+  {
+   "speaker": "B",
+   "text": "You get the scariest Halloween weekend Wall Street has seen in a while. And no, that is not a costume."
+  },
+  {
+   "speaker": "A",
+   "text": "Welcome to the Nightly Brief podcast. I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. It's Saturday night, October thirty-first, and the clocks fall back an hour tonight, so you get a bonus hour of sleep. You're welcome."
+  },
+  {
+   "speaker": "A",
+   "text": "Here's what's on tonight's show. First, the bond market, where the ten-year Treasury yield slipped, plus a few money items that touch real wallets, like new I Bonds and health insurance premiums."
+  },
+  {
+   "speaker": "B",
+   "text": "Then oil. Two giant oil companies posted profits that are, frankly, bonkers."
+  },
+  {
+   "speaker": "A",
+   "text": "After that, the biggest crypto heist ever and what happened next. Then companies: the tech sell-off, Intel's historic plunge, and Reddit's very bad day."
+  },
+  {
+   "speaker": "B",
+   "text": "Then a quick look at the pest control business, because yes, the rat-killers are having a moment, and not a good one. And we finish with the markets scoreboard."
+  },
+  {
+   "speaker": "A",
+   "text": "One note before we start. It's the weekend, so the numbers we use tonight are Friday's closing levels. Markets are closed until Monday."
+  },
+  {
+   "speaker": "B",
+   "text": "Got it. Friday's report card, delivered Saturday night. Let's go."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's start with the bond market. Theo, the ten-year Treasury yield ended Friday at about four point nine three percent. It fell about six basis points on the day."
+  },
+  {
+   "speaker": "B",
+   "text": "Okay, two terms in there. A Treasury is a loan you make to the US government. The yield is the interest rate you earn for lending. A basis point is one hundredth of one percentage point. So six basis points is just point oh six percent."
+  },
+  {
+   "speaker": "A",
+   "text": "Small number. Why do we care?"
+  },
+  {
+   "speaker": "B",
+   "text": "Because the ten-year yield is a kind of master dial for borrowing costs. Mortgage rates, car loans and business loans tend to move with it. At nearly five percent, borrowing is expensive. So when the yield dips a bit, it's a small bit of relief."
+  },
+  {
+   "speaker": "A",
+   "text": "And why did it dip on Friday? The newsletter doesn't say outright, so I won't guess. But it happened on a day when stocks fell hard, and that's a pattern. When investors get nervous, they often move money into safe government bonds. More demand for bonds pushes the price up, and the yield down."
+  },
+  {
+   "speaker": "B",
+   "text": "Right, it's a see-saw. Price up, yield down. Worth remembering, because it comes up constantly."
+  },
+  {
+   "speaker": "A",
+   "text": "Now a money item that sounds like it came from your grandparents. The Treasury announced new I Bonds with a five point five one percent return."
+  },
+  {
+   "speaker": "B",
+   "text": "An I Bond is a savings bond from the government whose rate is tied to inflation, so your money is meant to keep up with rising prices. Five point five one percent is lower than the nine point six two percent rate that set off a buying frenzy back in twenty twenty-two, but it's still considered high."
+  },
+  {
+   "speaker": "A",
+   "text": "So a regular person could actually look at that?"
+  },
+  {
+   "speaker": "B",
+   "text": "They could. I'm not giving advice, but it's a good example of how the big macro stuff, inflation and interest rates, shows up as a real product you can buy."
+  },
+  {
+   "speaker": "A",
+   "text": "Next, health care costs. Premiums for Affordable Care Act plans, the marketplace plans many people buy themselves, are on track to rise thirteen percent next year, according to an analysis by the research group KFF."
+  },
+  {
+   "speaker": "B",
+   "text": "Thirteen percent! If your rent went up thirteen percent, you'd be calling your landlord. Premiums are what you pay every month just to have the insurance, before you ever see a doctor."
+  },
+  {
+   "speaker": "A",
+   "text": "Right. And it fits a broader mood in the news this week. Electricity bills are up about five percent from last year, and candy costs about eight percent more than it did in twenty twenty-five."
+  },
+  {
+   "speaker": "B",
+   "text": "So a Halloween where the real horror is the grocery bill. Honestly, accurate."
+  },
+  {
+   "speaker": "A",
+   "text": "Last in this section, a bit of politics that matters for the economy. The Economist's weekend newsletter points to two pieces. One is its forecast of the midterm elections, and the headline says the signs are good for Democrats."
+  },
+  {
+   "speaker": "B",
+   "text": "And the other is a cover-style look at what it calls the winners and losers of Trumponomics, saying the president promised to help ordinary Americans and achieved something rather different. We only have the headlines and a one-line teaser, so we won't pretend to know the details. But the point is that the midterms are right around the corner, and economics is at the center of the argument."
+  },
+  {
+   "speaker": "A",
+   "text": "We'll keep an eye on it. On deck: the newsletters didn't list specific data releases or earnings dates for next week, so there's nothing to flag beyond the midterms and the clock change."
+  },
+  {
+   "speaker": "B",
+   "text": "Honest and simple. I like it."
+  },
+  {
+   "speaker": "A",
+   "text": "Okay, oil. Chevron and Exxon Mobil both reported third-quarter profits on Friday, and the numbers are enormous."
+  },
+  {
+   "speaker": "B",
+   "text": "Chevron earned about nine point nine billion dollars, nearly triple what it earned a year ago. That's almost two hundred percent growth. Exxon earned fifteen point four billion dollars, roughly double."
+  },
+  {
+   "speaker": "A",
+   "text": "Wait, really? Fifteen billion dollars in three months?"
+  },
+  {
+   "speaker": "B",
+   "text": "Really. And the stocks of both companies touched record highs."
+  },
+  {
+   "speaker": "B",
+   "text": "Fun fact, profit is what is left after all the costs are paid, so this is real money, not just sales."
+  },
+  {
+   "speaker": "A",
+   "text": "What's driving it?"
+  },
+  {
+   "speaker": "B",
+   "text": "Prices. The newsletter says fuel prices have been pushed up by the wars involving Iran and Ukraine. When a barrel of oil sells for more, the companies that pump it make a lot more, as long as their costs don't rise as fast."
+  },
+  {
+   "speaker": "A",
+   "text": "And for regular people, that's less fun. High gas and diesel prices hit you at the pump, and they also raise the cost of shipping almost everything."
+  },
+  {
+   "speaker": "B",
+   "text": "Which is why it's political. Gas and diesel prices are high, the midterms are coming, and the newsletter notes that President Trump said back in August that the companies were making, quote, too much money."
+  },
+  {
+   "speaker": "A",
+   "text": "So that's the tension. Great for oil shareholders, rough for drivers, and awkward for politicians."
+  },
+  {
+   "speaker": "B",
+   "text": "Quick note on today's oil price. Our newsletters tonight didn't list a Brent crude level, Brent being the international benchmark, so you'll see that marked not available in the table. Last night's brief had it around one hundred seventeen dollars a barrel."
+  },
+  {
+   "speaker": "A",
+   "text": "Now to the crypto heist, which you may remember from last night. Hackers stole about six point three billion dollars from Binance, the world's largest crypto exchange. It's the biggest crypto theft in history."
+  },
+  {
+   "speaker": "B",
+   "text": "And the new details are what we want tonight. Binance and its partners have frozen about three billion dollars of the stolen money. That leaves roughly three point three billion still out in the wild."
+  },
+  {
+   "speaker": "A",
+   "text": "And who pays for the loss?"
+  },
+  {
+   "speaker": "B",
+   "text": "Binance says it will cover all losses so customers aren't hurt. But here's the catch: its emergency fund for cyberattacks held only about one point two three billion dollars in bitcoin. So it'll have to dip into company money to make up the gap."
+  },
+  {
+   "speaker": "A",
+   "text": "That's a big gap. Ouch."
+  },
+  {
+   "speaker": "B",
+   "text": "Yeah. Also, Binance suspended withdrawals until it finishes what it calls rigorous testing, which should wrap up sometime this weekend. And the suspected culprit is a North Korean hacking group, the same one blamed for last year's record hack of the exchange Bybit. The FBI is investigating, and Binance says hackers may have gotten in through an engineer's laptop."
+  },
+  {
+   "speaker": "A",
+   "text": "The lesson, I think, is that in crypto there's no bank to call. If the exchange fails, you rely on the exchange's promise."
+  },
+  {
+   "speaker": "B",
+   "text": "Right. And a business detail: the hackers got most of the haul in about twenty minutes. Twenty minutes!"
+  },
+  {
+   "speaker": "A",
+   "text": "Bitcoin itself closed Friday around seventy-six thousand, seven hundred twenty-four dollars, down about two point seven percent. Markets were already jumpy, and this didn't help."
+  },
+  {
+   "speaker": "A",
+   "text": "Now to the big story of the week: the tech sell-off. Theo, set the scene."
+  },
+  {
+   "speaker": "B",
+   "text": "Sure. Several Big Tech companies reported earnings this week, and investors came away with the same worry: a huge amount of money is going into artificial intelligence, and not enough is coming out yet."
+  },
+  {
+   "speaker": "A",
+   "text": "So what happened to stocks on Friday?"
+  },
+  {
+   "speaker": "B",
+   "text": "The Nasdaq, the index heavy on tech companies, fell two point eight six percent, its worst day since June. The Nasdaq one hundred, a narrower group of the biggest names, fell as much as four point five percent during the day and slid into what's called a correction."
+  },
+  {
+   "speaker": "A",
+   "text": "Define correction."
+  },
+  {
+   "speaker": "B",
+   "text": "A correction is when a stock or index falls ten percent or more from a recent high. It's a yellow warning light, not necessarily a crash. The newsletter says it's the third correction for the Nasdaq one hundred this year."
+  },
+  {
+   "speaker": "A",
+   "text": "Okay, who got hit? Alphabet, Google's parent, had its worst day ever on Thursday. About four hundred seventy-five billion dollars of market value disappeared after it said search revenue growth was slower than expected. And its free cash flow, which is the money left over after paying for things like AI data centers, swung to a loss of around nine billion dollars."
+  },
+  {
+   "speaker": "B",
+   "text": "Amazon fell about one point four percent on Friday. It said it spent even more on AI than it expected, and its online shopping growth slowed."
+  },
+  {
+   "speaker": "A",
+   "text": "And then there's Intel."
+  },
+  {
+   "speaker": "B",
+   "text": "Intel is the headline. Its stock cratered nearly twenty-nine percent on Friday, its worst day in fifty years. It reported weak demand for personal computers while spending heavily on AI."
+  },
+  {
+   "speaker": "A",
+   "text": "Here's a fun twist. The US government owns about ten percent of Intel, and CNBC estimated that stake lost about twelve billion dollars in a day."
+  },
+  {
+   "speaker": "B",
+   "text": "Wait, the government is a shareholder? Yes. So this is partly a taxpayer story too."
+  },
+  {
+   "speaker": "A",
+   "text": "Even a company that did well got hit. Sandisk beat expectations, and its stock still fell about thirteen and a half percent."
+  },
+  {
+   "speaker": "B",
+   "text": "That's the mood. When everyone is nervous about whether the AI spending will pay off, even good news doesn't save you."
+  },
+  {
+   "speaker": "A",
+   "text": "Let me explain a few terms we just threw around. Market value, sometimes called market capitalization, is the stock price times the number of shares. It's what the whole company is worth on the stock market. So when we say four hundred seventy-five billion dollars vanished, we mean the whole company was suddenly worth that much less."
+  },
+  {
+   "speaker": "B",
+   "text": "And earnings is just a company's quarterly report card: how much it sold, how much it made, and what it expects next. When results or forecasts miss what analysts predicted, the stock often drops fast, even if the company is still making money."
+  },
+  {
+   "speaker": "A",
+   "text": "One more, because it's the heart of this story. Free cash flow is the cash left after a company pays to run the business and to build things, like data centers full of computer chips. Positive means it has spare cash. Negative means it is spending more than it brings in."
+  },
+  {
+   "speaker": "B",
+   "text": "So when Alphabet's free cash flow swung negative, investors basically asked, how long can you keep spending like this? That's the whole fear in one sentence."
+  },
+  {
+   "speaker": "A",
+   "text": "And what does that mean for a regular person? If you have a retirement account or an index fund, you probably own these big tech stocks. They make up a huge share of the stock market, so when they stumble, the whole market feels it."
+  },
+  {
+   "speaker": "B",
+   "text": "Which is why a tech sell-off pulled the S and P five hundred down one point eight two percent, even though that index holds five hundred companies across every industry."
+  },
+  {
+   "speaker": "A",
+   "text": "One more tech name with a terrible week: Reddit. Its stock dropped twenty-nine percent on Friday, its worst day since it went public in twenty twenty-four."
+  },
+  {
+   "speaker": "B",
+   "text": "Two reasons. It said it plans to become a mostly logged-in-only experience, starting with tests. And it gave a weak sales forecast for the fourth quarter. The newsletter says Google's AI summaries cut the traffic Reddit gets from search, which is part of why it wants more people to log in."
+  },
+  {
+   "speaker": "A",
+   "text": "So AI is both the thing everyone is spending on and the thing quietly changing who gets web traffic. Wild."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's go industry by industry, quickly. Technology and AI first. The theme is simple: huge spending, patchy returns, and nervous investors. Watch whether companies can show real revenue from AI."
+  },
+  {
+   "speaker": "B",
+   "text": "Energy: record profits for the big oil companies because of war-driven prices. That's good for their investors, and politically tricky."
+  },
+  {
+   "speaker": "A",
+   "text": "Healthcare: the thirteen percent jump in marketplace premiums. That's a household budget story."
+  },
+  {
+   "speaker": "B",
+   "text": "And now a fun one from The Economist's weekend newsletter: pest control. It says demand for pest control has grown for decades. Big cities have lots of rats. So why are the two biggest pest control companies struggling?"
+  },
+  {
+   "speaker": "A",
+   "text": "What's the answer?"
+  },
+  {
+   "speaker": "B",
+   "text": "The newsletter says it comes down to two reasons. The article's own headline says private equity and artificial intelligence are nibbling at sales. Private equity means investment firms that pool money to buy companies and try to grow them. We only have the headline, so we can't go deeper, but the idea is that even a boring, steady business can be disrupted."
+  },
+  {
+   "speaker": "A",
+   "text": "Even the rat-killers can't escape AI. Love that."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for the scoreboard, Friday's closing levels as reported by Morning Brew. The S and P five hundred closed at seven thousand, five hundred eighty, down one point eight two percent."
+  },
+  {
+   "speaker": "B",
+   "text": "The Dow ended at fifty-one thousand, seven hundred seventy, down one point zero nine percent. The Nasdaq, as we said, closed around twenty-five thousand, four hundred thirty-seven, down two point eight six percent."
+  },
+  {
+   "speaker": "A",
+   "text": "The ten-year Treasury yield, four point nine two nine percent, down six basis points. Bitcoin about seventy-six thousand, seven hundred twenty-four dollars, down two point seven four percent."
+  },
+  {
+   "speaker": "B",
+   "text": "For Brent oil and gold, the newsletters didn't give us a level on the weekend, so we're leaving those blank rather than guess. Same for the comparison to six months and one year ago. We couldn't reliably reach a historical data source tonight, so those columns say not available."
+  },
+  {
+   "speaker": "A",
+   "text": "Honesty beats made-up numbers any day."
+  },
+  {
+   "speaker": "A",
+   "text": "And a quick word on what an index is, because we keep saying it. The S and P five hundred tracks five hundred large American companies. The Dow tracks thirty well-known ones. The Nasdaq is packed with tech. Together they're like three different report cards for the stock market, and on Friday all three came back red."
+  },
+  {
+   "speaker": "B",
+   "text": "The Dow fell the least, about one percent, because it has fewer pure tech names. The Nasdaq fell the most. That tells you where the pain was."
+  },
+  {
+   "speaker": "A",
+   "text": "Okay, a three-point recap. One: stocks had a rough Friday as investors worried that AI spending isn't paying off yet, with the Nasdaq down nearly three percent and Intel down almost twenty-nine."
+  },
+  {
+   "speaker": "B",
+   "text": "Two: oil giants Chevron and Exxon posted huge profits on high prices, and the ten-year Treasury yield eased to about four point nine three percent."
+  },
+  {
+   "speaker": "A",
+   "text": "Three: the Binance hack aftermath. About three billion dollars is frozen, three point three billion is still missing, and withdrawals could reopen this weekend."
+  },
+  {
+   "speaker": "B",
+   "text": "What to watch tomorrow: the clocks fall back, markets reopen Monday, and Binance says its testing should wrap up this weekend. Also, the New York City Marathon is tomorrow, if you want a fun distraction."
+  },
+  {
+   "speaker": "A",
+   "text": "Thanks for listening, everyone. I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "I'm Theo. Enjoy your extra hour, and we'll see you next time."
+  }
+ ]
+}
