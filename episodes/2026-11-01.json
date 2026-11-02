@@ -1,0 +1,413 @@
+{
+ "id": "2026-11-01",
+ "title": "Nightly Brief - Sun, Nov 1",
+ "date": "Sun, Nov 1",
+ "hosts": {
+  "A": "Maya",
+  "B": "Theo"
+ },
+ "chapters": [
+  {
+   "title": "Cold open",
+   "i": 0
+  },
+  {
+   "title": "Macro & Rates",
+   "i": 7
+  },
+  {
+   "title": "Energy, Commodities & Geopolitics",
+   "i": 21
+  },
+  {
+   "title": "Deals & Capital Markets",
+   "i": 41
+  },
+  {
+   "title": "Companies",
+   "i": 47
+  },
+  {
+   "title": "Industry Trends",
+   "i": 62
+  },
+  {
+   "title": "Markets",
+   "i": 79
+  },
+  {
+   "title": "Wrap-up",
+   "i": 85
+  }
+ ],
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Quick question, Theo. What do a rebel group once mocked for wearing flip-flops, a jobs report that could move interest rates, and people paying twenty-two thousand five hundred dollars to run in Antarctica have in common?"
+  },
+  {
+   "speaker": "B",
+   "text": "That is the most chaotic opening question I have ever heard, and I am into it. Tell me."
+  },
+  {
+   "speaker": "A",
+   "text": "They are all in tonight's show. It is Sunday, so it is a lighter news night, but the week ahead is loaded."
+  },
+  {
+   "speaker": "B",
+   "text": "Welcome to Nightly Brief, the show where we take the day's newsletters and make them fit in your ears. I'm Theo."
+  },
+  {
+   "speaker": "A",
+   "text": "And I'm Maya. Here is what is on tonight's show. First, the Federal Reserve and a big jobs report on Friday. Then the Houthis, the midterm elections, and the war in Ukraine. Then a quick look at deals and companies, then a trend that I am calling the rise of the extreme vacation. We finish with the markets table and a three point recap."
+  },
+  {
+   "speaker": "B",
+   "text": "And since it is the weekend, markets are closed, so we will be honest about what we do and do not have numbers for. No guessing on this show."
+  },
+  {
+   "speaker": "A",
+   "text": "Never. Let's go."
+  },
+  {
+   "speaker": "A",
+   "text": "Starting with money. The Economist's Sunday edition looks at the week ahead, and the big economic event is Friday, when the government publishes October's jobs numbers."
+  },
+  {
+   "speaker": "B",
+   "text": "And the context here matters. In September, American employers added just twenty nine thousand jobs. That is a sharp drop from one hundred thirty three thousand in August."
+  },
+  {
+   "speaker": "A",
+   "text": "Wait, really? That is a huge slide. From one hundred thirty three thousand to twenty nine thousand in a month."
+  },
+  {
+   "speaker": "B",
+   "text": "It is. And here is the twist. Normally when hiring slows down, people expect the Federal Reserve to cut interest rates to help the economy. But the Economist says a strong jobs showing on Friday might actually encourage the Fed to raise rates at its next meeting."
+  },
+  {
+   "speaker": "A",
+   "text": "Okay, pause. Raise rates? Walk me through that, because I think a lot of listeners are going, wait, why would good news lead to higher rates?"
+  },
+  {
+   "speaker": "B",
+   "text": "Sure. First, what even is the Fed? The Federal Reserve is America's central bank. Think of it as the thermostat for the economy. Its main tool is the federal funds rate, which is the interest rate banks charge each other for overnight loans. That one rate ripples out into what you pay on a credit card, a car loan, and often a mortgage."
+  },
+  {
+   "speaker": "A",
+   "text": "So the Fed is the thermostat, and the interest rate is the dial."
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. If the economy runs too hot, meaning prices keep climbing, the Fed turns the dial up to cool things off. Higher rates make borrowing more expensive, so people and companies spend less, and that slows price increases. That price increase is what we call inflation."
+  },
+  {
+   "speaker": "A",
+   "text": "So if the jobs report comes in strong, the economy is still running warm, and the Fed might worry about inflation again."
+  },
+  {
+   "speaker": "B",
+   "text": "Right. A strong report is good for workers, but it can be bad news for anyone hoping for cheaper loans. And one more detail from the newsletter. The Fed decided to keep rates on hold this week. On hold just means they left the dial where it was."
+  },
+  {
+   "speaker": "A",
+   "text": "So the story for a regular person is this. If you are hoping to refinance a loan or buy a house, Friday's number could change what your monthly payment looks like. That is why people who never think about economics suddenly care about one jobs report."
+  },
+  {
+   "speaker": "B",
+   "text": "And one fair caveat. The newsletter says a strong showing may encourage a rate rise. It is a possibility, not a prediction. The Fed has not said it will do it."
+  },
+  {
+   "speaker": "A",
+   "text": "Good point. Our on deck line for the week is simple. Friday, October jobs numbers. And before that, Tuesday, the midterm elections, which we will get to in a second because they matter for markets too."
+  },
+  {
+   "speaker": "B",
+   "text": "Remember, we will not be able to tell you how bonds or stocks reacted today, because markets were closed. We will do the full markets walk in a bit."
+  },
+  {
+   "speaker": "A",
+   "text": "Now to geopolitics, and the story I find most striking tonight. The Houthis."
+  },
+  {
+   "speaker": "B",
+   "text": "The Houthis are an armed group that took control of northern Yemen more than a decade ago. For years, people dismissed them as ragtag insurgents. The Economist even uses the phrase rebels in flip-flops."
+  },
+  {
+   "speaker": "A",
+   "text": "And now?"
+  },
+  {
+   "speaker": "B",
+   "text": "Now it calls them one of the most dangerous militias in the Middle East. They have built a formidable arsenal of drones and missiles. In recent weeks they have hit Saudi Arabia with one strike after another."
+  },
+  {
+   "speaker": "A",
+   "text": "One strike after another on Saudi Arabia. Theo, Saudi Arabia is the world's biggest oil exporter, so why should someone who has never filled up a tank of gas outside the neighborhood care?"
+  },
+  {
+   "speaker": "B",
+   "text": "Good question, and I want to be careful. The newsletter does not tell us how oil prices reacted, and I will not make up a number. But here is the general logic. The Gulf region is a huge source of the world's oil. When a conflict puts that region at risk, traders worry about supply, and worry alone can push oil prices up. Oil feeds into gasoline, shipping, and the price of nearly everything on a shelf."
+  },
+  {
+   "speaker": "A",
+   "text": "So geopolitics that moves markets is exactly this. A conflict far away that can change what you pay at the pump."
+  },
+  {
+   "speaker": "B",
+   "text": "Yes. And there is a second layer. The Economist describes the Houthis as the most fearsome of Iran's allies, and says the rebels are outgrowing their dependence on their patron, which means Iran. In plain English, they used to rely heavily on Iran, and now they are getting strong enough to act more on their own."
+  },
+  {
+   "speaker": "A",
+   "text": "Which makes them harder to control, even by their own sponsor."
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. And that connects to a third point. Saudi Arabia wants Iran to call off the Houthis and make a deal with America. So there is a diplomatic push in the background."
+  },
+  {
+   "speaker": "A",
+   "text": "Alright, the other geopolitical event of the week, the American midterm elections on Tuesday. These decide who controls Congress, plus several state governments."
+  },
+  {
+   "speaker": "B",
+   "text": "The Economist says President Trump, whose national net approval rating stands at minus twenty seven, is expected to emerge with a far weaker grip on Washington."
+  },
+  {
+   "speaker": "A",
+   "text": "Net approval of minus twenty seven. Quick explainer, that means the share who disapprove is twenty seven points higher than the share who approve."
+  },
+  {
+   "speaker": "B",
+   "text": "Right. And the Economist's forecast says the Democrats are favorites to flip the House, which means win control of it. But the Senate race is on a knife's edge."
+  },
+  {
+   "speaker": "A",
+   "text": "And there is a twist in the Senate story. The Economist has a piece on an unfolding disaster in Alaska that it says could cost Democrats the Senate. It describes the state as an epicenter of election chicanery."
+  },
+  {
+   "speaker": "B",
+   "text": "We only have the headline and the short description from the newsletter, so we cannot give you details. But it is a good reminder that the Senate could come down to something unexpected."
+  },
+  {
+   "speaker": "A",
+   "text": "Why does this matter for money? Because who controls Congress affects taxes, government spending, and how big the deficit gets. Markets pay attention to that."
+  },
+  {
+   "speaker": "B",
+   "text": "A deficit, by the way, is just when the government spends more than it collects in taxes in a year. The difference gets borrowed, and that borrowing shows up in the bond market. We will not guess how this election changes that, but it is why investors watch Tuesday."
+  },
+  {
+   "speaker": "A",
+   "text": "One more from the Economist. On the other side of the world, a headline says that stalled on the front lines, Russia hits Ukraine harder. There is a tracker that visualizes a shift in the war."
+  },
+  {
+   "speaker": "B",
+   "text": "Again, headline level only, but it tells us the fighting is changing shape. More strikes, less movement along the front line. We will keep an eye out for more detail."
+  },
+  {
+   "speaker": "A",
+   "text": "Now deals. Theo, give us the deals scoreboard."
+  },
+  {
+   "speaker": "B",
+   "text": "Honestly, the cupboard is bare tonight. None of our newsletters carried a deal story today. No big mergers, no IPOs, nothing from the venture capital world."
+  },
+  {
+   "speaker": "A",
+   "text": "That is normal for a Sunday. Deal announcements usually land on Monday mornings, so keep an ear out tomorrow."
+  },
+  {
+   "speaker": "B",
+   "text": "And we promise we will not pad it. If there is nothing, we say there is nothing."
+  },
+  {
+   "speaker": "A",
+   "text": "Since we have a minute, let's define an IPO for anyone new. It stands for initial public offering, and it is when a private company first sells shares to the public on a stock exchange."
+  },
+  {
+   "speaker": "B",
+   "text": "And private equity, which comes up in deal news all the time, is when investment firms buy companies with money from big investors, try to improve them, and sell later. If a deal comes up next week, you will have the vocabulary."
+  },
+  {
+   "speaker": "A",
+   "text": "On to companies. And the one company-related headline from the Economist is a big one. In its most read list, there is a headline saying Google's five hundred billion dollar bloodbath reflects the danger it faces from AI."
+  },
+  {
+   "speaker": "B",
+   "text": "Five hundred billion dollars. With a b."
+  },
+  {
+   "speaker": "A",
+   "text": "That is a wait, really moment. Now, we need to be honest, the newsletter only gave us the headline and not the article, so we cannot tell you how the drop happened or over what period."
+  },
+  {
+   "speaker": "B",
+   "text": "But even from the headline, the point is clear. The Economist frames it as a danger that artificial intelligence poses to Google's core business. And in a sentence, the idea is that if people use AI assistants to answer questions rather than a search engine, that threatens the way Google makes money."
+  },
+  {
+   "speaker": "A",
+   "text": "And that is the term to know here, market value. It is the total price of all a company's shares. When a company loses five hundred billion dollars of market value, it does not mean someone wrote a check. It means investors collectively decided the company is worth that much less."
+  },
+  {
+   "speaker": "B",
+   "text": "Right. So on paper, a lot of wealth disappeared. And if your retirement account holds index funds, which most do, you own a slice of Google, so this matters to ordinary people too."
+  },
+  {
+   "speaker": "A",
+   "text": "Then we have Ironman, the endurance race company, from Morning Brew."
+  },
+  {
+   "speaker": "B",
+   "text": "This one is fun. An Ironman race is a two point four mile swim, a one hundred twelve mile bike ride, and a twenty six point two mile run. The full thing can take up to seventeen hours."
+  },
+  {
+   "speaker": "A",
+   "text": "Seventeen hours. I get tired after a long movie."
+  },
+  {
+   "speaker": "B",
+   "text": "The business story is that participation surged around the world in twenty twenty five. There were about two hundred fifty thousand registrants, with first timers up ten percent from the year before."
+  },
+  {
+   "speaker": "A",
+   "text": "And young people are driving it. Participants under thirty grew thirty five percent, and the number of first timers under thirty has more than doubled since twenty nineteen."
+  },
+  {
+   "speaker": "B",
+   "text": "In North America last year, the under thirty group grew twenty three percent for the full Ironman and twenty nine percent for the shorter one, the seventy point three race, named for its total miles. Four new races were added this year, in Ruidoso, New Mexico, Omaha, Nebraska, Dallas, Texas, and Jacksonville, Florida."
+  },
+  {
+   "speaker": "A",
+   "text": "And there is real money. A six million dollar annual prize pool for professionals. Plus the local economy. An Ironman in Tenby, Wales, has a reported economic impact of seven point three million pounds, about nine point seven million dollars."
+  },
+  {
+   "speaker": "B",
+   "text": "Which explains a funny detail. Tenby agreed to a new hosting lease this year, even though one council member called the race a pain in the neck during the debate. I'm paraphrasing a bit, but you get the idea. The money wins."
+  },
+  {
+   "speaker": "A",
+   "text": "It is a nice example of a company growing by finding a new, younger customer."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's do industry trends, and tonight's is consumer, travel, and leisure. The headline word is darecations."
+  },
+  {
+   "speaker": "B",
+   "text": "A darecation is a trip built around an extreme physical challenge in a far away place. Think running the world's highest marathon, which in twenty twenty six started at the summit of a Chilean volcano at twenty two thousand six hundred fifteen feet above sea level."
+  },
+  {
+   "speaker": "A",
+   "text": "Or scuba diving in Antarctica. Or an eleven month camping expedition across Africa. The kind of trip where you need a vacation from your vacation."
+  },
+  {
+   "speaker": "B",
+   "text": "The numbers are wild. Adventure tourism searches on Pinterest are up seventy five percent over the past year. Google searches for marathon abroad are up one thousand two hundred fifty five percent."
+  },
+  {
+   "speaker": "A",
+   "text": "One thousand two hundred fifty five percent! Though in fairness, a big percentage can come from a small starting number. The newsletter does not tell us the starting level."
+  },
+  {
+   "speaker": "B",
+   "text": "Good catch. Another number is more solid. Adventure insurance policies for things like mountain trekking are up one hundred eighty two percent in the last two years, according to the insurer SportsCover Direct."
+  },
+  {
+   "speaker": "A",
+   "text": "And that is a good detail, because insurance tells you people are actually spending, not just searching."
+  },
+  {
+   "speaker": "B",
+   "text": "Right. A company called UTMB World Series, which organizes trail running and ultramarathon trips, now offers more than sixty races, up from twenty five in twenty twenty two."
+  },
+  {
+   "speaker": "A",
+   "text": "And the big picture forecast comes from Allied Market Research. It expects the global extreme sports tourism industry to grow to ninety nine point seven billion dollars by twenty thirty four, up from thirty point five billion in twenty twenty four."
+  },
+  {
+   "speaker": "B",
+   "text": "That is more than triple in ten years. As a forecast, though, treat it as an estimate and not a promise."
+  },
+  {
+   "speaker": "A",
+   "text": "Why is it happening? The newsletter says industry insiders point to a growing obsession with extreme fitness and the appeal of unique experiences that look great on social media."
+  },
+  {
+   "speaker": "B",
+   "text": "There is also a related corner of the market, endurance nutrition. Morning Brew's roundup says one recent study in the Journal of Nutrition suggests athletes may need ninety to one hundred twenty grams of carbohydrates per hour during exercise longer than seventy minutes, up from about sixty grams suggested before."
+  },
+  {
+   "speaker": "A",
+   "text": "And a Swedish company called Maurten sells a sodium bicarbonate product wrapped in a hydrogel, which is supposed to delay a buildup of lactate, the stuff that makes your muscles burn. It sells four servings for about seventy dollars."
+  },
+  {
+   "speaker": "B",
+   "text": "The company got a lot of attention for fueling Kenyan runner Sebastian Sawe when he broke the two hour marathon barrier this year, according to the newsletter."
+  },
+  {
+   "speaker": "A",
+   "text": "The point is that extreme hobbies create a whole shopping list. Races, trips, insurance, drinks, gels, you name it."
+  },
+  {
+   "speaker": "B",
+   "text": "And if you want the most extreme examples, the Antarctic Ice Ultra has a twenty two thousand five hundred dollar entry fee. Twenty two thousand five hundred dollars. To run in subzero temperatures."
+  },
+  {
+   "speaker": "A",
+   "text": "I will keep my money and my toes, thank you."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for the markets walk. And here is the honest part. It is Sunday, and none of tonight's newsletters gave market levels. So for the S and P five hundred, the Dow, the Nasdaq, the ten year Treasury yield, Brent oil, gold, and Bitcoin, our table says not available for today's level and for the changes."
+  },
+  {
+   "speaker": "B",
+   "text": "We could look up old prices, but without today's level there is nothing to compare them to, and we are not going to fill in a number from memory. Never guess."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's at least define the cast. The S and P five hundred tracks five hundred of the biggest American companies. The Dow is thirty large companies. The Nasdaq leans heavily toward technology."
+  },
+  {
+   "speaker": "B",
+   "text": "The ten year Treasury yield is the interest rate the government pays to borrow for ten years. It matters because mortgage rates tend to follow it. And a basis point, which you will hear a lot, is one hundredth of one percent. So a hundred basis points is one full percentage point."
+  },
+  {
+   "speaker": "A",
+   "text": "Brent is the global benchmark for oil prices. Gold is the classic safe haven people buy when they are nervous. And Bitcoin trades all week, even on weekends."
+  },
+  {
+   "speaker": "B",
+   "text": "Which is exactly why it is worth checking on Monday. With the Fed, the Houthis, and the midterms all in play, this could be a busy week for prices."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for the three point recap. Number one. Friday's jobs report matters a lot. After only twenty nine thousand jobs in September, a strong October number could push the Fed toward raising interest rates, not cutting them."
+  },
+  {
+   "speaker": "B",
+   "text": "Number two. The Houthis have gone from underestimated rebels to a serious force that is hitting Saudi Arabia, and Saudi Arabia wants Iran to rein them in. Meanwhile Tuesday's midterms could weaken Trump's hold on Washington, with the House likely to flip and the Senate a toss up."
+  },
+  {
+   "speaker": "A",
+   "text": "Number three. Extreme sports is becoming big business, from the Ironman boom to darecations, with a forecast of ninety nine point seven billion dollars by twenty thirty four."
+  },
+  {
+   "speaker": "B",
+   "text": "And what to watch tomorrow. Any market reaction to the weekend, especially oil, with the Houthi attacks in the background. And any deals, since Mondays are when they are usually announced."
+  },
+  {
+   "speaker": "A",
+   "text": "That's the show. Thanks for listening, and go easy on yourself if you only ran to the fridge today."
+  },
+  {
+   "speaker": "B",
+   "text": "I'm Theo."
+  },
+  {
+   "speaker": "A",
+   "text": "And I'm Maya. We'll be back tomorrow night. Goodnight!"
+  }
+ ]
+}
