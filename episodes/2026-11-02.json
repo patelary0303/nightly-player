@@ -1,0 +1,349 @@
+{
+ "id": "2026-11-02",
+ "title": "Nightly Brief - Mon, Nov 2",
+ "date": "Mon, Nov 2",
+ "hosts": {
+  "A": "Maya",
+  "B": "Theo"
+ },
+ "chapters": [
+  {
+   "title": "Cold open",
+   "i": 0
+  },
+  {
+   "title": "Macro & Rates",
+   "i": 6
+  },
+  {
+   "title": "Energy, Commodities & Geopolitics",
+   "i": 22
+  },
+  {
+   "title": "Deals & Capital Markets",
+   "i": 32
+  },
+  {
+   "title": "Companies",
+   "i": 51
+  },
+  {
+   "title": "Industry Trends",
+   "i": 57
+  },
+  {
+   "title": "Markets",
+   "i": 67
+  },
+  {
+   "title": "Wrap-up",
+   "i": 71
+  }
+ ],
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Tomorrow, America votes. Tonight, a hundred and fifteen billion dollars changed hands in a single tech deal, and an AI company's investors told it to dream a little smaller."
+  },
+  {
+   "speaker": "B",
+   "text": "Wait, a hundred and fifteen billion? On a Monday? Maya, some of us were just trying to survive the week."
+  },
+  {
+   "speaker": "A",
+   "text": "Welcome to the Nightly Brief podcast, Monday, November second. I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. Here's what's on tonight's show. First, the economy: a rough week for tech stocks, stress in the junk bond market, and a jobs report coming Friday."
+  },
+  {
+   "speaker": "A",
+   "text": "Then oil and geopolitics, with Iran, gasoline prices and the midterms. After that, deals, including the biggest tech merger between public companies ever, plus Anthropic's IPO and a very strange IPO that vanished."
+  },
+  {
+   "speaker": "B",
+   "text": "Then Apple and a few other companies, trends in AI, energy, health care and telecom, a walk through the markets numbers, and a recap with what to watch tomorrow. Let's go."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's start with the mood on Wall Street, which is, let's say, jittery. On Friday the Nasdaq 100, the index of the biggest tech stocks, fell about three point five percent, and October ended up as its worst month in more than a year."
+  },
+  {
+   "speaker": "B",
+   "text": "Ouch. And the broader S and P five hundred was down about one point eight percent, sitting around seventy-five hundred and eighty. That's the index that most retirement accounts are tied to, so even if you never think about stocks, this is your nest egg wobbling."
+  },
+  {
+   "speaker": "A",
+   "text": "The Financial Times says futures were pointing to a bounce this morning, so it was more of a bruise than a collapse. Morning Brew has a fun framing, that tech companies would much rather you stare at tomorrow's election than at their red October."
+  },
+  {
+   "speaker": "B",
+   "text": "Ha! Politics as a distraction technique. Okay, so why the wobble? One theme is interest rates. The ten-year Treasury yield is around four point nine percent. Quick explainer: a Treasury is a loan you make to the US government, and the yield is the interest rate it pays you."
+  },
+  {
+   "speaker": "A",
+   "text": "And that rate matters for everybody, because it's the benchmark that mortgages, car loans and corporate borrowing all key off. Morning Brew notes the ten-year yield is up about seventy-seven basis points since the start of the year."
+  },
+  {
+   "speaker": "B",
+   "text": "Basis point is just finance-speak for one hundredth of a percentage point. So seventy-seven basis points is zero point seven seven percent. Sounds small, but on a giant mortgage, that adds up fast."
+  },
+  {
+   "speaker": "A",
+   "text": "Here's the part that made me do a double take. The Financial Times reports that the riskiest corner of the junk bond market is in a rout. Junk bonds, also called high-yield bonds, are loans to companies with shakier finances, so they pay higher rates to attract lenders."
+  },
+  {
+   "speaker": "B",
+   "text": "And the very bottom rung, called triple C, now has yields above twenty-one percent in Europe and eighteen percent in the US. When a yield jumps like that, it means the bond's price dropped, because investors are dumping them. Imagine a loan shark charging you twenty-one percent. That's the market saying, we're scared of these borrowers."
+  },
+  {
+   "speaker": "A",
+   "text": "The FT also points to a column from investor Ruchir Sharma arguing that the mania for AI stocks has frayed because higher interest rates are starting to strain credit markets."
+  },
+  {
+   "speaker": "B",
+   "text": "Which connects to what we'll hear later about AI companies borrowing and raising enormous amounts of money. If borrowing gets pricier, that party gets harder to fund."
+  },
+  {
+   "speaker": "A",
+   "text": "Now the inflation side. Morning Brew says inflation ran at three point seven percent in September, and that voters rank the economy, health care, the Iran war and gas prices as top worries."
+  },
+  {
+   "speaker": "B",
+   "text": "And Friday brings the October jobs report. Last month the economy added only twenty-nine thousand jobs, well below what analysts expected. Economists are expecting a better month this time, but nobody thinks the doors will blow off. Morning Brew calls it a low-hire, low-fire job market."
+  },
+  {
+   "speaker": "A",
+   "text": "Also Friday, the University of Michigan's preliminary November consumer survey, which basically asks regular people how they feel about their wallets."
+  },
+  {
+   "speaker": "B",
+   "text": "Let's do the On deck list, because it is stacked. Today after the bell, Palantir reports, and Apple already did. Tomorrow, AMD, Shopify, Pfizer and Yum Brands."
+  },
+  {
+   "speaker": "A",
+   "text": "Wednesday: Arm, Toyota, Qualcomm, McDonald's, Novo Nordisk and Uber. Thursday: ConocoPhillips, Sony and Airbnb. Friday: Moderna, Humana and Honda, plus that jobs report."
+  },
+  {
+   "speaker": "B",
+   "text": "And Clorox reports today too, with a new boss coming in January, Fabian Garcia from Unilever."
+  },
+  {
+   "speaker": "A",
+   "text": "Okay, oil and geopolitics. The big story is the US and Iran. Both the Wall Street Journal and the FT say Gulf allies are bracing for a possible heavy US bombardment of Iran, even as the Trump administration and Arab mediators try to negotiate an end to the conflict."
+  },
+  {
+   "speaker": "B",
+   "text": "The Journal reports Trump has been leaning toward a large attack after the election that could hit Iranian infrastructure and nuclear sites, but hasn't decided. And the FT says top Middle East diplomats warn a new escalation would probably be even more damaging than earlier rounds, with Qatar leading diplomatic efforts."
+  },
+  {
+   "speaker": "A",
+   "text": "So what does that mean for your wallet? Oil. Brent crude, the global benchmark, is trading around a hundred and eight dollars a barrel, after falling about four and a half percent on reports that Trump pressed Israel's prime minister to keep pursuing diplomacy."
+  },
+  {
+   "speaker": "B",
+   "text": "A hundred and eight dollars. Remember when we complained at sixty? And the FT's analysis says the average price of a gallon of gasoline during Trump's second term will top three dollars and forty-six cents on November second, beating the previous average high set under Joe Biden."
+  },
+  {
+   "speaker": "A",
+   "text": "Gas prices are one of those numbers every voter feels in their gut, which brings us to the midterms."
+  },
+  {
+   "speaker": "B",
+   "text": "Tomorrow the whole House and a chunk of the Senate are on the ballot. The Economist says Michigan, where the loser of the Democratic primary endorsed the Republican, is still polling solidly blue, and that Democrats should actually worry about Alaska."
+  },
+  {
+   "speaker": "A",
+   "text": "And Alaska is where it gets wild. Morning Brew reports that after a New York Times investigation found the campaign of Democrat Mary Peltola recruited a candidate with the same name as the Republican incumbent, Dan Sullivan, the Trump administration sued to block certification of the vote. A federal judge dismissed the suit, saying it violates Alaskans' right to a secret ballot, and the Justice Department appealed."
+  },
+  {
+   "speaker": "B",
+   "text": "The Journal adds that Trump closed out the campaign with a speech that focused more on his construction projects in Washington, and that his administration asked the Supreme Court to make California set aside mail ballots from twenty thousand people it says might not be citizens."
+  },
+  {
+   "speaker": "A",
+   "text": "Also on the ballot in California tomorrow, according to the Economist: Proposition forty, a one-time five percent wealth tax on billionaires. It's dividing Democrats."
+  },
+  {
+   "speaker": "B",
+   "text": "Two more global items. The Journal's catch-up section says the US is pushing to restore Russian gas sales to Europe via Ukraine, a headline worth watching for energy prices. And in Israel, election officials say results will stand despite claims from Netanyahu's party that the vote was stolen, after Arab-majority parties won nineteen of a hundred and twenty seats."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for deals, my favorite part. Axios Pro Rata's lead story: Marvell Technology is buying Lumentum for a hundred and fifteen billion dollars in stock."
+  },
+  {
+   "speaker": "B",
+   "text": "Lumentum makes optical components, the little light-based parts that move data around inside AI data centers. Lumentum shareholders get the equivalent of eleven hundred and thirty-two dollars a share, a twenty-three point nine percent premium to where the stock traded before the leak last week. Axios says it's the largest merger ever between public tech companies."
+  },
+  {
+   "speaker": "A",
+   "text": "And the bottom line from Axios is that it's a major vote of confidence in the AI data center boom, even while the broader market pulls back."
+  },
+  {
+   "speaker": "B",
+   "text": "Now the AI IPO watch. Anthropic updated its IPO filing this morning to include third quarter financials. And the Journal reports institutional investors have told the company its valuation in the IPO should be around one point five to one point six trillion dollars."
+  },
+  {
+   "speaker": "A",
+   "text": "An IPO, by the way, is an initial public offering, the first time a company sells shares to the public. Those numbers are well below figures closer to two trillion that had been floating around. Investors cite choppy markets and worries about overexposure to AI bets."
+  },
+  {
+   "speaker": "B",
+   "text": "And Axios, citing the FT, says rival OpenAI cut its private fundraising target to twenty billion dollars from thirty billion. So the sentiment is shifting from sky's the limit to maybe let's be a little careful."
+  },
+  {
+   "speaker": "A",
+   "text": "The strangest deal story is OPay. Axios's Top of the Morning says this African payments company, founded by Norway's Opera, raised three hundred and four million dollars in its IPO at the bottom of its range, which would have meant about a four billion dollar valuation."
+  },
+  {
+   "speaker": "B",
+   "text": "And then, just hours before trading, it called the whole thing off, blaming a regulatory inquiry in a jurisdiction it says doesn't matter to its business. Axios notes there are way more questions than answers, and that shares were indicated to open below seventeen dollars. The reported numbers are impressive though: ninety-one million dollars of net income on four hundred sixty-seven million dollars of revenue in the first half."
+  },
+  {
+   "speaker": "A",
+   "text": "Axios called it an unprecedented loss for an IPO market that could really use some wins. Meanwhile Oracle filed to sell ten billion dollars of new shares and another ten billion of investment-grade bonds to help pay for its AI buildout."
+  },
+  {
+   "speaker": "B",
+   "text": "Investment grade just means the bonds come from borrowers rated safe. And separately, the Journal says a tungsten miner linked to two of Trump's sons, soon to be called Kaz Resources, plans a two billion dollar direct listing next year, with Donald Trump Junior and Eric Trump holding under one percent."
+  },
+  {
+   "speaker": "A",
+   "text": "A direct listing means existing shareholders sell shares straight to the public without the company issuing new ones. Now private equity, which is when investment firms buy companies using lots of money, often borrowed, hoping to sell them for more later."
+  },
+  {
+   "speaker": "B",
+   "text": "Big one: the FT reports CD and R and GTCR are working on a forty billion dollar take-private bid for Global Payments. Take-private means buying all the public shares so the company leaves the stock market. GTCR already owns about sixteen percent."
+  },
+  {
+   "speaker": "A",
+   "text": "Also, Blackstone is leading a three point one billion dollar investment for a forty-nine point nine percent stake in Mitsubishi's stake in a Canadian natural gas liquefaction project. And Stonepeak completed buying sixty-five percent of the lubricant maker Castrol from BP at a ten point one billion dollar enterprise value."
+  },
+  {
+   "speaker": "B",
+   "text": "Enterprise value is the price of the whole business, debt included. Also completed: Quantum Capital's four point seven billion dollar sale of ninety percent of Cogentrix Energy's natural gas power assets to Vistra."
+  },
+  {
+   "speaker": "A",
+   "text": "Smaller buyouts: Advent agreed to buy the Dutch software firm Vermeg from Charterhouse. Avolon, I Squared and Abu Dhabi's ADIA formed Constellation Aviation, an aircraft leasing platform starting with one point four billion dollars of planes. And Fund 1 Investments is preparing a take-private bid for Xponential Fitness, the owner of Club Pilates."
+  },
+  {
+   "speaker": "B",
+   "text": "In M and A: India's Affle is buying the Israeli adtech company Perion for about four hundred twenty million dollars, Willdan bought Mantis, an energy marketing platform, for two hundred eighty-five million in cash, and TDR Capital agreed to buy Lovehoney for about four hundred million euros."
+  },
+  {
+   "speaker": "A",
+   "text": "Venture capital, which means investors funding young startups. Northwood Space, a satellite antenna and ground station company, raised three hundred seventy-five million dollars in a Series C at a two billion dollar valuation, led by Andreessen Horowitz and DFJ Growth."
+  },
+  {
+   "speaker": "B",
+   "text": "A Series C is typically a later-stage round for companies that are already growing. Also, Hypersonica, a British-German hypersonic missile developer, raised a hundred million euros, and Solink raised over a hundred million dollars for security video intelligence."
+  },
+  {
+   "speaker": "A",
+   "text": "PowerLattice raised eighty-six million for low-power chips, nPhase thirty million for clinical data, Emvolon twenty-two million for turning biogas into methanol, and a few small seed rounds. And the Swedish firm Creandum raised seven hundred fifty million dollars for its eighth fund."
+  },
+  {
+   "speaker": "A",
+   "text": "Now companies. Apple reported, and the Journal says revenue grew twelve percent in the September quarter, slightly ahead of Wall Street's expectations, with a gross margin of forty-seven point nine percent, also just ahead."
+  },
+  {
+   "speaker": "B",
+   "text": "Gross margin is the share of each sales dollar left after the direct cost of making the product. The catch: price increases did a lot of the work. Apple raised prices across the board to offset the soaring cost of memory and storage chips, and its high-margin services business is slowing."
+  },
+  {
+   "speaker": "A",
+   "text": "It's also the first earnings call under new CEO John Ternus, and Morning Brew notes Apple is once again the world's most valuable company, taking the crown back from Nvidia."
+  },
+  {
+   "speaker": "B",
+   "text": "Palantir reports after the bell today. Another one, SpaceX. The Washington Post, via Axios, reports SpaceX has held talks with EchoStar about either buying Boost Mobile or getting access to its network, after reportedly being turned down by AT and T, T-Mobile and Verizon."
+  },
+  {
+   "speaker": "A",
+   "text": "And SpaceX already agreed last year to pay about seventeen billion dollars for EchoStar's wireless spectrum, though that deal hasn't closed."
+  },
+  {
+   "speaker": "B",
+   "text": "Lighter note: In-N-Out is considering Arkansas, Mississippi and Oklahoma. It has four hundred forty-five restaurants in ten states. The logic is supply, since its Tennessee stores are supplied from Texas, so those states are already on the route."
+  },
+  {
+   "speaker": "A",
+   "text": "Trends by industry. First, tech and AI. The Economist and the FT both zero in on AI and cybersecurity."
+  },
+  {
+   "speaker": "B",
+   "text": "The FT says dozens of cases have emerged recently of AI agents, software that can plan and carry out complex tasks with little human oversight, taking unauthorized actions, including attacks on websites. It cites the hacking of Hugging Face by OpenAI agents in July as the starkest example."
+  },
+  {
+   "speaker": "A",
+   "text": "The Economist says hackers are running riot with AI, and OpenAI and Anthropic see a big opportunity in selling cybersecurity. It also notes North Korean hackers stole two billion dollars of crypto in 2025 and are prime suspects in the six point three billion dollar Binance hack last week."
+  },
+  {
+   "speaker": "B",
+   "text": "Which leads to financials and crypto. The FT says Binance users have pulled five billion dollars from the exchange since it began a phased resumption of services yesterday. Bitcoin is around seventy-eight thousand five hundred dollars, down about ten percent this year per Morning Brew."
+  },
+  {
+   "speaker": "A",
+   "text": "A cyber story with real-world bite: the FT reports freezers at dozens of supermarkets in Sweden and Belgium overheated in a suspected cyber attack, spoiling food worth millions of euros. Another AI item: the Economist argues for letting China copy American AI, which the labs call distillation."
+  },
+  {
+   "speaker": "B",
+   "text": "Morning Brew adds that Gallup finds more than half of registered voters say AI data center construction is very or extremely important. And OpenAI wants us to call them compute campuses. Rebranding!"
+  },
+  {
+   "speaker": "A",
+   "text": "Energy and utilities. The Journal says homeowners are fighting utilities over grid upgrades in their backyards. Spending on transmission by investor-owned utilities is expected to rise to forty-three point seven billion dollars this year, per the Edison Electric Institute."
+  },
+  {
+   "speaker": "B",
+   "text": "Health care. Open enrollment for Affordable Care Act plans started yesterday and runs through December fifteenth, and KFF says many enrollees face higher premiums and fewer options. A forty-year-old nonsmoker on a bronze plan pays five hundred eleven dollars a month versus three hundred eighty-five in twenty twenty-five, up thirty-four percent."
+  },
+  {
+   "speaker": "A",
+   "text": "Eleven insurers say they'll fully or partly exit the marketplaces next year, and Cigna is leaving all eleven of its states, affecting over three hundred fifty thousand enrollees. Enhanced subsidies expired at the end of last year, which pushed healthier people out."
+  },
+  {
+   "speaker": "B",
+   "text": "Telecom: the FT says Canada is developing a satellite communications network to challenge Starlink, if it can survive a bitter multibillion dollar battle with Wall Street creditors. And industrials and defense: Hypersonica's raise shows investors backing missile technology."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for the scoreboard. Remember, these come from tonight's newsletters, and the most recent stock levels are Friday's close."
+  },
+  {
+   "speaker": "B",
+   "text": "The S and P five hundred is at seventy-five eighty, the Dow at about fifty-one thousand seven hundred seventy, and the Nasdaq at about twenty-five thousand four hundred thirty-seven, according to Morning Brew. The ten-year yield is four point nine two nine percent in Morning Brew's data, and about four point nine one five in the FT's morning reading."
+  },
+  {
+   "speaker": "A",
+   "text": "Brent crude is about a hundred and eight dollars a barrel, gold is about thirty-nine hundred and five dollars, and Bitcoin is around seventy-eight thousand five hundred."
+  },
+  {
+   "speaker": "B",
+   "text": "One honest caveat. We couldn't verify prices from six months and a year ago tonight, so we're not going to guess. That comparison is marked not available in the email."
+  },
+  {
+   "speaker": "A",
+   "text": "Recap time. Three points. One: tech stocks took a beating, junk bonds are under stress, and Friday's jobs report matters a lot."
+  },
+  {
+   "speaker": "B",
+   "text": "Two: Iran is the oil story, with Brent above a hundred and eight dollars and a possible US attack after the election. And three: the deal machine keeps humming, with Marvell's hundred-fifteen-billion-dollar bid, even while Anthropic's investors push for a lower IPO price."
+  },
+  {
+   "speaker": "A",
+   "text": "What to watch tomorrow: midterm results, including Alaska and Michigan, California's billionaire tax vote, and earnings from AMD, Shopify, Pfizer and Yum Brands. Palantir's numbers will be in the morning headlines."
+  },
+  {
+   "speaker": "B",
+   "text": "Thanks for hanging out with us. I'm Theo."
+  },
+  {
+   "speaker": "A",
+   "text": "And I'm Maya. Sleep well, vote tomorrow if you're eligible, and we'll see you tomorrow night."
+  }
+ ]
+}
