@@ -1,0 +1,353 @@
+{
+ "id": "2026-11-03",
+ "title": "Nightly Brief - Tue, Nov 3",
+ "date": "Tue, Nov 3",
+ "hosts": {
+  "A": "Maya",
+  "B": "Theo"
+ },
+ "chapters": [
+  {
+   "title": "Cold open",
+   "i": 0
+  },
+  {
+   "title": "Macro & Rates",
+   "i": 7
+  },
+  {
+   "title": "Energy, Commodities & Geopolitics",
+   "i": 26
+  },
+  {
+   "title": "Deals & Capital Markets",
+   "i": 36
+  },
+  {
+   "title": "Companies",
+   "i": 55
+  },
+  {
+   "title": "Industry Trends",
+   "i": 61
+  },
+  {
+   "title": "Markets",
+   "i": 66
+  },
+  {
+   "title": "Wrap-up",
+   "i": 71
+  }
+ ],
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Quick question. What do a one-hundred-fifteen-billion-dollar chip deal, a nine-hundred-billion-dollar AI shopping list, and a bunch of melting gelato have in common?"
+  },
+  {
+   "speaker": "B",
+   "text": "Okay, I need you to finish that sentence, because I genuinely cannot."
+  },
+  {
+   "speaker": "A",
+   "text": "They all made tonight's news, and not one of them is about who's winning the election. Welcome to Nightly Brief, the show that turns the day's business headlines into something you can actually follow. I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. Tonight is Election Day, so half the world is staring at a map of red and blue. But we are going to stick to what moves money."
+  },
+  {
+   "speaker": "A",
+   "text": "Here's what's on tonight's show. First, the midterms and what they mean for your wallet, plus a surprising look at interest rates. Then oil and a tense night in the Middle East. Then a big deals segment, including a twelve-figure chip merger that investors did not love. After that, company news, a quick tour of industry trends, and a walk through the markets."
+  },
+  {
+   "speaker": "B",
+   "text": "And I promise to explain every piece of jargon the moment it shows up. If I say a weird word, Maya will stop me."
+  },
+  {
+   "speaker": "A",
+   "text": "I will absolutely stop you. Let's go."
+  },
+  {
+   "speaker": "A",
+   "text": "Starting with the big one. Today is Election Day in America. Voters are deciding who controls Congress for the last two years of President Trump's term."
+  },
+  {
+   "speaker": "B",
+   "text": "And the polls lean one way. Several outlets we read tonight say Democrats are favored to win the House, and the Senate looks more like a coin flip. Right now, Republicans hold the House two hundred eighteen to two hundred fourteen, and the Senate fifty-three to forty-seven."
+  },
+  {
+   "speaker": "A",
+   "text": "That's narrow. And here's the money angle. A Wall Street Journal survey of voters found high fuel and food prices were a top concern, and many people blamed the president."
+  },
+  {
+   "speaker": "B",
+   "text": "There's another poll that backs that up. The Financial Times and a firm called Focaldata found that nearly seventy percent of voters disapprove of how Mr. Trump has handled price rises and the cost of living. Among independents, that number jumps to seventy-seven percent."
+  },
+  {
+   "speaker": "A",
+   "text": "Seventy-seven! When people say it's the economy, this is what they mean. Groceries, gas, rent. Not charts."
+  },
+  {
+   "speaker": "B",
+   "text": "And businesses are already planning for a Democratic Congress. The Journal says companies are bracing for change on everything from data centers to soybeans, plus how much say Congress has over the Federal Reserve, and more investigations."
+  },
+  {
+   "speaker": "A",
+   "text": "Now, my favorite little twist. Axios Pro Rata points out that the prediction markets Kalshi and Polymarket should be secretly rooting for Democrats tonight."
+  },
+  {
+   "speaker": "B",
+   "text": "Explain, because that sounds backwards."
+  },
+  {
+   "speaker": "A",
+   "text": "A prediction market is a website where people bet real money on outcomes, like who wins an election. The sites take a cut no matter who wins, so officially they don't care. But both currently show roughly a seventy-five percent chance of Democrats winning Congress. If that happens, the markets look smart."
+  },
+  {
+   "speaker": "B",
+   "text": "And if Republicans win either chamber, the markets look like the pollsters everyone stopped trusting. They already missed on elections in Brazil and Israel. Three misses would feel like a trend."
+  },
+  {
+   "speaker": "A",
+   "text": "Moving on to rates. The ten-year Treasury yield ended Monday at four point eight nine percent, down about four basis points."
+  },
+  {
+   "speaker": "B",
+   "text": "Okay, two terms. A Treasury is a loan you make to the US government. The yield is the interest rate you earn on it, and it also sets the tone for mortgage rates and car loans. A basis point is one hundredth of a percentage point, so four basis points is a tiny nudge."
+  },
+  {
+   "speaker": "A",
+   "text": "And why do we care? Because when that ten-year yield sits near five percent, borrowing gets pricey for everyone. Homebuyers, companies, even the government itself."
+  },
+  {
+   "speaker": "B",
+   "text": "The Financial Times has the yield up a bit again this morning, around four point nine two percent. And here's a related story from Axios. Big Tech's appetite for debt is colliding with higher borrowing costs. Alphabet, Microsoft, Meta, and Oracle are all lining up billions of dollars in new bond offerings."
+  },
+  {
+   "speaker": "A",
+   "text": "A bond offering is just a company borrowing money from investors and promising to pay it back with interest. So the bond market is quietly pushing back on the AI trade, and the AI trade is basically saying, we'll borrow anyway."
+  },
+  {
+   "speaker": "B",
+   "text": "Which is bold. Two more quick global rate notes. The Financial Times says Japan's higher interest rates are a win for rich older savers, and a headache for young people trying to buy a home. Basically a war of generations, fought with mortgage rates."
+  },
+  {
+   "speaker": "A",
+   "text": "And the Economist flags a warning light closer to home. Several gauges of financial health for American renters are flashing red."
+  },
+  {
+   "speaker": "B",
+   "text": "Rent is the biggest bill for many people, so that's worth watching. Okay, what's on deck? The government publishes September factory orders and job openings numbers. On the earnings side, AMD, Apollo Global Management, AIG, Pfizer, Keurig Dr Pepper, Yum Brands, Marathon Petroleum, and Booking Holdings report their third-quarter results."
+  },
+  {
+   "speaker": "A",
+   "text": "Earnings, by the way, is just a company's report card for the quarter, how much it sold and how much it kept as profit."
+  },
+  {
+   "speaker": "A",
+   "text": "Onto the Middle East. Overnight, American forces struck targets on Qeshm Island, in the Strait of Hormuz. That's the narrow waterway that a big share of the world's oil ships through."
+  },
+  {
+   "speaker": "B",
+   "text": "Washington called it a defensive move to protect American assets in the region. The strikes looked limited, and not a return to the big combat operations the US carried out against Iran earlier this year, from February to April."
+  },
+  {
+   "speaker": "A",
+   "text": "Brent crude, the global oil benchmark, is hovering around one hundred six dollars a barrel. It dropped sharply on Monday on hopes of progress toward ending the Iran war, and the strikes didn't push it much higher."
+  },
+  {
+   "speaker": "B",
+   "text": "A barrel is about forty-two gallons. So when it's over a hundred bucks, you feel it at the pump, and you feel it in airfares, shipping, and basically everything that moves on a truck."
+  },
+  {
+   "speaker": "A",
+   "text": "And gold? It slipped about one point four percent this morning, to around thirty-nine hundred dollars an ounce."
+  },
+  {
+   "speaker": "B",
+   "text": "Another Middle East headline. President Trump says the US plans to cut off direct military aid to Israel by the end of the year. Israeli officials were reportedly surprised, though the idea has been floating for months. Prime Minister Netanyahu has said Israel should eventually wean itself off the aid."
+  },
+  {
+   "speaker": "A",
+   "text": "Now to Europe. The Wall Street Journal reports that NATO is rethinking how it would respond to a Russian attack. For decades the plan was basically to build roadblocks. Now strategists say deterrence means hitting military bases and supply depots behind the front line, even inside Russia."
+  },
+  {
+   "speaker": "B",
+   "text": "The Economist adds that Russia's advance has stalled on the front lines, but it's hitting Ukraine harder from the air."
+  },
+  {
+   "speaker": "A",
+   "text": "And a headline that sounds like a movie. The Financial Times says officials from the US, China and Russia are discussing a possible first-ever meeting of Trump, Xi Jinping and Vladimir Putin. It could happen later this month at the APEC summit in Shenzhen."
+  },
+  {
+   "speaker": "B",
+   "text": "APEC is a forum of Pacific Rim economies. Mr. Trump is expected to visit China in about two weeks, and he's due to meet Mr. Xi again in December. But China hasn't decided whether to go ahead with the trilateral meeting."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for deals. Let's start with the chip merger we flagged last night. Marvell agreed to buy Lumentum for about one hundred fifteen billion dollars including debt."
+  },
+  {
+   "speaker": "B",
+   "text": "Lumentum makes lasers and optical gear that move data between chips and servers. And that price makes it the second-biggest tech deal ever, behind the SpaceX and xAI merger."
+  },
+  {
+   "speaker": "A",
+   "text": "Here's the new part. Investors hated it. Marvell's stock fell thirteen percent yesterday and Lumentum's fell nineteen percent. The price tag is more than half of Marvell's own market value, and people worry we're in an AI spending bubble."
+  },
+  {
+   "speaker": "B",
+   "text": "Market value, or market cap, means a company's share price times its number of shares. Basically what the stock market says the whole company is worth. So Marvell is spending over half of that."
+  },
+  {
+   "speaker": "A",
+   "text": "Next, Anthropic. Its IPO paperwork has an update. An IPO, or initial public offering, is when a company first sells shares to the public. Axios says Anthropic disclosed its third-quarter numbers in an amendment to its filing yesterday."
+  },
+  {
+   "speaker": "B",
+   "text": "The Financial Times adds that the company has committed to spend close to nine hundred billion dollars on AI computing infrastructure in the coming years, and that its spending is rising faster than its revenue."
+  },
+  {
+   "speaker": "A",
+   "text": "Nine hundred billion. That's a number I have to say twice. Also in IPO land, Crescent Energy says it confidentially filed for an IPO of its Crescent Royalties unit."
+  },
+  {
+   "speaker": "B",
+   "text": "Now the big deal in Axios's headline section. CVR Energy, controlled by Carl Icahn, agreed to buy two American refineries and a related marketing business from Marathon Petroleum for four point two billion dollars."
+  },
+  {
+   "speaker": "A",
+   "text": "The refineries are in Minnesota and North Dakota, and they earned about one point two billion dollars before interest, taxes and other items over the twelve months ending September. That measure is called EBITDA, a rough read on operating profit."
+  },
+  {
+   "speaker": "B",
+   "text": "Why does it matter? Refining margins are wide right now because of supply problems from the Russia and Ukraine war and conflicts in the Middle East. The Journal's Collin Eaton says companies of all sizes want more refineries, because global capacity is so tight."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's go through more of the big ones. Salesforce agreed to buy Cresta, an AI call-center company, for a reported two point seven billion dollars. Cinven is buying Theramex, a women's health pharma company, for two point six billion euros from PAI Partners and Carlyle."
+  },
+  {
+   "speaker": "B",
+   "text": "Those are private equity firms, by the way. Private equity means investment firms that buy whole companies, try to improve them, and sell them later for a profit."
+  },
+  {
+   "speaker": "A",
+   "text": "Also, Brookfield Asset Management and Qatar's sovereign fund agreed to invest two point five billion pounds into a British data center project with Drax Group. And Grant Thornton finished its five billion dollar buyout of CBIZ, creating one of the country's largest accounting firms."
+  },
+  {
+   "speaker": "B",
+   "text": "A few more. LS Power offered to buy the part of EVgo it doesn't already own, at two dollars a share. SatPort Infrastructure, backed by EQT, will pay around three hundred million dollars for ground stations owned by Speedcast. Shell is selling its sixteen point seven percent stake in the North West Shelf gas project in Australia for one point four five billion US dollars to Abu Dhabi's XRG. And Lonza is buying five manufacturing sites from Merck KGaA."
+  },
+  {
+   "speaker": "A",
+   "text": "And in tech deals. Alphabet is reportedly in late-stage talks to buy Howie AI, a scheduling assistant. Cognition bought the code security startup Corridor. CrowdStrike agreed to buy Dreadnode, which tests AI systems for security holes. And AE Industrial raised eight hundred fifty million dollars for a fund focused on Blue Raven, a defense distribution business."
+  },
+  {
+   "speaker": "B",
+   "text": "Now venture capital, which is money invested in young startups. Applied Compute raised three hundred fifty million dollars at a three point two five billion dollar valuation, led by Elad Gil. Valuation just means what investors think the company is worth."
+  },
+  {
+   "speaker": "A",
+   "text": "Ornn, a startup for trading computing power, is raising one hundred fifty million. Tutor Intelligence, which makes warehouse robots, raised seventy-five million. Trajectory raised forty-five million at a three hundred million dollar valuation. And Corridian, which builds large underwater drones, raised thirty-eight million."
+  },
+  {
+   "speaker": "B",
+   "text": "And one real estate flashback. The Journal reports that Brookfield is walking away from a six hundred million dollar luxury tower in downtown Los Angeles, rather than refinance a three hundred sixty million dollar loan at today's high rates."
+  },
+  {
+   "speaker": "A",
+   "text": "Refinancing means replacing an old loan with a new one. When rates are high, that can cost tens of millions more. Ouch."
+  },
+  {
+   "speaker": "A",
+   "text": "Company news. Palantir reported third-quarter revenue of two point three one billion dollars, nearly double a year ago, and it beat Wall Street's estimates."
+  },
+  {
+   "speaker": "B",
+   "text": "The milestone is that its American commercial business, up one hundred forty-eight percent to nine hundred eighty-four million dollars, finally outpaced the government side at nine hundred fifty-three million. And it raised its full-year forecast to eight point five three billion dollars."
+  },
+  {
+   "speaker": "A",
+   "text": "That forecast is called guidance, meaning what a company says it expects to earn next. Raising it is usually a happy signal."
+  },
+  {
+   "speaker": "B",
+   "text": "Next, Apple. It says an unprecedented rise in memory chip prices and the cost of running its AI tools will squeeze its profit margins. Margin is the share of each sales dollar a company keeps as profit."
+  },
+  {
+   "speaker": "A",
+   "text": "Then there's Todd Boehly. The Financial Times reports his insurer, Security Benefit, has built up more than three billion dollars in lending tied to a Beverly Hills real estate project, One Beverly Hills, which his property affiliate Cain is developing."
+  },
+  {
+   "speaker": "B",
+   "text": "And OpenAI hired Dan Driscoll, the former US Army secretary, as the military expands its use of AI. One more stock detail from Morning Brew. Sherwin-Williams jumped almost six percent, as investors moved money out of tech and into steadier names."
+  },
+  {
+   "speaker": "A",
+   "text": "Industry trends, starting with tech and AI. The Financial Times reports exclusively that Nvidia is telling its data center partners to sell at least fifty-one percent of their cloud services to non-Chinese customers. That further limits China's ability to keep pace with American rivals."
+  },
+  {
+   "speaker": "B",
+   "text": "On cybersecurity, hackers hit fridges and freezers at dozens of European supermarkets yesterday, pushing temperatures as high as one hundred twenty-two degrees Fahrenheit in some. Danfoss, a refrigeration controls maker, says its technology was targeted. More than twenty cyberattacks on refrigeration systems have happened this year."
+  },
+  {
+   "speaker": "A",
+   "text": "The lesson is that AI-enabled hackers are going after critical infrastructure, not just laptops. In crypto, analysts say North Korean hackers will need months to launder the billions of dollars of tokens stolen last week from the exchange Binance."
+  },
+  {
+   "speaker": "B",
+   "text": "Healthcare now. The FBI is investigating an autism therapy provider called the Perfect Child that billed thirty thousand dollars a day, after a Wall Street Journal report on its billing practices."
+  },
+  {
+   "speaker": "A",
+   "text": "And for workplaces. A Gallup poll shows employee engagement fell to twenty-nine percent last quarter, the lowest in fifteen years, with the biggest drop among remote and hybrid workers at companies rolling out AI initiatives."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's close with the numbers. These are Monday's closing levels, from Morning Brew. The S and P five hundred fell half a percent to seven thousand five hundred forty-one."
+  },
+  {
+   "speaker": "B",
+   "text": "The Nasdaq dropped one point oh seven percent to about twenty-five thousand one hundred sixty-four, as investors kept moving away from tech. The Dow actually rose zero point four one percent to about fifty-one thousand nine hundred eighty-four."
+  },
+  {
+   "speaker": "A",
+   "text": "The ten-year yield was four point eight nine four percent. Bitcoin was around seventy-six thousand eight hundred dollars, down one point one percent as of five thirty p.m. Eastern."
+  },
+  {
+   "speaker": "B",
+   "text": "From the Financial Times this morning: Brent at one hundred six dollars and forty-four cents, gold around thirty-nine hundred and three dollars. Those are early Tuesday numbers, so they're not the same time as the closes."
+  },
+  {
+   "speaker": "A",
+   "text": "One honest note. We couldn't pull reliable levels from six months or a year ago tonight, so we're not guessing. The table says not available."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for a three-point recap. One: Election Day. Voters are angry about prices, and Democrats are favored, which businesses are already planning for."
+  },
+  {
+   "speaker": "B",
+   "text": "Two: Marvell's one hundred fifteen billion dollar bet on Lumentum scared investors, and Anthropic's huge computing commitments show how expensive the AI race is."
+  },
+  {
+   "speaker": "A",
+   "text": "Three: oil stays above one hundred dollars after the Qeshm Island strikes, and borrowing costs stay high."
+  },
+  {
+   "speaker": "B",
+   "text": "What to watch tomorrow: election results, those September job openings and factory orders numbers, and earnings from AMD, Pfizer, and Booking."
+  },
+  {
+   "speaker": "A",
+   "text": "That's Nightly Brief. I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. Thanks for listening, and don't forget to vote if you haven't. See you tomorrow."
+  }
+ ]
+}
