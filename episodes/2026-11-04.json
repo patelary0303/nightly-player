@@ -1,0 +1,433 @@
+{
+ "id": "2026-11-04",
+ "title": "Nightly Brief - Wed, Nov 4",
+ "date": "Wed, Nov 4",
+ "hosts": {
+  "A": "Maya",
+  "B": "Theo"
+ },
+ "chapters": [
+  {
+   "title": "Cold open",
+   "i": 0
+  },
+  {
+   "title": "Macro & Rates",
+   "i": 8
+  },
+  {
+   "title": "Energy & Geopolitics",
+   "i": 30
+  },
+  {
+   "title": "Deals & Capital Markets",
+   "i": 40
+  },
+  {
+   "title": "Companies",
+   "i": 70
+  },
+  {
+   "title": "Industry Trends",
+   "i": 79
+  },
+  {
+   "title": "Markets",
+   "i": 85
+  },
+  {
+   "title": "Wrap-up",
+   "i": 89
+  }
+ ],
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Democrats just won the House and the Senate, and the stock market responded by having its best day in eighteen months. Wait, really?"
+  },
+  {
+   "speaker": "B",
+   "text": "Really. The Dow Jones Industrial Average jumped about fifteen hundred sixty nine points, roughly three percent. And that was after stocks slid overnight when the results first started rolling in."
+  },
+  {
+   "speaker": "A",
+   "text": "Welcome to the Nightly Brief, I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. Tonight we are unpacking a blue wave, why the artificial intelligence boom suddenly has a political problem, and a drugstore giant that is about to cut itself in half."
+  },
+  {
+   "speaker": "A",
+   "text": "Here is what's on tonight's show. First, macro and rates, which is the big picture of the economy, the election, and inflation overseas. Then energy and geopolitics, including oil and the Iran war."
+  },
+  {
+   "speaker": "B",
+   "text": "After that, deals, where we have a lot of money moving around. Then companies, a quick tour of industry trends, and a walk through the markets scoreboard."
+  },
+  {
+   "speaker": "A",
+   "text": "And I promise to explain every piece of jargon along the way. If I say something confusing, Theo has to translate."
+  },
+  {
+   "speaker": "B",
+   "text": "That's my whole job. Let's go."
+  },
+  {
+   "speaker": "A",
+   "text": "Okay, the election. Democrats won control of the House and the Senate in what the Economist called a landslide and a rebuke to President Trump."
+  },
+  {
+   "speaker": "B",
+   "text": "The numbers are still settling. The Economist counted fifty four Democratic Senate seats and two hundred twenty two House seats at the time it wrote. Morning Brew's count had them on track for two hundred twenty eight House seats. Either way, that is a majority in both chambers."
+  },
+  {
+   "speaker": "A",
+   "text": "Some of those wins were in places Democrats rarely win. A Democrat named James Talarico won a Texas Senate seat, the first Democratic statewide win there in thirty two years."
+  },
+  {
+   "speaker": "B",
+   "text": "And here is a money angle that is almost comic. Elon Musk had poured more than four hundred forty million dollars into Republican races, and over a hundred fifty million dollars into that one Texas race alone. It did not work."
+  },
+  {
+   "speaker": "A",
+   "text": "One race, Alaska's Senate seat, had not been called as of the morning newsletters, so the exact final map could still shift a little."
+  },
+  {
+   "speaker": "B",
+   "text": "Right. Now why does Wall Street care about politics? Because divided power usually means gridlock, which means fewer big new laws. Investors tend to like that, since it makes the rules of the game more predictable."
+  },
+  {
+   "speaker": "A",
+   "text": "But it wasn't smooth. Futures, which are contracts that let traders bet on where the market will open, fell more than one percent at first overnight. Traders worried that a big Democratic win could bring more regulation of the AI boom."
+  },
+  {
+   "speaker": "B",
+   "text": "Then it flipped. President Trump said he would accept the results and look forward to working with Democrats. Oil fell, and stocks rallied. The Dow had its best day in eighteen months, and the Nasdaq was up about one point four percent."
+  },
+  {
+   "speaker": "A",
+   "text": "What does Washington look like now? Morning Brew says Democrats may investigate the Trump family's business dealings, including crypto, look harder at the AI industry and prediction markets, and try to rein in healthcare costs and reverse tariffs."
+  },
+  {
+   "speaker": "B",
+   "text": "Tariffs are taxes on imported goods. If they get rolled back, prices on a lot of stuff you buy could ease. But Trump has called himself Mister Veto, so don't expect that to be quick."
+  },
+  {
+   "speaker": "A",
+   "text": "Meanwhile Vice President J.D. Vance said Republicans lost in part because of the Iran war and the energy prices that came with it. That is a rare bit of distance between him and the president."
+  },
+  {
+   "speaker": "B",
+   "text": "The Wall Street Journal also said Democrats now hold governorships in all seven battleground states from the twenty twenty four election, which reshapes the map for twenty twenty eight."
+  },
+  {
+   "speaker": "A",
+   "text": "Okay, now interest rates. The ten year Treasury yield closed at four point nine five two percent on Tuesday, up six basis points. Theo, basis points."
+  },
+  {
+   "speaker": "B",
+   "text": "A basis point is one one hundredth of a percentage point. So six basis points is point zero six percent. The ten year yield is what the U.S. government pays to borrow for ten years, and it sets the tone for mortgages and car loans."
+  },
+  {
+   "speaker": "A",
+   "text": "Wait, so almost five percent on the ten year?"
+  },
+  {
+   "speaker": "B",
+   "text": "Yes. Early Wednesday, the Financial Times showed it a little lower, four point nine three three percent. Still high, which is why a lot of borrowers feel squeezed."
+  },
+  {
+   "speaker": "A",
+   "text": "Overseas it's worse on inflation. Eurozone inflation climbed to four percent in October, a three year high."
+  },
+  {
+   "speaker": "B",
+   "text": "Inflation just means prices rising across the economy. The culprit is surging oil and gas prices. And European Central Bank president Christine Lagarde said last week that a bigger, longer energy shock is likely to push up inflation and lower growth."
+  },
+  {
+   "speaker": "A",
+   "text": "And that signal matters. Policymakers there said they stand ready to raise interest rates at their next meeting in December."
+  },
+  {
+   "speaker": "B",
+   "text": "Raising rates is how central banks cool inflation. It makes borrowing more expensive, so people and companies spend less. The catch is it can slow the economy too, which is the tricky balance."
+  },
+  {
+   "speaker": "A",
+   "text": "Now on deck. Wednesday brings ADP's private payroll report, which is a preview of Friday's government jobs report. Also the Institute for Supply Management's services survey and the final services readings from S and P Global."
+  },
+  {
+   "speaker": "B",
+   "text": "And trade numbers for September from the Census Bureau and the Bureau of Economic Analysis. On the earnings side, McDonald's reports third quarter results and Qualcomm reports its fourth quarter."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's talk Iran. In an exclusive interview with the Financial Times, President Trump said the U.S. has no immediate plans to strike Iran."
+  },
+  {
+   "speaker": "B",
+   "text": "He played down speculation that he would escalate after the elections. He seems content with the standoff, though he said he is prepared for more war if necessary."
+  },
+  {
+   "speaker": "A",
+   "text": "And markets noticed. Brent crude, the global oil benchmark, was down one point three percent to about one hundred two dollars and twenty five cents a barrel early Wednesday. West Texas Intermediate, the U.S. benchmark, was around ninety five dollars twenty six cents."
+  },
+  {
+   "speaker": "B",
+   "text": "Those are high prices. Morning Brew said gas averaged above four dollars a gallon on Election Day for the first time ever. When you pay that at the pump, you are feeling the Iran war."
+  },
+  {
+   "speaker": "A",
+   "text": "Here's a flip side. Saudi Aramco, the world's biggest oil company, reported adjusted net profit of thirty one billion dollars for the July to September quarter."
+  },
+  {
+   "speaker": "B",
+   "text": "The Economist's point is that higher prices more than make up for facilities that got bombed. High oil is painful for drivers and great for producers."
+  },
+  {
+   "speaker": "A",
+   "text": "Gold is the other headline. Comex gold futures were up nearly three percent, to about four thousand forty two dollars an ounce, according to the Financial Times. Copper fell almost two percent."
+  },
+  {
+   "speaker": "B",
+   "text": "Gold often rises when people want safety. Copper is more tied to factory demand, so a drop can hint at growth worries."
+  },
+  {
+   "speaker": "A",
+   "text": "One more geopolitics item. President Trump said in a Fox and Friends interview that the U.S. will stop sending military aid to Israel at the end of this year, about four billion dollars a year."
+  },
+  {
+   "speaker": "B",
+   "text": "Details are fuzzy. He is probably referring to the agreement for three point eight billion dollars a year that runs through twenty twenty eight, and his claim that it was Prime Minister Netanyahu's idea wasn't confirmed. Netanyahu's office declined to comment."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for deals. And the lead story from Axios Pro Rata is a great one. It's called the AI blues, and it's about venture capitalists, the investors who fund startups."
+  },
+  {
+   "speaker": "B",
+   "text": "The argument from Dan Primack is that the election may have changed the math on AI. Democrats won governor's offices in states with the most data centers under construction."
+  },
+  {
+   "speaker": "A",
+   "text": "Give me specifics."
+  },
+  {
+   "speaker": "B",
+   "text": "In Texas, the market leader, Gina Hinojosa pledged to end data center tax breaks. Research firm SemiAnalysis suggested her win could delay up to forty one percent of data center capacity planned in the U.S. for twenty twenty eight."
+  },
+  {
+   "speaker": "A",
+   "text": "Forty one percent! In Georgia, Keisha Lance Bottoms campaigned on a statewide pause on new construction, and in Ohio Amy Acton wants a conditional moratorium."
+  },
+  {
+   "speaker": "B",
+   "text": "A moratorium is a temporary halt. Why does that matter for startups? Because AI companies need enormous amounts of computing power, and data centers are where that happens. If building slows, projections for AI growth could come down, and so could the valuations investors are willing to pay."
+  },
+  {
+   "speaker": "A",
+   "text": "Valuation just means what a company is deemed to be worth. And Axios says it's not only AI firms. Companies in energy, healthcare, and defense tech that lean on AI could be hit too."
+  },
+  {
+   "speaker": "B",
+   "text": "There's a political angle as well. Many top venture capitalists gave big money to Republicans, so they may struggle to get meetings with incoming Democrats. Elon Musk even posted that data centers in space were looking appealing."
+  },
+  {
+   "speaker": "A",
+   "text": "Ha. And the market reaction? The Nasdaq threw up on itself, in Axios's words, when a Hinojosa win looked likely, then rebounded on the gridlock hopes we talked about."
+  },
+  {
+   "speaker": "B",
+   "text": "Axios's bottom line: politics will change again, but technology is moving too fast for investors to wait."
+  },
+  {
+   "speaker": "A",
+   "text": "Next, Axios's big deal of the day. CVS Health announced plans to split into two independent public companies."
+  },
+  {
+   "speaker": "B",
+   "text": "One will be a health care services company with Aetna, the insurer, Oak Street Health, Caremark, which is the pharmacy benefit manager, and Signify Health. The other, CVS Pharmacy, will hold the retail stores, mail pharmacy, MinuteClinic, and a platform called Health one hundred."
+  },
+  {
+   "speaker": "A",
+   "text": "Pharmacy benefit manager. Explain."
+  },
+  {
+   "speaker": "B",
+   "text": "It's the middleman that negotiates drug prices between insurers, drugmakers, and pharmacies. Controversial, and it's part of why lawmakers like to poke at health care."
+  },
+  {
+   "speaker": "A",
+   "text": "The split is expected by the first half of twenty twenty eight. Axios calls it the dismantling of an empire CVS spent decades building through acquisitions, and says vertical integration, one company owning many steps of the chain, is out of fashion with a Democratic Congress."
+  },
+  {
+   "speaker": "B",
+   "text": "Fun note: Helena Foulkes, a former president of CVS Pharmacy, was elected governor of Rhode Island last night. Also, rival Walgreens was split into five businesses by its new owner Sycamore Partners."
+  },
+  {
+   "speaker": "A",
+   "text": "Now the venture round. Revolut, the British neobank, which is a bank that lives entirely in an app, completed a secondary sale at a one hundred fifteen billion dollar valuation, led by Glade Brook Capital."
+  },
+  {
+   "speaker": "B",
+   "text": "A secondary is when existing shareholders sell their shares, rather than the company issuing new ones. Meanwhile Fal, a San Francisco startup that runs AI models for other companies, raised one point three billion dollars at a sixteen billion dollar valuation, led by Bessemer with Nvidia joining."
+  },
+  {
+   "speaker": "A",
+   "text": "Inference infrastructure means the hardware and software that runs AI once it's trained. Which sounds boring until you realize it's where all the usage happens."
+  },
+  {
+   "speaker": "B",
+   "text": "Traversal raised one hundred twenty million dollars at a one billion dollar valuation for helping companies fix outages, and a few others raised smaller rounds, like EloElo, an Indian microdrama app, eighty million dollars, and 42AI, an Israeli firm, sixty two point five million dollars in seed funding."
+  },
+  {
+   "speaker": "A",
+   "text": "And a notable personnel note. Sequoia Capital is closing its London office and laying off its London staff, including partners Luciana Lixandru, George Robson, and Julien Bek, though it says it will keep investing in Europe."
+  },
+  {
+   "speaker": "B",
+   "text": "Now private equity, which means investment firms that buy companies, fix them up, and sell them. One Rock Capital Partners agreed to buy seventy percent of Kraft Heinz's coffee business, including Maxwell House and Gevalia, at an enterprise value over six hundred fifty million dollars."
+  },
+  {
+   "speaker": "A",
+   "text": "Enterprise value is the total price tag of a business including its debt. Also PAI Partners agreed to buy British skincare brand Elemis, Novacap bought OSI Maritime Systems, which makes navigation tech for NATO navies, and Arcline's Signia Aerospace agreed to buy Heads Up Technologies from JLL Partners."
+  },
+  {
+   "speaker": "B",
+   "text": "In public company deals, CrowdStrike agreed to buy Fiddler AI for four hundred million dollars. Fiddler makes software that monitors AI agents. And The Andersons agreed to buy Harvestone Low Carbon Partners, which owns three corn based ethanol plants, for nine hundred fifteen million dollars from Energy Capital Partners."
+  },
+  {
+   "speaker": "A",
+   "text": "And two hostile bids. A hostile takeover is when a buyer goes straight to shareholders after the board says no. Empower Brands, backed by Oaktree and a unit of Spectrum Brands, plans one for Helen of Troy after two offers were rebuffed, per Bloomberg."
+  },
+  {
+   "speaker": "B",
+   "text": "And Foodtastic made a hostile bid of around one billion Canadian dollars for restaurant franchisor MTY Food Group, also after two rejections. KeyBanc also bought a private equity focused investment bank, Atlantic Pacific Capital."
+  },
+  {
+   "speaker": "A",
+   "text": "The Financial Times also reported that billionaire Mark Walter explored selling Delaware Life, an insurer with seventy one billion dollars in assets, following a federal investigation into his investment empire. It could be part of a broader restructuring of his holding company, TWG Global."
+  },
+  {
+   "speaker": "B",
+   "text": "On the public offering side, YMTC, a Chinese chipmaker, has put its Shanghai IPO on hold, per Reuters. IPO means initial public offering, the first time a company sells shares to the public."
+  },
+  {
+   "speaker": "A",
+   "text": "And the fund raising board. I Squared Capital raised three billion dollars for an infrastructure credit fund, Ballistic Ventures is seeking three hundred sixty million for its third flagship cybersecurity fund, and Yosemite, an oncology focused firm led by Reed Jobs, raised three hundred fifty million."
+  },
+  {
+   "speaker": "B",
+   "text": "That's a lot of money. Pace yourself, Maya."
+  },
+  {
+   "speaker": "A",
+   "text": "On to companies. Oracle scrapped a multibillion dollar chip leasing contract with Tencent after pressure from the Trump administration."
+  },
+  {
+   "speaker": "B",
+   "text": "It is a sign of growing tension for American cloud companies serving Chinese AI firms. Washington is nervous about advanced computing power going to China."
+  },
+  {
+   "speaker": "A",
+   "text": "Also, Accenture co-authored a report on AI that was reportedly littered with false citations, wrongly attributed research, and apparently non-existent case studies."
+  },
+  {
+   "speaker": "B",
+   "text": "The irony is thick. The consultancy that sells AI expertise got accused of publishing hallucinations, which is when AI just makes things up."
+  },
+  {
+   "speaker": "A",
+   "text": "Disney is reportedly planning to lay off thousands of employees, per Bloomberg. Department heads are asking some managers to cut costs by twenty percent. New CEO Josh D'Amaro took over from Bob Iger earlier this year."
+  },
+  {
+   "speaker": "B",
+   "text": "Shopify dropped nearly nine percent, down eight point seven four, after it missed revenue targets for the first time in four years."
+  },
+  {
+   "speaker": "A",
+   "text": "But Rivian is the happy story. Shares are up sixteen percent after third quarter revenue rose thirty eight percent to two point two billion dollars, and it shipped nineteen thousand two hundred forty eight vehicles, up forty five percent."
+  },
+  {
+   "speaker": "B",
+   "text": "The cheaper R2 SUV is now its best seller. Still, Rivian loses money on cars. Only software and licensing technology to Volkswagen are profitable."
+  },
+  {
+   "speaker": "A",
+   "text": "Quick hits. Ferrari raised its full year outlook because of its customization business, and three M announced a seven point four billion dollar settlement over injuries from so-called forever chemicals."
+  },
+  {
+   "speaker": "A",
+   "text": "Trends. Tech and AI first. Google says schools cannot use its search engine without AI features like AI Overviews."
+  },
+  {
+   "speaker": "B",
+   "text": "Critics like former FTC chair Lina Khan said Google is forcing AI into classrooms. Google says it's giving schools more choice, and it's turning off AI tools in student accounts until educators switch them on."
+  },
+  {
+   "speaker": "A",
+   "text": "Financials. Binance's co-CEO said hackers who stole a record six point three four billion dollars last month used fake job interviews that planted hidden malware on an engineer's computer."
+  },
+  {
+   "speaker": "B",
+   "text": "The FBI has linked the hack to a North Korean group. Binance says it has already replenished ninety eight percent of the stolen assets."
+  },
+  {
+   "speaker": "A",
+   "text": "And in Turkey, the FT reports on a twenty billion dollar fraud scandal nicknamed Fonzi. More than four hundred fifty five thousand retail investors were lured by promises of a thousand percent returns."
+  },
+  {
+   "speaker": "B",
+   "text": "It is a mix of the Turkish word for fund and Ponzi. It's alleged to reach into the highest levels of government, and it hurts confidence in an already struggling economy."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's check the scoreboard. These come from the newsletters. The S and P five hundred closed Tuesday at seven thousand five hundred sixty eight point nine two, up point three six percent."
+  },
+  {
+   "speaker": "B",
+   "text": "The Dow closed Tuesday at fifty one thousand seven hundred eighty six, down point three eight percent, before Wednesday's three percent surge. The Nasdaq closed at twenty five thousand three hundred seventy two, up point eight two."
+  },
+  {
+   "speaker": "A",
+   "text": "Ten year yield, four point nine three three percent early Wednesday. Brent about one hundred two twenty five. Gold around four thousand forty two. And Bitcoin was seventy seven thousand eight hundred nineteen dollars, up one point four six percent at four thirty Tuesday afternoon."
+  },
+  {
+   "speaker": "B",
+   "text": "Normally we compare these to six months and one year ago. Tonight I couldn't reach reliable sources for those, so the email shows not available rather than guessing."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for the recap. Three things."
+  },
+  {
+   "speaker": "B",
+   "text": "One: Democrats swept the midterms, and markets cheered the gridlock, with the Dow up three percent."
+  },
+  {
+   "speaker": "A",
+   "text": "Two: the AI boom now has a data center problem in statehouses, which could change how investors value AI companies."
+  },
+  {
+   "speaker": "B",
+   "text": "Three: the Iran war is still shaping prices, and European inflation at four percent could mean higher interest rates in December."
+  },
+  {
+   "speaker": "A",
+   "text": "What to watch tomorrow. The ADP jobs report, services surveys, the trade numbers, earnings from McDonald's and Qualcomm, and the final Senate counts."
+  },
+  {
+   "speaker": "B",
+   "text": "And Friday's government jobs report."
+  },
+  {
+   "speaker": "A",
+   "text": "Thanks for listening. I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. Good night."
+  }
+ ]
+}
