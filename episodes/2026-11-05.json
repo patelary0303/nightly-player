@@ -1,0 +1,373 @@
+{
+ "id": "2026-11-05",
+ "title": "Nightly Brief - Thu, Nov 5",
+ "date": "Thu, Nov 5",
+ "hosts": {
+  "A": "Maya",
+  "B": "Theo"
+ },
+ "chapters": [
+  {
+   "title": "Cold open",
+   "i": 0
+  },
+  {
+   "title": "Macro & Rates",
+   "i": 7
+  },
+  {
+   "title": "Energy, Commodities & Geopolitics",
+   "i": 28
+  },
+  {
+   "title": "Deals & Capital Markets",
+   "i": 40
+  },
+  {
+   "title": "Companies",
+   "i": 51
+  },
+  {
+   "title": "Industry Trends",
+   "i": 59
+  },
+  {
+   "title": "Markets",
+   "i": 72
+  },
+  {
+   "title": "Wrap-up",
+   "i": 77
+  }
+ ],
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Two point five trillion dollars. That is how much value the Nasdaq lost in a single day today. Not a typo."
+  },
+  {
+   "speaker": "B",
+   "text": "Wait, really? Trillion with a T? That is more than the entire economy of most countries."
+  },
+  {
+   "speaker": "A",
+   "text": "It is. And two days ago, the same market was cheering. Welcome to Nightly Brief, I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. Tonight is Thursday, November fifth, and honestly, this is a whiplash kind of evening."
+  },
+  {
+   "speaker": "A",
+   "text": "Here is what's on tonight's show. First, macro and rates: the aftermath of the midterms, and why the Bank of England is about to do something it hasn't done in three years."
+  },
+  {
+   "speaker": "B",
+   "text": "Then energy and geopolitics, because oil just had its worst day in a long while. After that, deals, including a surprise from China and a restaurant chain saying no thanks to a billionaire."
+  },
+  {
+   "speaker": "A",
+   "text": "Then companies, industry trends, a quick walk through the markets, and a recap. Let's go."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's start with the big picture. Democrats had a sweeping night in Tuesday's midterm elections, and the financial world is still digesting it."
+  },
+  {
+   "speaker": "B",
+   "text": "Right, and the Financial Times had a nice detail. Ken Martin, who chairs the Democratic National Committee, called the results a massive warning sign to Republicans and a massive opportunity for Democrats."
+  },
+  {
+   "speaker": "A",
+   "text": "Now here's why a markets show cares. Hakeem Jeffries is expected to become the next Speaker of the House, and his job is to keep a very mixed coalition together."
+  },
+  {
+   "speaker": "B",
+   "text": "Mixed how? Because the party spans a huge range of views, right? The biggest fault lines the FT flagged are affordability bills, how far to roll back President Trump's tariffs, and whether to expand government health programs and subsidies."
+  },
+  {
+   "speaker": "A",
+   "text": "Quick translation on tariffs. A tariff is basically a tax on imported goods, paid by the importer, and usually passed along to you at the checkout. So if Congress rolls tariffs back, prices on some stuff could ease."
+  },
+  {
+   "speaker": "B",
+   "text": "Though a divided Washington also means fewer big laws passing at all. Investors tend to like that, because gridlock means fewer surprises. That is part of why the Dow jumped three percent on Wednesday."
+  },
+  {
+   "speaker": "A",
+   "text": "Which brings us to a fun fact. The Dow closed Wednesday at about fifty three thousand three hundred fifty six, up three point oh three percent, its best day since tariffs were introduced last April, according to Morning Brew."
+  },
+  {
+   "speaker": "B",
+   "text": "And the S&P five hundred, the broad index of big American companies, rose about one point six percent to roughly seven thousand six hundred eighty nine."
+  },
+  {
+   "speaker": "A",
+   "text": "But hold that thought, because today the mood flipped hard. We'll get to the Nasdaq in a few minutes."
+  },
+  {
+   "speaker": "B",
+   "text": "Next up, a number that could matter to your wallet. California voters were deciding on a wealth tax, a tax on the total net worth of very rich people, not just their yearly income."
+  },
+  {
+   "speaker": "A",
+   "text": "With about sixty percent of the expected vote counted, fifty five point six percent of ballots statewide were against it, according to the Associated Press numbers the FT cited. So it is trending toward failing, though the count isn't finished."
+  },
+  {
+   "speaker": "B",
+   "text": "Now the central bank corner. Central banks are the institutions, like the Federal Reserve, that set the basic price of borrowing money. They do it by moving what's called the policy interest rate."
+  },
+  {
+   "speaker": "A",
+   "text": "The Bank of England meets today, and it is expected to raise its rate to four percent from three point seven five percent. That would be its first increase in three years."
+  },
+  {
+   "speaker": "B",
+   "text": "Why hike? Usually because prices are rising too fast, and a higher rate makes loans more expensive, which cools spending. If you have a mortgage with a variable rate in Britain, that is the number you're watching."
+  },
+  {
+   "speaker": "A",
+   "text": "Also on deck, Mexico's central bank is expected to hold its rate steady at six point five percent. And Canada delivers its budget, with a focus on homelessness and a new government-backed program called Build Canada Homes to expand non-market housing."
+  },
+  {
+   "speaker": "B",
+   "text": "Non-market housing just means homes that aren't priced by the open market, like social or subsidized housing."
+  },
+  {
+   "speaker": "A",
+   "text": "And on earnings, which is when public companies report how much money they made, we're expecting Airbnb, Kimberly-Clark, Mattel, Carlyle and the health insurer Cigna to report third quarter results. Ralph Lauren reports second quarter, and Tapestry updates investors on its first quarter."
+  },
+  {
+   "speaker": "B",
+   "text": "Mattel and Ralph Lauren on the same day. Barbie and a polo shirt, basically a whole mall."
+  },
+  {
+   "speaker": "A",
+   "text": "Now, bonds. The ten year Treasury yield, which is roughly the interest rate the US government pays to borrow for ten years, was at four point eight nine four percent at Wednesday's close, down six basis points."
+  },
+  {
+   "speaker": "B",
+   "text": "And a basis point is one hundredth of one percent. So six basis points is zero point zero six percent. Tiny, but in the bond world that is a real move. And the FT showed it dipping a bit further this morning, to about four point eight seven four."
+  },
+  {
+   "speaker": "A",
+   "text": "Why should you care? That yield sets the tone for mortgage rates, car loans and how much the government pays in interest on its debt. Higher yields, higher borrowing costs for everybody."
+  },
+  {
+   "speaker": "B",
+   "text": "Okay, oil. Maya, this was a wild one."
+  },
+  {
+   "speaker": "A",
+   "text": "It was. Brent crude, the international benchmark, fell eight point seven percent on Wednesday. That is a gigantic one day move for oil. Then on Thursday it slid to its lowest level in two months."
+  },
+  {
+   "speaker": "B",
+   "text": "And the trigger was political. Vice President JD Vance said, and I'm quoting the gist, that the reason Republicans lost is the war in Iran."
+  },
+  {
+   "speaker": "A",
+   "text": "Right. He listed what he said the party needs to do to win back voters: end the war, focus on the cost of living and inflation, put America first, and change the relationship with Israel."
+  },
+  {
+   "speaker": "B",
+   "text": "So the market read that as: pressure is building on President Trump to wind the conflict down. Less war risk means less risk of oil supply getting disrupted, so the price drops."
+  },
+  {
+   "speaker": "A",
+   "text": "The FT had Brent down another zero point four percent in early trading, at about ninety four dollars and twenty three cents. One honest caveat: the FT's own market table showed a slightly different number, so treat the exact level as approximate."
+  },
+  {
+   "speaker": "B",
+   "text": "Why does this matter for a regular person? Oil feeds gasoline, shipping costs and airline fares. Cheaper oil is like a small tax cut for consumers, and it can help ease inflation."
+  },
+  {
+   "speaker": "A",
+   "text": "The FT also noted that Israel's war in Gaza, and Prime Minister Netanyahu's role in drawing the US into the Iran conflict, became an electoral flashpoint. Voters signaled an appetite for something different."
+  },
+  {
+   "speaker": "B",
+   "text": "Meanwhile, a counter move. Russia agreed to supply Iran with ninety launchers for advanced guided missiles that Russian forces have been using in Ukraine. It's a sign the military partnership between Moscow and Tehran is going strong."
+  },
+  {
+   "speaker": "A",
+   "text": "Over to Asia and Africa for two quick geopolitical notes. In Hong Kong, the High Court sentenced democracy activist Joshua Wong to ten years in prison."
+  },
+  {
+   "speaker": "B",
+   "text": "And in South Africa, early local election results suggested a dramatic drop for the ruling African National Congress. One early projection gave it thirty two percent of the vote, compared with forty six percent in the last local elections in twenty twenty one, and only a narrow lead over the Democratic Alliance."
+  },
+  {
+   "speaker": "A",
+   "text": "Gold, by the way, was up one point eight percent early Thursday, at about four thousand one hundred thirty four dollars an ounce on the Comex exchange. Investors tend to buy gold when they feel nervous."
+  },
+  {
+   "speaker": "B",
+   "text": "Deals time. Let me start with the one that surprised me. China blocked SoftBank's five point four billion dollar purchase of ABB's robotics division."
+  },
+  {
+   "speaker": "A",
+   "text": "The FT called it a shock move. ABB is a Swiss and Swedish company with about twelve thousand seven hundred employees in China, and China is the robotics unit's biggest market, so Beijing had real leverage."
+  },
+  {
+   "speaker": "B",
+   "text": "And this hits Masayoshi Son's big plan, the SoftBank founder wants to be a leader in what he calls physical AI, meaning AI that moves in the real world through robots. The FT says SoftBank is now trying to work out what went wrong."
+  },
+  {
+   "speaker": "A",
+   "text": "Lesson for beginners: big mergers need approval from regulators in every major country where the companies do business. One no, and the deal can fall apart."
+  },
+  {
+   "speaker": "B",
+   "text": "Next, a takeover with a twist. Wendy's board unanimously rejected a one point four billion dollar offer from Nelson Peltz's firm, Trian Fund Management. The offer was seven dollars and thirty five cents a share, in cash."
+  },
+  {
+   "speaker": "A",
+   "text": "Wendy's says the offer undervalues the company, and that it's confident in its new CEO, Bob Wright, and his turnaround plan, which is showing early results."
+  },
+  {
+   "speaker": "B",
+   "text": "And here's the jargon moment. Wendy's also adopted a poison pill. It's a defense where, if an outsider buys too much stock, everyone else can buy more shares at a discount, which waters down the buyer's stake and makes a hostile takeover very expensive."
+  },
+  {
+   "speaker": "A",
+   "text": "Peltz is what's known as an activist investor, someone who buys a big stake and pushes a company to change. Whether he raises his bid is the thing to watch."
+  },
+  {
+   "speaker": "B",
+   "text": "One more. LIV Golf, the challenger league that filed for Chapter eleven bankruptcy, which is a legal process that lets a company restructure its debts. BC Partners, a private equity firm, is dropping its bid to relaunch it."
+  },
+  {
+   "speaker": "A",
+   "text": "Private equity just means investment firms that buy companies using pooled money from big investors, hoping to sell later for a profit. And the Wall Street Journal reports that after last-ditch revival efforts failed, LIV Golf is finished."
+  },
+  {
+   "speaker": "B",
+   "text": "Sorry, golf fans. Note that Axios Pro Rata didn't land in the inbox tonight, so these are the deal stories we have."
+  },
+  {
+   "speaker": "A",
+   "text": "On to companies. First, a quick follow up on one we covered last night, CVS. The new part: its shares fell twelve point five percent on Wednesday, wiping out almost all of the year's gains."
+  },
+  {
+   "speaker": "B",
+   "text": "That's after the plan to spin off its nine thousand pharmacies into a separate company, CVS Pharmacy, in the first half of twenty twenty eight. Investors apparently weren't thrilled, even though Washington has been pushing to separate pharmacies from the middlemen called pharmacy benefit managers."
+  },
+  {
+   "speaker": "A",
+   "text": "Next, McDonald's. Its stock rose more than six percent on Wednesday, even though same store sales in the US fell last quarter for the first time since early twenty twenty five."
+  },
+  {
+   "speaker": "B",
+   "text": "Wait, sales fell and the stock jumped? That's the expectations game. The drop was smaller than Wall Street feared, and the CEO said US performance is already improving. The company plans new value bundles to win customers back."
+  },
+  {
+   "speaker": "A",
+   "text": "Snap went the other way. The Snapchat parent fell more than eleven percent in after hours trading after its third quarter report missed estimates on revenue and daily active users."
+  },
+  {
+   "speaker": "B",
+   "text": "Now banks and consultants. UBS has cut spending on outside consultants and contractors by more than eight hundred million dollars this year, as it winds down the Credit Suisse integration and cuts thousands of jobs, per the FT."
+  },
+  {
+   "speaker": "A",
+   "text": "And over in law, the elite British firm A and O Shearman plans to invest one point one billion dollars in artificial intelligence over the next five years."
+  },
+  {
+   "speaker": "B",
+   "text": "So banks are spending less on consultants, and law firms are spending more on AI. Everyone is trying to figure out what work humans still need to do."
+  },
+  {
+   "speaker": "A",
+   "text": "Industry trends, starting with tech and AI, and this is the story behind that two point five trillion dollar number."
+  },
+  {
+   "speaker": "B",
+   "text": "So here's what happened. Democrats won big, and many of them campaigned on slowing down AI data centers, the giant warehouses of computers that power AI. The Wall Street Journal says the Nasdaq lost an estimated two point five trillion dollars in value today, and tipped into what's called a correction."
+  },
+  {
+   "speaker": "A",
+   "text": "A correction is when an index falls at least ten percent from its recent high. It was the Nasdaq's worst day since last April's tariff chaos."
+  },
+  {
+   "speaker": "B",
+   "text": "About one trillion dollars of that came from the so-called Magnificent Seven, the giant tech companies. The Philadelphia semiconductor index had its worst day since the early pandemic, and Nvidia, the poster child of the AI boom, is now down for the year."
+  },
+  {
+   "speaker": "A",
+   "text": "Why would elections do that? Morning Brew laid out the politics. In Texas, Democrat Gina Hinojosa beat Governor Greg Abbott after promising a data center moratorium, meaning a pause on new construction."
+  },
+  {
+   "speaker": "B",
+   "text": "Ohio elected Amy Acton, who also wants a conditional moratorium, and Meta and Amazon Web Services have plans to spend a combined three billion dollars on data centers there. Georgia elected Keisha Lance Bottoms, who campaigned on a construction pause too."
+  },
+  {
+   "speaker": "A",
+   "text": "With Pennsylvania staying blue, roughly half of proposed US data center projects are now in places with leaders who've promised to halt them. And at least thirty eight localities across nine states voted to ban or restrict data centers."
+  },
+  {
+   "speaker": "B",
+   "text": "Elon Musk spent at least four hundred seventy four million dollars, a record for an individual donor, trying to elect Republicans. His companies moved to Texas, and he posted that data centers in space were looking pretty appealing."
+  },
+  {
+   "speaker": "A",
+   "text": "Oh, and one nuance. On Wednesday, the big cloud players like Amazon, Google, Microsoft, Meta and Apple actually rose, because investors figured it's good for companies that already have their data centers. Today, though, everything got hit."
+  },
+  {
+   "speaker": "B",
+   "text": "Next, robotaxis. Waymo says it will end its exclusive partnership with Uber in Austin and Atlanta in January twenty twenty eight and offer rides on its own app. Its co-CEO said the Uber experience was, quote, a little bit of a crapshoot, because riders can't be guaranteed a driverless car."
+  },
+  {
+   "speaker": "A",
+   "text": "And gaming. Nintendo released its remake of The Legend of Zelda: Ocarina of Time, and it has a ninety six on Metacritic, the best reviewed game of the year so far. It's only on the five hundred dollar Switch 2."
+  },
+  {
+   "speaker": "B",
+   "text": "Now industrials and travel. At least a dozen more European passenger flights got bomb threats on Thursday, after eight planes were grounded earlier in the week. Experts say it's probably a coordinated campaign. Flights were diverted, fighter jets scrambled, and police searched planes in Italy, Poland, France, Austria, Bulgaria and the Czech Republic."
+  },
+  {
+   "speaker": "A",
+   "text": "The Journal reports two of the diversions came from an email to Rome's main airport that claimed to be from a fringe ultranationalist Russian group. These look like hoaxes, but they cost airlines real money."
+  },
+  {
+   "speaker": "B",
+   "text": "Time for the markets walk. A reminder that most levels come from Wednesday's close, and today's selloff numbers weren't in the newsletters."
+  },
+  {
+   "speaker": "A",
+   "text": "S and P five hundred, seven thousand six hundred eighty nine, up one point six percent. Dow, fifty three thousand three hundred fifty six, up three percent. Nasdaq composite, twenty five thousand seven hundred thirty seven, up one point four percent."
+  },
+  {
+   "speaker": "B",
+   "text": "Ten year Treasury yield, four point eight nine percent. Bitcoin, about eighty thousand six hundred seventy one dollars, up three point seven percent. Gold, around four thousand one hundred thirty four. Brent, roughly ninety four dollars."
+  },
+  {
+   "speaker": "A",
+   "text": "And what about six months and a year ago? Tonight we couldn't reach the data sources, so the brief says not available rather than guess."
+  },
+  {
+   "speaker": "B",
+   "text": "But the real story is that the Wednesday numbers are old news already. Today's Nasdaq drop wiped out a lot of that."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's do the three point recap. One: the midterms rattled the AI trade, with the Nasdaq losing about two point five trillion dollars today and entering a correction."
+  },
+  {
+   "speaker": "B",
+   "text": "Two: oil fell sharply, Brent down almost nine percent Wednesday, as political pressure grows to end the Iran conflict. Three: the Bank of England is expected to raise rates for the first time in three years, and deals are getting complicated, with China blocking SoftBank and Wendy's fighting off Trian."
+  },
+  {
+   "speaker": "A",
+   "text": "What to watch tomorrow? Whether the tech selloff continues, the Bank of England decision, earnings from Airbnb, Cigna and Mattel, and whether Brent holds below one hundred."
+  },
+  {
+   "speaker": "B",
+   "text": "That's Nightly Brief. I'm Theo."
+  },
+  {
+   "speaker": "A",
+   "text": "And I'm Maya. Thanks for listening, and see you tomorrow night."
+  }
+ ]
+}
