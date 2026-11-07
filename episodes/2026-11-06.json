@@ -1,0 +1,353 @@
+{
+ "id": "2026-11-06",
+ "title": "Nightly Brief - Fri, Nov 6",
+ "date": "Fri, Nov 6",
+ "hosts": {
+  "A": "Maya",
+  "B": "Theo"
+ },
+ "chapters": [
+  {
+   "title": "Cold open",
+   "i": 0
+  },
+  {
+   "title": "Macro & Rates",
+   "i": 5
+  },
+  {
+   "title": "Energy, Commodities & Geopolitics",
+   "i": 27
+  },
+  {
+   "title": "Deals & Capital Markets",
+   "i": 40
+  },
+  {
+   "title": "Companies",
+   "i": 56
+  },
+  {
+   "title": "Industry Trends",
+   "i": 61
+  },
+  {
+   "title": "Markets",
+   "i": 67
+  },
+  {
+   "title": "Wrap-up",
+   "i": 71
+  }
+ ],
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "One hundred sixty-five thousand jobs. That's what the American economy added in October, and economists were expecting about fifty-nine thousand. Wait, really?"
+  },
+  {
+   "speaker": "B",
+   "text": "Really. Welcome to the Nightly Brief, I'm Theo, and that jobs number is just the opening act of a very strange Friday."
+  },
+  {
+   "speaker": "A",
+   "text": "And I'm Maya. Quick refresher on how we got here. Thursday was a brutal day for stocks, with tech getting hammered after the midterm elections. Today, tech bounced back, a new chief of staff was named at the White House, and the deal machine kept on rolling."
+  },
+  {
+   "speaker": "B",
+   "text": "Here's what's on tonight's show. First, the economy and the markets after that wild week. Then energy and world news. Then the biggest deals, a few companies in the spotlight, the trends to know, and a quick walk through the numbers."
+  },
+  {
+   "speaker": "A",
+   "text": "Grab your snack. Let's go."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's start with that jobs report, because it's the biggest economic data point of the week. The Labor Department said employers added one hundred sixty-five thousand jobs in October. Economists had expected about fifty-nine thousand."
+  },
+  {
+   "speaker": "B",
+   "text": "That's nearly three times the forecast. And the unemployment rate slipped to four point one percent, when economists had expected four point two. Axios also noted that the two months before October were revised up by a combined eighty-four thousand jobs."
+  },
+  {
+   "speaker": "A",
+   "text": "Okay, for anyone who doesn't live and breathe this stuff, why does a jobs report move everything?"
+  },
+  {
+   "speaker": "B",
+   "text": "Because jobs are the heartbeat of the economy. More hiring means more people with paychecks, which means more spending. And it matters for interest rates too, because central banks watch the job market closely when deciding whether to cut or hold rates. Strong hiring can mean less pressure to cut."
+  },
+  {
+   "speaker": "A",
+   "text": "So good news for workers, but maybe a complicated message for anyone hoping for cheaper borrowing."
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. Now, the other half of the macro story is the stock market, and it's been a roller coaster. Quick recap of Thursday, since you may have heard about it. The tech heavy Nasdaq one hundred index fell about six point four percent, and the S and P five hundred fell about four point four percent."
+  },
+  {
+   "speaker": "A",
+   "text": "And the Financial Times says the broader index of American companies, called the S and P Composite fifteen hundred, had its biggest fall since the year two thousand. Their count of the damage was about three point two trillion dollars wiped off US stocks."
+  },
+  {
+   "speaker": "B",
+   "text": "Three point two trillion. That is a staggering number. Now, last night we told you about roughly two and a half trillion in losses on the Nasdaq. The Financial Times is counting a broader set of US stocks, which is why the figure is bigger."
+  },
+  {
+   "speaker": "A",
+   "text": "What was driving it? In a nutshell, investors worry that newly elected Democrats, some of whom campaigned against data centers, will slow down the huge spending on chips, servers and facilities that has powered the AI boom."
+  },
+  {
+   "speaker": "B",
+   "text": "One strategist at a Swiss private bank put it this way. With the blue wave, investors fear that peak AI spending is behind us. Morning Brew added a few details. The Philadelphia semiconductor index fell more than twelve percent. Nvidia dropped nine percent, and a memory chip maker called Sandisk dropped twenty-two percent."
+  },
+  {
+   "speaker": "A",
+   "text": "And the VIX, Wall Street's fear gauge, jumped sixty-nine percent. The VIX measures how much traders expect stocks to swing. When it spikes, people are scared."
+  },
+  {
+   "speaker": "B",
+   "text": "Meanwhile, the safe places did their job. Gold rose a bit, Treasury bonds rose, and the Swiss franc hit nearly a two month high against the dollar."
+  },
+  {
+   "speaker": "A",
+   "text": "Now here's the new part for tonight. Today, tech bounced. The Wall Street Journal says the Nasdaq gained one point one percent, reversing some of Thursday's losses, while the Dow lagged and lost half a percent. The hardest hit names from earlier in the week, like CoreWeave, Intel, Nvidia, Micron and Arm, all climbed."
+  },
+  {
+   "speaker": "B",
+   "text": "But overseas, the pain showed up first. Japan's Nikkei fell almost six percent, its biggest one day drop since the trade war began in April of last year, and South Korea's Kospi fell about six percent as well. Europe was down too, with the FTSE one hundred in London off about two percent in early trading."
+  },
+  {
+   "speaker": "A",
+   "text": "So is this a bubble popping, or a panic that will fade? Morning Brew shared one view worth hearing. Ed Yardeni of Yardeni Research argues slowing the data center build out could actually prevent an even bigger AI crash down the road."
+  },
+  {
+   "speaker": "B",
+   "text": "And the Wall Street Journal's investing columnist Jason Zweig has a good reminder. He says politics can be mental poison for investors. Studies show people change their expectations for the economy just based on whether their party won, but markets usually react more mildly and slowly to politics. What really drives returns, he says, is earnings, inflation and interest rates."
+  },
+  {
+   "speaker": "A",
+   "text": "Good advice for anyone staring at their retirement account tonight. Don't panic sell because of a headline."
+  },
+  {
+   "speaker": "B",
+   "text": "One more macro thread comes from Axios. They point out that private markets, like startups and private equity, tend to follow public markets with a lag. The Nasdaq is up about six percent this year, but down more than four percent over the past six months. Yet private tech valuations have been soaring. So maybe the public market is warning the private one."
+  },
+  {
+   "speaker": "A",
+   "text": "Explain that for someone who's never heard of private markets."
+  },
+  {
+   "speaker": "B",
+   "text": "Sure. Public markets are the stock market, where anyone can buy shares. Private markets are companies and funds that aren't listed, so only certain investors can own them. Axios says things like private equity and private credit are heading into retirement plans, so regular people could soon have more money tied to private assets. That makes the question of whether private valuations are too high matter to more of us."
+  },
+  {
+   "speaker": "A",
+   "text": "On deck. The Financial Times says Berkshire Hathaway, Brookfield Asset Management, IAG, Moderna and Charter Communications were reporting earnings today. Earnings are just a company's report card on how much money it made. We don't have the results in our newsletters, so keep an eye out for them."
+  },
+  {
+   "speaker": "B",
+   "text": "And the Financial Times notes Republican committee chairs have asked Jensen Huang to appear before Congress on November eighteenth. Also, Axios says one big bellwether is the Anthropic IPO, with a roadshow likely to begin in about a week."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for energy and the world stage. Starting with oil. In early Friday trading, Brent crude, the global benchmark, was at ninety-eight dollars and fifty-seven cents, up a little. American crude, called WTI, was at ninety-one dollars."
+  },
+  {
+   "speaker": "B",
+   "text": "And gold, the classic safe haven, was around four thousand sixty-four dollars an ounce, down nearly one percent in the morning. Remember that gold rose on Thursday when stocks tumbled. A safe haven is just an asset people run to when they're nervous."
+  },
+  {
+   "speaker": "A",
+   "text": "A big story from the Financial Times. Russian president Vladimir Putin ordered the seizure of Japan Tobacco's Russian business. He signed a decree placing the assets of the company's Russian subsidiaries under temporary management of a local company."
+  },
+  {
+   "speaker": "B",
+   "text": "And Japan Tobacco's shares plunged nearly twenty percent on the news. It strains already tense relations between Moscow and Tokyo, and it's a reminder of the risk of owning assets in a country that can take them."
+  },
+  {
+   "speaker": "A",
+   "text": "Another one, from Paraguay. President Santiago Pena has resigned after the collapse of a major digital bank. The central bank seized control of Ueno Bank earlier this week, leaving millions of people unable to access their savings. The Financial Times says the bank was used by more than half of the country's adults."
+  },
+  {
+   "speaker": "B",
+   "text": "That's every banker's nightmare. When people can't get to their own money, it can topple a government pretty fast."
+  },
+  {
+   "speaker": "A",
+   "text": "Back to the Middle East. The Wall Street Journal has a piece saying Israel's economy is growing despite three years of war. But the fighting has left a growing defense bill, forcing hard choices about paying for security without hurting growth. The US provides three point eight billion dollars a year in military aid, about half a percent of Israel's economy."
+  },
+  {
+   "speaker": "B",
+   "text": "The Journal also flagged coverage on what's next for Iran peace talks after the midterms, and on how shippers cross the Red Sea by emailing Houthi rebels. We only saw those headlines, so we'll leave it at that."
+  },
+  {
+   "speaker": "A",
+   "text": "Now, Washington. Big news. The Wall Street Journal says President Trump named Stephen Miller his new chief of staff, starting Monday. He replaces Susie Wiles, who moves to the president's political operation, after Republicans suffered far reaching losses in the midterms."
+  },
+  {
+   "speaker": "B",
+   "text": "Separately, the Miami US attorney who oversaw the investigation into Trump's political foes resigned, and the Journal says that's expected to be one of a series of departures from the Justice Department after the elections."
+  },
+  {
+   "speaker": "A",
+   "text": "Also from the Journal. The White House is weighing an executive order that would label some nonprofits as having terror ties and suspend their tax exempt status right away. Officials say it may never be signed, and a White House official called the talk speculative."
+  },
+  {
+   "speaker": "B",
+   "text": "On the political analysis side, The Economist argues the blue wave was powered by moderate Democrats, with progressives mostly winning easy races. And another Economist piece says with a stronger Democratic opposition, Trump can no longer do as he pleases at home, but he still has enormous power abroad."
+  },
+  {
+   "speaker": "A",
+   "text": "The Financial Times adds that Nithya Raman beat Los Angeles mayor Karen Bass, a win for progressives that means Democratic Socialists lead the two largest US cities."
+  },
+  {
+   "speaker": "A",
+   "text": "Okay, my favorite segment. Deals. And we start with the big idea of the day from Axios. General Mills is weighing a separation of its Haagen-Dazs ice cream business outside North America, which could set it up for a sale, according to the Wall Street Journal."
+  },
+  {
+   "speaker": "B",
+   "text": "Why does it matter? It would be the third global food group to split off ice cream. Ice cream is seasonal and needs different shipping, with freezers and all, than most packaged foods. A logical buyer could be Froneri, which already runs Haagen-Dazs in the US and is owned by the private equity firm PAI Partners, Nestle and the Abu Dhabi Investment Authority."
+  },
+  {
+   "speaker": "A",
+   "text": "Private equity, for newcomers, means investment firms that buy companies using money from big investors, try to improve them, and sell them later for a profit."
+  },
+  {
+   "speaker": "B",
+   "text": "Next, defense tech. Shield AI, the San Diego military drone maker, raised one billion dollars in a Series H round. A Series H is a late stage funding round. It also got a one billion dollar structured equity investment from Blackstone and five hundred million dollars in debt led by JPMorgan."
+  },
+  {
+   "speaker": "A",
+   "text": "And then it agreed to buy the radar company Echodyne for five point three billion dollars. Echodyne had raised only about two hundred million dollars from investors, including Northrop Grumman."
+  },
+  {
+   "speaker": "B",
+   "text": "A related one. CesiumAstro, an Austin space and defense communications company, raised seven hundred thirty million dollars at a four point five billion dollar valuation, led by Janus Henderson. Valuation just means what investors think the whole company is worth."
+  },
+  {
+   "speaker": "A",
+   "text": "In Germany, the government agreed to buy half of the tank maker KNDS from family investors for about six point five billion euros. That's a government taking a stake in defense."
+  },
+  {
+   "speaker": "B",
+   "text": "Now tech and software. Silver Lake and Saudi Arabia's Public Investment Fund have held talks to acquire Unity Software, the game engine maker, which has a market value of about twenty-two billion dollars, per Reuters. Palo Alto Networks is in talks to buy an Israeli security startup called Clutch for about five hundred million dollars in cash, per TechCrunch."
+  },
+  {
+   "speaker": "A",
+   "text": "Dropbox agreed to buy Tigris Data for three hundred fifty million dollars. CDW is buying the data and AI consultancy Lovelytics for five hundred twenty-five million. And the New York Times is in talks to buy Letterboxd for around three hundred thirty million dollars."
+  },
+  {
+   "speaker": "B",
+   "text": "Morning Brew says Letterboxd is like Goodreads for movie fans, with thirty million users. The deal could still fall apart, and the film studio A24 was reportedly priced out."
+  },
+  {
+   "speaker": "A",
+   "text": "Private equity roundup. Bertram Capital agreed to buy Medical Technology Associates for four hundred to four hundred fifty million dollars. Permira bought home services firm Flint Group from General Atlantic. Transom Capital agreed to buy the Cree LED business of Penguin Solutions. And in another one, Agility Robotics, the humanoid robot maker, finished its reverse merger with a SPAC."
+  },
+  {
+   "speaker": "B",
+   "text": "A SPAC is a blank check company that raises money in the stock market and then merges with a private company to take it public. It's a shortcut to being listed."
+  },
+  {
+   "speaker": "A",
+   "text": "IPOs. Rezera, a Boston biotech, set terms to sell sixteen point seven million shares at eleven to thirteen dollars each. A children's media SPAC from Kartoon Studios filed for a three hundred million dollar IPO, and a Japanese luxury villa operator called Nota is seeking about one hundred fifty-two million dollars in a Tokyo IPO."
+  },
+  {
+   "speaker": "B",
+   "text": "Smaller venture rounds worth a mention. Harbinger, the electric truck maker, raised two hundred forty million, Kalepa raised seventy-five million at a four hundred seventy million valuation for its AI powered insurance startup, and Sagard raised five hundred twenty million euros for a fund that invests in emerging managers."
+  },
+  {
+   "speaker": "A",
+   "text": "One that matters for regular investors from the Financial Times. Blackstone is doubling lock up periods for some Asian investors in its big retail private equity fund, called BXPE, to avoid a repeat of waves of redemptions, which are investors asking for their money back."
+  },
+  {
+   "speaker": "B",
+   "text": "New clients in Singapore and Hong Kong will have to hold shares for a minimum of four years before selling, or pay a penalty fee. It's a reminder that private funds are harder to get out of than stocks."
+  },
+  {
+   "speaker": "A",
+   "text": "On to companies. Tesla is scrapping its Cybertruck. Elon Musk said on X that production will wind down next year to make room for the self driving Cybercab at its Texas factory."
+  },
+  {
+   "speaker": "B",
+   "text": "The Journal calls it an unceremonious end for a vehicle Musk once called Tesla's best product ever. It's another sign Tesla is shifting from selling regular cars toward self driving vehicles and robots. And Tesla stock fell nearly eleven percent on Thursday, according to Morning Brew."
+  },
+  {
+   "speaker": "A",
+   "text": "Next, Canva. The design software company is restructuring, affecting twenty-two percent of staff, nearly thirteen hundred workers, who will lose their jobs, switch roles or relocate. The internet loved the severance package. At least six months of pay, a year of health care, and employees get to keep their work MacBooks."
+  },
+  {
+   "speaker": "B",
+   "text": "The backdrop is that AI image tools are hurting design software firms. Canva's AI costs are rising and revenue growth forecasts are shrinking, and investors cut its valuation in August, right as it eyes an IPO."
+  },
+  {
+   "speaker": "A",
+   "text": "And finally, golf. LIV Golf, the league backed by Saudi money to rival the PGA Tour, is shutting down, its lawyers said in a bankruptcy hearing. The Saudi fund pulled its funding in April after sinking five billion dollars in. A British firm, BC Partners, offered to rescue it with three hundred million dollars, but dropped the plan when it couldn't get enough top golfers on board."
+  },
+  {
+   "speaker": "A",
+   "text": "Industry trends. First, tech and AI. OpenAI is now calling data centers compute campuses, part of an effort to soften their image, and it outlined a framework for letting local communities have a say. That came about two days after voters rejected data center projects in their towns, Morning Brew says."
+  },
+  {
+   "speaker": "B",
+   "text": "And Morning Brew adds that new Democratic governors are pausing data center construction in hubs like Texas and Georgia. The Financial Times reports a backlash against tech leaders who courted Trump, from Democrats planning to slow AI development."
+  },
+  {
+   "speaker": "A",
+   "text": "The Economist also has a piece on how firms are racing to protect themselves from AI powered cyber threats, after a devastating wave of hacking attacks. We only saw the headline summary, but it fits a theme. AI is creating new risks as well as new profits."
+  },
+  {
+   "speaker": "B",
+   "text": "Next, financial and professional services. The Financial Times says the biggest consulting firms, Accenture and the Big Four accounting firms, are moving downmarket, going after smaller companies, as AI frees up staff and lets them sell services at lower prices. AI specialist start ups backed by venture capital are joining in."
+  },
+  {
+   "speaker": "A",
+   "text": "Healthcare. The Economist says the latest Ebola outbreak could be the worst ever, with new cases in Kenya and Nigeria showing it's unchecked. And the Journal reports hospital emergency room boarding is growing. One in four patients admitted through the ER waited at least four hours for a bed in September twenty twenty-four, compared with one in eight in twenty seventeen."
+  },
+  {
+   "speaker": "B",
+   "text": "And real estate. The Economist's figure of the day is that American rents have risen forty-two percent since twenty nineteen. The magazine asks whether the country is in a renters' recession."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's walk the markets table. Just a heads up, we could not pull historical prices tonight, so our six month and one year comparisons are marked not available in the email. We're not going to guess."
+  },
+  {
+   "speaker": "B",
+   "text": "Here are the latest levels from the newsletters. The S and P five hundred closed Thursday at seven thousand three hundred fifty-four, down four point four percent. The Dow closed at fifty-one thousand five hundred twenty-one, down three point four percent. The Nasdaq composite closed at twenty-four thousand three hundred fifteen, down five and a half percent."
+  },
+  {
+   "speaker": "A",
+   "text": "Today, per the Journal, the Nasdaq gained one point one percent and the Dow lost half a percent."
+  },
+  {
+   "speaker": "B",
+   "text": "The ten year Treasury yield was around four point eight three percent early Friday, basically flat. The ten year yield is the interest rate the government pays to borrow for ten years, and it influences mortgage rates and loans for everyone. Brent was about ninety-eight fifty-seven. Gold was about four thousand sixty-four. And Bitcoin was around seventy-six thousand dollars at four thirty Thursday afternoon, down about five percent."
+  },
+  {
+   "speaker": "A",
+   "text": "Okay, three point recap. One, the October jobs report crushed forecasts, one hundred sixty-five thousand jobs against about fifty-nine thousand expected, with unemployment at four point one percent."
+  },
+  {
+   "speaker": "B",
+   "text": "Two, AI stocks bounced on Friday after Thursday's historic rout, but the political risk to the AI build out is the story to watch, along with a new chief of staff in Washington."
+  },
+  {
+   "speaker": "A",
+   "text": "Three, deals kept flowing. Shield AI buying Echodyne for five point three billion, General Mills weighing a Haagen-Dazs split, and the government of Germany buying a stake in KNDS."
+  },
+  {
+   "speaker": "B",
+   "text": "What to watch next. Whether the tech rebound holds, the Anthropic IPO roadshow expected in about a week, and Jensen Huang's possible appearance before Congress on November eighteenth."
+  },
+  {
+   "speaker": "A",
+   "text": "That's the Nightly Brief. I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. Have a great weekend, and we'll see you next time."
+  }
+ ]
+}
