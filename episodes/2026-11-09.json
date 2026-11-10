@@ -1,0 +1,377 @@
+{
+ "id": "2026-11-09",
+ "title": "Nightly Brief - Mon, Nov 9",
+ "date": "Mon, Nov 9",
+ "hosts": {
+  "A": "Maya",
+  "B": "Theo"
+ },
+ "chapters": [
+  {
+   "title": "Cold open",
+   "i": 0
+  },
+  {
+   "title": "Macro & Rates",
+   "i": 10
+  },
+  {
+   "title": "Energy, Commodities & Geopolitics",
+   "i": 29
+  },
+  {
+   "title": "Deals & Capital Markets",
+   "i": 41
+  },
+  {
+   "title": "Companies",
+   "i": 60
+  },
+  {
+   "title": "Industry Trends",
+   "i": 68
+  },
+  {
+   "title": "Markets",
+   "i": 74
+  },
+  {
+   "title": "Wrap-up",
+   "i": 78
+  }
+ ],
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "A chip company worth trillions, a boss who says he was unfaithful, and a spy story straight out of a thriller. Welcome to Nightly Brief, Monday edition. I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. Maya, I have read a lot of business news, and I did not have a spy novel on my bingo card for a company that makes computer chips."
+  },
+  {
+   "speaker": "A",
+   "text": "Same! Here is what is on tonight's show. First, rates and the economy, because a big inflation report lands tomorrow. Then oil, copper and world politics."
+  },
+  {
+   "speaker": "B",
+   "text": "After that, a very busy night of deals, including a plan to merge two Canadian oil sands companies and a twenty two billion dollar media deal that just closed."
+  },
+  {
+   "speaker": "A",
+   "text": "Then the companies making news, a quick tour of industry trends, a walk through the markets, and a three point recap. And yes, we start with Nvidia, because everything tonight connects back to it."
+  },
+  {
+   "speaker": "B",
+   "text": "Okay, so, quick recap of the story. Nvidia is the company that makes the chips that power artificial intelligence. Its co-founder and chief executive, Jensen Huang, told the board about a romantic relationship with a woman named Alice Huang. No relation, by the way."
+  },
+  {
+   "speaker": "A",
+   "text": "And US intelligence concluded that she was recruited to spy for China's Ministry of State Security. She is an executive at Megaspeed, a Singapore based customer of Nvidia. Jensen Huang put out a statement saying, quote, I was unfaithful to my wife, and that there is no excuse."
+  },
+  {
+   "speaker": "B",
+   "text": "The board says it is opening an independent investigation, helped by an outside law firm, and says it has no reason to believe national security or Nvidia secrets were compromised. Huang stays in charge while the probe runs."
+  },
+  {
+   "speaker": "A",
+   "text": "Nvidia shares fell between about five and seven percent when trading opened, depending on which newsletter you read. That wiped out hundreds of billions of dollars in market value."
+  },
+  {
+   "speaker": "B",
+   "text": "Wait, really? Hundreds of billions? In one morning? That is more than the entire value of many famous companies. We will come back to why this is such a big deal. First, the economy."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's start with the thing every investor is staring at: inflation. Tomorrow the government releases the consumer price index for October. That is the report that tracks how much everyday prices rose, groceries, rent, gas, all of it."
+  },
+  {
+   "speaker": "B",
+   "text": "And it is the last inflation report before the Federal Reserve meets in December. The Fed is the central bank that sets the benchmark interest rate. Morning Brew says a rate hike is expected at that meeting."
+  },
+  {
+   "speaker": "A",
+   "text": "A hike. Not a cut. That surprised me when I read it."
+  },
+  {
+   "speaker": "B",
+   "text": "It tells you inflation is the worry right now, not weak growth. When the Fed raises rates, borrowing costs go up. Think car loans, credit cards and mortgages all getting a bit more expensive, while savings accounts pay a bit more."
+  },
+  {
+   "speaker": "A",
+   "text": "And there is a second report coming Friday, the producer price index. That measures wholesale prices, what businesses pay before things reach the shelf. In September it was up six point three percent from a year earlier, the highest since twenty twenty two."
+  },
+  {
+   "speaker": "B",
+   "text": "Which matters because wholesale costs often trickle down to what you pay. It is like the restaurant paying more for flour. Eventually the pizza costs more."
+  },
+  {
+   "speaker": "A",
+   "text": "Speaking of rates, let's talk bond yields. The ten year Treasury yield is the interest rate the US government pays to borrow money for ten years. It sits at about four point eight six percent."
+  },
+  {
+   "speaker": "B",
+   "text": "And Morning Brew notes that is up about sixty nine point six basis points this year. A basis point is one hundredth of one percentage point. So sixty nine basis points is about seven tenths of a percentage point. Sounds small, but for a market that size it is a big move."
+  },
+  {
+   "speaker": "A",
+   "text": "Why should a regular person care? Because the ten year yield is the anchor for mortgage rates. When it climbs, home loans get pricier."
+  },
+  {
+   "speaker": "B",
+   "text": "Now let's hop to China. China's producer price index, that same wholesale price measure, hit its highest level in more than four years in October. It rose at the fastest pace since June twenty twenty two."
+  },
+  {
+   "speaker": "A",
+   "text": "The cause, according to the Financial Times, is the global energy shock pushing up costs for factories. But here is the twist. Consumer prices in China actually softened because people are not spending much at home."
+  },
+  {
+   "speaker": "B",
+   "text": "So factories pay more but cannot charge shoppers more. That squeezes profits. It is like a bakery whose flour keeps getting pricier while customers refuse to pay more for bread."
+  },
+  {
+   "speaker": "A",
+   "text": "Over in Europe, there is a race to lead the European Central Bank. Klaas Knot, the former Dutch central bank chief, was nominated on Friday. He told the FT he would not hesitate to act in a debt crisis and is open to devising new tools for fighting one."
+  },
+  {
+   "speaker": "B",
+   "text": "A debt crisis tool is basically a safety net. If investors suddenly get nervous about a country's debt and demand much higher interest, the central bank can step in and buy bonds to calm things down. His rival is Pablo Hernández de Cos, who runs the Bank for International Settlements."
+  },
+  {
+   "speaker": "A",
+   "text": "Back in Washington, Congress returns today for what is called the lame duck session. That is the stretch after an election when outgoing members are still in office."
+  },
+  {
+   "speaker": "B",
+   "text": "And there is real homework. A government funding deadline hits on December eleventh. If lawmakers cannot agree, the government shuts down. Also on the list are military spending and farm programs, and a vote to impeach Defense Secretary Pete Hegseth could happen as soon as this week."
+  },
+  {
+   "speaker": "A",
+   "text": "Now, on deck this week. Tomorrow, the CPI report, and the AI cloud company CoreWeave reports earnings. Earnings are just a company's quarterly report card on sales and profit."
+  },
+  {
+   "speaker": "B",
+   "text": "Today, Paramount Skydance reports for the first time since buying Warner Bros. Discovery, and the FT says Barrick Mining, KKR and Take-Two Interactive, the maker of Grand Theft Auto, also report. Thursday brings Cisco, Applied Materials and Bending Spoons, and Friday the wholesale prices."
+  },
+  {
+   "speaker": "A",
+   "text": "And the Group of Seven foreign ministers meet in Paris. We will get to them in a second."
+  },
+  {
+   "speaker": "B",
+   "text": "Let's talk oil. Brent crude, the global benchmark, fell about three and a half percent to around ninety four dollars and eighty five cents a barrel in early trading, according to the FT. The newsletters did not give a reason for the drop, so we will not guess."
+  },
+  {
+   "speaker": "A",
+   "text": "But for perspective, ninety five dollars oil is a big deal for your wallet. It feeds straight into gasoline prices and into those factory costs we just talked about in China."
+  },
+  {
+   "speaker": "B",
+   "text": "Now my favorite surprising number. The Economist's figure of the day: forty percent. That is how much the price of copper has risen over the past fifteen months."
+  },
+  {
+   "speaker": "A",
+   "text": "Copper! The metal in wiring and electric cars and, yes, the data centers powering AI. That surge has lifted the share price of Freeport-McMoRan, the big copper miner."
+  },
+  {
+   "speaker": "B",
+   "text": "It is a nice reminder that the AI boom is not just about chips. It needs a ridiculous amount of metal and power."
+  },
+  {
+   "speaker": "A",
+   "text": "Now geopolitics. The G7, the club of the world's richest democracies, has its foreign ministers meeting in Paris for two days. It is their first meeting since the US midterm elections, and Ukraine and the Middle East war are on the agenda."
+  },
+  {
+   "speaker": "B",
+   "text": "Meanwhile in Israel, the story is who gets to run the country. After the October twenty seventh election, neither Prime Minister Benjamin Netanyahu's bloc nor the opposition won a majority. President Isaac Herzog gave opposition leader Gadi Eisenkot the first chance to build a coalition."
+  },
+  {
+   "speaker": "A",
+   "text": "He has six weeks. The Economist says both his foes and his supposed allies may yet get in his way. His options include a deal with Netanyahu, support from Arab-led parties, or ultra-Orthodox parties, who insist on military exemptions he opposes."
+  },
+  {
+   "speaker": "B",
+   "text": "Back to the US. The big political story is the midterm aftermath. President Trump said he had been too tough on immigration and offered to work with Democrats on a deal for migrants, according to the FT. That came in an interview recorded before Stephen Miller, an immigration hardliner, was named his new chief of staff."
+  },
+  {
+   "speaker": "A",
+   "text": "Democrats, who won both chambers of Congress, have vowed to investigate corporate graft and pursue possible impeachments of administration officials. And the FT says crypto executives are bracing for a painful reckoning."
+  },
+  {
+   "speaker": "B",
+   "text": "Also, Trump said he was only kidding when he offered UFC boss Dana White the job of press secretary. Though he added that people told him it was actually a pretty good idea."
+  },
+  {
+   "speaker": "A",
+   "text": "And in Beijing, analysts say policymakers are weighing the impact of the Democratic wins and see a rare window to become the dominant AI superpower. Which brings us right back to Nvidia. Trump said he would certainly take Huang on next week's trip to China."
+  },
+  {
+   "speaker": "B",
+   "text": "Okay, deal time. Our biggest headline from Axios Pro Rata's The BFD, which stands for big deal. Strathcona Resources has agreed to buy Greenfire Resources for between two point seven and two point nine billion Canadian dollars in cash and stock."
+  },
+  {
+   "speaker": "A",
+   "text": "Both are Canadian oil sands companies. Oil sands is a thick, tar-like oil that has to be heated underground to flow. This deal fits a pattern: the industry is consolidating as energy demand is expected to surge."
+  },
+  {
+   "speaker": "B",
+   "text": "Here's the fun detail. One investor, Waterous Energy Fund, controls both. About fifty seven percent of Strathcona and seventy two percent of Greenfire. So it is basically merging two companies it already runs."
+  },
+  {
+   "speaker": "A",
+   "text": "Next, Japan. Mitsui Chemicals and the state-backed Development Bank of Japan agreed to buy JSR, a maker of semiconductor materials, for about eight point eight billion dollars. Chips again."
+  },
+  {
+   "speaker": "B",
+   "text": "In media, Fox Corporation completed its twenty two billion dollar cash and stock purchase of Roku, the streaming platform."
+  },
+  {
+   "speaker": "A",
+   "text": "In health care, Bon Secours Mercy Health raised its offer to buy Surgery Partners to as much as six billion dollars, after a rival made an unsolicited bid. Bain Capital is rolling over its stake into the Bon Secours deal."
+  },
+  {
+   "speaker": "B",
+   "text": "Quick explainer. Private equity firms like Bain buy companies, try to improve them, and sell later. Rolling over a stake means keeping your ownership instead of cashing out."
+  },
+  {
+   "speaker": "A",
+   "text": "A few smaller ones. Alfa Laval is buying Navtor, a Norwegian maker of navigation software for ships, for seven hundred million dollars from the firm Accel-KKR. Argenx will buy Unnatural Products, a drug developer, for up to one point one five billion dollars including milestone payments."
+  },
+  {
+   "speaker": "B",
+   "text": "In Europe, Crédit Agricole proposed merging its Italian unit with Banco BPM. And Cinven agreed to sell its stake in Restaurant Brands Europe to a group led by the founder, Gregorio Jiménez."
+  },
+  {
+   "speaker": "A",
+   "text": "Also, CKX Lands, a Louisiana land management company, agreed to a one billion dollar equity investment from Jacobs Private Equity and HRTG Partners. Codan is buying Eventide Communications. And Peak Rock Capital hired Harris Williams to sell an imaging company called 626."
+  },
+  {
+   "speaker": "B",
+   "text": "Smaller buyouts: GES, owned by Truelink Capital, bought CSG Creative. Intermatic, owned by MPE Partners, bought Sun-Tech. And Walter Capital Partners invested in a Quebec publisher called Les Éditions Passe-Temps."
+  },
+  {
+   "speaker": "A",
+   "text": "Now venture capital, which is money for young startups. The biggest round is Onodrim, a Dutch defense and industrial company, raising three hundred million dollars in a Series A round at a one point three billion dollar valuation, led by Lux Capital."
+  },
+  {
+   "speaker": "B",
+   "text": "A Series A is an early round of funding, and valuation is what investors think the company is worth. Getting to a billion on a first big round is rare, and shows how hot defense tech is."
+  },
+  {
+   "speaker": "A",
+   "text": "Also, Project Omega raised eighty million dollars for battery-like power systems made from used nuclear fuel. GeniosAI raised nineteen point one million dollars for financial analysis software. Vudoo raised twenty two million Australian dollars, and Marble Imaging six million euros."
+  },
+  {
+   "speaker": "B",
+   "text": "In IPOs, an initial public offering is when a company first sells shares to the public. Rezera and vVardis expect to price US IPOs this week. vVardis is a Swiss dental products maker backed by Apollo and OrbiMed, offering nine and a half million shares at twenty one to twenty four dollars."
+  },
+  {
+   "speaker": "A",
+   "text": "That values it near one point three billion dollars, even though it lost twenty eight million on twenty nine million in sales in the first half. A SPAC called A Paradise Three also filed for a hundred million dollar IPO. A SPAC is a shell company that raises cash to buy a business later."
+  },
+  {
+   "speaker": "B",
+   "text": "And the headline: Axios expects Anthropic to launch its IPO roadshow shortly, maybe tomorrow. The roadshow is when executives pitch investors on the stock."
+  },
+  {
+   "speaker": "A",
+   "text": "In fundraising, Ardian raised one billion euros for its first semiconductor fund. And in personnel news, Karen Karniol-Tambour is stepping down as co-chief investment officer of Bridgewater to run Canada's new sovereign wealth fund, and Don Harrison left the SpaceX board."
+  },
+  {
+   "speaker": "B",
+   "text": "One more: the FT looked at four decades of data and found British companies are being snapped up by foreign buyers at an unusually fierce pace. Over the last ten years, more than three hundred companies worth over five hundred billion pounds went overseas, and little comes the other way."
+  },
+  {
+   "speaker": "A",
+   "text": "Back to the main character: Nvidia. Why does this matter so much? Axios calls Huang too big to fire. Almost any other CEO would have been axed already, but Nvidia has a flat structure with about sixty people reporting to him and no public succession plan."
+  },
+  {
+   "speaker": "B",
+   "text": "Succession plan just means who takes over if the boss leaves. Without one, losing Huang would be chaos. Nvidia was the first company to hit five trillion dollars in value, and it sits underneath the whole AI trade."
+  },
+  {
+   "speaker": "A",
+   "text": "And politically it is messy. Reports say the White House knew of the relationship for months yet let Huang attend presidential events. Megaspeed was also investigated by the Commerce Department over suspicion of smuggling advanced chips into China. Expect congressional hearings."
+  },
+  {
+   "speaker": "B",
+   "text": "Trump, for his part, said Huang has done an amazing job for the country and should stay. The Economist asks whether he can survive, and says the storm could have lasting implications for the geopolitics of AI."
+  },
+  {
+   "speaker": "A",
+   "text": "Next, a food company. Once Upon a Farm, the organic kids' food brand co-founded by actress Jennifer Garner, recalled its Tractor Wheels bars for toddlers. Reports say they can form a dense, sticky mass while eating, and some parents reported metal pieces in products."
+  },
+  {
+   "speaker": "B",
+   "text": "The stock fell thirty eight percent last week, erasing two hundred forty two million dollars in value. For a company that went public only in February, that stings."
+  },
+  {
+   "speaker": "A",
+   "text": "And on the media side, Paramount Skydance, now owner of Warner Bros. Discovery, reports its first combined results today. Since the deal closed last month, David Ellison has offered employees buyouts and reshuffled executives."
+  },
+  {
+   "speaker": "B",
+   "text": "Lighter note: Krispy Kreme is up nearly thirty nine percent over the past month, outpacing big tech names like Apple. And CoreWeave, which rents out computing power for AI, is down more than forty one percent this year, ahead of its report tomorrow."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's zoom out by industry. Tech and AI first. Chip stocks showed signs of life Friday, but the Philadelphia Semiconductor Index is still down twenty nine percent over five weeks, and Axios says the AI trade was already under pressure after the midterms."
+  },
+  {
+   "speaker": "B",
+   "text": "The Nvidia news hits as AI is already wobbling. Meanwhile money keeps flowing into AI plumbing: Ardian's chip fund, JSR's chip materials, and Nvidia's own new investments in South Korean startups announced this morning."
+  },
+  {
+   "speaker": "A",
+   "text": "Energy: consolidation in Canadian oil sands, a nuclear fuel startup, and copper surging. Demand for energy and metals is the through line."
+  },
+  {
+   "speaker": "B",
+   "text": "Industrials and defense: Onodrim's three hundred million dollar round says investors want to back defense and industrial technology in Europe."
+  },
+  {
+   "speaker": "A",
+   "text": "Financials: Crédit Agricole reaching for Banco BPM, Bridgewater's leadership change, and the UK takeover wave. Health care: Surgery Partners, Argenx, and vVardis. Telecom and media: Fox finishing Roku and Paramount Skydance's first report."
+  },
+  {
+   "speaker": "B",
+   "text": "Real estate had nothing in tonight's newsletters, so we skip it."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for the scoreboard. These numbers come from Morning Brew, using Friday's close for stocks, and the Financial Times as of six thirty a.m. Eastern. The S and P five hundred closed near seven thousand three hundred seventy seven, and the FT showed it up about point three percent."
+  },
+  {
+   "speaker": "B",
+   "text": "The Dow is at about fifty one thousand two hundred eighty six. The Nasdaq composite is about twenty four thousand five hundred seventy nine. The ten year Treasury yield is four point eight six percent."
+  },
+  {
+   "speaker": "A",
+   "text": "Brent crude is about ninety four eighty five, down three and a half percent. Comex gold is about four thousand one hundred dollars an ounce, up point nine percent. And Bitcoin is around seventy four thousand eight hundred dollars, down about fourteen and a half percent this year."
+  },
+  {
+   "speaker": "B",
+   "text": "One honesty note: our email table leaves the six month and one year comparisons as not available tonight, because we could not reach reliable historical price sources. We never guess a past number."
+  },
+  {
+   "speaker": "A",
+   "text": "Three point recap. One: Nvidia's CEO admitted to a relationship with an alleged Chinese spy, the stock dropped, and the board is investigating."
+  },
+  {
+   "speaker": "B",
+   "text": "Two: tomorrow's inflation report is the big test, with a Fed rate hike expected in December and the ten year yield near four point eight six percent. Three: deals are flowing, from Canadian oil sands to Japanese chip materials, and an Anthropic IPO roadshow could start soon."
+  },
+  {
+   "speaker": "A",
+   "text": "What to watch tomorrow: the inflation report, CoreWeave earnings, the Nvidia investigation, and whether Anthropic launches that roadshow."
+  },
+  {
+   "speaker": "B",
+   "text": "That's the show. Thanks for listening, and we'll see you tomorrow night."
+  },
+  {
+   "speaker": "A",
+   "text": "Good night, everybody!"
+  }
+ ]
+}
