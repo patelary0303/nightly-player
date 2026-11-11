@@ -1,0 +1,429 @@
+{
+ "id": "2026-11-10",
+ "title": "Nightly Brief - Tue, Nov 10",
+ "date": "Tue, Nov 10",
+ "hosts": {
+  "A": "Maya",
+  "B": "Theo"
+ },
+ "chapters": [
+  {
+   "title": "Cold open",
+   "i": 0
+  },
+  {
+   "title": "Macro & Rates",
+   "i": 7
+  },
+  {
+   "title": "Energy, Commodities & Geopolitics",
+   "i": 31
+  },
+  {
+   "title": "Deals & Capital Markets",
+   "i": 49
+  },
+  {
+   "title": "Companies",
+   "i": 69
+  },
+  {
+   "title": "Industry Trends",
+   "i": 78
+  },
+  {
+   "title": "Markets",
+   "i": 84
+  },
+  {
+   "title": "Wrap-up",
+   "i": 90
+  }
+ ],
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "The inflation report came in hot, bond yields jumped back above five percent, and the biggest AI company on the planet just started selling itself to the public. All on one Tuesday."
+  },
+  {
+   "speaker": "B",
+   "text": "And somewhere in the middle of that, the head of Nvidia is being asked about the FBI. Tuesday was a lot."
+  },
+  {
+   "speaker": "A",
+   "text": "Welcome to the Nightly Brief podcast. I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. This is the long version of tonight's email, with every story, plus the plain-English explainers so nobody gets left behind."
+  },
+  {
+   "speaker": "A",
+   "text": "Here's what's on tonight's show. First, macro and rates: that hot inflation number and what it means for the Federal Reserve. Then energy and geopolitics, where oil just dropped below ninety dollars a barrel."
+  },
+  {
+   "speaker": "B",
+   "text": "Then deals and capital markets, which tonight means the Anthropic IPO and a very dramatic Sequoia story. After that, companies, industry trends, a quick walk through the markets, and a three point recap."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's go."
+  },
+  {
+   "speaker": "A",
+   "text": "Okay Theo, start with the big one. Inflation. The October consumer price index came out today, and according to the Wall Street Journal it landed exactly where the nervous people feared it would."
+  },
+  {
+   "speaker": "B",
+   "text": "Quick explainer first. The consumer price index, or C P I, tracks how much the prices of everyday stuff change: groceries, rent, gas, haircuts. Core C P I strips out food and energy, because those bounce around a lot, so it's the cleaner read on underlying inflation."
+  },
+  {
+   "speaker": "A",
+   "text": "And the magic number here was zero point three percent. Early this morning, Fed governor Christopher Waller warned he could support a bigger than normal interest rate increase in December if core prices rose zero point three percent from the previous month."
+  },
+  {
+   "speaker": "B",
+   "text": "And then the report laid out that very scenario. The Financial Times described the call as a fifty basis point rise."
+  },
+  {
+   "speaker": "A",
+   "text": "Okay, basis points. Explain."
+  },
+  {
+   "speaker": "B",
+   "text": "A basis point is one hundredth of one percent. So fifty basis points is half a percentage point. A normal Fed move is twenty five basis points, so fifty is double the usual step. And the F T notes it would be the first fifty basis point move in four years, if official data does not soon show inflation cooling quickly."
+  },
+  {
+   "speaker": "A",
+   "text": "Wait, so the Fed isn't cutting rates, it's thinking about raising them?"
+  },
+  {
+   "speaker": "B",
+   "text": "Right. The Fed controls a short term interest rate, the one that nudges what banks charge each other. Raise it, and borrowing gets more expensive for everyone: mortgages, car loans, credit cards, business loans. The point is to cool the economy so prices stop climbing."
+  },
+  {
+   "speaker": "A",
+   "text": "And the bond market reacted fast. By the afternoon, falling bond prices had pushed the yield on the two year Treasury note to its biggest one day jump in nineteen months."
+  },
+  {
+   "speaker": "B",
+   "text": "Here's the thing to remember about bonds. Price and yield move in opposite directions. When investors expect higher rates, existing bonds look less attractive, their prices fall, and the yield, which is basically the interest rate you'd earn buying it now, goes up."
+  },
+  {
+   "speaker": "A",
+   "text": "And the ten year Treasury yield, the one that influences mortgage rates, surged back above five percent."
+  },
+  {
+   "speaker": "B",
+   "text": "For perspective, this morning's F T markets table had it at about four point eight six percent, and Morning Brew had yesterday's close at four point eight six four. So that's a real move in one afternoon."
+  },
+  {
+   "speaker": "A",
+   "text": "What happened to stocks?"
+  },
+  {
+   "speaker": "B",
+   "text": "They staged a late afternoon rally but finished down on the day, according to the Journal. Which is notable, because Monday was a huge up day. The S and P five hundred rose two point three five percent."
+  },
+  {
+   "speaker": "A",
+   "text": "Also, a fun wrinkle from Axios. Neil Irwin reports that the relationship between oil prices and bond yields has basically evaporated. It used to be that oil up meant yields up, because oil drives inflation worries."
+  },
+  {
+   "speaker": "B",
+   "text": "And Axios notes it may not be a coincidence that this comes at the same time cracks have shown up in the debt market that finances AI. So yields are being driven by more than oil right now."
+  },
+  {
+   "speaker": "A",
+   "text": "Another macro story. China's trade surplus."
+  },
+  {
+   "speaker": "B",
+   "text": "The Financial Times reports China's trade surplus topped one trillion dollars in the first ten months of this year, a new record. A trade surplus just means a country sells more to the world than it buys. One trillion dollars is enormous, and it threatens to raise tensions with partners like the European Union, who fear cheap Chinese imports are undermining their own industries."
+  },
+  {
+   "speaker": "A",
+   "text": "Next, the politics of money. The Economist's Roger McShane wrote that the future of President Trump's economic agenda may depend on his ability to strike bargains with congressional Democrats."
+  },
+  {
+   "speaker": "B",
+   "text": "Right, after last week's midterms, Democrats won control of Congress. The Economist describes the budget as an early test. Deficit and spending fights need votes, and now he has to deal. The Economist asks whether Trumponomics ends in compromise or failure."
+  },
+  {
+   "speaker": "A",
+   "text": "One more from the Financial Times chart of the day. Investors have been piling into defensive stocks."
+  },
+  {
+   "speaker": "B",
+   "text": "Defensive just means companies people need in good times and bad: consumer staples like groceries, healthcare, and utilities. They've soared in recent weeks as fears grow that the AI bull market may be over. Think of it as moving from the roller coaster to the carousel."
+  },
+  {
+   "speaker": "A",
+   "text": "And on deck: Hegseth faces an impeachment vote this week, Anthropic could start trading as soon as next Wednesday or Thursday, and talks about Ukraine continue in Abu Dhabi."
+  },
+  {
+   "speaker": "B",
+   "text": "Also, CoreWeave and Petrobras were due to report third quarter earnings after the close today, but tonight's newsletters don't have the results, so we'll leave those for tomorrow."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's go to oil. Brent crude, the global benchmark, fell below ninety dollars a barrel this morning for the first time since August."
+  },
+  {
+   "speaker": "B",
+   "text": "The Financial Times has it at eighty nine dollars and twenty one cents, down three percent, after a six percent drop yesterday. The trigger: President Trump said there is positive momentum toward ending the Iran war."
+  },
+  {
+   "speaker": "A",
+   "text": "This war has been going for nine months, right?"
+  },
+  {
+   "speaker": "B",
+   "text": "Since February twenty eighth. Brent started the year at sixty dollars and eighty five cents, and was seventy two eighty seven the day before the war began. So even after this drop, oil is way above its pre war level."
+  },
+  {
+   "speaker": "A",
+   "text": "Why does that matter to a regular person?"
+  },
+  {
+   "speaker": "B",
+   "text": "Because oil feeds into gas prices, shipping, flights, and plastics. The war limited oil exports from the Gulf and pushed up fuel prices for consumers and businesses worldwide. The F T says that was one reason Republicans suffered heavy losses in last week's midterms."
+  },
+  {
+   "speaker": "A",
+   "text": "Trump also said renewed U S strikes on Iran seemed unlikely, partly at the urging of the region's neighbors, and Qatar has been leading the diplomacy."
+  },
+  {
+   "speaker": "B",
+   "text": "At least four Arab and Muslim leaders have spoken to him in recent days to give diplomacy more time. Futures for U S stocks rose on the news."
+  },
+  {
+   "speaker": "A",
+   "text": "But there's tension in the background. The F T reports the U S moved military aircraft away from a second British air base after an Iran linked threat."
+  },
+  {
+   "speaker": "B",
+   "text": "Two Air Force refueling tankers left RAF Mildenhall on Monday and were diverted to Germany. Last month the Pentagon recalled all its B one bombers from RAF Fairford after a security incident."
+  },
+  {
+   "speaker": "A",
+   "text": "And the Wall Street Journal adds that the U S indicted three Iran backed operatives today for plotting an attack against Fairford."
+  },
+  {
+   "speaker": "B",
+   "text": "Separately, a senior U S Army soldier assigned to a NATO rapid reaction command in the U K was arrested on allegations of spying for Russia. British police said it wasn't linked to the Fairford incident."
+  },
+  {
+   "speaker": "A",
+   "text": "Something surprising from the Journal: the Iran war is expected to lower global carbon dioxide emissions this year."
+  },
+  {
+   "speaker": "B",
+   "text": "A consortium of climate scientists says more than half of the drop comes from more renewable power. The rest comes from the oil price spike after the blockage of the Strait of Hormuz, which depressed fuel use. And global growth has held up better than many expected."
+  },
+  {
+   "speaker": "A",
+   "text": "Washington politics, quickly. Kentucky Republican Thomas Massie filed eight articles of impeachment against Defense Secretary Pete Hegseth, and a vote could come this week."
+  },
+  {
+   "speaker": "B",
+   "text": "They accuse him of waging the Iran war without a declaration from Congress. Most Democrats are expected to support it, but if it passed the House it would likely die in the Senate, which is still Republican controlled for now. Hegseth called it noise, and at his first Pentagon press conference in months, he said they would absolutely do the war again."
+  },
+  {
+   "speaker": "A",
+   "text": "And House Republicans picked Jim Jordan as their leader for the next Congress, beating Steve Scalise in a secret ballot. Allies say he can handle the Democratic investigations they expect. Senator John Thune stays on as GOP leader in the Senate."
+  },
+  {
+   "speaker": "B",
+   "text": "Finally, Ukraine. Negotiators from the U S, Ukraine and Russia meet in Abu Dhabi for their first three way talks since February. The Economist's take is more skeptical: Trump is in a hurry for peace, Putin is not, and American brokered talks may help Russia prolong the war."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for my favorite part. Deals. And Theo, the headline is the Anthropic IPO."
+  },
+  {
+   "speaker": "B",
+   "text": "An I P O, initial public offering, is when a private company sells shares to the public for the first time. Axios says Anthropic launched its roadshow this morning, which is the tour where executives pitch investors."
+  },
+  {
+   "speaker": "A",
+   "text": "The numbers are wild. Eight hundred one point four million shares at seventy to seventy eight dollars each."
+  },
+  {
+   "speaker": "B",
+   "text": "That raises fifty six billion to sixty two and a half billion dollars, at a market value between nine hundred sixteen billion and about one trillion dollars. Add a possible extra allotment called a greenshoe and a twenty six billion dollar private placement to Google, Nvidia, AMD, Broadcom, Micron, Microsoft and TSMC, and total proceeds could top ninety eight billion."
+  },
+  {
+   "speaker": "A",
+   "text": "A greenshoe, quick definition?"
+  },
+  {
+   "speaker": "B",
+   "text": "It's an option letting underwriters sell extra shares if demand is strong. Axios points out SpaceX raised seventy five billion in its IPO this June, and eighty six point two five billion with the greenshoe. So Anthropic is smaller than expected, if you can believe that."
+  },
+  {
+   "speaker": "A",
+   "text": "The Journal frames it a bit bigger: a valuation of around one point three trillion dollars, raising eighty billion or more. Axios says the fully diluted number tops out near one point four trillion. Fully diluted means counting every share that could exist once options and similar stakes are included."
+  },
+  {
+   "speaker": "B",
+   "text": "And the Journal says Anthropic's seven founders, including Dario and Daniela Amodei, hold stakes worth about eighteen billion dollars each at the IPO price, with plans to sell around two hundred fifty million dollars apiece."
+  },
+  {
+   "speaker": "A",
+   "text": "Morning Brew adds that Anthropic also debuted its new, more powerful models yesterday, Claude Fable five point two and Claude Mythos five point two, as it gears up for the listing. Shares could start trading next Wednesday or Thursday."
+  },
+  {
+   "speaker": "B",
+   "text": "Now the drama. Axios Pro Rata's top story: Sequoia Capital, probably the most famous venture capital firm, has overhauled itself."
+  },
+  {
+   "speaker": "A",
+   "text": "Venture capital means investors who fund young startups in exchange for a piece of them. And Sequoia shut its London office, ended its Arc accelerator and Scouts programs, and flattened its team, so no more separate early and growth designations."
+  },
+  {
+   "speaker": "B",
+   "text": "It also largely abandoned a structure launched in twenty twenty one where it kept shares after companies went public. The behind the scenes story is that when SpaceX went public in June, former leader Roelof Botha agreed to join the SpaceX board, and his partners found out when the rest of the world did. Axios says that triggered a full split."
+  },
+  {
+   "speaker": "A",
+   "text": "The Financial Times calls Sequoia's London exit a radical overhaul by new management. The firm says it was doing too many things at once. Critics worry about European founders feeling abandoned."
+  },
+  {
+   "speaker": "B",
+   "text": "Axios also lists dozens of startup deals. The biggest: Mercor, a data labeling company, raised seven hundred fifty million dollars at a twenty billion dollar valuation. And Nominal, a hardware intelligence platform, raised two hundred forty million at three billion."
+  },
+  {
+   "speaker": "A",
+   "text": "In private equity and M and A: NRG Energy agreed to sell six natural gas power plants to LS Power for four billion dollars in cash."
+  },
+  {
+   "speaker": "B",
+   "text": "Samsung Fire and Marine, KKR and Korea Investment Corporation agreed to buy the remaining sixty percent of insurer Canopius from Centerbridge. Blackstone is buying a fifteen point seven percent stake in Indian lender IIFL Finance for about five hundred thirty two million dollars."
+  },
+  {
+   "speaker": "A",
+   "text": "Vanta, a compliance startup, bought Israeli AI security company Pillar for a reported hundred fifty million. AstraZeneca bought vaccine developer Omniose. And Morgan Stanley agreed to acquire Vinyl Equity, a transfer agent."
+  },
+  {
+   "speaker": "B",
+   "text": "On the other side, GFL Environmental said it has rejected multiple takeover bids and will stay public. And Windward Bio, a Swiss biotech, set IPO terms at sixteen to eighteen dollars a share, about a billion dollar value, listing on the Nasdaq."
+  },
+  {
+   "speaker": "A",
+   "text": "Fundraising: Altimeter Capital is raising up to two and a half billion for its ninth growth fund, and Redalpine of Zurich raised two hundred fifty million."
+  },
+  {
+   "speaker": "B",
+   "text": "One more from the Economist's Buttonwood column: October was a brutal month for hedge funds. They had been coasting on the AI boom, and last month showed the danger of being caught on the way down, since almost every corner of the economy is touched by AI."
+  },
+  {
+   "speaker": "A",
+   "text": "Now companies. First, Nvidia. Last night we told you its chief executive Jensen Huang admitted an affair with a woman U S officials believe is a Chinese spy. Tonight's new development: President Trump said the FBI is looking into it."
+  },
+  {
+   "speaker": "B",
+   "text": "Trump's quote was that he knows the FBI is looking into it in terms of something else. The FT asks whether Huang can survive as CEO. Morning Brew says the stock fell four point three percent Monday, wiping out nearly two hundred thirty billion dollars of value."
+  },
+  {
+   "speaker": "A",
+   "text": "Why should anyone outside Nvidia care?"
+  },
+  {
+   "speaker": "B",
+   "text": "Because Nvidia is the central bank of the AI race, in Morning Brew's words. It has about five hundred billion dollars in investments, has lent roughly one hundred sixty five billion to so called neoclouds, and has billions tied up with OpenAI and Anthropic."
+  },
+  {
+   "speaker": "A",
+   "text": "And investors are split. Analyst Dan Ives called the idea of replacing Huang comedy, saying Nvidia is still two to three years ahead of China on AI chips. Tech stocks otherwise rebounded Monday, with AMD jumping thirteen percent."
+  },
+  {
+   "speaker": "B",
+   "text": "Next, SoftBank posted an unexpected loss of about one point one trillion yen, roughly seven billion dollars, after a three point seven billion dollar writedown on its U S data center projects. A writedown means admitting an asset is worth less than you thought."
+  },
+  {
+   "speaker": "A",
+   "text": "Elon Musk said Tesla will have to return deposits for many people because it is winding down Cybertruck production. And Honda plans to invest three billion dollars in a new assembly plant in Ohio."
+  },
+  {
+   "speaker": "B",
+   "text": "Hollywood: James Gunn and Peter Safran are stepping down as co-CEOs of DC Studios. Marvel veteran Jeremy Latcham takes over on December first."
+  },
+  {
+   "speaker": "A",
+   "text": "And PwC will put eighty five thousand employees through a six month critical thinking program, because AI took over a lot of entry level grunt work."
+  },
+  {
+   "speaker": "A",
+   "text": "Industry trends, starting with tech and AI. Morning Brew says investors were already wary about data centers after Democrats won Congress on promises to halt construction of new facilities."
+  },
+  {
+   "speaker": "B",
+   "text": "That's a real risk for the AI buildout. Add Axios noting cracks in the debt market financing AI, and the FT's note about money rotating into defensive stocks, and you see why the AI trade feels shakier even with a giant IPO coming."
+  },
+  {
+   "speaker": "A",
+   "text": "Energy. NRG's four billion dollar plant sale shows big buyers still want natural gas power, and Bayou Midstream bought Argent Gas Solutions in North Dakota. Meanwhile Brent falling below ninety dollars eases pressure on fuel prices."
+  },
+  {
+   "speaker": "B",
+   "text": "Healthcare. The FDA will require GLP one makers, the weight loss and diabetes drugs behind Ozempic and Zepbound, to add a warning about a rare eye condition called NAION that can lead to blindness. The agency found about six cases per hundred thousand people a year on the drugs versus four in comparison groups."
+  },
+  {
+   "speaker": "A",
+   "text": "Novo Nordisk and Eli Lilly say patient safety is their priority and are fighting related lawsuits. Also in healthcare deals: GE HealthCare led a hundred sixty million dollar round for Laza Medical, and Charles River Labs is backing a six hundred sixteen million dollar take private of Frontage."
+  },
+  {
+   "speaker": "B",
+   "text": "Financials. Besides Blackstone and Canopius, the Financial Times reports the Santander chief says she will be the last in her family to run the Spanish bank."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's do the markets. Careful note: our levels come from newsletters, and none give Tuesday's final closing numbers."
+  },
+  {
+   "speaker": "B",
+   "text": "From Morning Brew, Monday's close: S and P five hundred at seven thousand five hundred fifty, up two point three five percent. Dow at fifty two thousand three hundred ninety, up two point one five. Nasdaq at twenty five thousand two hundred fifty three, up two point seven four."
+  },
+  {
+   "speaker": "A",
+   "text": "The ten year yield was four point eight six four percent on Monday, and the Journal says it surged back above five percent Tuesday afternoon."
+  },
+  {
+   "speaker": "B",
+   "text": "Brent was about eighty nine twenty one Tuesday morning, down three percent. Gold futures were at about four thousand ninety six dollars, down point two two percent at six thirty Tuesday morning. Bitcoin was about seventy five thousand two hundred seventeen dollars Monday evening, up one point one two percent."
+  },
+  {
+   "speaker": "A",
+   "text": "And the six month and one year comparisons?"
+  },
+  {
+   "speaker": "B",
+   "text": "We couldn't reach historical data sources tonight, and we won't guess, so those show as not available in the email."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for the recap. Number one: hot inflation revived rate hike fears. Core prices rose enough to make a double sized hike in December possible, and the ten year yield went back above five percent."
+  },
+  {
+   "speaker": "B",
+   "text": "Number two: Anthropic's IPO is officially on, targeting up to roughly a hundred billion dollars with the private placement, and trading could begin next week."
+  },
+  {
+   "speaker": "A",
+   "text": "Number three: oil dropped below ninety dollars on Iran peace hopes, while Nvidia's CEO troubles now include an FBI look."
+  },
+  {
+   "speaker": "B",
+   "text": "To watch tomorrow: how stocks and yields digest the inflation shock, the Hegseth impeachment vote, the Abu Dhabi talks, and any Nvidia board news."
+  },
+  {
+   "speaker": "A",
+   "text": "That's the Nightly Brief. Thanks for listening, I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. Sleep well, and see you tomorrow night."
+  }
+ ]
+}
