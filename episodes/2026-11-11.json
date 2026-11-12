@@ -1,0 +1,361 @@
+{
+ "id": "2026-11-11",
+ "title": "Nightly Brief - Wed, Nov 11",
+ "date": "Wed, Nov 11",
+ "hosts": {
+  "A": "Maya",
+  "B": "Theo"
+ },
+ "chapters": [
+  {
+   "title": "Cold open",
+   "i": 0
+  },
+  {
+   "title": "Macro & Rates",
+   "i": 7
+  },
+  {
+   "title": "Energy, Commodities & Geopolitics",
+   "i": 23
+  },
+  {
+   "title": "Deals & Capital Markets",
+   "i": 33
+  },
+  {
+   "title": "Companies",
+   "i": 45
+  },
+  {
+   "title": "Industry Trends",
+   "i": 61
+  },
+  {
+   "title": "Markets",
+   "i": 68
+  },
+  {
+   "title": "Wrap-up",
+   "i": 73
+  }
+ ],
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "A company that makes chatbots might be worth one point five trillion dollars by next week. Trillion. With a T."
+  },
+  {
+   "speaker": "B",
+   "text": "Wait, really? That's more than most countries make in a year."
+  },
+  {
+   "speaker": "A",
+   "text": "And that's just one story. Tonight we've also got a hot inflation report, a possible face to face meeting with an Iranian hard-liner, and a tech scandal that keeps getting messier."
+  },
+  {
+   "speaker": "B",
+   "text": "It's Wednesday, November eleventh, and you are listening to the Nightly Brief. I'm Theo."
+  },
+  {
+   "speaker": "A",
+   "text": "And I'm Maya. Here's what's on tonight's show. First, the economy and interest rates. Then energy and geopolitics. Then deals and capital markets, which is where that giant A I listing lives. After that, companies, a quick tour of industry trends, a walk through the markets, and a three point wrap up."
+  },
+  {
+   "speaker": "B",
+   "text": "And as always, if we say a word that sounds like finance homework, we'll explain it right then and there."
+  },
+  {
+   "speaker": "A",
+   "text": "Deal. Let's go."
+  },
+  {
+   "speaker": "A",
+   "text": "We start with the number everybody is chewing on. Last month's inflation report came out yesterday, and it was hotter than expected."
+  },
+  {
+   "speaker": "B",
+   "text": "Quick refresher for anyone new. Inflation is how fast prices rise. The headline measure is the Consumer Price Index, or C P I. It rose zero point four percent in October. That is slower than September's zero point six, but still well above what the Federal Reserve wants."
+  },
+  {
+   "speaker": "A",
+   "text": "The Fed is the central bank, the group that sets the main interest rate that ripples into your car loan, your credit card, and your mortgage."
+  },
+  {
+   "speaker": "B",
+   "text": "Right. And here's the detail that matters. The core number, which strips out food and energy because those jump around, rose zero point three percent. Fed governor Christopher Waller had said that if core hit zero point three or more, the Fed might need to raise rates by a half point instead of a quarter point."
+  },
+  {
+   "speaker": "A",
+   "text": "Ooh. So what does a half point mean in plain English?"
+  },
+  {
+   "speaker": "B",
+   "text": "A percentage point is one hundred basis points, so a half point is fifty basis points. Think of it like a thermostat. A quarter point is nudging it up a notch. A half point is cranking it. Morning Brew says a quarter point hike at the December meeting now looks extremely likely."
+  },
+  {
+   "speaker": "A",
+   "text": "And what pushed prices up? Food rose zero point five percent, and grocery prices climbed the most since April. Baby food and formula jumped a record five point one percent."
+  },
+  {
+   "speaker": "B",
+   "text": "Ouch. That one hits families right where it hurts. Energy rose zero point seven percent, which is actually calmer than September's five point two percent jump. Gas averaged four dollars and thirty two cents a gallon. And shelter, meaning rent and housing costs, rose zero point three percent and made up about thirty percent of the headline increase."
+  },
+  {
+   "speaker": "A",
+   "text": "One more weird wrinkle. Because of last year's government shutdown, the Labor Department did not have a clean year over year number. The New York Times and the Wall Street Journal both estimated annual inflation at around four percent."
+  },
+  {
+   "speaker": "B",
+   "text": "Which is double the Fed's usual comfort zone. Now let's connect it to bonds. A bond yield is basically the interest rate the government pays to borrow. The ten year Treasury yield, the benchmark for mortgages, closed yesterday at four point nine eight three percent, up twelve basis points on the day. The Financial Times had it at about five point zero percent this morning."
+  },
+  {
+   "speaker": "A",
+   "text": "So borrowing money costs more. The F T also ran a big read on this tonight. September's rate increase was the first in three years, more are expected, and the era of ultra cheap money is over."
+  },
+  {
+   "speaker": "B",
+   "text": "What that means for a regular person: a car loan, a credit card balance, or a business expansion all get pricier. And companies that piled on debt during the cheap money years may get squeezed, because they have to refinance at higher rates."
+  },
+  {
+   "speaker": "A",
+   "text": "There's also a bigger worry from the Wall Street Journal. It argues the global economy looks vulnerable to an A I bust."
+  },
+  {
+   "speaker": "B",
+   "text": "The logic is simple. A lot of economies have few other growth engines besides exports tied to A I investment. If that spending slows, exports get hit. A big stock slide would also hurt everyday investors around the world who have piled into tech stocks. And many governments are too stretched to spend their way out of trouble."
+  },
+  {
+   "speaker": "A",
+   "text": "Economists quoted say the real question is not whether it would hurt, but how badly."
+  },
+  {
+   "speaker": "B",
+   "text": "On deck. Tomorrow's calendar is light. The F T flags Brazil's services output, expected to have declined in September, and Mexico's industrial output, expected to have risen. And on the corporate side, EasyJet shareholders vote on an acquisition proposal from Apollo Global Management. We'll come back to that one."
+  },
+  {
+   "speaker": "A",
+   "text": "Over to geopolitics. The Wall Street Journal reports that Vice President J D Vance is emerging as the lead negotiator with Iran."
+  },
+  {
+   "speaker": "B",
+   "text": "He's considering face to face peace talks with a hard-line Iranian security official, in an effort to end a war that's seen as a drag on the Republican Party. President Trump has told aides he's open to Vance restarting talks and has empowered him to negotiate. Officials stress it's all preliminary."
+  },
+  {
+   "speaker": "A",
+   "text": "Why do markets care? Oil. Yesterday's brief had Brent crude, the global oil benchmark, dipping below ninety dollars on peace hopes. The F T's morning snapshot had Brent up one point six percent at about ninety three dollars."
+  },
+  {
+   "speaker": "B",
+   "text": "So the number is bouncing around, and honestly that's the point. Every headline about talks moves it. For you, that shows up at the gas pump, and gas already averaged four thirty two last month."
+  },
+  {
+   "speaker": "A",
+   "text": "Now Washington. The House blocked an effort to impeach Defense Secretary Pete Hegseth, two hundred eleven to two hundred four. Impeachment is the formal process of charging an official, which is the first step toward removal."
+  },
+  {
+   "speaker": "B",
+   "text": "And here's the twist. Eleven Democrats were not present for the vote, which is potentially more than enough to have swung it. Now Democrats are pointing fingers at each other. The Economist notes they'll probably try again when they take control of the House in January."
+  },
+  {
+   "speaker": "A",
+   "text": "Meanwhile Democrats are eyeing the defense budget. Trump's request is a historic one point five trillion dollars, and a new Trump class warship, which the Navy says would be its most expensive ever, is a prime target. They also want to stop the Defense Department's name from being formally changed to the Department of War."
+  },
+  {
+   "speaker": "B",
+   "text": "The House is also getting a new minority leader. Republicans picked Ohio's Jim Jordan to replace outgoing Speaker Mike Johnson at the top of the party, after last week's midterm losses."
+  },
+  {
+   "speaker": "A",
+   "text": "Abroad, negotiators from the U S, Ukraine and Russia are in Abu Dhabi for a second day of talks on postwar security arrangements. And the F T reports that France is pressing Germany to spell out how it would use long range missiles in a conflict with Russia, warning that a vague answer risks accidentally dragging Europe into a nuclear war."
+  },
+  {
+   "speaker": "B",
+   "text": "There's also the COP thirty one climate summit starting today, a two day gathering of world leaders with a push for global electrification as the main goal. And the Economist has a look inside America's first new submarine base abroad in fifty three years, in Australia, part of the AUKUS pact."
+  },
+  {
+   "speaker": "A",
+   "text": "Okay. The big one. Anthropic, the company behind Claude, is about to go public."
+  },
+  {
+   "speaker": "B",
+   "text": "An I P O, an initial public offering, is when a private company sells shares to the public for the first time. Yesterday's filing showed Anthropic planning to list on Nasdaq under the ticker A N T, selling eight hundred twenty five million shares at seventy to seventy eight dollars each, and targeting a valuation of one point four trillion dollars."
+  },
+  {
+   "speaker": "A",
+   "text": "And tonight the Financial Times says bankers, led by Goldman Sachs and Morgan Stanley, are weighing a higher price after heavy demand at the start of the roadshow. A roadshow is when a company pitches itself to big investors before listing."
+  },
+  {
+   "speaker": "B",
+   "text": "The new target could be closer to one point five trillion dollars, and the total raised could top one hundred billion dollars. That's a third more than the sixty four billion originally targeted."
+  },
+  {
+   "speaker": "A",
+   "text": "Wait, so why not just charge as much as possible?"
+  },
+  {
+   "speaker": "B",
+   "text": "Three backers told the F T that Anthropic is now focused on raising as much money as it can to pay for its huge computing power bills, rather than squeezing out the highest valuation. Chips and data centers are expensive."
+  },
+  {
+   "speaker": "A",
+   "text": "One more context point from Morning Brew. One point four trillion is lower than the two trillion investors floated over the summer, but it would still be one of the biggest Wall Street debuts ever. And it comes at a delicate time, with the A I trade dinged by worries about overspending and by fears that a Democratic Congress will be tougher on the industry."
+  },
+  {
+   "speaker": "B",
+   "text": "Next, a deal vote. EasyJet shareholders weigh a proposal from Apollo Global Management. Apollo is a private equity firm, meaning it buys companies using investor money and a lot of borrowed money, then tries to sell them later for more."
+  },
+  {
+   "speaker": "A",
+   "text": "And in banking, here's a clever one. Barclays, HSBC and JPMorgan Chase are among lenders using credit insurance to offload some of the risk on their data center loans."
+  },
+  {
+   "speaker": "B",
+   "text": "Think of it like a bank buying a safety net. If the borrower can't pay, an insurer takes part of the hit. That frees the bank's lending limits, so it can keep funding the A I build out. It's also a sign of how fast the borrowing for A I is growing."
+  },
+  {
+   "speaker": "A",
+   "text": "And a fun one from the F T. Hedge fund manager Hamza Lemssouguer agreed to buy a nearly forty million pound mansion in London's Belgravia, even as his firm Arini Capital faces a severe run of losses."
+  },
+  {
+   "speaker": "B",
+   "text": "Bold timing."
+  },
+  {
+   "speaker": "A",
+   "text": "Now companies, and we have to start with Nvidia."
+  },
+  {
+   "speaker": "B",
+   "text": "The scandal around C E O Jensen Huang keeps growing. Recap: he confessed to an affair with an alleged Chinese spy. Now shareholders have filed a class action lawsuit in California, claiming the company misled investors by not disclosing the relationship. Morning Brew says experts expect it to be the first of many."
+  },
+  {
+   "speaker": "A",
+   "text": "Nvidia's board has hired Joon Kim, a former top New York federal prosecutor now at the law firm Wachtell Lipton, to run an internal probe. And the F T reports the U S government is delaying efforts to blacklist Megaspeed, a company linked to the alleged spy, despite worries it smuggled advanced chips into China."
+  },
+  {
+   "speaker": "B",
+   "text": "The Wall Street Journal has two more angles. A thirty one year old trader who called out Huang's China problem, and shorted Nvidia. Shorting means betting the stock will fall. And the scandal is testing Taiwan's devotion to its hometown hero."
+  },
+  {
+   "speaker": "A",
+   "text": "And The Economist went further. Its editorial says Huang must resign, and that other heads should roll too. Strong stuff."
+  },
+  {
+   "speaker": "B",
+   "text": "Also, the F T says the scandal has exposed Singapore's role in the trade of advanced U S A I chips to China."
+  },
+  {
+   "speaker": "A",
+   "text": "Switching to a happier chip story. CoreWeave shares jumped about twenty five percent after a strong quarter and a promising outlook, and that sparked a widespread boom in chip stocks. The Nasdaq composite rose one point six percent."
+  },
+  {
+   "speaker": "B",
+   "text": "Which, remember, comes less than a week after a historic sell off. That's the kind of whiplash this market is giving us."
+  },
+  {
+   "speaker": "A",
+   "text": "Other earnings stories. Hims and Hers, the telehealth company, fell about sixteen point six percent after missing earnings expectations. On the flip side, Warby Parker is up more than forty percent after strong earnings and excitement for its new A I glasses, built with Google and Samsung, and powered by Google's Gemini."
+  },
+  {
+   "speaker": "B",
+   "text": "They can do things like identify objects, give audio directions, and translate live. Preorders start tomorrow, shipping next month. Critics note that growth in its regular glasses business has slowed, so the valuation depends on an untested product."
+  },
+  {
+   "speaker": "A",
+   "text": "Amazon's Ring unveiled an A I guided indoor drone camera for two hundred fifty dollars, coming in January pending F C C approval, plus a thousand dollar patrol robot for businesses called Ring Rover."
+  },
+  {
+   "speaker": "B",
+   "text": "Which is basically a cheaper rerun of Amazon's Astro robot that flopped in twenty twenty one."
+  },
+  {
+   "speaker": "A",
+   "text": "Over at United Airlines, the company will ban A I bots from booking its flights. It worries third party agents could expose customer information or make unintended purchases, and says automated actions could break rules on what airlines must tell customers."
+  },
+  {
+   "speaker": "B",
+   "text": "A funny example from the Journal: an A I agent can't attest at check in that your bag has no explosives."
+  },
+  {
+   "speaker": "A",
+   "text": "A few more. Blackstone, the world's biggest property investor, is losing talent. Nearly a third of its real estate unit's senior managing directors have left over three years as its funds have slumped. Pay has shrunk because profits did. Global head Nadeem Meghji announced his departure in September."
+  },
+  {
+   "speaker": "B",
+   "text": "And a couple of quick hits. Beehiiv is dropping job titles for its roughly one hundred thirty employees, Toyota is rebooting the Scion brand, Frontier Airlines is opening first class seats, and the F T has a profile of Citadel founder Ken Griffin, who has spent about five point three billion dollars reshaping Miami."
+  },
+  {
+   "speaker": "A",
+   "text": "On to industry trends. Tech and A I first. Tonight's theme is: huge excitement, plus nerves. Funding is flowing, banks are insuring their data center loans, chip stocks bounced, but economists are asking what happens if the spending stops."
+  },
+  {
+   "speaker": "B",
+   "text": "Industrials and defense. The one point five trillion dollar Pentagon request is now a political battleground, and the new Trump class warship is the poster child."
+  },
+  {
+   "speaker": "A",
+   "text": "Real estate has some fun numbers. In Boise, Idaho, rents are up more than eight percent from last year, nearly the fastest in the country, as new supply gets absorbed and the city rides the A I wave. Meanwhile Austin, Phoenix and Nashville are still digesting a glut of new apartments."
+  },
+  {
+   "speaker": "B",
+   "text": "So the apartment market is splintering. Also, mortgage balances rose by two hundred fifty seven billion dollars in the third quarter, and home equity line of credit balances jumped twenty three billion, the biggest rise since two thousand five, according to the New York Fed."
+  },
+  {
+   "speaker": "A",
+   "text": "In Greater Boston, you need a household income of about one hundred eighty one thousand dollars to buy a median priced home in a lower priced neighborhood. That's up from one hundred twenty four thousand in twenty twenty one."
+  },
+  {
+   "speaker": "B",
+   "text": "And in Houston, industrial leasing hit nine point four million square feet in ten months, one of its strongest years on record, though a glut is still being worked off."
+  },
+  {
+   "speaker": "A",
+   "text": "Financials, which we've mostly covered with credit insurance and Blackstone. And in telecom and healthcare, nothing major in tonight's newsletters beyond Hims and Hers."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for the scoreboard. Remember, stock numbers are from yesterday's close."
+  },
+  {
+   "speaker": "B",
+   "text": "The S and P five hundred closed at seven thousand five hundred twenty one, down zero point three eight percent. The Dow at fifty two thousand two hundred thirty two, down zero point three percent. The Nasdaq at twenty five thousand sixty six, down zero point seven four percent."
+  },
+  {
+   "speaker": "A",
+   "text": "The ten year Treasury yield, four point nine eight three percent, up twelve basis points. Bitcoin about seventy three thousand nine hundred dollars, down one point four percent."
+  },
+  {
+   "speaker": "B",
+   "text": "From the F T's early morning snapshot: Brent crude about ninety three dollars, up one point six percent, and Comex gold around four thousand forty eight dollars, up zero point seven percent. And the Journal says the Nasdaq composite then rose one point six percent today."
+  },
+  {
+   "speaker": "A",
+   "text": "Sadly, our usual look back at six months and a year ago isn't available tonight, because we couldn't reach the data sources. We won't guess."
+  },
+  {
+   "speaker": "A",
+   "text": "Alright, a three point recap. One: inflation came in hot, a December rate hike looks almost certain, and the ten year yield sits around five percent."
+  },
+  {
+   "speaker": "B",
+   "text": "Two: Anthropic's I P O could price near one point five trillion dollars and raise over one hundred billion, while the Nvidia scandal keeps widening."
+  },
+  {
+   "speaker": "A",
+   "text": "Three: Vance may lead direct talks with Iran, Hegseth survived impeachment by a hair, and oil is bouncing on every headline."
+  },
+  {
+   "speaker": "B",
+   "text": "What to watch tomorrow: the Anthropic pricing news, the EasyJet vote, the Abu Dhabi talks, and Brazil and Mexico output numbers."
+  },
+  {
+   "speaker": "A",
+   "text": "That's the Nightly Brief. I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. Thanks for listening, and we'll see you tomorrow night."
+  }
+ ]
+}
