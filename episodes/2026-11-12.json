@@ -1,0 +1,445 @@
+{
+ "id": "2026-11-12",
+ "title": "Nightly Brief - Thu, Nov 12",
+ "date": "Thu, Nov 12",
+ "hosts": {
+  "A": "Maya",
+  "B": "Theo"
+ },
+ "chapters": [
+  {
+   "title": "Cold open",
+   "i": 0
+  },
+  {
+   "title": "The day in three lines",
+   "i": 9
+  },
+  {
+   "title": "Macro & Rates",
+   "i": 13
+  },
+  {
+   "title": "Energy, Commodities & Geopolitics",
+   "i": 27
+  },
+  {
+   "title": "Deals & Capital Markets",
+   "i": 41
+  },
+  {
+   "title": "Companies",
+   "i": 67
+  },
+  {
+   "title": "Industry Trends",
+   "i": 80
+  },
+  {
+   "title": "Markets",
+   "i": 89
+  },
+  {
+   "title": "Wrap-up",
+   "i": 93
+  }
+ ],
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "One of the most valuable companies on the planet just lost its founder and CEO in a single morning, and the stock briefly lost about fourteen percent before climbing back."
+  },
+  {
+   "speaker": "B",
+   "text": "Wait, the guy who built the whole artificial intelligence chip empire is just... gone?"
+  },
+  {
+   "speaker": "A",
+   "text": "Gone. Resigned from the company and the board, and nobody is pretending it was his idea."
+  },
+  {
+   "speaker": "B",
+   "text": "Okay, that is the headline, but there is a lot more going on tonight. I'm Theo."
+  },
+  {
+   "speaker": "A",
+   "text": "And I'm Maya. This is the Nightly Brief podcast, the longer, more chatty companion to tonight's email, for Thursday, November twelfth."
+  },
+  {
+   "speaker": "B",
+   "text": "Here's what's on tonight's show. First, the economy, where home sales just hit a sixteen year low."
+  },
+  {
+   "speaker": "A",
+   "text": "Then energy and geopolitics, including a sudden U-turn on Iran talks and a U.S. Army officer arrested for allegedly spying for Russia."
+  },
+  {
+   "speaker": "B",
+   "text": "Then deals, where a Ukrainian-founded drone company raised seven hundred million dollars. After that, the big Nvidia story in full, a few industry trends, a quick look at the markets, and a recap."
+  },
+  {
+   "speaker": "A",
+   "text": "Grab a snack. Let's go."
+  },
+  {
+   "speaker": "A",
+   "text": "First, the short version. Number one, Nvidia's founder and CEO Jensen Huang is out, and the company is hunting for a successor."
+  },
+  {
+   "speaker": "B",
+   "text": "Number two, President Trump now says the United States does not need a deal with Iran, which is a sharp reversal from the last few days."
+  },
+  {
+   "speaker": "A",
+   "text": "And number three, sales of existing homes fell five point five percent in October, to the lowest level since twenty ten."
+  },
+  {
+   "speaker": "B",
+   "text": "Three stories, and honestly each one could be a whole episode. Let's start with the economy."
+  },
+  {
+   "speaker": "A",
+   "text": "Our macro story tonight is housing. The National Association of Realtors, which is the big trade group for real estate agents, said sales of existing homes dropped five point five percent in October compared with September."
+  },
+  {
+   "speaker": "B",
+   "text": "And existing homes just means homes that already had an owner, not brand new construction. So basically, ordinary people selling ordinary houses to other ordinary people."
+  },
+  {
+   "speaker": "A",
+   "text": "Right. And that dropped sales to the lowest level since twenty ten."
+  },
+  {
+   "speaker": "B",
+   "text": "Wait, really? Lower than the pandemic? Lower than the aftermath of the two thousand eight crash?"
+  },
+  {
+   "speaker": "A",
+   "text": "Per the Wall Street Journal, the lowest since twenty ten. It's also worse than forecasters expected. Economists surveyed by the Journal were looking for a decline of three point eight percent, and instead they got five point five."
+  },
+  {
+   "speaker": "B",
+   "text": "That's what we call a miss. When the actual number lands far from what experts predicted, markets and analysts notice, because it means the world is behaving differently than they thought."
+  },
+  {
+   "speaker": "A",
+   "text": "And why should a regular person care?"
+  },
+  {
+   "speaker": "B",
+   "text": "Because housing is the biggest purchase most families ever make, and it ripples outward. When fewer homes sell, there's less spending on movers, furniture, repairs, mortgages. It's one of the clearest signs of how people are feeling about money. Frozen sales usually mean people are either priced out or sitting tight."
+  },
+  {
+   "speaker": "A",
+   "text": "And there's a related stat from The Economist's figure of the day. The median age of homeowners in America in twenty nineteen was fifty eight."
+  },
+  {
+   "speaker": "B",
+   "text": "Fifty eight! So the typical person who owns a home is basically already well into their career. That's a number that makes younger buyers grumble."
+  },
+  {
+   "speaker": "A",
+   "text": "It ties to an Economist analysis arguing that the economic grip of the baby boomers, the generation that holds a big share of the wealth, the houses, the cash, the investments and pensions, is starting to slip."
+  },
+  {
+   "speaker": "B",
+   "text": "Interesting, though I'd say that's a long-run trend rather than tonight's breaking news."
+  },
+  {
+   "speaker": "A",
+   "text": "Fair. Now, on deck. Next Wednesday Nvidia plans its first all-hands meeting since the news, and we'll get to that. And prosecutors are expected to charge that Army officer on Sunday or Monday, again, more in a second."
+  },
+  {
+   "speaker": "B",
+   "text": "Not a ton of scheduled data releases in tonight's newsletters, so we'll keep an eye out. Moving on."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's talk Iran. In recent days, President Trump had told top aides and counterparts that he was open to Vice President J.D. Vance restarting talks with Tehran, and he had empowered Vance to negotiate."
+  },
+  {
+   "speaker": "B",
+   "text": "And yesterday the Journal asked readers whether Vance should push for face to face peace talks with a top Iranian security official."
+  },
+  {
+   "speaker": "A",
+   "text": "Then today, the president said the U.S. doesn't need a deal with Iran at all, and that he told Vance to focus on investigating American cities run by Democrats instead."
+  },
+  {
+   "speaker": "B",
+   "text": "Whiplash. The Journal calls it a sudden reversal. A spokesman for Vance didn't immediately respond when asked for comment."
+  },
+  {
+   "speaker": "A",
+   "text": "Why does it matter for markets? Because Iran is tied to oil supply and shipping, and the whole question of whether this conflict ends or drags on affects energy prices and nerves. Uncertainty tends to push investors toward safer places."
+  },
+  {
+   "speaker": "B",
+   "text": "I'd stress, our newsletters tonight didn't give oil prices, so we're not going to guess where oil is. We just know the diplomatic door looks less open than it did yesterday."
+  },
+  {
+   "speaker": "A",
+   "text": "Next, a national security story. The Army officer arrested in the U.K. over allegations of spying for Russia has been identified as Lieutenant Colonel Brandon Tyner."
+  },
+  {
+   "speaker": "B",
+   "text": "According to U.S. officials, he was caught in a sting operation, meaning he was unwittingly speaking with British authorities. He's expected to be charged Sunday or Monday, and after a U.K. trial, prosecuted in the U.S. under the military's justice code."
+  },
+  {
+   "speaker": "A",
+   "text": "His motive isn't clear. A phone number tied to him couldn't be reached, and an email wasn't returned."
+  },
+  {
+   "speaker": "B",
+   "text": "Now a bit of Washington politics. Incoming Democratic committee chairs opened a probe into Meredith O'Rourke, President Trump's chief fundraiser."
+  },
+  {
+   "speaker": "A",
+   "text": "Her operation has raised more than eight hundred million dollars for the president's key projects. The chairs wrote that it, quote, reeks of potential corruption, and listed cases where big donors later got favorable treatment. A spokeswoman for Trump and O'Rourke called the allegations absurd and baseless."
+  },
+  {
+   "speaker": "B",
+   "text": "And The Economist adds that the president's net approval rating has hit a new low, in its first update after the midterm elections."
+  },
+  {
+   "speaker": "A",
+   "text": "Okay, there's also an energy deal angle. BP is in talks to sell a stake in the Bumerangue oil block, off the coast of Brazil, to Petrobras, per Bloomberg. And Iberdrola, the Spanish utility giant, is exploring a sale of its German solar assets."
+  },
+  {
+   "speaker": "B",
+   "text": "Those are asset sales, which means a company decides a piece of its business is worth more to someone else, or it wants cash. Totally normal, but worth watching in energy."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for deals. And Axios Pro Rata's author, Dan Primack, says there was a ton of news to catch up on, because the newsletter was off yesterday for Veterans Day while markets stayed open."
+  },
+  {
+   "speaker": "B",
+   "text": "So our headline deal. A company called UForce, a developer of autonomous uncrewed platforms, founded in Ukraine, raised seven hundred million dollars in what's called a Series A round at a six billion dollar valuation."
+  },
+  {
+   "speaker": "A",
+   "text": "Quick translation. A Series A is an early funding round where investors buy ownership in a startup. Valuation is what the company is deemed to be worth, and post-money means that figure counts the new cash too."
+  },
+  {
+   "speaker": "B",
+   "text": "Seven hundred million dollars in a Series A is huge. Normally that's a few million."
+  },
+  {
+   "speaker": "A",
+   "text": "Valor Equity Partners and the U.K. National Wealth Fund led it. Axios calls it a short-term bet on the persistence of the Ukraine-Russia war and a long-term bet that Europe keeps raising defense tech spending."
+  },
+  {
+   "speaker": "B",
+   "text": "And the CEO, Oleg Rogynskyy, told Axios that Europe and the U.S. can only spend around twenty percent of what's been allocated because there isn't enough supply yet. He says it's not a winner take all market."
+  },
+  {
+   "speaker": "A",
+   "text": "More big venture rounds. Fractile, a British artificial intelligence chip startup, raised five hundred forty million pounds in a Series C at a valuation north of five billion pounds. Lightspeed and CapitalG led."
+  },
+  {
+   "speaker": "B",
+   "text": "Agile Robots, a German robotics startup, raised five hundred million dollars at an eight point five billion dollar valuation, led by SoftBank, and Nvidia joined in."
+  },
+  {
+   "speaker": "A",
+   "text": "Torus, a Salt Lake City energy and artificial intelligence infrastructure company, raised five hundred million dollars led by Magnetar. Path Robotics, which builds manufacturing robots, raised three hundred million at two point four five billion dollars."
+  },
+  {
+   "speaker": "B",
+   "text": "Q-CTRL, an Australian quantum software company, raised two hundred ninety million dollars led by Salesforce Ventures. Imprint, a co-branded credit card startup, raised one hundred thirty million at one point nine billion. Blue J, a tax research platform, raised one hundred seventy six million."
+  },
+  {
+   "speaker": "A",
+   "text": "And a few smaller ones that show where the money is flowing. Mavria raised one hundred million for mass produced artificial intelligence data centers at a one billion valuation. Rox raised one hundred million for revenue agents at one point three billion."
+  },
+  {
+   "speaker": "B",
+   "text": "There's a theme: robots, chips, data centers, defense. That's where the venture checks are going."
+  },
+  {
+   "speaker": "A",
+   "text": "Now private equity. Private equity firms buy companies using investor money and a lot of borrowed money, try to improve them, then sell later. AEA Investors bought TFS, a fleet management services company, from Southfield Capital."
+  },
+  {
+   "speaker": "B",
+   "text": "Inovalon, backed by Nordic Capital, agreed to buy DrFirst, a prescription and clinical workflow technology company. H.I.G. Capital agreed to buy a majority stake in Go Asia, a German grocery chain for Asian food."
+  },
+  {
+   "speaker": "A",
+   "text": "Also, Arcus Infrastructure Partners, with more than twelve billion euros in assets, is weighing options that could include a sale, per Bloomberg. And Cinven is seeking to sell True Potential, a U.K. wealth manager."
+  },
+  {
+   "speaker": "B",
+   "text": "And a quirky one. Gotham FC, the National Women's Soccer League club, raised one hundred million dollars, led by the Moelis family."
+  },
+  {
+   "speaker": "A",
+   "text": "On public markets, American Barrick Gold, a gold producer being carved out of Barrick Mining, filed for an initial public offering that Renaissance Capital estimates could raise six billion dollars."
+  },
+  {
+   "speaker": "B",
+   "text": "An IPO is when a private company first sells shares to the public. A carve-out means a parent company spins a piece of itself off. We don't have gold prices tonight, so we'll just note the filing."
+  },
+  {
+   "speaker": "A",
+   "text": "Other mergers. Marsh agreed to buy the investment advisory firm Wilshire. MaxCyte agreed to buy Akron BioProducts for one hundred fifty one point eight million dollars. And Oura agreed to buy the virtual care startup Counsel Health for six hundred twenty five million dollars in cash."
+  },
+  {
+   "speaker": "B",
+   "text": "A big cash price for a startup that had raised thirty two million dollars."
+  },
+  {
+   "speaker": "A",
+   "text": "Then the trouble. Western Union terminated its five hundred million dollar deal to buy the payments firm Intermex, which says it plans to fight. And U.K. antitrust regulators gave Unilever another week to address competition issues on its food business merger with McCormick, and raised concerns about AkzoNobel's proposed merger with Axalta."
+  },
+  {
+   "speaker": "B",
+   "text": "Antitrust regulators are the referees making sure mergers don't hurt competition and raise prices. A week is a tight deadline."
+  },
+  {
+   "speaker": "A",
+   "text": "Also, iHeartMedia hired Moelis to explore selling its podcast unit, Metro Bank said it's seeking a buyer, and Nomura is exploring a sale of its crypto unit, Laser Digital, possibly to Marex."
+  },
+  {
+   "speaker": "B",
+   "text": "On fundraising, Norwest raised four billion dollars for its eighteenth multi-stage fund, Fidelity Ventures raised seven hundred sixty million, and Just Climate raised five hundred forty million for natural climate solutions."
+  },
+  {
+   "speaker": "A",
+   "text": "And the Axios final number is a downer for some. Private equity and private credit investors aren't getting invited to Wall Street's big bonus party this year, per Axios' Emily Peck."
+  },
+  {
+   "speaker": "B",
+   "text": "Ouch. Okay, now the story everyone's talking about."
+  },
+  {
+   "speaker": "A",
+   "text": "Nvidia. This morning the company announced founder and CEO Jensen Huang resigned from the company and the board."
+  },
+  {
+   "speaker": "B",
+   "text": "Let's set the scene. Nvidia makes the chips that power most artificial intelligence. It became the most valuable company ever. The Journal says its market value, which is share price times number of shares, peaked around five point eight trillion dollars."
+  },
+  {
+   "speaker": "A",
+   "text": "And it has lost about one point eight trillion dollars from its October high. That's more than the entire value of most companies on Earth."
+  },
+  {
+   "speaker": "B",
+   "text": "Wait, really? Almost two trillion, gone?"
+  },
+  {
+   "speaker": "A",
+   "text": "The cause is a scandal. Huang admitted a romantic relationship with a woman alleged to be a Chinese government spy, after first lying about it, according to Axios. Then The New York Times reported on a second affair with a direct report."
+  },
+  {
+   "speaker": "B",
+   "text": "The Journal describes it as two extramarital affairs. And Axios's take is that this wasn't about the affairs themselves, it was about judgment and the financial and national security risks."
+  },
+  {
+   "speaker": "A",
+   "text": "Interim, meaning temporary, CEO is chief financial officer Colette Kress. Longtime director Harvey Jones becomes Nvidia's first ever chair. The board said it will consider internal and external candidates."
+  },
+  {
+   "speaker": "B",
+   "text": "The press release had no statement from Huang, which Axios says strongly suggests it wasn't his idea."
+  },
+  {
+   "speaker": "A",
+   "text": "What about the stock? Axios says it was down about eight percent before the market opened, and opened around one hundred fifty one dollars, versus an all-time high of two hundred thirty nine dollars twenty four cents five weeks ago. The Journal says it fell as much as fourteen percent, then recovered and finished the day four point three percent lower."
+  },
+  {
+   "speaker": "B",
+   "text": "What happens next? Axios says nobody knows. Kress has less technical depth and fewer political relationships than Huang. There could be tougher regulatory oversight, and Congress members have called for investigations into export controls. Management's first all-hands is next Wednesday."
+  },
+  {
+   "speaker": "A",
+   "text": "And there's a ripple. Companies that rely on Nvidia for chips or financing, like those new AI cloud companies called neoclouds, got hammered again this morning. And Axios says it's hard to imagine founders selling to Nvidia while it's in flux."
+  },
+  {
+   "speaker": "B",
+   "text": "The Economist's Schumpeter column asks if this is the most expensive affair in history, and says there has never been a corporate scandal like this. It also says the successor has the toughest job in tech. Their most-read piece is titled Jensen Huang must go."
+  },
+  {
+   "speaker": "A",
+   "text": "The bulls point out Nvidia's order book is stocked for a while. Bears see long-term risk."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's do industry trends. Tech and artificial intelligence first. The Economist has a cover package asking whether you should expect an AI crash, arguing it's likely, but not necessarily a financial cataclysm."
+  },
+  {
+   "speaker": "B",
+   "text": "It also asks whether the AI boom can make enough money to sustain itself, and its video show The Insider asks if we're on the cusp of an AI market bust."
+  },
+  {
+   "speaker": "A",
+   "text": "Tonight's Nvidia fall makes that more than an academic question."
+  },
+  {
+   "speaker": "B",
+   "text": "Energy next. The Economist says Africa's solar revolution is vast and speedy, and Zimbabwe shows official statistics probably underestimate its scale."
+  },
+  {
+   "speaker": "A",
+   "text": "Industrials and defense. UForce's raise, the Path Robotics round, and the push in defense tech all point to money chasing real-world automation."
+  },
+  {
+   "speaker": "B",
+   "text": "Real estate we covered, with existing home sales at a sixteen year low."
+  },
+  {
+   "speaker": "A",
+   "text": "Financials. Western Union's collapsed deal, Metro Bank looking for a buyer, and the muted bonus season for private equity and private credit."
+  },
+  {
+   "speaker": "B",
+   "text": "Health care. The American Cancer Society now recommends most men get routine prostate cancer tests starting at fifty, and Black men and those with a strong family history should start annual screening at forty five, per the Journal."
+  },
+  {
+   "speaker": "A",
+   "text": "Plus the Oura deal for Counsel Health, and Inovalon buying DrFirst."
+  },
+  {
+   "speaker": "A",
+   "text": "Markets. Honestly, tonight's newsletters didn't include closing levels for the S and P five hundred, the Dow, the Nasdaq, Treasury yields, Brent oil, gold or Bitcoin."
+  },
+  {
+   "speaker": "B",
+   "text": "So rather than guess, we're not giving numbers. The only market data point is Nvidia, down four point three percent at the close."
+  },
+  {
+   "speaker": "A",
+   "text": "We also couldn't reach reliable sources for the levels from six months or a year ago, so the table in the email says not available."
+  },
+  {
+   "speaker": "B",
+   "text": "A table of not available is a bit sad, but honest beats made up."
+  },
+  {
+   "speaker": "A",
+   "text": "Recap time. One, Nvidia's Jensen Huang resigned, Colette Kress is interim CEO, and the stock ended four point three percent lower after a wild day."
+  },
+  {
+   "speaker": "B",
+   "text": "Two, Trump says the U.S. doesn't need an Iran deal, reversing days of signals about Vance leading talks."
+  },
+  {
+   "speaker": "A",
+   "text": "Three, existing home sales fell five point five percent in October to the lowest since twenty ten, and venture money keeps pouring into defense, robots and chips."
+  },
+  {
+   "speaker": "B",
+   "text": "Tomorrow, watch for any news on Nvidia's CEO search, the all-hands next Wednesday, the Army officer's charges Sunday or Monday, and how the Iran story moves."
+  },
+  {
+   "speaker": "A",
+   "text": "That's the Nightly Brief. I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. Thanks for listening, and sleep well."
+  }
+ ]
+}
