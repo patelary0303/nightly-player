@@ -1,0 +1,337 @@
+{
+ "id": "2026-11-14",
+ "title": "Nightly Brief - Sat, Nov 14",
+ "date": "Sat, Nov 14",
+ "hosts": {
+  "A": "Maya",
+  "B": "Theo"
+ },
+ "chapters": [
+  {
+   "title": "Cold open",
+   "i": 0
+  },
+  {
+   "title": "Energy, Commodities & Geopolitics",
+   "i": 9
+  },
+  {
+   "title": "Companies",
+   "i": 27
+  },
+  {
+   "title": "Industry Trends",
+   "i": 51
+  },
+  {
+   "title": "Markets",
+   "i": 61
+  },
+  {
+   "title": "Wrap-up",
+   "i": 69
+  }
+ ],
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Four hours. For four whole hours on Friday night, not a single plane could take off anywhere in the United States."
+  },
+  {
+   "speaker": "B",
+   "text": "Wait, nowhere? Not even one little regional hop?"
+  },
+  {
+   "speaker": "A",
+   "text": "Nowhere. It has only happened twice since September eleventh. And that's just one of tonight's stories."
+  },
+  {
+   "speaker": "B",
+   "text": "Welcome to the Nightly Brief, I'm Theo."
+  },
+  {
+   "speaker": "A",
+   "text": "And I'm Maya. It's Saturday night, the news is a little quieter, but the stories are still big. Here's what's on tonight's show."
+  },
+  {
+   "speaker": "B",
+   "text": "First up, energy and geopolitics: a surprise three-way summit being planned for next week, plus a few big stories from The Economist about submarines, Russia, and the Strait of Hormuz."
+  },
+  {
+   "speaker": "A",
+   "text": "Then companies. Nvidia's very rough week keeps getting messier, there's a twist in the Microsoft outage story, and the Federal Aviation Administration shutdown has new details."
+  },
+  {
+   "speaker": "B",
+   "text": "After that, a quick tour of tech, aerospace and travel trends, including a rocket that might catch itself, which I love."
+  },
+  {
+   "speaker": "A",
+   "text": "Then we walk through the markets, and wrap up with three things to remember and what to watch tomorrow. Let's go."
+  },
+  {
+   "speaker": "A",
+   "text": "We start with geopolitics, because this one is a head-turner. President Trump is reportedly planning an unprecedented summit with China's president Xi Jinping and Russia's president Vladimir Putin, on the sidelines of the Asia-Pacific Economic Cooperation meeting in China next week."
+  },
+  {
+   "speaker": "B",
+   "text": "Okay, so a summit is basically a big meeting where leaders sit down together. And this one would put three of the most powerful people on earth around one table, which is rare."
+  },
+  {
+   "speaker": "A",
+   "text": "Very rare. Why does it matter for your wallet? Because relations between these three countries touch trade, tariffs, sanctions, oil, and the war in Ukraine. When leaders talk, markets tend to move, in either direction."
+  },
+  {
+   "speaker": "B",
+   "text": "Right, it's like the group chat where everyone's been fighting and suddenly they all agree to meet for dinner. Could be a breakthrough, could be awkward."
+  },
+  {
+   "speaker": "A",
+   "text": "Now, our newsletter from The Economist has some deeper stories on this front. First, a submarine story. Garden Island, off the coast of Western Australia near Perth, is home to a naval base called HMAS Stirling."
+  },
+  {
+   "speaker": "B",
+   "text": "And it's getting a big upgrade. From twenty twenty-seven, that base is preparing to host American nuclear-powered attack submarines."
+  },
+  {
+   "speaker": "A",
+   "text": "Which makes it the first American submarine base to be set up abroad in about half a century. The Economist says the headline is fifty-three years."
+  },
+  {
+   "speaker": "B",
+   "text": "Fifty-three years! And the point is reach. A base on Australia's west coast lets America project power deep into Asia, across the Indian Ocean and the Pacific, without sailing all the way from home."
+  },
+  {
+   "speaker": "A",
+   "text": "This is part of a deal called AUKUS, a security pact between Australia, the United Kingdom and the United States. Think of it as the three countries pooling their toys and their know-how, especially on submarines."
+  },
+  {
+   "speaker": "B",
+   "text": "And for investors, that's a long-term story about defense spending. Submarines are expensive, they take years to build, and shipbuilders and their suppliers can have steady work for a very long time."
+  },
+  {
+   "speaker": "A",
+   "text": "Second Economist story, much darker. On November first, Russia's official statistics agency was hit by a cyber-attack. A week later, two hacking groups released what they say are the Russian government's own records of its war deaths in Ukraine."
+  },
+  {
+   "speaker": "B",
+   "text": "Important detail: if the leak is genuine. The Economist is careful about that, and so should we be. But it did a close analysis of the numbers, and the point is that if these records are real, Putin should know the toll his war is taking."
+  },
+  {
+   "speaker": "A",
+   "text": "It matters beyond the human cost. A war that is expensive in lives and money affects Russia's economy, its ability to keep fighting, and the pressure for talks, which loops right back to that summit."
+  },
+  {
+   "speaker": "B",
+   "text": "Third, and this one is about oil. A feature from the Economist's long-form magazine, called eighteen forty-three, describes life on the Strait of Hormuz, which they call sand, sea, and surface-to-air missiles."
+  },
+  {
+   "speaker": "A",
+   "text": "The Strait of Hormuz is a narrow waterway between Iran and its neighbors, and a huge share of the world's oil ships through it. Think of it as a one-lane bridge for the global energy supply."
+  },
+  {
+   "speaker": "B",
+   "text": "And the piece describes Iranians on the front line of a war with no end in sight. Last night's brief mentioned that oil had flipped into surplus for the first time since the Iran war began, so supply has eased, but the risk around that waterway hasn't gone away."
+  },
+  {
+   "speaker": "A",
+   "text": "A surplus just means the world is producing more oil than it's using. That's usually good news for gas prices. But a war near the main shipping lane is the kind of thing that can flip the story overnight."
+  },
+  {
+   "speaker": "B",
+   "text": "So the takeaway: summit next week, a submarine base in Australia, a leaked Russian casualty record, and a tense waterway. Geopolitics is not taking the weekend off."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's move to companies, and we have to start with Nvidia, because the drama isn't over. Quick recap for anyone who's been on a darkness retreat this week."
+  },
+  {
+   "speaker": "B",
+   "text": "Nvidia's longtime chief executive, Jensen Huang, resigned on Thursday after reports about his relationships, including one with a woman named Alice Huang, no relation, who leads a company called Megaspeed and who has been alleged to be a Chinese spy."
+  },
+  {
+   "speaker": "A",
+   "text": "New today: a blame game in Washington. Treasury Secretary Scott Bessent told CNBC that his department, the Defense Department and the State Department all wanted tougher limits on selling chips to Megaspeed."
+  },
+  {
+   "speaker": "B",
+   "text": "But he said Commerce Secretary Howard Lutnick's department didn't impose them. And when asked why, Bessent basically said, you'll have to ask them about their internal processes."
+  },
+  {
+   "speaker": "A",
+   "text": "The Commerce Department hadn't responded to media requests yet. Export controls, by the way, are rules about what technology a company is allowed to sell to certain countries. Advanced chips are at the center of that fight with China."
+  },
+  {
+   "speaker": "B",
+   "text": "So the stock story is the money story. Nvidia shares closed at about one hundred sixty-three dollars, down about two percent on Friday."
+  },
+  {
+   "speaker": "A",
+   "text": "And the number that made me say wait, really: it was Nvidia's sixth losing week in a row, its worst streak since twenty twelve, and CNBC says the company has lost roughly one point seven trillion dollars in value during the slide."
+  },
+  {
+   "speaker": "B",
+   "text": "Trillion, with a T! That's more than the entire economy of many countries. Though it's worth remembering that's value on paper, based on what investors are willing to pay for the shares."
+  },
+  {
+   "speaker": "A",
+   "text": "Now, who runs the place? The company is led for now by its chief financial officer, Colette Kress. The board told CNBC it is in the process of selecting a search firm and hasn't formally engaged any potential candidates."
+  },
+  {
+   "speaker": "B",
+   "text": "That came after rumors. The Financial Times reported that the board had approached Rene Haas, the chief executive of Arm Holdings, and Arm's stock fell on that news. Meanwhile, Wired reported that some employees are urging the board to find a way to bring Huang back."
+  },
+  {
+   "speaker": "A",
+   "text": "So we've got no candidate, a search firm still being hired, and maybe an employee campaign. Why should you care even if you don't own a single share? Because Nvidia chips power most of the artificial intelligence boom, and a big chunk of the stock market's value is tied to it, including probably your retirement fund."
+  },
+  {
+   "speaker": "B",
+   "text": "Yes, index funds own a lot of it. When a giant like that wobbles, the index wobbles."
+  },
+  {
+   "speaker": "A",
+   "text": "Next, Microsoft. Last night we mentioned the outage. The update today: services like Outlook and Teams are slowly returning to normal after the disruption hit users in more than seventy countries and territories, according to the outage tracker Downdetector."
+  },
+  {
+   "speaker": "B",
+   "text": "Offices, public transit, retailers, banks, all affected. Some workers apparently went back to fax machines. Fax machines! In twenty twenty-six!"
+  },
+  {
+   "speaker": "A",
+   "text": "A Michigan think tank estimates the cost at least seven billion dollars in lost productivity. Microsoft says it was a technical issue unrelated to artificial intelligence, with no sign of malicious activity, and pointed to elevated load. It says it will share more once it finishes its review."
+  },
+  {
+   "speaker": "B",
+   "text": "The bigger lesson is concentration risk. A handful of giant cloud companies, called hyperscalers, run so much of the internet's plumbing that one bad day for one company becomes a bad day for the planet. We saw similar scares with Cloudflare and Amazon Web Services last year."
+  },
+  {
+   "speaker": "A",
+   "text": "Which brings us to the other outage. The air one."
+  },
+  {
+   "speaker": "B",
+   "text": "Yes, the Federal Aviation Administration issued a national ground stop from just before four in the afternoon to eight fifteen at night on Friday. A ground stop means planes can't take off. Only the second time nationwide since nine eleven."
+  },
+  {
+   "speaker": "A",
+   "text": "Last night's brief had the headline. Here's what we learned since. Homeland Security Secretary Markwayne Mullin said new technology upgrades overwhelmed the aging air traffic control communication system, and it did not appear to be a cyberattack."
+  },
+  {
+   "speaker": "B",
+   "text": "Transportation Secretary Sean Duffy said he didn't anticipate an outage like this, and he asked Congress for fifty billion dollars to fix the aging system, warning more disruptions will come unless it's completely overhauled."
+  },
+  {
+   "speaker": "A",
+   "text": "By nine thirty that night, more than sixty-six hundred flights were canceled for Friday, and another fifteen hundred for Saturday. The travel data firm Cirium estimated one and a half million travelers were stranded."
+  },
+  {
+   "speaker": "B",
+   "text": "And it wasn't just passengers. Air cargo and parcel shipments were halted too, so packages and supply chains felt it. Sports teams traveling for games were stuck as well."
+  },
+  {
+   "speaker": "A",
+   "text": "Duffy said getting back to normal will be slow, since planes, pilots and crews are out of position. But he doesn't expect problems during Thanksgiving travel in a couple of weeks."
+  },
+  {
+   "speaker": "B",
+   "text": "Fingers crossed. Quick final note: SpaceX launched its fifteenth Starship test flight, and it was meant to be the first attempt to catch both the booster and the upper stage. We'll cover that in a moment."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's zoom out to industry trends. First, tech and artificial intelligence. Two small but telling items. OpenAI unveiled something called ChatGPT Wallet, which lets its artificial intelligence agents make purchases for you."
+  },
+  {
+   "speaker": "B",
+   "text": "An agent is software that doesn't just answer questions, it takes actions for you. So in theory you say, buy me a gift, and it does. Convenient, and a little scary for your credit card."
+  },
+  {
+   "speaker": "A",
+   "text": "Also, Meta's paying users of its assistant, Muse, can now have it call businesses in the US, like a cable company or a restaurant, for reservations."
+  },
+  {
+   "speaker": "B",
+   "text": "The trend is the same: assistants moving from chatting to doing. That's where the money is, because companies think people will pay for software that saves time."
+  },
+  {
+   "speaker": "A",
+   "text": "Second, industrials and aerospace. SpaceX's Starship is the biggest rocket ever built, and the goal is reusability, catching the booster and the upper stage so they can fly again."
+  },
+  {
+   "speaker": "B",
+   "text": "It has caught the booster in past tests but never the upper section, a one hundred seventy-one foot tall piece falling back to earth. If it works, it saves millions of dollars per mission, like reusing an airplane instead of throwing it away after every flight."
+  },
+  {
+   "speaker": "A",
+   "text": "And the newsletter said it may still try to catch it today, which, if you're listening later, you already know how it ended better than we do."
+  },
+  {
+   "speaker": "B",
+   "text": "Third, defense, which we covered with that AUKUS submarine base, and travel infrastructure, which is the air traffic story. Both are about spending on aging or strategic systems, and there's a theme: governments may need to spend big."
+  },
+  {
+   "speaker": "A",
+   "text": "One more business-adjacent note from the week's wrap: wealthy parents are building game rooms and pickleball courts at home to keep adult kids visiting. Not market moving, but real estate is following lifestyle."
+  },
+  {
+   "speaker": "B",
+   "text": "Honestly, I'd come home more often too."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for the markets. These levels come from Friday's close, as reported in Morning Brew's Saturday newsletter, with Bitcoin as of seven thirty Friday evening."
+  },
+  {
+   "speaker": "B",
+   "text": "The Nasdaq fell nine tenths of a percent to about twenty-five thousand, one hundred thirty-six. But it still had its best week since August."
+  },
+  {
+   "speaker": "A",
+   "text": "The S and P five hundred slipped about four tenths of a percent to seven thousand, five hundred sixty-two. The Dow Jones Industrial Average was the one winner, up about a tenth of a percent at fifty-two thousand, three hundred forty-eight."
+  },
+  {
+   "speaker": "B",
+   "text": "Now the interesting one. The ten-year Treasury yield rose five basis points to five point one five four percent. A basis point is one one-hundredth of a percentage point, so five basis points is five hundredths of one percent."
+  },
+  {
+   "speaker": "A",
+   "text": "And a Treasury yield is basically the interest rate the government pays to borrow for ten years. Why should you care? It influences mortgage rates, car loans and credit card costs. At over five percent, borrowing stays pricey."
+  },
+  {
+   "speaker": "B",
+   "text": "Bitcoin fell about three point nine percent to roughly sixty-eight thousand, two hundred seventy-eight dollars."
+  },
+  {
+   "speaker": "A",
+   "text": "We don't have fresh numbers for oil or gold from tonight's newsletters, and the weekend means no live trading, so those are blank. And we don't have comparison levels from six months or a year ago that we can verify, so we're not going to guess."
+  },
+  {
+   "speaker": "B",
+   "text": "Honesty in numbers. Love it. And remember, these are Friday closing levels, so the market itself is closed until Monday morning, which gives everyone the weekend to digest the Nvidia news and the summit plans."
+  },
+  {
+   "speaker": "A",
+   "text": "Okay, three things to remember. One: a summit with Trump, Xi and Putin is being planned for next week in China, and it could move markets."
+  },
+  {
+   "speaker": "B",
+   "text": "Two: Nvidia's saga continues, with a blame game in Washington, a CEO search that hasn't picked a candidate, and a sixth straight losing week."
+  },
+  {
+   "speaker": "A",
+   "text": "Three: this was a week of fragile systems. Microsoft's outage, the nationwide flight halt, and the call for fifty billion dollars to fix air traffic control all say the same thing about aging infrastructure."
+  },
+  {
+   "speaker": "B",
+   "text": "What to watch tomorrow and next week: whether flights fully recover, how the Starship catch attempt turns out, any news on Nvidia's search, and the details of that summit. Plus the ten-year yield, now above five percent."
+  },
+  {
+   "speaker": "A",
+   "text": "That's the Nightly Brief. I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. Get some rest, and we'll see you tomorrow night."
+  }
+ ]
+}
