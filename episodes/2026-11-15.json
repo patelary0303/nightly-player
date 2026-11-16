@@ -1,0 +1,405 @@
+{
+ "id": "2026-11-15",
+ "title": "Nightly Brief - Sun, Nov 15",
+ "date": "Sun, Nov 15",
+ "hosts": {
+  "A": "Maya",
+  "B": "Theo"
+ },
+ "chapters": [
+  {
+   "title": "Cold open",
+   "i": 0
+  },
+  {
+   "title": "Macro & Rates",
+   "i": 10
+  },
+  {
+   "title": "Energy, Commodities & Geopolitics",
+   "i": 30
+  },
+  {
+   "title": "Deals & Capital Markets",
+   "i": 39
+  },
+  {
+   "title": "Companies",
+   "i": 48
+  },
+  {
+   "title": "Industry Trends",
+   "i": 61
+  },
+  {
+   "title": "Markets",
+   "i": 78
+  },
+  {
+   "title": "Wrap-up",
+   "i": 82
+  }
+ ],
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "A company is about to ask the stock market for more money than SpaceX did, and it is the same company that built the AI model some of you are probably chatting with right now."
+  },
+  {
+   "speaker": "B",
+   "text": "Wait, really? Bigger than SpaceX? SpaceX had the record for the biggest stock market debut ever!"
+  },
+  {
+   "speaker": "A",
+   "text": "It did, set back in June. And that's just one thing on tonight's show."
+  },
+  {
+   "speaker": "B",
+   "text": "Welcome to the Nightly Brief. I'm Theo."
+  },
+  {
+   "speaker": "A",
+   "text": "And I'm Maya. It's Sunday night, so the news is a little quieter, but the stories are still big. Here's what's on tonight's show."
+  },
+  {
+   "speaker": "B",
+   "text": "We start with the economy, where Democrats are fighting about how to pay for a giant spending agenda, and where a lucky group of homeowners is stuck with a three percent mortgage they can't bear to give up."
+  },
+  {
+   "speaker": "A",
+   "text": "Then geopolitics: Iran is back to attacking a US ally, and Donald Trump and Xi Jinping are about to meet again."
+  },
+  {
+   "speaker": "B",
+   "text": "After that, deals, with the big one, the Anthropic IPO. Then companies: the Nvidia saga takes a turn, and Gucci is cutting prices."
+  },
+  {
+   "speaker": "A",
+   "text": "Then industry trends: whether the AI boom ends in a crash, data centers heading out to sea, a router in Arkansas that grounded American flights, and a rocket that caught itself. Then a walk through the markets, and a wrap-up."
+  },
+  {
+   "speaker": "B",
+   "text": "Let's go."
+  },
+  {
+   "speaker": "A",
+   "text": "First up, government money. In the Wall Street Journal's What's News newsletter, there's a story about Democrats, who are heading into the new Congress with big majorities."
+  },
+  {
+   "speaker": "B",
+   "text": "Right, after the midterm elections. And they mostly agree on what they want: reverse Donald Trump's tariffs, and undo Republican cuts to spending on Medicaid, food stamps and health insurance subsidies."
+  },
+  {
+   "speaker": "A",
+   "text": "The sticking point is the bill. The price tag could top a trillion dollars, maybe more, and the question is whether and when to attach tax increases to their big legislation."
+  },
+  {
+   "speaker": "B",
+   "text": "Okay, quick translation. A government deficit is what happens when the government spends more than it collects in taxes. It makes up the difference by borrowing, by selling bonds."
+  },
+  {
+   "speaker": "A",
+   "text": "And a bond is basically an IOU. You lend the government money, and it pays you interest. The more IOUs the government has to sell, the more investors pay attention to whether the government can afford it."
+  },
+  {
+   "speaker": "B",
+   "text": "Which is why this fight matters to you even if you never follow politics. Taxes, borrowing costs and your benefits all sit in the same tug of war."
+  },
+  {
+   "speaker": "A",
+   "text": "The lawmakers are also designing an agenda for twenty twenty-seven, one that aims to pass laws where possible and set up the stakes for the twenty twenty-eight election. So this is a long game."
+  },
+  {
+   "speaker": "B",
+   "text": "Now here's my favorite number of the night, also from the Journal. Three percent."
+  },
+  {
+   "speaker": "A",
+   "text": "Three percent of what?"
+  },
+  {
+   "speaker": "B",
+   "text": "That's the mortgage rate that millions of homeowners locked in during the pandemic. Meanwhile, the thirty-year fixed mortgage rate today is seven point one percent."
+  },
+  {
+   "speaker": "A",
+   "text": "Wait, really? Seven point one? That's more than double."
+  },
+  {
+   "speaker": "B",
+   "text": "Yes! And the Journal calls these people lucky, but some also feel trapped. If you move, you give up your three percent loan and take on a seven percent one, so you never move."
+  },
+  {
+   "speaker": "A",
+   "text": "It's like having a gym membership from ten years ago at five dollars a month. You'd never cancel it, even if you hate the gym."
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. The Journal says homeowners with a cheap mortgage look like anyone else, but there are tells. Some are buying luxury cars, booking expensive vacations and even retiring early, because their monthly housing cost is so low."
+  },
+  {
+   "speaker": "A",
+   "text": "And for the rest of the economy, that matters, because fewer people moving means fewer homes for sale, which means less business for movers, furniture stores and real estate agents."
+  },
+  {
+   "speaker": "B",
+   "text": "Which ties back to interest rates, which are basically the price of borrowing money. When the rate on the ten-year Treasury, the benchmark for mortgages, stays high, it ripples through everything."
+  },
+  {
+   "speaker": "A",
+   "text": "Now, what's on deck this week? Let's run through the calendar, because there's a lot."
+  },
+  {
+   "speaker": "B",
+   "text": "Monday: five European countries, Germany, the Netherlands, Austria, Greece and Denmark, are expected to announce a deal with Rwanda to send some failed asylum seekers there starting in twenty twenty-seven. The Economist says it will start small."
+  },
+  {
+   "speaker": "A",
+   "text": "Tuesday: Nvidia reports its earnings. That's a quarterly report card where a company shows how much money it made, and we'll dig into why this one is special in a moment."
+  },
+  {
+   "speaker": "B",
+   "text": "Wednesday: the Asia-Pacific Economic Cooperation summit begins in Shenzhen, China. And all week long: Anthropic's stock market debut."
+  },
+  {
+   "speaker": "A",
+   "text": "On to geopolitics. The Journal says Iran has targeted Bahrain again, after resuming attacks on a US ally."
+  },
+  {
+   "speaker": "B",
+   "text": "Bahrain is a small island nation in the Persian Gulf, and the Journal's headline says the conflict is escalating. We don't have more detail than that from tonight's newsletter, but the context is that the war in Iran is still on."
+  },
+  {
+   "speaker": "A",
+   "text": "And why do markets care? Because Middle East conflict is one of the things that can move oil prices, and oil prices show up in what you pay for gas."
+  },
+  {
+   "speaker": "B",
+   "text": "Last night we told you oil had flipped into a surplus, meaning the world was producing more than it was using. Escalation like this is the reminder that the calm can end quickly."
+  },
+  {
+   "speaker": "A",
+   "text": "Now the other big geopolitical item. The Economist's week-ahead section says Donald Trump and Xi Jinping will meet for the third time this year, at that Asia-Pacific summit in Shenzhen, which begins on Wednesday."
+  },
+  {
+   "speaker": "B",
+   "text": "Now, last night we told you about a report that Trump might try to bring Vladimir Putin into a three-way meeting. Tonight the new part is the confirmed piece: Trump and Xi will be at the same summit, and the agenda is expected to include Taiwan, the war in Iran and AI safety."
+  },
+  {
+   "speaker": "A",
+   "text": "America's support for Taiwan, the self-governing island that China claims, is a top issue."
+  },
+  {
+   "speaker": "B",
+   "text": "But the Economist adds a dose of realism. It says recent meetings between American and Chinese leaders have achieved little of substance."
+  },
+  {
+   "speaker": "A",
+   "text": "So the takeaway: big stage, big headlines, but be careful about expecting a big breakthrough."
+  },
+  {
+   "speaker": "A",
+   "text": "Now to the deal that has Wall Street talking. Anthropic, the AI company behind Claude, is planning its stock market debut this week."
+  },
+  {
+   "speaker": "B",
+   "text": "Let's define the term. An IPO, an initial public offering, is when a private company sells shares to the public for the first time. It's like a company moving from a private party to the town square."
+  },
+  {
+   "speaker": "A",
+   "text": "And the Economist calls this one a monster. It says the IPO will probably be the first of two by AI labs, with OpenAI expected to follow soon. And the Economist says SpaceX's record as the biggest IPO ever, set in June, is about to be broken."
+  },
+  {
+   "speaker": "B",
+   "text": "Okay, so a record-breaking debut. And yet, the Wall Street Journal says individual investors are hot on the Anthropic IPO but cool on AI itself. Mixed feelings."
+  },
+  {
+   "speaker": "A",
+   "text": "Why? The Journal says this IPO is landing in a very different mood than SpaceX's debut five months ago, when AI fever was at its peak. A decisive Democratic sweep in the midterms is sending a wave of AI-skeptic politicians into state and federal offices."
+  },
+  {
+   "speaker": "B",
+   "text": "And Wall Street is still reeling from Jensen Huang's departure from Nvidia, which we'll get to. Plus, the Journal says many Americans are starting to grapple with how much of the stock market is riding on one massive bet on AI."
+  },
+  {
+   "speaker": "A",
+   "text": "That's a key idea. If you own an index fund, a fund that holds a slice of the whole market, a big share of your money is already tied to AI companies, whether you picked them or not."
+  },
+  {
+   "speaker": "B",
+   "text": "The Economist also looks at the rivalry. As Anthropic and OpenAI go public, investors will be able to compare them side by side, and the Economist says this marks a new phase in their rivalry. Public companies have to open their books, share results every quarter and answer to shareholders."
+  },
+  {
+   "speaker": "A",
+   "text": "So the takeaway: it's the biggest debut ever, but the mood is cautious, and the results will tell us how investors feel about AI now."
+  },
+  {
+   "speaker": "A",
+   "text": "Companies now, starting with Nvidia, because the story keeps developing. Last night we covered the blame game in Washington and the sixth straight losing week."
+  },
+  {
+   "speaker": "B",
+   "text": "Tonight's new part comes from the Journal, which looks at how Jensen Huang built what it calls a backdoor route that kept China in the AI race."
+  },
+  {
+   "speaker": "A",
+   "text": "Here's the idea. Export controls are rules limiting which advanced chips can be sold to China. The Journal says that while Huang was CEO, he built a multibillion-dollar business feeding Chinese customers' hunger for American chips, cultivating a network of partners in Asia who could serve China far from Washington's eyes."
+  },
+  {
+   "speaker": "B",
+   "text": "It says he befriended President Trump and lobbied Washington hard to keep that door open. And China's AI developers made use of those chips, either smuggled ones or ones accessed remotely in places like Malaysia."
+  },
+  {
+   "speaker": "A",
+   "text": "Then comes the twist. The Journal says Huang's affair with an executive at one of those partners, a possible Chinese intelligence asset, did not just end his career. It now threatens to blow up the entire ecosystem he built in Asia."
+  },
+  {
+   "speaker": "B",
+   "text": "The Economist, in the same breath, says Nvidia reports earnings on Tuesday, and Colette Kress, the interim chief executive, needs a good quarter. A blowout quarter would soothe nerves."
+  },
+  {
+   "speaker": "A",
+   "text": "And investors want to hear that the company can still hit the seventy percent revenue growth it has promised for twenty twenty-seven."
+  },
+  {
+   "speaker": "B",
+   "text": "Seventy percent growth. For a company that size. That's like a marathon runner promising to also go faster every mile."
+  },
+  {
+   "speaker": "A",
+   "text": "So Tuesday is the test. Can the business keep growing while the leadership is in turmoil, and while the China business model is in question?"
+  },
+  {
+   "speaker": "B",
+   "text": "Next, fashion, which I did not expect on a night like this. The Journal says Gucci is cutting prices, while Louis Vuitton is reluctant to follow the trend."
+  },
+  {
+   "speaker": "A",
+   "text": "Why does that matter? Luxury brands usually protect prestige by never discounting. If one cuts prices, it's a sign that shoppers are pushing back on how expensive things have gotten."
+  },
+  {
+   "speaker": "B",
+   "text": "And the question is whether Louis Vuitton can hold the line. If it can, that suggests its customers are loyal. If it can't, it tells us more about luxury demand, which is a signal for the wider economy."
+  },
+  {
+   "speaker": "A",
+   "text": "The Journal's newsletter only gives us the headline here, so we'll keep an eye out for details."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for our industry tour. First up, tech and artificial intelligence, starting with a provocative piece from the Economist, headlined, why you should expect an AI crash."
+  },
+  {
+   "speaker": "B",
+   "text": "It's the most-read article among Economist subscribers right now, and the newsletter doesn't spell out the argument, but the headline tells you the mood. People are asking whether this boom ends like past booms, with a crash."
+  },
+  {
+   "speaker": "A",
+   "text": "It pairs with that Anthropic IPO. The question hanging over this week is whether the market is paying for real, lasting profits, or for hype."
+  },
+  {
+   "speaker": "B",
+   "text": "Second, the Journal says that facing backlash on land, data centers are looking to the sea."
+  },
+  {
+   "speaker": "A",
+   "text": "A data center is a giant warehouse of computers that powers AI and the internet. They use huge amounts of land, power and water, and some neighbors are pushing back, so companies are looking at the ocean instead."
+  },
+  {
+   "speaker": "B",
+   "text": "It's another sign that the AI boom is physical. It's concrete, cables, electricity and, apparently, boats."
+  },
+  {
+   "speaker": "A",
+   "text": "Third, from Morning Brew's Sunday book edition. Books written with generative AI are flooding the market, and studies suggest they're hurting human authors' income."
+  },
+  {
+   "speaker": "B",
+   "text": "Here are the numbers. Of about two thousand religion books published on Amazon in the last year, sixty-three percent were flagged as likely written by AI. And a Stony Brook University study found that more than a third of nearly fifteen thousand self-published genre fiction books sold on Amazon between twenty twenty-three and twenty twenty-six had at least twenty percent AI text."
+  },
+  {
+   "speaker": "A",
+   "text": "Amazon allows authors to publish up to ten AI books a week. Which sounds like a lot to me."
+  },
+  {
+   "speaker": "B",
+   "text": "The study says AI books are produced so fast and so cheaply that the pool of readers can't keep up, and that lowers revenue for human writers. But, fun fact from the same newsletter, print is still strong. Print books were three-quarters of sales last year, and the number of independent bookstores grew by four hundred twenty-two, up thirty-one percent."
+  },
+  {
+   "speaker": "A",
+   "text": "Now industrials and aerospace. Big news: SpaceX caught the second stage of its Starship rocket."
+  },
+  {
+   "speaker": "B",
+   "text": "Last night we told you the test flight was aiming for that, and the Economist and the Journal now say it happened. The Journal notes an early setback, but then the upper stage was safely returned to its launch tower."
+  },
+  {
+   "speaker": "A",
+   "text": "Why does it matter? Reusing rockets, rather than throwing them away, cuts the cost of getting to space. The Economist says SpaceX has something to crow about, and it's another milestone for a company that's about to be eclipsed by an even bigger IPO."
+  },
+  {
+   "speaker": "B",
+   "text": "Then the air traffic story, with new detail. Last night we told you about Friday's four-hour national ground stop. The Journal's reporters traced the problem to a single router at an FAA radio site in rural southern Arkansas."
+  },
+  {
+   "speaker": "A",
+   "text": "One router. In Arkansas. That grounded the country."
+  },
+  {
+   "speaker": "B",
+   "text": "The Journal also published radio broadcasts and messages between airline control rooms and pilots showing how the four-hour saga played out. And it says this was the most severe nationwide ground stop since September eleventh, twenty-oh-one."
+  },
+  {
+   "speaker": "A",
+   "text": "The lesson is the same as last night. Fragile, aging infrastructure means that one small failure can ripple across a whole system, and it's why the Transportation Secretary asked Congress for fifty billion dollars."
+  },
+  {
+   "speaker": "A",
+   "text": "Now the markets. Here's a quick honest note. It's Sunday, markets are closed, and none of tonight's newsletters had market levels."
+  },
+  {
+   "speaker": "B",
+   "text": "So for the S and P five hundred, the Dow, the Nasdaq, the ten-year Treasury yield, Brent crude oil, gold and Bitcoin, we have no fresh numbers tonight, and we couldn't verify levels from six months or a year ago, so we're not guessing."
+  },
+  {
+   "speaker": "A",
+   "text": "But last night's newsletters gave us Friday's closes, and you can find those in last night's brief. The ten-year Treasury yield, which is the interest rate the government pays to borrow for ten years, closed above five percent."
+  },
+  {
+   "speaker": "B",
+   "text": "That's the number to watch, because it feeds into mortgage rates, which, per the Journal, are at seven point one percent. And the big week for stocks starts tomorrow, with Nvidia's earnings on Tuesday."
+  },
+  {
+   "speaker": "A",
+   "text": "Okay, three things to remember tonight."
+  },
+  {
+   "speaker": "B",
+   "text": "One: Anthropic's IPO, set for this week, is expected to break SpaceX's record, but individual investors are feeling cautious about AI."
+  },
+  {
+   "speaker": "A",
+   "text": "Two: Nvidia reports on Tuesday, after a week where we learned how Jensen Huang built a backdoor route for chips into China, and how that could now fall apart."
+  },
+  {
+   "speaker": "B",
+   "text": "Three: Donald Trump and Xi Jinping meet at the Asia-Pacific summit starting Wednesday, and Democrats are still arguing over how to pay for their agenda."
+  },
+  {
+   "speaker": "A",
+   "text": "What to watch tomorrow: the European deal with Rwanda, any more fallout from the Iran and Bahrain attacks, and how stocks open after the weekend."
+  },
+  {
+   "speaker": "B",
+   "text": "And what to watch this week: Nvidia on Tuesday, the summit on Wednesday, and Anthropic's debut."
+  },
+  {
+   "speaker": "A",
+   "text": "That's the Nightly Brief. I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. Get some rest, and we'll see you tomorrow night."
+  }
+ ]
+}
