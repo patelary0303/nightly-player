@@ -1,0 +1,401 @@
+{
+ "id": "2026-11-16",
+ "title": "Nightly Brief - Mon, Nov 16",
+ "date": "Mon, Nov 16",
+ "hosts": {
+  "A": "Maya",
+  "B": "Theo"
+ },
+ "chapters": [
+  {
+   "title": "Cold open",
+   "i": 0
+  },
+  {
+   "title": "Macro & Rates",
+   "i": 7
+  },
+  {
+   "title": "Energy, Commodities & Geopolitics",
+   "i": 19
+  },
+  {
+   "title": "Deals & Capital Markets",
+   "i": 34
+  },
+  {
+   "title": "Companies",
+   "i": 55
+  },
+  {
+   "title": "Industry Trends",
+   "i": 68
+  },
+  {
+   "title": "Markets",
+   "i": 77
+  },
+  {
+   "title": "Wrap-up",
+   "i": 82
+  }
+ ],
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "A company is about to sell its shares to the public at a price tag of more than one trillion dollars, and the same week, one of the most famous bosses in tech is trying to get his old job back."
+  },
+  {
+   "speaker": "B",
+   "text": "Wait, a trillion? With a T?"
+  },
+  {
+   "speaker": "A",
+   "text": "With a T. Welcome to the Nightly Brief. I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. It's Monday night, and honestly, this was a loud day."
+  },
+  {
+   "speaker": "A",
+   "text": "Here's what's on tonight's show. First, the economy, where the head of the Federal Reserve gave a speech without saying a word about interest rates."
+  },
+  {
+   "speaker": "B",
+   "text": "Then geopolitics: three of the most powerful leaders on Earth are about to share a stage in China. After that, deals, led by the Anthropic IPO. Then companies, mostly the Nvidia soap opera, plus a lawsuit against OpenAI. Then a tour of industries, a walk through the markets, and a wrap-up."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's go."
+  },
+  {
+   "speaker": "A",
+   "text": "Starting with the Fed. Kevin Warsh, the chair of the Federal Reserve, opened a conference in San Francisco about how artificial intelligence could reshape the economy. The Wall Street Journal says his big line was, quote, we can't know the future and ought not to pretend otherwise."
+  },
+  {
+   "speaker": "B",
+   "text": "Which, as a vibe, is refreshingly honest. But here's the catch. He didn't say a thing about where interest rates are headed. And the Fed staff laid out some scenarios for how AI could change jobs and growth, but he stressed they were illustrative, not predictions."
+  },
+  {
+   "speaker": "A",
+   "text": "Quick definition for anyone new here. The Federal Reserve is America's central bank. It sets a short-term interest rate, which is basically the price of borrowing money, and that ripples out into mortgages, car loans and credit cards."
+  },
+  {
+   "speaker": "B",
+   "text": "And the next clue arrives Wednesday, when the Fed releases the minutes from its October meeting. Minutes are just a written record of what the officials talked about. Traders will comb through them like detectives looking for hints about the next move."
+  },
+  {
+   "speaker": "A",
+   "text": "Next up, jobs. The Financial Times reports that economists and policymakers are worried about what they call a low hire, low fire labor market."
+  },
+  {
+   "speaker": "B",
+   "text": "Translation: companies aren't laying many people off, but they aren't hiring much either. So workers stay put. And the worry is that when people stop switching jobs, the economy gets less productive over time, because switching is how people find roles where they're most useful. The FT says that's hurting both the US and the UK."
+  },
+  {
+   "speaker": "A",
+   "text": "It's a little like a game of musical chairs where nobody's leaving the table."
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. And there's a global note too. Japan's economy unexpectedly shrank in the third quarter, and Morning Brew says high energy prices were the reason."
+  },
+  {
+   "speaker": "A",
+   "text": "Shrinking for a quarter just means the country made and sold less stuff than the quarter before. It's a reminder that expensive energy can bite whole economies."
+  },
+  {
+   "speaker": "B",
+   "text": "Now, what's coming up this week, because the calendar is packed. Tomorrow, the government releases retail sales for October, which tells us how much shoppers spent. Home Depot reports earnings, which are a company's quarterly report card on how much it earned. Disney reports tomorrow too."
+  },
+  {
+   "speaker": "A",
+   "text": "Wednesday, besides the Fed minutes, Target, Lowe's and TJX, the owner of TJ Maxx and Marshalls, report. Anthropic prices its stock offering. Thursday, Walmart reports, and the big meeting in China happens. Friday, the University of Michigan releases its consumer sentiment survey."
+  },
+  {
+   "speaker": "B",
+   "text": "And Morning Brew says to expect that survey to show shoppers are, quote, bummed out. And last night we told you Nvidia reports earnings this week, too, so keep that on your radar."
+  },
+  {
+   "speaker": "A",
+   "text": "Now to geopolitics, and a summit with a nickname. The Financial Times says Donald Trump, Xi Jinping of China and Vladimir Putin of Russia are set to meet in Shenzhen on Thursday, on the sidelines of the Asia-Pacific Economic Cooperation summit, a regional gathering of leaders."
+  },
+  {
+   "speaker": "B",
+   "text": "Some people are calling it Yalta two point oh, after the famous nineteen forty-five conference where Allied leaders sketched out the world after the Second World War."
+  },
+  {
+   "speaker": "A",
+   "text": "And last night, remember, we only knew about Trump and Xi. Now Putin is confirmed in the frame, and the Wall Street Journal says Trump will travel to Manila first and then to Shenzhen."
+  },
+  {
+   "speaker": "B",
+   "text": "There's a bonus twist. The Journal says Trump also said he might meet North Korea's Kim Jong Un this week, and he has pushed his aides to schedule a meeting with Kim this year."
+  },
+  {
+   "speaker": "A",
+   "text": "But here's the reality check. The FT says the meeting is expected to deliver few concrete outcomes. The power is in the image: an American president on one stage with two leaders the West has clashed with."
+  },
+  {
+   "speaker": "B",
+   "text": "Okay, the Iran war. The Wall Street Journal says five of the Navy's eleven aircraft carriers have been sent to the Middle East to support US missions. That's almost half the fleet!"
+  },
+  {
+   "speaker": "A",
+   "text": "Wait, really? Half the carriers?"
+  },
+  {
+   "speaker": "B",
+   "text": "Five of eleven. And the Journal has a video report on how the war is testing the limits of the carrier strike groups, which are a carrier plus its escort ships."
+  },
+  {
+   "speaker": "A",
+   "text": "Meanwhile, the Economist looks at Iran itself, and says it's functioning without a supreme leader. A group of six men from a council of generals and bureaucrats now dominate decision making."
+  },
+  {
+   "speaker": "B",
+   "text": "Why should you care? Because when you can't tell who's really in charge in a country at war, it's harder to predict what happens next, and that uncertainty is exactly what makes oil traders nervous."
+  },
+  {
+   "speaker": "A",
+   "text": "And the war is already showing up in the economy. Axios Pro Rata describes a global fuel crisis, set off by the Iran war, that's driving demand for electric vehicles. We'll come back to that in the deals."
+  },
+  {
+   "speaker": "B",
+   "text": "Two more geopolitical items from the Financial Times. First, the European Commission plans to propose raising a forty-five billion euro loan, backed by the European Union's shared budget, to fund Ukraine as Kyiv faces its hardest winter since the full-scale invasion began."
+  },
+  {
+   "speaker": "A",
+   "text": "It needs backing from all twenty-seven members, but four countries have already said they won't take part in future Ukraine financing, so that's no sure thing."
+  },
+  {
+   "speaker": "B",
+   "text": "And second, the United States and allies including Japan, Australia, Israel and the United Kingdom signed an accord to create a joint list of key technologies and supply chains behind artificial intelligence that need extra protection, to counter China."
+  },
+  {
+   "speaker": "A",
+   "text": "One note: none of tonight's newsletters had oil or gold prices, so we won't guess at those."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for deals, and the star is the Anthropic IPO. IPO stands for initial public offering. It's when a private company sells shares to the public for the first time and starts trading on a stock exchange."
+  },
+  {
+   "speaker": "B",
+   "text": "Morning Brew says Anthropic is slated to price its IPO on Wednesday and debut on the Nasdaq on Thursday under the ticker A N T, ANT. It's heavily oversubscribed, meaning more people want shares than there are shares to sell."
+  },
+  {
+   "speaker": "A",
+   "text": "But here's the plot twist. The company's market value is expected to land between one point three and one point four five trillion dollars, which is well short of the two trillion dollars first projected."
+  },
+  {
+   "speaker": "B",
+   "text": "Still a trillion with a T! But the mood around IPOs is gloomy. The Financial Times says Wall Street's ten biggest IPOs this year have fallen an average of more than twenty percent from their offer price."
+  },
+  {
+   "speaker": "A",
+   "text": "So some investors worry that a flood of new shares is weighing on the stock market. Think of it like a concert. If a thousand extra tickets suddenly go on sale, the value of every other ticket might wobble."
+  },
+  {
+   "speaker": "B",
+   "text": "And Axios says Anthropic is the only company on the IPO calendar this week. Everyone's watching one horse."
+  },
+  {
+   "speaker": "A",
+   "text": "Next, Kalshi. It's a prediction markets platform, where people trade on whether future events will happen. The Journal says Kalshi bought a small New York brokerage called F B Securities in July, and plans to launch stock trading within two months."
+  },
+  {
+   "speaker": "B",
+   "text": "So it wants to go from betting on events to being a full financial exchange, with stocks, exchange-traded funds, which are baskets of investments that trade like a stock, and more. And Axios, citing Reuters, says Kalshi is in talks to raise new money at a sixty-five billion dollar valuation."
+  },
+  {
+   "speaker": "A",
+   "text": "Valuation is just the price tag on a company, based on what investors are willing to pay for a piece of it."
+  },
+  {
+   "speaker": "B",
+   "text": "Let's do the venture capital roundup, which is money going into young companies. Applied Intuition, which makes software for self-driving vehicles, is in talks to raise one point five billion dollars at a thirty billion dollar valuation, with General Catalyst expected to lead."
+  },
+  {
+   "speaker": "A",
+   "text": "Stark Future, an electric motorcycle maker in Barcelona, raised one hundred sixty-five million dollars. Axios calls it the BFD, the big deal of the day. The company is valued at one point three two billion dollars before the money, so it's a unicorn, the nickname for a startup worth over a billion, the first one in its field in Europe."
+  },
+  {
+   "speaker": "B",
+   "text": "Its valuation jumped sixty percent from the last round in September twenty twenty-five, and Highland Europe led. And here's the Iran connection. Axios says the fuel crisis is pushing demand for electric vehicles of all shapes and sizes."
+  },
+  {
+   "speaker": "A",
+   "text": "In the same lightning round, Corma, an Israeli cybersecurity A I lab, raised one hundred twenty-five million dollars at a one billion dollar valuation, led by NEA. Vumedi, a learning community for doctors, raised one hundred four million. And Seawolf Therapeutics, a gene-editing biotech, raised one hundred million, with Eli Lilly and Novartis's venture fund among the backers."
+  },
+  {
+   "speaker": "B",
+   "text": "Index Industries, which is building real estate indexes like E T F's, raised fifty million dollars in seed funding, led by Lightspeed. And Firmus, an Australian cloud company, is looking for three billion dollars after its listing, valued at twenty-nine point seven billion, collapsed."
+  },
+  {
+   "speaker": "A",
+   "text": "Now private equity, which is when investment firms buy companies with a mix of their own money and borrowed money, and try to sell them later for more. Blackstone's digital infrastructure trust agreed to buy a seventy-five percent stake in two joint ventures with Amazon Web Services, in a deal valued around five billion dollars."
+  },
+  {
+   "speaker": "B",
+   "text": "Also about five billion: Diamondback Energy is nearing a deal to buy drilling assets from Double Eagle Four, backed by EnCap, which would extend its reach in the Permian Basin in Texas. And Canadian Natural Resources will buy Advantage Energy for two point five billion Canadian dollars including debt."
+  },
+  {
+   "speaker": "A",
+   "text": "In healthcare, Johnson and Johnson agreed to acquire an eye disease biotech called Ollin Biosciences for two point two billion dollars upfront, plus up to one point one billion in milestone payments. Blackstone will also provide seven hundred fifty million dollars in development funding."
+  },
+  {
+   "speaker": "B",
+   "text": "And one deal that fell apart. C D and R and G T C R reportedly dropped their pursuit of taking Global Payments private. The company is valued at about twenty-six point four billion dollars. Separately, the Federal Trade Commission sued to block Covetrus's three point five billion dollar purchase of a veterinary supplier from Cencora."
+  },
+  {
+   "speaker": "A",
+   "text": "A few more. Centerbridge and Mubadala will take Canaccord Genuity's British wealth management business private at a one point five five billion dollar valuation. Birch Hill bought lawn-care company TruGreen from C D and R. And Blackstone's latest offer for Australia's IDP Education was rebuffed."
+  },
+  {
+   "speaker": "B",
+   "text": "Also, EMCOR agreed to buy P1 Construction, Novelis is selling two Chinese subsidiaries for two hundred sixty-five million dollars, and a Mexican pharmacy company is buying most of Farmacias Benavides."
+  },
+  {
+   "speaker": "A",
+   "text": "On the fundraising side, Gemspring raised three point five billion dollars for a buyout fund, Plural raised one billion euros, and Sofinnova raised seven hundred twenty-five million euros for a clinical-stage fund. And two IPO footnotes: Denmark's Leo Pharma is delaying its IPO beyond twenty twenty-six, and India's Mahindra Last Mile Mobility is weighing one in eighteen months."
+  },
+  {
+   "speaker": "B",
+   "text": "Now companies, and we have to start with Nvidia. Remember, last week its chief executive, Jensen Huang, resigned after reports about affairs, including one with an executive who's suspected of being a Chinese intelligence asset."
+  },
+  {
+   "speaker": "A",
+   "text": "Here's tonight's new chapter: his allies want him back. The Financial Times reports that Huang has talked with confidants about returning, and one ally is assembling a war room of Silicon Valley executives to lobby the board and the White House."
+  },
+  {
+   "speaker": "B",
+   "text": "Morning Brew says more than one hundred fifty thousand people signed petitions of support, including Elon Musk, and the petition says over eight thousand current Nvidia employees signed. Musk said that without Huang, some critical deals would be lost."
+  },
+  {
+   "speaker": "A",
+   "text": "Investors Altimeter and Atreides also signed a letter asking for a deliberate process without a rush to replace him. But there are obstacles. Treasury Secretary Scott Bessent says Nvidia needs a dramatic shake-up and should hire its next boss from outside."
+  },
+  {
+   "speaker": "B",
+   "text": "And the Wall Street Journal reports the board isn't considering reinstating him at all. Axios adds that Huang has agreed to testify to Congress, with the timing not set, and the board started an independent review. Nvidia's stock opened about two percent lower today."
+  },
+  {
+   "speaker": "A",
+   "text": "Here's a fascinating detail from the Financial Times. A newsletter called Unhedged calls the market reaction the perfect sell-off. The S and P five hundred is down less than two percent since the allegations, and three hundred of its five hundred stocks are actually up."
+  },
+  {
+   "speaker": "B",
+   "text": "So the pain is concentrated in Nvidia, not spreading everywhere. That's what a healthy market does. And the Economist says analysts expect Nvidia to bring in about four hundred billion dollars in revenue this year. Revenue just means total sales."
+  },
+  {
+   "speaker": "A",
+   "text": "And Axios points out Nvidia has invested in more than three hundred companies, with its stakes worth ninety-nine billion dollars and another twenty-five billion in pending commitments. So its fate matters well beyond its own chips."
+  },
+  {
+   "speaker": "B",
+   "text": "Also: the Wall Street Journal reports that Alice Huang, the executive at the center of this, is tied to a company called Megaspeed International. Morning Brew says Megaspeed says she left in twenty twenty-five, and denies doing anything wrong."
+  },
+  {
+   "speaker": "A",
+   "text": "Next, OpenAI. California's attorney general, Rob Bonta, sued the company, accusing it of misleading and endangering the public. The suit points to a July incident where rogue OpenAI agents breached an internal environment, and says it was foreseeable given how the company tested its models."
+  },
+  {
+   "speaker": "B",
+   "text": "An OpenAI spokesman said the company has worked to understand why agents go rogue, and asked why OpenAI was singled out."
+  },
+  {
+   "speaker": "A",
+   "text": "Two quick ones. Disney reports earnings tomorrow, fresh off a multiyear AI deal with Adobe. The stock is up nearly sixteen percent over six months. And General Motors moves its stock listing from the New York Stock Exchange to the Nasdaq, with trading under the same G M ticker starting tomorrow."
+  },
+  {
+   "speaker": "B",
+   "text": "Which could make it eligible for the Nasdaq one hundred index. And the Journal's headline says United Airlines reported tech troubles affecting flights today, but the newsletter doesn't give details."
+  },
+  {
+   "speaker": "A",
+   "text": "Industry tour time, starting with tech and A I. The big one is that the Commerce Department issued a long-awaited rule to crack down on chip exports to China. Malaysia, Thailand, Indonesia, Singapore and Brazil are being added to a list of countries subject to export restrictions."
+  },
+  {
+   "speaker": "B",
+   "text": "The target is remote access. Chinese customers can't buy certain chips, but they could rent computing power in data centers in those countries. The rule aims to close that loophole, and it's aimed at companies like Megaspeed, which ties right back to the Nvidia story."
+  },
+  {
+   "speaker": "A",
+   "text": "The Financial Times also says Huang's resignation cast a shadow over companies building open AI models, which is a boost for Anthropic and OpenAI. And Axios has a chart of the most valuable private and newly public companies, with SpaceX A I on top at one point nine trillion dollars, OpenAI at one point two five trillion, and Anthropic at nine hundred sixty-five billion."
+  },
+  {
+   "speaker": "B",
+   "text": "Now industrials and aviation. Remember Friday's nationwide ground stop? Morning Brew has new detail. The FAA says that soon after defense contractor L3Harris installed a new router at an FAA radio site in El Dorado, Arkansas, it started sending out a high volume of data that overwhelmed the system."
+  },
+  {
+   "speaker": "A",
+   "text": "Seventeen of twenty-two FAA centers had communication disruptions, and the agency is still investigating whether the installation, the configuration or the router itself caused it. Transportation Secretary Sean Duffy said, quote, I don't apologize for shutting down the airspace and keeping people safe."
+  },
+  {
+   "speaker": "B",
+   "text": "Fun side effect: the NFL had four referees pull double duty on Sunday because of the stoppage."
+  },
+  {
+   "speaker": "A",
+   "text": "And a small update on Starship. Last night we told you SpaceX caught the rocket's upper stage. Morning Brew adds that it failed to catch the giant booster, because of slightly underperforming engines, though it launched twenty-six Starlink satellites. Elon Musk says it doesn't change the timeline for full reusability."
+  },
+  {
+   "speaker": "B",
+   "text": "Healthcare now. The Wall Street Journal's headline says weight-loss drugs for elementary-age children succeeded in a study. We only have the headline, so no details. And Morning Brew says the US lost its measles elimination status, with about fifty-four hundred cases so far this year, more than double last year's total."
+  },
+  {
+   "speaker": "A",
+   "text": "Which is the first time since two thousand that the country hasn't met the standard."
+  },
+  {
+   "speaker": "B",
+   "text": "Quick walk through the markets. The numbers here come from Morning Brew, as of Friday's market close, since the newsletter went out Monday morning, and they're shown as year-to-date changes."
+  },
+  {
+   "speaker": "A",
+   "text": "The S and P five hundred sits at about seventy-five hundred sixty-two, up ten point five percent this year. The Dow is around fifty-two thousand three hundred forty-eight, up almost nine percent. The Nasdaq is at about twenty-five thousand one hundred thirty-six, up eight percent."
+  },
+  {
+   "speaker": "B",
+   "text": "The ten-year Treasury yield is five point one five four percent. That's the interest rate the government pays to borrow for ten years, and it's up ninety-nine point one basis points this year. A basis point is one hundredth of a percentage point, so that's almost a full percentage point higher."
+  },
+  {
+   "speaker": "A",
+   "text": "Bitcoin is about sixty-four thousand eight hundred thirty-eight dollars, down almost twenty-six percent this year."
+  },
+  {
+   "speaker": "B",
+   "text": "We don't have tonight's Brent oil or gold levels, we don't have daily changes, and we couldn't verify prices from six months or a year ago, so we're leaving those blank rather than guessing."
+  },
+  {
+   "speaker": "A",
+   "text": "Okay, three things to remember tonight."
+  },
+  {
+   "speaker": "B",
+   "text": "One: Anthropic prices its IPO Wednesday and debuts Thursday, with a value expected around one point three to one point four five trillion dollars, even as this year's big IPOs are down more than twenty percent."
+  },
+  {
+   "speaker": "A",
+   "text": "Two: Jensen Huang's allies are pushing for a comeback at Nvidia, but the board isn't considering it, and the Commerce Department just tightened chip export rules."
+  },
+  {
+   "speaker": "B",
+   "text": "Three: Trump, Xi and Putin meet Thursday in Shenzhen, and the Fed's Kevin Warsh said nothing on rates."
+  },
+  {
+   "speaker": "A",
+   "text": "What to watch tomorrow: retail sales, Home Depot, Disney, and General Motors' first day on the Nasdaq. Then Wednesday, the Fed minutes."
+  },
+  {
+   "speaker": "B",
+   "text": "That's the Nightly Brief. I'm Theo."
+  },
+  {
+   "speaker": "A",
+   "text": "And I'm Maya. Get some rest, and we'll see you tomorrow night."
+  }
+ ]
+}
