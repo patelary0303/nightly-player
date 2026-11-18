@@ -1,0 +1,413 @@
+{
+ "id": "2026-11-17",
+ "title": "Nightly Brief - Tue, Nov 17",
+ "date": "Tue, Nov 17",
+ "hosts": {
+  "A": "Maya",
+  "B": "Theo"
+ },
+ "chapters": [
+  {
+   "title": "Cold open",
+   "i": 0
+  },
+  {
+   "title": "Macro & Rates",
+   "i": 8
+  },
+  {
+   "title": "Energy, Commodities & Geopolitics",
+   "i": 26
+  },
+  {
+   "title": "Deals & Capital Markets",
+   "i": 37
+  },
+  {
+   "title": "Companies",
+   "i": 66
+  },
+  {
+   "title": "Industry Trends",
+   "i": 77
+  },
+  {
+   "title": "Markets",
+   "i": 83
+  },
+  {
+   "title": "Wrap-up",
+   "i": 87
+  }
+ ],
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Okay, quick question. What do you get when a company posts a hundred and fifteen point eight billion dollars of sales in one quarter, and the Securities and Exchange Commission is reportedly investigating it?"
+  },
+  {
+   "speaker": "B",
+   "text": "Is this a trick question? Because that sounds like the most stressful good news in history."
+  },
+  {
+   "speaker": "A",
+   "text": "It's Nvidia, and that is exactly the vibe. Welcome to Nightly Brief, the show that turns a stack of finance newsletters into something you can listen to while you do the dishes. I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. Tonight is Tuesday, November seventeenth, and the market had a rough Monday, so buckle up."
+  },
+  {
+   "speaker": "A",
+   "text": "Here's what's on tonight's show. First, macro and rates: the Federal Reserve is worried about how the AI boom is being paid for, and bond yields are sitting above five percent."
+  },
+  {
+   "speaker": "B",
+   "text": "Then energy and geopolitics, where a Trump, Xi and Putin summit is looming. After that, deals, including the Anthropic IPO getting hotter by the hour and a big bidding war in telecom."
+  },
+  {
+   "speaker": "A",
+   "text": "Then companies, a quick industry roundup, a walk through the markets numbers, and a three point recap. Ready?"
+  },
+  {
+   "speaker": "B",
+   "text": "Born ready. Well, born mildly caffeinated. Let's go."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's start with a first. The Federal Reserve just put out its latest financial stability report, and for the very first time it devoted a whole section to how AI is being financed."
+  },
+  {
+   "speaker": "B",
+   "text": "Okay, translate that for me. Why does the Fed care how a tech boom gets paid for?"
+  },
+  {
+   "speaker": "A",
+   "text": "Because the Fed's job includes making sure the financial system doesn't crack. Think of it like a building inspector. They don't care what the tenants are selling. They care whether the beams are strong enough."
+  },
+  {
+   "speaker": "B",
+   "text": "And the report says the beams are getting complicated."
+  },
+  {
+   "speaker": "A",
+   "text": "Exactly. Axios reports that the financial bets underneath the AI boom are becoming far bigger and harder to untangle than the soaring debt numbers alone suggest. So it isn't just how much money is borrowed. It's who owes whom, and who's betting against whom."
+  },
+  {
+   "speaker": "B",
+   "text": "Like a group chat where everyone has lent everyone money and nobody remembers who owes what."
+  },
+  {
+   "speaker": "A",
+   "text": "That's honestly not far off. And the Financial Times has an exclusive that fits right in. Banks that have lent billions of dollars to build AI infrastructure are now trying to reduce their exposure. Exposure just means how much a bank stands to lose if things go wrong."
+  },
+  {
+   "speaker": "B",
+   "text": "And the timing is interesting, right? The FT links it to the scrutiny that followed the Democrats' sweep of the midterm elections."
+  },
+  {
+   "speaker": "A",
+   "text": "Right. More scrutiny in Washington means banks get more cautious. The FT also ran a counterpoint from a JPMorgan Private Bank writer who argues several factors have strengthened the investment case for the big cloud companies, the so called hyperscalers."
+  },
+  {
+   "speaker": "B",
+   "text": "So the bulls and the worriers are both talking tonight. And speaking of talking, Fed Chair Kevin Warsh weighed in."
+  },
+  {
+   "speaker": "A",
+   "text": "He did. He said AI will have a significant impact on the economy and could bring productivity gains. Productivity just means getting more output from the same amount of work, which is the secret sauce of long term growth. But he also said it could disappoint, and that would hurt the stock market."
+  },
+  {
+   "speaker": "B",
+   "text": "So the chair of the Fed is basically saying AI could be amazing or it could be a letdown, and he can't promise which."
+  },
+  {
+   "speaker": "A",
+   "text": "Refreshingly honest, honestly. Now, yields. The ten year Treasury yield closed Monday at five point one two one percent, down three basis points."
+  },
+  {
+   "speaker": "B",
+   "text": "Let's decode that. A Treasury is a loan you make to the US government, and the yield is the interest rate you earn. And a basis point is one hundredth of one percent, so three basis points is a tiny nudge."
+  },
+  {
+   "speaker": "A",
+   "text": "And why should a regular person care? Because the ten year yield is the anchor for mortgage rates and many business loans. When it sits above five percent, borrowing costs for houses and companies stay high."
+  },
+  {
+   "speaker": "B",
+   "text": "The FT's snapshot this morning had the US ten year at about five point one one percent. Britain's was higher, at about five point three four, Germany's ten year Bund was about three point three six, and Japan's was about two point eight seven."
+  },
+  {
+   "speaker": "A",
+   "text": "So high yields are a global thing tonight, not just an American one. Last night we told you the ten year was five point one five four, so it's drifted down a little."
+  },
+  {
+   "speaker": "B",
+   "text": "On deck for the coming days: Anthropic prices its IPO tomorrow, Wednesday, and starts trading Thursday. And Thursday is also the big meeting in China. Which brings us to..."
+  },
+  {
+   "speaker": "A",
+   "text": "Geopolitics. Last night we told you about the Thursday summit in Shenzhen, China. Tonight there's new color on how the week is warming up."
+  },
+  {
+   "speaker": "B",
+   "text": "Chinese President Xi Jinping and Canada's Prime Minister Mark Carney agreed to slash tariffs, according to the FT. A tariff is just a tax on imported goods."
+  },
+  {
+   "speaker": "A",
+   "text": "And this is the opening act. The FT says Xi is kicking off a week of high profile diplomacy that ends with an expected three way session with Donald Trump and Vladimir Putin."
+  },
+  {
+   "speaker": "B",
+   "text": "Meanwhile, Finland's President Alexander Stubb says European leaders must speak directly with Putin. He called it irresponsible to outsource the Russia talks to a US administration that may lean toward carving Europe into spheres of influence."
+  },
+  {
+   "speaker": "A",
+   "text": "That is a spicy thing for a president to say out loud. And The Economist's Telegram column goes even further, arguing that a three way summit with Putin and Xi in China will diminish America."
+  },
+  {
+   "speaker": "B",
+   "text": "The Wall Street Journal added another angle. It says Xi has carried out a wave of political and military purges, including some of his closest allies, and that raises questions about his grip on power as he prepares to meet Trump at the Asia Pacific Economic Cooperation summit in Shenzhen."
+  },
+  {
+   "speaker": "A",
+   "text": "So everybody is walking into Thursday with something to prove. One more war headline: the WSJ says a Ukrainian strike severed part of Russia's Crimean bridge."
+  },
+  {
+   "speaker": "B",
+   "text": "Now, oil and gold. The FT's market snapshot showed Brent crude, the global oil benchmark, at about ninety two dollars and eighty seven cents a barrel, up about half a percent."
+  },
+  {
+   "speaker": "A",
+   "text": "And gold, the Comex futures price, was around three thousand eight hundred sixty seven dollars and fifty cents an ounce, up about half a percent too."
+  },
+  {
+   "speaker": "B",
+   "text": "Why do those matter? Oil feeds into gas prices and inflation, and gold is what investors tend to buy when they're nervous."
+  },
+  {
+   "speaker": "A",
+   "text": "Both nudged up while stocks fell. That's the classic nervous market pattern."
+  },
+  {
+   "speaker": "A",
+   "text": "Deals time, and we have to start with the big one. Anthropic, the maker of the Claude chatbot, is expected to price its IPO higher than planned."
+  },
+  {
+   "speaker": "B",
+   "text": "Explain IPO for us."
+  },
+  {
+   "speaker": "A",
+   "text": "An initial public offering is when a private company sells shares to the public for the first time. Pricing is the moment the company and its banks decide what each share costs."
+  },
+  {
+   "speaker": "B",
+   "text": "And the Wall Street Journal says people familiar with the matter expect more than eighty dollars a share. The original range was seventy to seventy eight dollars."
+  },
+  {
+   "speaker": "A",
+   "text": "That would put the company's value around one point five or one point six trillion dollars, up from about one point three three trillion at the original range. It plans to list on the Nasdaq Thursday under the ticker A N T."
+  },
+  {
+   "speaker": "B",
+   "text": "Wait, really? Every extra few dollars a share is hundreds of billions of dollars of value?"
+  },
+  {
+   "speaker": "A",
+   "text": "When you multiply by that many shares, yes. And the FT adds a cautionary note. Anthropic is spending hundreds of billions of dollars on its own infrastructure to rely less on expensive rented cloud capacity."
+  },
+  {
+   "speaker": "B",
+   "text": "Which means IPO investors are betting the company can honor its long term commitments no matter how demand for its AI models turns out."
+  },
+  {
+   "speaker": "A",
+   "text": "That's like signing a giant mortgage because you're sure your income will keep growing. Fine if it does."
+  },
+  {
+   "speaker": "B",
+   "text": "Next, private equity. Private equity firms buy companies, try to improve them, and sell them later. Apollo will invest two point five billion dollars in Focus Financial Partners, a wealth management firm, valuing it at about twenty one billion dollars including debt, per Bloomberg."
+  },
+  {
+   "speaker": "A",
+   "text": "Existing backers Clayton Dubilier and Rice and Stone Point Capital stay as the controlling shareholders. And in a not so happy deal story, CVC Capital Partners walked away from its nearly three billion euro agreement to buy Irca, an Italian ingredients maker, from Advent International."
+  },
+  {
+   "speaker": "B",
+   "text": "Advent objected, and the decision could trigger a termination payment. Basically a breakup fee."
+  },
+  {
+   "speaker": "A",
+   "text": "Ouch. In other private equity news, KKR was picked as preferred bidder for Ichibanya, the Japanese curry rice chain, in a deal that could be worth around one point one billion dollars."
+  },
+  {
+   "speaker": "B",
+   "text": "Ontario Teachers' and CPP Investments will join Nordic Capital as co owners of Cary Group, a Stockholm vehicle glass repair company, buying out CVC at about a three billion euro valuation. And KKR finished selling USI Insurance Services to Aon."
+  },
+  {
+   "speaker": "A",
+   "text": "Also completed: PSP Capital's five hundred thirty million dollar sale of StormTrap, a stormwater systems maker, to Advanced Drainage Systems."
+  },
+  {
+   "speaker": "B",
+   "text": "Now the big corporate bid. Canada's Quebecor made an unsolicited thirty one billion Canadian dollar cash and stock bid for its larger rival Telus."
+  },
+  {
+   "speaker": "A",
+   "text": "Unsolicited means Telus didn't ask for it. It's like proposing marriage by showing up with the ring before the first date."
+  },
+  {
+   "speaker": "B",
+   "text": "In Europe, Iceye, a Finnish satellite observation company valued by venture investors at over ten billion euros, offered two point oh five billion euros for Italian rocket maker Avio. That's forty one euros a share, a twenty percent premium."
+  },
+  {
+   "speaker": "A",
+   "text": "A premium is how much extra above the current price a buyer pays to convince shareholders to sell. In health care, Eli Lilly agreed to buy Calytrix Bio for up to one point five billion dollars, Medtronic bought Contego Medical for three hundred eighty million, and Gedeon Richter will buy Australia's Mayne Pharma for about six hundred four million Australian dollars."
+  },
+  {
+   "speaker": "B",
+   "text": "Smaller but notable: Rosemont Pharmaceuticals will buy Aytu BioPharma for fifty six million dollars cash, a fifty two percent premium. And KeyCorp agreed to take a stake in MMG, a multifamily investment sales firm."
+  },
+  {
+   "speaker": "A",
+   "text": "Now, the venture world, because Axios held its annual BFD dealmakers summit today in New York, and the newsletter's top story is the lineup."
+  },
+  {
+   "speaker": "B",
+   "text": "Robert F. Smith of Vista Equity Partners, the New York Fed's John Williams, Kalshi's Tarek Mansour, Alex Rodriguez, Chris Sacca, Goldman Sachs' Kim Posnett, Blackstone's Joan Solotar, and Omeed Malik with Donald Trump Junior."
+  },
+  {
+   "speaker": "A",
+   "text": "The BFD, the newsletter's big funding story, is General Flash, a Cambridge, Massachusetts startup that's developed a new way to produce critical metals. It raised one hundred twenty eight million dollars in seed and Series A funding led by Lux Capital and Overmatch Ventures."
+  },
+  {
+   "speaker": "B",
+   "text": "Series A just means an early round of venture money, and seed is even earlier. The founder is Ric Fulop, who previously started battery pioneer A one two three Systems and 3D printing company Desktop Metal."
+  },
+  {
+   "speaker": "A",
+   "text": "The pitch: America depends on foreign countries, including China, for the metals inside everything from phones to planes. Early customers are expected to be government agencies like the Defense Department. And Fulop compared it to aluminum, which was once so precious the cap of the Washington Monument was made of it, until a new technique made it cheap."
+  },
+  {
+   "speaker": "B",
+   "text": "Other big venture rounds. Genesis AI, a robotics startup, raised five hundred million dollars at a three point five billion dollar valuation. Science, which makes brain computer interfaces, raised four hundred million. Model ML raised two hundred fifty million at a one point five billion valuation."
+  },
+  {
+   "speaker": "A",
+   "text": "Galvanize Therapeutics raised one hundred thirty million and Noeri raised one hundred ten million. And over at the FT, music investment company Duetti, backed by Roc Nation, raised six hundred sixty five million dollars to buy more music rights."
+  },
+  {
+   "speaker": "B",
+   "text": "On the public side, the Swiss dental products company vVardis priced its IPO at eighteen dollars a share, below its planned range of twenty one to twenty four, raising one hundred seventy five million. Core Specialty Insurance filed for an IPO that could raise about two hundred fifty million. And Our Next Energy, a battery storage company, plans to go public at about a one billion dollar valuation via a SPAC."
+  },
+  {
+   "speaker": "A",
+   "text": "A SPAC is a shell company that goes public first, then merges with a private business, a shortcut to the stock market. Finally, funds: Argonaut Private Equity raised six hundred six million for its sixth fund, and Serena Williams is co leading Starfire Ventures, which is seeking two hundred million dollars for AI native startups."
+  },
+  {
+   "speaker": "B",
+   "text": "Companies. Back to Nvidia, where the news just keeps coming."
+  },
+  {
+   "speaker": "A",
+   "text": "Nvidia reported another record quarter, with revenue of a hundred fifteen point eight billion dollars. But as the Journal puts it, investors are watching how it performs without longtime CEO Jensen Huang, who stepped down."
+  },
+  {
+   "speaker": "B",
+   "text": "The FT says interim CEO Colette Kress made her debut at this first earnings. And the Journal reports the SEC is investigating Nvidia, including whether its disclosures misled investors."
+  },
+  {
+   "speaker": "A",
+   "text": "Disclosures are the official statements a public company makes so investors know what's going on. The focus isn't clear yet. And Huang said, in his first public remarks since stepping down, he's willing to return as CEO if directors ask."
+  },
+  {
+   "speaker": "B",
+   "text": "Last night we told you his allies were pushing for a comeback. The new part is that Huang himself said he'd come back, and Trump said he wouldn't mind. But the board is reportedly not considering it."
+  },
+  {
+   "speaker": "A",
+   "text": "Morning Brew adds that Nvidia stock fell about four percent Monday, to one hundred fifty six dollars and fourteen cents. And the Commerce Department's chip export rule was written by the Treasury Department, which experts say exposes a rift between Treasury Secretary Bessent and Commerce Secretary Lutnick."
+  },
+  {
+   "speaker": "B",
+   "text": "Next, Deutsche Bank. The FT reports a leak of more than fifteen million internal documents from whistleblowers, exposing what it calls systemic failures."
+  },
+  {
+   "speaker": "A",
+   "text": "The files show CEO Christian Sewing pushing for greater risk taking and railing at compliance. They include Donald Trump's tax statements, which were accidentally leaked during his first term and kept secret from the White House, and five hundred eighty two million dollars of suspicious payments linked to Jeffrey Epstein."
+  },
+  {
+   "speaker": "B",
+   "text": "Another bank story, but lower stakes: JPMorgan Chase had a technical issue Monday that slowed transactions. It said it was a software glitch in its hardware, resolved by the evening, and not a cyberattack."
+  },
+  {
+   "speaker": "A",
+   "text": "Kalshi, the prediction market, is halting contracts that let users bet on what President Trump might say, after the CFTC, the commodities regulator, ordered a temporary halt Friday over manipulation concerns. And Morning Brew says Kalshi is planning to launch stock trading."
+  },
+  {
+   "speaker": "B",
+   "text": "Also, General Motors is seeking outside CEO candidates to succeed Mary Barra, and Warren Buffett donated five point five billion dollars of stock to family foundations."
+  },
+  {
+   "speaker": "A",
+   "text": "Industry roundup. Industrials and defense first. The FAA paused router installations after Friday's nationwide ground stop, which canceled nearly twenty thousand flights."
+  },
+  {
+   "speaker": "B",
+   "text": "Officials say a newly installed router at a radio transmitter site in southern Arkansas appears to have interfered with pilot and controller communications. And United Airlines had its own systemwide outage, resolved in about an hour and a half."
+  },
+  {
+   "speaker": "A",
+   "text": "Also, the NSA's classified internal network is down for a software patch, with no evidence of a cyberattack. And Swiss defense group Acutronic plans to double its US workforce and boost production of jet engines for military drones and missiles."
+  },
+  {
+   "speaker": "B",
+   "text": "Energy next. The Journal says Google is embracing geothermal technology that vaporizes rock for clean power. And Bedrock Energy raised twenty four million dollars for geothermal drilling automation."
+  },
+  {
+   "speaker": "A",
+   "text": "Healthcare. Novo Nordisk showed Wegovy helped children ages six to eleven with obesity, though younger kids who took it grew less. Eli Lilly's Zepbound helped teens lose weight. And the US lost its measles elimination status, with more than seven thousand seven hundred cases over two years."
+  },
+  {
+   "speaker": "B",
+   "text": "Real estate and China: The Economist's Chaguan column says a lone protester highlights the pain from China's property bust, and Axios says Bevado raised ten million dollars for a leasing platform."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for the scoreboard. These stock numbers are Monday's close, from Morning Brew."
+  },
+  {
+   "speaker": "B",
+   "text": "The S and P five hundred fell one point nine two percent to seven thousand four hundred sixteen point five nine. The Dow fell one point four one percent to fifty one thousand six hundred eight. The Nasdaq dropped two point four nine percent to twenty four thousand five hundred ten."
+  },
+  {
+   "speaker": "A",
+   "text": "The ten year yield was five point one two one percent, down three basis points. Bitcoin was around sixty five thousand three hundred ninety four dollars, up point three percent as of five thirty Monday evening."
+  },
+  {
+   "speaker": "B",
+   "text": "Oil and gold come from the FT's morning snapshot: Brent about ninety two eighty seven, gold about thirty eight sixty seven fifty. We couldn't pull reliable numbers for six months or a year ago, so we're skipping those comparisons rather than guessing."
+  },
+  {
+   "speaker": "A",
+   "text": "Three point recap. One: Anthropic's IPO is heating up, with pricing Wednesday and trading Thursday."
+  },
+  {
+   "speaker": "B",
+   "text": "Two: Nvidia's record sales are overshadowed by an SEC investigation and a CEO question. Three: the Fed is warning that AI financing is getting tangled, just as yields stay above five percent."
+  },
+  {
+   "speaker": "A",
+   "text": "Tomorrow, watch Anthropic's final price, any Nvidia fallout, and Thursday's Trump, Xi and Putin showdown."
+  },
+  {
+   "speaker": "B",
+   "text": "That's Nightly Brief. I'm Theo."
+  },
+  {
+   "speaker": "A",
+   "text": "And I'm Maya. Thanks for listening, and we'll see you tomorrow night."
+  }
+ ]
+}
