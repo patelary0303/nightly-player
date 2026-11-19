@@ -1,0 +1,365 @@
+{
+ "id": "2026-11-18",
+ "title": "Nightly Brief - Wed, Nov 18",
+ "date": "Wed, Nov 18",
+ "hosts": {
+  "A": "Maya",
+  "B": "Theo"
+ },
+ "chapters": [
+  {
+   "title": "Cold open",
+   "i": 0
+  },
+  {
+   "title": "Macro & Rates",
+   "i": 7
+  },
+  {
+   "title": "Energy, Commodities & Geopolitics",
+   "i": 22
+  },
+  {
+   "title": "Deals & Capital Markets",
+   "i": 34
+  },
+  {
+   "title": "Companies",
+   "i": 49
+  },
+  {
+   "title": "Industry Trends",
+   "i": 61
+  },
+  {
+   "title": "Markets",
+   "i": 70
+  },
+  {
+   "title": "Wrap-up",
+   "i": 74
+  }
+ ],
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "A company that makes an AI chatbot is about to be worth around one point five trillion dollars, and its stock hasn't even traded yet."
+  },
+  {
+   "speaker": "B",
+   "text": "Meanwhile the chipmaker everyone calls the heart of the AI boom just posted record sales, and its stock still went down. Wait, really?"
+  },
+  {
+   "speaker": "A",
+   "text": "Really. Welcome to the Nightly Brief podcast for Wednesday, November eighteenth. I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. Tonight we're your translators for the money news, so no finance degree required."
+  },
+  {
+   "speaker": "A",
+   "text": "Here's what's on tonight's show. First, macro and rates: bond yields, the Federal Reserve, and a shopping slowdown. Then energy and geopolitics, which tonight means a big summit in China."
+  },
+  {
+   "speaker": "B",
+   "text": "Then deals, which is basically all about one giant initial public offering. After that, companies, a quick tour of industry trends, the markets scoreboard, and a wrap-up."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's go."
+  },
+  {
+   "speaker": "A",
+   "text": "We start with the number that quietly runs everything: the ten-year Treasury yield. At Tuesday's close it sat at about five point one oh three percent, down two basis points on the day."
+  },
+  {
+   "speaker": "B",
+   "text": "Okay, two terms there. A Treasury is a loan you make to the US government, and the yield is the interest rate you earn for lending it money for ten years. A basis point is one hundredth of one percentage point. So down two basis points is a teeny nudge."
+  },
+  {
+   "speaker": "A",
+   "text": "But five percent on a ten-year loan to Uncle Sam is not teeny in the grand scheme. Why should a regular person care?"
+  },
+  {
+   "speaker": "B",
+   "text": "Because that yield is a benchmark for lots of other borrowing costs, including mortgages. When it's high, loans get more expensive for everybody, and companies and investors get pickier about what they'll pay for stocks."
+  },
+  {
+   "speaker": "A",
+   "text": "And that shows up in real estate, which we'll get to. One report this week says investor mood in commercial property dropped ten points in the fourth quarter, partly because of rising interest rates and a shaky world."
+  },
+  {
+   "speaker": "B",
+   "text": "Tonight's other big macro event is the Federal Reserve publishing the minutes of its last rate-setting meeting. Minutes are basically the meeting notes. Traders read them like a group chat from the cool table, hunting for hints about where interest rates go next."
+  },
+  {
+   "speaker": "A",
+   "text": "Speaking of the Fed, there's a political twist. Fed Governor Lisa Cook's lawyer says she won't attend a White House hearing set for December fourteenth."
+  },
+  {
+   "speaker": "B",
+   "text": "Here's the background. President Trump is trying to fire her over what he calls mortgage fraud. She denies any wrongdoing, and the Supreme Court has blocked the firing for now. Her lawyer calls the hearing unfair and says she has no legal obligation to take part."
+  },
+  {
+   "speaker": "A",
+   "text": "Why does that matter for your wallet? The Fed sets short-term interest rates, and markets like the Fed to look independent from the White House. A fight over who sits on its board makes investors nervous."
+  },
+  {
+   "speaker": "B",
+   "text": "Next, the shoppers. Retail sales slowed in October compared with September, as inflation kept weighing on people ahead of the holidays."
+  },
+  {
+   "speaker": "A",
+   "text": "Inflation just means prices going up over time. If your paycheck stretches less far at the store, you buy less, and since consumer spending is a huge part of the US economy, a slowdown there is worth watching."
+  },
+  {
+   "speaker": "B",
+   "text": "There's also a look-ahead from the Financial Times. Wall Street banks expect global corporate profit growth to slow sharply next year, as the surge in AI investment that powered the stock rally starts to ease."
+  },
+  {
+   "speaker": "A",
+   "text": "Translation: the party has been fueled by AI spending, and forecasters think the music gets quieter in twenty twenty-seven. Not a crash call, but a slowdown call."
+  },
+  {
+   "speaker": "B",
+   "text": "And one more thing from The Economist: investors are souring on anything tied to the president and his family. They tracked thirteen stocks linked to the Trumps and found that the family's ability to cash in on the presidency has faded. Even the Trump meme coin has plummeted."
+  },
+  {
+   "speaker": "A",
+   "text": "On deck, the thing to watch is those Fed minutes tonight, plus fallout from Nvidia's report, which we'll cover soon. The Fed is the big scheduled event on our radar."
+  },
+  {
+   "speaker": "A",
+   "text": "Over to geopolitics. Defense Secretary Pete Hegseth made an unexpected visit to Venezuela and cemented a new military deal with the country's acting president, Delcy Rodriguez."
+  },
+  {
+   "speaker": "B",
+   "text": "The backstory from the Wall Street Journal: after the removal of Nicolas Maduro in a US commando operation in January, the two countries have signed oil deals and worked together to strike armed groups inside Venezuela."
+  },
+  {
+   "speaker": "A",
+   "text": "So that's oil and security in one handshake. Venezuela has huge oil reserves, which is why this isn't just a foreign policy story. It's also an energy story."
+  },
+  {
+   "speaker": "B",
+   "text": "Bigger summit news. Per the Financial Times, President Trump has landed in China ahead of a historic three-way summit with China's Xi Jinping and Russia's Vladimir Putin."
+  },
+  {
+   "speaker": "A",
+   "text": "And Putin is already making his pitch. He told global business leaders gathered in China that sanctions and efforts to contain Russia will only hurt Western powers, and he pushed a larger Eurasian partnership."
+  },
+  {
+   "speaker": "B",
+   "text": "Why do markets care? Trade, sanctions and energy flows all depend on how these three leaders get along. The outcome could shift everything from oil shipments to tariffs."
+  },
+  {
+   "speaker": "A",
+   "text": "Also in the war in Ukraine, The Economist reports that Russia and Ukraine are bombing each other's bridges. They describe a setback for Russia in Crimea, but say damage in Kyiv may matter more. The Journal also highlights a look at how Ukraine hit one of Putin's showpiece bridges."
+  },
+  {
+   "speaker": "B",
+   "text": "Back home, a weird run of outages. Top national security officials testified that a string of nationwide outages was not a coordinated attack. Homeland Security Secretary Markwayne Mullin and Director of National Intelligence Jay Clayton appeared before a House committee."
+  },
+  {
+   "speaker": "A",
+   "text": "Morning Brew adds that a highly classified communications network used by the National Security Agency also went down, though the NSA blamed scheduled routine maintenance, and the White House says there's no evidence of a cyberattack."
+  },
+  {
+   "speaker": "B",
+   "text": "The days before saw a nationwide flight ground stop, plus outages at Microsoft and Apple. Experts say there's no evidence they're linked, but the administration has taken heat for not clearly explaining what happened."
+  },
+  {
+   "speaker": "A",
+   "text": "One last item here: the climate talks, COP thirty-one in Antalya. The Financial Times says Saudi Arabia is stepping up efforts to disrupt them, including blocking agreement on an electrification target. Remember, Saudi Arabia is an oil giant, so electrifying everything is not exactly their favorite slogan."
+  },
+  {
+   "speaker": "B",
+   "text": "No Brent oil or gold prices in tonight's newsletters, so we'll skip those on the scoreboard rather than guess."
+  },
+  {
+   "speaker": "A",
+   "text": "Now the main event. Anthropic, the company behind the Claude chatbot, priced its initial public offering at eighty-three dollars a share."
+  },
+  {
+   "speaker": "B",
+   "text": "An initial public offering, or I P O, is when a private company sells shares to the public for the first time and lists them on a stock exchange. Anyone with a brokerage account can then buy a slice."
+  },
+  {
+   "speaker": "A",
+   "text": "And it sold more shares than planned, at a higher price than expected, because investors asked for several times more shares than were on offer. The Journal says the offer values the company at around one point five trillion dollars on a fully diluted basis."
+  },
+  {
+   "speaker": "B",
+   "text": "Fully diluted means counting all the shares that could exist, not just the ones out there today. The original range was seventy to seventy-eight dollars, so eighty-three is above the top of it."
+  },
+  {
+   "speaker": "A",
+   "text": "Morning Brew says that at the top of the original range, the company would raise about ninety point four billion dollars, and that orders were seven times the number of shares available, according to Bloomberg. It lists on the Nasdaq under the ticker A N T, midday tomorrow."
+  },
+  {
+   "speaker": "B",
+   "text": "A N T. For a company this big, that's an adorable ticker."
+  },
+  {
+   "speaker": "A",
+   "text": "The stakes are huge. As the first major AI lab to go public, this is a stress test for the whole AI industry. A flop would feed AI skepticism, and a strong debut could revive the sluggish tech sector."
+  },
+  {
+   "speaker": "B",
+   "text": "Now, who gets rich? The Financial Times says a small group of lesser-known venture capital firms stands to make well over one hundred billion dollars combined. Venture capital means investors who back young companies early, in exchange for ownership."
+  },
+  {
+   "speaker": "A",
+   "text": "One angel investor, Anjney Midha, backed Anthropic in twenty twenty-one, and at a one point four trillion dollar value, that stake is worth about twenty-three hundred times what it was then. Spark Capital would hold about eleven billion dollars of stock, and Factorial Funds just over ten billion."
+  },
+  {
+   "speaker": "B",
+   "text": "Morning Brew adds that artificial intelligence grabbed three hundred fifty-five point nine billion dollars from venture funds in the first half of this year. That's eighty-six percent of all US venture funding, and San Francisco is taking in about a third of global venture dollars."
+  },
+  {
+   "speaker": "A",
+   "text": "And employees? An average Anthropic employee could see their equity swell to seventy-two million dollars, and Amazon and Google, the biggest customers, would own roughly twenty-eight percent after the IPO."
+  },
+  {
+   "speaker": "B",
+   "text": "Plus one regret. SoftBank's founder Masayoshi Son says he wishes he had invested in Anthropic, and blames an earlier decision to back its rival, OpenAI."
+  },
+  {
+   "speaker": "A",
+   "text": "Zooming out to another deal-adjacent story: prediction markets. Kalshi, where people bet on real-world events, hired Martha Stewart for an ad about preventing insider trading, and announced tailored surveillance for riskier markets."
+  },
+  {
+   "speaker": "B",
+   "text": "Insider trading means trading on secret information the public doesn't have. And in the same news cycle, the Journal reports Kalshi is halting markets that bet on what words President Trump will say, after the Commodity Futures Trading Commission ordered it to do so on Friday, since those are easy to influence."
+  },
+  {
+   "speaker": "A",
+   "text": "Quick context: in August, a White House teleprompter operator settled an insider trading case with federal regulators. So the worry is not hypothetical."
+  },
+  {
+   "speaker": "B",
+   "text": "Companies. And the headline is Nvidia. It posted another quarter of record revenue and raised its forecast, yet its shares slipped two point nine percent, per the Journal."
+  },
+  {
+   "speaker": "A",
+   "text": "The reason is the cloud hanging over it. Nvidia shares have lost more than a third of their value since early last month, and Jensen Huang, its longtime chief executive, resigned last week."
+  },
+  {
+   "speaker": "B",
+   "text": "Morning Brew says revenue rose twenty percent from the prior quarter, and Nvidia predicts twelve percent growth next quarter. Interim chief executive Colette Kress boosted the company's twenty twenty-eight growth outlook from seventy percent to seventy-five percent."
+  },
+  {
+   "speaker": "A",
+   "text": "But things will be different. Nvidia will stop selling certain chips to China, and Kress said it will be disciplined and selective about supporting other AI companies, a hint it may pull back from acting as a financial backstop to the industry."
+  },
+  {
+   "speaker": "B",
+   "text": "Huang said he'd be honored to return, but the Financial Times and Morning Brew both report the board has made clear that's not on the table. He will testify to Congress on December first about export controls on chips."
+  },
+  {
+   "speaker": "A",
+   "text": "And The Economist argues that his departure will cause lasting damage. Other AI-linked stocks, including CoreWeave, Qualcomm and Cerebras, fell too, and now everyone turns to the Anthropic IPO as the next big test."
+  },
+  {
+   "speaker": "B",
+   "text": "Now Nike. Its stock fell six point three percent after it told shareholders it doesn't expect sales growth until twenty twenty-nine. That's a long wait for a sneaker company."
+  },
+  {
+   "speaker": "A",
+   "text": "Home Depot named Richard McPhail its new chief executive after Ted Decker stepped down at the end of a temporary medical leave. And Disney says it will finalize the merger of its Disney Plus and Hulu apps next month."
+  },
+  {
+   "speaker": "B",
+   "text": "Meta launched a standalone messaging app called Direct for Instagram messages, in Turkey and Thailand for now."
+  },
+  {
+   "speaker": "A",
+   "text": "In banking, the Financial Times reports on why Deutsche Bank hired a Qatari royal, Sheikh Jabor al-Thani, as a business development consultant, which shows the depth of the bank's ties to that family and blurs the line between investor, client and counterparty."
+  },
+  {
+   "speaker": "B",
+   "text": "And Julius Baer faces another legal fight after Switzerland's highest court upheld the conviction of a former banker."
+  },
+  {
+   "speaker": "A",
+   "text": "Finally, the Economist shares how slimming drugs like Ozempic are reshaping consumer spending, which we'll get into in the trends section. First, a flavor of the market rotation."
+  },
+  {
+   "speaker": "B",
+   "text": "Starting with tech and AI. KPMG carried out its first AI-based audit of a UK-listed company and said the technology asked better questions than its own accountants about the client's finances. An audit is when outsiders check that a company's books are honest."
+  },
+  {
+   "speaker": "A",
+   "text": "The Economist also explains why startups still go public eventually, even though private markets have grown more dynamic. And that's a nice companion to the Anthropic IPO."
+  },
+  {
+   "speaker": "B",
+   "text": "Now food and consumer. Morning Brew's stock of the week says that as investors rotate out of risky tech, the Nasdaq is down about eight percent in the last month, and they're buying Big Food. Tyson Foods is up eight percent in a week and eighteen percent over a month after a brighter outlook for beef."
+  },
+  {
+   "speaker": "A",
+   "text": "Campbell's is up twenty-two percent in a month with no big news, and Heinz Kraft is up twelve percent since the start of October. Skeptics warn it's more about hiding from tech than about the food giants being strong."
+  },
+  {
+   "speaker": "B",
+   "text": "On the health side, the United States lost its measles elimination status, stripped by the Pan American Health Organization, after more than seven thousand cases and ten deaths since early last year as vaccination rates fall."
+  },
+  {
+   "speaker": "A",
+   "text": "And back to those slimming drugs. The Economist says they're changing what people buy, with implications beyond food, from bra design to facial fat-grafts. It's in their outlook for twenty twenty-seven."
+  },
+  {
+   "speaker": "B",
+   "text": "Real estate gets two fun stories. Fifth Avenue in Manhattan reclaimed the title of the world's highest retail rents, with average rents up thirty-five percent in a year, compared with three percent worldwide, per Cushman and Wakefield."
+  },
+  {
+   "speaker": "A",
+   "text": "And on Long Island, a mall called Samanea New York has jumped to seventy-six percent occupancy from twenty-two percent in twenty nineteen by replacing normal stores with axe throwing and trampolines. Shopping out, activities in."
+  },
+  {
+   "speaker": "B",
+   "text": "Two more data points: forty-one percent of owner-occupied homes were owned free and clear in twenty twenty-five, up from thirty-two point eight percent in twenty ten. And US toy sales are up twenty percent this year through September, led by collectibles."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for the scoreboard, using Tuesday's close from Morning Brew. The S and P five hundred closed at seven thousand three hundred forty point five three, down one point oh three percent."
+  },
+  {
+   "speaker": "B",
+   "text": "The Dow dropped one point six five percent to fifty thousand seven hundred fifty-nine. The Nasdaq slipped zero point seven four percent to twenty-four thousand three hundred twenty-eight."
+  },
+  {
+   "speaker": "A",
+   "text": "The ten-year yield: five point one oh three percent, down two basis points. Bitcoin is about sixty-four thousand two hundred thirty dollars, down one point five five percent, as of four thirty p.m. Eastern."
+  },
+  {
+   "speaker": "B",
+   "text": "We don't have tonight's levels for Brent oil or gold, and we couldn't verify past prices for any of these, so we're leaving the six month and one year comparisons out rather than guessing."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for the three-point recap. One: Anthropic priced its IPO at eighty-three dollars, valuing it around one point five trillion dollars, and starts trading tomorrow."
+  },
+  {
+   "speaker": "B",
+   "text": "Two: Nvidia's record quarter and raised forecast didn't calm nerves, and the stock still slid with Huang gone."
+  },
+  {
+   "speaker": "A",
+   "text": "Three: yields are above five percent, retail sales cooled, and the Fed minutes are tonight."
+  },
+  {
+   "speaker": "B",
+   "text": "What to watch tomorrow: how Anthropic opens on the Nasdaq, the Fed minutes fallout, and the Trump, Xi and Putin summit."
+  },
+  {
+   "speaker": "A",
+   "text": "That's the Nightly Brief. I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. Thanks for listening, and see you tomorrow night."
+  }
+ ]
+}
