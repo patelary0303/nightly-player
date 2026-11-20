@@ -1,0 +1,381 @@
+{
+ "id": "2026-11-19",
+ "title": "Nightly Brief - Thu, Nov 19",
+ "date": "Thu, Nov 19",
+ "hosts": {
+  "A": "Maya",
+  "B": "Theo"
+ },
+ "chapters": [
+  {
+   "title": "Cold open",
+   "i": 0
+  },
+  {
+   "title": "Macro & Rates",
+   "i": 9
+  },
+  {
+   "title": "Energy & Geopolitics",
+   "i": 24
+  },
+  {
+   "title": "Deals & Capital Markets",
+   "i": 35
+  },
+  {
+   "title": "Companies",
+   "i": 53
+  },
+  {
+   "title": "Industry Trends",
+   "i": 61
+  },
+  {
+   "title": "Markets",
+   "i": 74
+  },
+  {
+   "title": "Wrap-up",
+   "i": 78
+  }
+ ],
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "A company that did not exist on the stock market this morning is now worth about one and a half trillion dollars. And it still managed to get upstaged by a video game."
+  },
+  {
+   "speaker": "B",
+   "text": "Wait, a video game beat the biggest IPO in history for attention? Maya, that is a bold claim."
+  },
+  {
+   "speaker": "A",
+   "text": "Theo, it is Grand Theft Auto six. Thirteen years in the making. We will get there, I promise."
+  },
+  {
+   "speaker": "B",
+   "text": "I am holding you to it. Welcome to the Nightly Brief podcast, the companion to tonight's email, where we walk through the day in business and economics without making you feel like you need a finance degree."
+  },
+  {
+   "speaker": "A",
+   "text": "I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. It is Thursday, November nineteenth."
+  },
+  {
+   "speaker": "A",
+   "text": "Here is what is on tonight's show. First, macro and rates: the Federal Reserve's meeting notes, and why gold is having a rough patch. Then energy and geopolitics, which includes a first-ever three-way summit between the leaders of America, China and Russia."
+  },
+  {
+   "speaker": "B",
+   "text": "Then deals, where Anthropic's debut lives, plus a loan that got cancelled and a very young hedge fund founder trying a comeback. After that, companies, industry trends, a quick tour of the markets table, and a wrap-up with what to watch tomorrow."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's go."
+  },
+  {
+   "speaker": "A",
+   "text": "We start with the Fed. The Federal Reserve is America's central bank, and its job is to keep prices stable and employment healthy. Its main tool is the interest rate it sets for short-term borrowing. Yesterday it released the minutes of its October meeting. Minutes are basically the detailed notes of who said what."
+  },
+  {
+   "speaker": "B",
+   "text": "And the headline is not a cozy one. At that meeting the Fed held rates steady. But the minutes say almost all participants judged that rates will need to be raised in the months ahead to get inflation down to the Fed's two percent target."
+  },
+  {
+   "speaker": "A",
+   "text": "Almost all. That is not a split decision. Morning Brew joked that it is unlike a group of friends trying to pick a dinner spot, because these officials seemed largely in agreement."
+  },
+  {
+   "speaker": "B",
+   "text": "Right. So let's translate. Raising rates makes borrowing more expensive, for businesses, for people with credit cards, for anyone getting a mortgage. The idea is to cool spending so prices stop climbing so fast. For a regular person, it means loans could get pricier before they get cheaper."
+  },
+  {
+   "speaker": "A",
+   "text": "There is also a twist that fits tonight's theme. Some officials said they worry artificial intelligence could be a source of rising prices and of financial instability."
+  },
+  {
+   "speaker": "B",
+   "text": "Which is a fascinating thing for a central bank to say out loud. The same technology everybody is celebrating is, in their view, something that could push prices up and shake the financial system. The Fed meets again in December, so that is the next big checkpoint."
+  },
+  {
+   "speaker": "A",
+   "text": "Now, the bond market. A bond is basically an I O U. You lend money to the government, and it pays you interest. The yield is the interest rate you earn, and it moves opposite to the bond's price. The ten-year Treasury yield is the benchmark for lots of other borrowing costs, including mortgages."
+  },
+  {
+   "speaker": "B",
+   "text": "And here is the number. According to Morning Brew, the ten-year yield closed Wednesday at five point zero six six percent, down four basis points on the day. A basis point is one hundredth of a percentage point, so four basis points is point zero four percent."
+  },
+  {
+   "speaker": "A",
+   "text": "Wait, so that is a small dip, but the level itself is above five percent."
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. Above five percent on the ten-year is high. The Financial Times had it at five point zero seven six percent early Thursday morning, a touch higher. So the market is hearing the Fed's message and staying put at elevated levels."
+  },
+  {
+   "speaker": "A",
+   "text": "Next, a story about a metal that is supposed to be a safe place to hide. Gold. The Financial Times reports investors are increasingly questioning gold's traditional status as a haven asset."
+  },
+  {
+   "speaker": "B",
+   "text": "A haven asset is something people run to when they are nervous, like a financial storm shelter. The surprise is that the gold price has plunged in recent months, even as riskier holdings like stocks have sold off sharply. Normally those two move in opposite directions."
+  },
+  {
+   "speaker": "A",
+   "text": "So gold fell while stocks fell too. The shelter got wet."
+  },
+  {
+   "speaker": "B",
+   "text": "That is the idea. For a regular person, it is a reminder that nothing is guaranteed to protect you. Comex gold was around three thousand seven hundred thirty-eight dollars an ounce early Thursday, basically flat on the day."
+  },
+  {
+   "speaker": "A",
+   "text": "On deck: the Fed's December meeting is the big one. And Walmart was set to report earnings Thursday. Earnings are a company's quarterly report card, and Walmart is a good read on how everyday shoppers are doing. The results were not in today's newsletters, so we will watch for them."
+  },
+  {
+   "speaker": "A",
+   "text": "Now energy and geopolitics, and what a day for it. President Trump, Chinese leader Xi Jinping and Russian president Vladimir Putin met in Shenzhen, China. The Wall Street Journal calls it the first-ever gathering of American, Chinese and Russian leaders."
+  },
+  {
+   "speaker": "B",
+   "text": "The Financial Times reports some people called it Yalta two point zero, a nod to the nineteen forty-five conference that decided the post-war order. Trump also held one-on-one meetings with Putin and Xi."
+  },
+  {
+   "speaker": "A",
+   "text": "And the outcome? The leaders issued a declaration pledging cooperation on nuclear security, energy supplies and other issues. But the Journal says there was no concrete progress on ending the war in Ukraine or reshaping Europe's security order, which Putin has wanted for a long time."
+  },
+  {
+   "speaker": "B",
+   "text": "So big photo, big symbolism, not much substance yet. Morning Brew noted the three leaders also talked about trade being more open, and Trump said they had a special responsibility to keep communication open."
+  },
+  {
+   "speaker": "A",
+   "text": "The Economist adds a sharper framing. It uses the phrase axis of malice for China, Russia, Iran and North Korea, and says those authoritarian states are working ever more closely together."
+  },
+  {
+   "speaker": "B",
+   "text": "Why does that matter for your wallet? Because geopolitics moves oil, supply chains and markets. If big powers cooperate or clash, prices of energy and tech shift fast."
+  },
+  {
+   "speaker": "A",
+   "text": "Speaking of oil, there is a related story. The Wall Street Journal reports the Israeli spy chief pressed for renewed strikes on Iran during a visit to the United States."
+  },
+  {
+   "speaker": "B",
+   "text": "Iran matters because of the Strait of Hormuz, a narrow waterway that a large share of the world's oil ships through. And that brings us to an International Energy Agency finding, reported by the Financial Times."
+  },
+  {
+   "speaker": "A",
+   "text": "The agency says energy markets can manage without the Strait of Hormuz if the world invests about two hundred forty billion dollars to develop alternative pipelines and new sources of supply."
+  },
+  {
+   "speaker": "B",
+   "text": "Two hundred forty billion dollars sounds enormous, but the point is that there is a workable backup plan. Brent crude, the global oil benchmark, was about ninety-two dollars and five cents a barrel early Thursday, up about a tenth of a percent."
+  },
+  {
+   "speaker": "A",
+   "text": "So not a panic price, but not cheap either."
+  },
+  {
+   "speaker": "A",
+   "text": "Okay, Theo, the moment. Anthropic."
+  },
+  {
+   "speaker": "B",
+   "text": "The big one. Anthropic went public today on the Nasdaq under the ticker A N T. An IPO, or initial public offering, is when a private company sells shares to the public for the first time to raise money."
+  },
+  {
+   "speaker": "A",
+   "text": "And this is a record. Last night it priced at eighty-three dollars a share and sold nine hundred eighty million shares. That raised eighty-one billion dollars, the largest IPO ever, beating the seventy-five billion SpaceX raised in June."
+  },
+  {
+   "speaker": "B",
+   "text": "It also priced above the expected range. The company had set a maximum of seventy-eight dollars a share last week, then raised both the size and the price after a wave of orders from big institutions and regular retail investors."
+  },
+  {
+   "speaker": "A",
+   "text": "And the valuation? About one and a half trillion dollars on a fully diluted basis, which puts it in the club of American companies worth more than a trillion."
+  },
+  {
+   "speaker": "B",
+   "text": "Fully diluted just means counting every share that could exist, including options and stock awards. Now, how did the first day go? The Journal says shares soared out of the gate, gave back some gains, and closed at ninety-seven dollars and seventeen cents. That is seventeen percent above the IPO price."
+  },
+  {
+   "speaker": "A",
+   "text": "And that happened even as the Nasdaq composite slid. So the stock was swimming against the tide."
+  },
+  {
+   "speaker": "B",
+   "text": "There is also a greenshoe option. That is an extra allotment the underwriting banks can sell, up to one hundred forty-seven million more shares, worth about twelve billion dollars, which would raise the total further."
+  },
+  {
+   "speaker": "A",
+   "text": "Now the human side. The Journal cites estimates from Hill dot com that a majority of Anthropic's more than five thousand employees are expected to become millionaires."
+  },
+  {
+   "speaker": "B",
+   "text": "Roughly twenty-eight hundred employees likely hold stakes worth at least ten million dollars, and about six hundred are likely sitting on more than one hundred million. That is wild."
+  },
+  {
+   "speaker": "A",
+   "text": "The Financial Times also flags a caution. Safety researchers have raised alarm about the lab's technological advances, which triggered new risk controls under what it calls its responsible scaling policy, right on the eve of the listing."
+  },
+  {
+   "speaker": "B",
+   "text": "Morning Brew framed the listing as a major test of investor confidence in AI, since this is the first frontier lab to go public."
+  },
+  {
+   "speaker": "A",
+   "text": "Next deal story, and this one is a cancellation. The Financial Times has an exclusive: Apollo Global Management scrapped a planned two billion dollar loan to the owner of Manchester City."
+  },
+  {
+   "speaker": "B",
+   "text": "Apollo is a private equity and credit giant. Private equity firms buy or finance companies using money from big investors. The reason it walked away: an independent commission found the football club guilty of breaching the English Premier League's financial rules."
+  },
+  {
+   "speaker": "A",
+   "text": "So even deep-pocketed lenders get cold feet when the rulebook is involved."
+  },
+  {
+   "speaker": "B",
+   "text": "And one more. Leopold Aschenbrenner, who is twenty-five, is plotting a comeback for his hedge fund, Situational Awareness. The Financial Times says that is just four months after the fund was almost toppled by bad bets on AI stocks."
+  },
+  {
+   "speaker": "A",
+   "text": "He has discussed a new version, including a return to leveraged trading and raising new capital, according to people briefed on the matter."
+  },
+  {
+   "speaker": "B",
+   "text": "Leveraged trading means borrowing money to make bigger bets. It can magnify gains, but it can magnify losses too, which is how a fund gets almost toppled in the first place."
+  },
+  {
+   "speaker": "A",
+   "text": "Now, individual companies. Nvidia, the chip maker at the center of the AI boom, is in a leadership shake-up. Its longtime chief, Jensen Huang, resigned amid a scandal."
+  },
+  {
+   "speaker": "B",
+   "text": "Morning Brew reports that Colette Kress, who is stepping in as chief executive, urged employees to move forward at the company's first all-hands meeting since Huang left."
+  },
+  {
+   "speaker": "A",
+   "text": "The Economist says the scandal has underscored a deeper story: China's relentless pursuit, by whatever means necessary, of the technology behind American artificial intelligence. It argues America must respond forcefully, and says efforts so far have been chaotic and confused."
+  },
+  {
+   "speaker": "B",
+   "text": "And the Wall Street Journal has a fascinating number. Nvidia's investment portfolio is now worth more than one hundred billion dollars. It stretches from stakes in frontier AI labs to bets on power producers and cloud-computing companies."
+  },
+  {
+   "speaker": "A",
+   "text": "So Nvidia is basically acting like a central bank for the AI economy. Those deals often boost demand for its chips, which means much of the ecosystem now depends on its generosity."
+  },
+  {
+   "speaker": "B",
+   "text": "Which is great while everyone is growing, and a little scary if the music stops."
+  },
+  {
+   "speaker": "A",
+   "text": "Another company story. Waymo, the self-driving car company owned by Alphabet, pulled its robotaxis off freeways across the United States."
+  },
+  {
+   "speaker": "B",
+   "text": "That came after California regulators banned its driverless cars from the state's highways. A reminder that regulators can pump the brakes on even very advanced technology."
+  },
+  {
+   "speaker": "A",
+   "text": "Industry trends, starting with tech and AI. First, why does it feel like everything is breaking? Outages hit Teams meetings, the airline system, and more."
+  },
+  {
+   "speaker": "B",
+   "text": "Morning Brew says experts think it is likely the result of companies and government agencies rushing to patch vulnerabilities, not a coordinated cyberattack. And the twist is AI. Anthropic and OpenAI have released models that can find far more software bugs than a human ever could."
+  },
+  {
+   "speaker": "A",
+   "text": "That creates a race between organizations trying to close the holes and hackers looking to exploit them, and the speed of patching has strained systems at places like Microsoft, Apple and the National Security Agency."
+  },
+  {
+   "speaker": "B",
+   "text": "On the big ground stoppage last weekend, the Federal Aviation Administration blamed defective routers in Arkansas and Texas. Some experts doubted that, and pointed to a new AI air traffic control system rolled out shortly before. Last month was nicknamed Black October for the volume of cyberattacks."
+  },
+  {
+   "speaker": "A",
+   "text": "Now gaming, and yes, Theo, here it is. Grand Theft Auto six came out today after thirteen years and two delays."
+  },
+  {
+   "speaker": "B",
+   "text": "It scored ninety-nine out of one hundred on Metacritic, the best site-wide score ever. Preorders surpassed one and a half billion dollars, per Sensor Tower, and some analysts think it sells forty million copies in its first four months, about three billion dollars in revenue."
+  },
+  {
+   "speaker": "A",
+   "text": "For context, the highest-grossing movie ever, Avengers Endgame, made two point nine billion. And time-off requests are about twenty percent higher than usual today, according to workplace software provider UKG."
+  },
+  {
+   "speaker": "B",
+   "text": "The Economist has a thoughtful twist. It says this may be the last blockbuster of its kind, because studios face shrinking incentives to make top-tier titles. The Financial Times adds that the industry has been knocked by record memory chip costs."
+  },
+  {
+   "speaker": "A",
+   "text": "Now industrials and defense. Republican senators are suspending their effort to pass three hundred fifty billion dollars in additional military spending."
+  },
+  {
+   "speaker": "B",
+   "text": "That package was on top of a one point one trillion dollar annual base budget the Pentagon requested. The Journal says it would have needed near unanimity among Republicans, and comes weeks after Democrats captured large majorities in the House and Senate in the midterms, amid backlash to the war and high prices."
+  },
+  {
+   "speaker": "A",
+   "text": "Also on industrials, the Financial Times says American companies are turning to industrial robots to ease a labor shortage, though some say automation is not happening fast enough."
+  },
+  {
+   "speaker": "B",
+   "text": "Last, financials. Hackers leaked data from thousands of customers of Visa, Mastercard and JPMorgan. They got in through third-party entities, and the firms say services were not disrupted."
+  },
+  {
+   "speaker": "A",
+   "text": "A ransomware group called n zero n claimed responsibility. Ransomware gangs steal data and then try to extort the companies. If you are a customer, it is a good moment to watch your accounts closely."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for the markets table. Quick note: stock numbers are from Wednesday's close, via Morning Brew. Bitcoin is as of six thirty Wednesday evening, and oil and gold are from the Financial Times, early Thursday."
+  },
+  {
+   "speaker": "B",
+   "text": "The S and P five hundred closed at seven thousand three hundred twenty-four, down point two three percent. The Dow fell one point one one percent to about fifty thousand two hundred. The Nasdaq edged up point four two percent to about twenty-four thousand four hundred thirty."
+  },
+  {
+   "speaker": "A",
+   "text": "The ten-year yield was five point zero six six percent, down four basis points. Brent oil about ninety-two dollars, gold about three thousand seven hundred thirty-eight, and Bitcoin sixty-two thousand two hundred thirty-seven dollars, down three point seven four percent."
+  },
+  {
+   "speaker": "B",
+   "text": "One honest caveat. Our email's table normally compares those levels with six months and one year ago, but tonight we could not reach a reliable source for past prices, so those columns say not available. We do not guess numbers."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's recap in three points. One: Anthropic's record IPO closed its first day up seventeen percent over the offer price."
+  },
+  {
+   "speaker": "B",
+   "text": "Two: the Fed's minutes say almost everyone expects rate hikes ahead, with the ten-year yield above five percent. Three: the Trump, Xi and Putin summit produced pledges but no concrete progress on Ukraine."
+  },
+  {
+   "speaker": "A",
+   "text": "What to watch tomorrow: whether Anthropic's stock holds up, how Nvidia manages its leadership transition, and any reaction to the Fed's hike signal. And the Fed's December meeting is coming."
+  },
+  {
+   "speaker": "B",
+   "text": "That's the Nightly Brief podcast. Thanks for listening."
+  },
+  {
+   "speaker": "A",
+   "text": "I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "I'm Theo. See you tomorrow night."
+  }
+ ]
+}
