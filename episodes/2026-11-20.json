@@ -1,0 +1,333 @@
+{
+ "id": "2026-11-20",
+ "title": "Nightly Brief - Fri, Nov 20",
+ "date": "Fri, Nov 20",
+ "hosts": {
+  "A": "Maya",
+  "B": "Theo"
+ },
+ "chapters": [
+  {
+   "title": "Cold open",
+   "i": 0
+  },
+  {
+   "title": "Macro & Rates",
+   "i": 7
+  },
+  {
+   "title": "Energy, Commodities & Geopolitics",
+   "i": 23
+  },
+  {
+   "title": "Deals & Capital Markets",
+   "i": 31
+  },
+  {
+   "title": "Companies",
+   "i": 42
+  },
+  {
+   "title": "Industry Trends",
+   "i": 55
+  },
+  {
+   "title": "Markets",
+   "i": 60
+  },
+  {
+   "title": "Wrap-up",
+   "i": 65
+  }
+ ],
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Theo, quick quiz. Yesterday the biggest stock market debut in history happened, and today the whole stock market is licking its wounds. How does that make sense?"
+  },
+  {
+   "speaker": "B",
+   "text": "Maya, that is exactly the question investors are asking. A record-breaking party, and the Nasdaq still fell more than two percent."
+  },
+  {
+   "speaker": "A",
+   "text": "Welcome to the Nightly Brief podcast, the companion to tonight's email, where we walk through the day in business and economics in plain English. I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. It is Friday, November twentieth."
+  },
+  {
+   "speaker": "A",
+   "text": "Here is what is on tonight's show. First, macro and rates: oil and bonds have stopped moving together, and pensions are eating government budgets. Then energy and geopolitics, with gold's big drop and a surprise invitation from Vladimir Putin."
+  },
+  {
+   "speaker": "B",
+   "text": "Then deals, including what happened to Anthropic's stock hangover, a Chinese wealth fund returning to American private equity, and a record price for a women's basketball team. Next companies, including Walmart's earnings, a chip approval controversy and a very odd shopping trend."
+  },
+  {
+   "speaker": "A",
+   "text": "After that, industry trends, a quick tour of the markets table, and a wrap-up with what to watch next week. Let's go."
+  },
+  {
+   "speaker": "A",
+   "text": "We start with a story from the Financial Times that sounds nerdy but matters for your wallet. All year, oil prices and government borrowing costs have moved in lockstep. When oil went up, bond yields went up."
+  },
+  {
+   "speaker": "B",
+   "text": "Let me explain the pieces. A government bond is basically an I O U. You lend the government money and it pays you interest. The yield is the interest rate you earn, and it moves in the opposite direction from the bond's price. The ten-year Treasury yield matters because it is a benchmark for mortgages and lots of other loans."
+  },
+  {
+   "speaker": "A",
+   "text": "So why would oil and bond yields be linked?"
+  },
+  {
+   "speaker": "B",
+   "text": "Because expensive oil pushes up prices everywhere, which is inflation, and investors demand higher yields to make up for inflation eating their returns. That tight link has now broken down, according to the Financial Times."
+  },
+  {
+   "speaker": "A",
+   "text": "Meaning what changed?"
+  },
+  {
+   "speaker": "B",
+   "text": "Traders are shifting their attention to what central banks are actually doing about the energy-driven inflation that is already running through economies. A central bank, like the Federal Reserve, sets short-term interest rates to keep prices stable. So the question is no longer just how high oil goes, it is how hard the central banks respond."
+  },
+  {
+   "speaker": "A",
+   "text": "And the numbers? Morning Brew had the American ten-year yield at five point zero five two percent at Thursday's close, down one basis point."
+  },
+  {
+   "speaker": "B",
+   "text": "A basis point is one hundredth of a percentage point, so one basis point is nothing, point zero one percent. But the Financial Times showed the yield at five point zero zero eight percent early Friday, down about four basis points more. Still above five percent, which is high by recent standards."
+  },
+  {
+   "speaker": "A",
+   "text": "For a regular person, that means mortgage rates and other loans stay expensive while yields stay up there."
+  },
+  {
+   "speaker": "B",
+   "text": "Right. And the Financial Times showed the British ten-year yield at five point two seven five percent. Britain is paying even more to borrow than America."
+  },
+  {
+   "speaker": "A",
+   "text": "Now the chart of the day, also from the Financial Times, and it is a bit of a sleeper. More and more of government budgets, and of young workers' paychecks, are being eaten up by state pension spending."
+  },
+  {
+   "speaker": "B",
+   "text": "The point is that retirees in rich countries are already more affluent than ever, which has some people asking why governments still give them so much. Pension costs are a big part of why government deficits are hard to shrink. A deficit is when a government spends more than it collects in taxes, and it borrows the difference by selling those bonds we just talked about."
+  },
+  {
+   "speaker": "A",
+   "text": "So pensions, deficits and bond yields are all part of one big loop."
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. On deck: nothing scheduled in tonight's newsletters for economic data or earnings. The Financial Times does flag that President Trump hosts a gala dinner on Sunday for the biggest holders of his memecoin, which is a cryptocurrency named for an internet joke."
+  },
+  {
+   "speaker": "A",
+   "text": "If you want a one-line takeaway for your own life: when you hear that yields are rising, think higher borrowing costs for mortgages, car loans and credit cards. When you hear they are falling, think a little relief."
+  },
+  {
+   "speaker": "B",
+   "text": "And one more way to see it. Governments compete with everyone else for the same pool of lending money, so when they borrow more, other borrowers can end up paying more too. That is why deficits are not just a Washington story."
+  },
+  {
+   "speaker": "A",
+   "text": "On to energy, commodities and geopolitics. Gold had a rough morning. Comex gold was down about three percent, to about three thousand five hundred seventy dollars an ounce, according to the Financial Times, early Friday."
+  },
+  {
+   "speaker": "B",
+   "text": "Remember, yesterday's brief mentioned investors questioning gold's reputation as a safe haven. A safe haven is something people buy when they're nervous. A three percent drop in a day is a big move for gold, so it does not look like the shelter is getting any sturdier."
+  },
+  {
+   "speaker": "A",
+   "text": "And oil? Brent crude, the global benchmark, was about ninety-one dollars and thirty-six cents a barrel, down about two thirds of one percent."
+  },
+  {
+   "speaker": "B",
+   "text": "Walmart's boss mentioned something related on its earnings. Rising fuel costs permeate the price of other goods. So even a modest oil number shows up in grocery bills. We'll get to Walmart in a minute."
+  },
+  {
+   "speaker": "A",
+   "text": "Now geopolitics. Russian President Vladimir Putin has invited European leaders to Moscow to talk about ending his full-scale invasion of Ukraine."
+  },
+  {
+   "speaker": "B",
+   "text": "The catch is that he has not committed to giving them a formal role in the peace process. So it is an invitation to come to his table, without promising them a seat at the decision-making part."
+  },
+  {
+   "speaker": "A",
+   "text": "And in the other direction, the United Kingdom says it agreed a Brexit reset deal with the European Union. Brexit is Britain's exit from the EU, and the reset is meant to bring the two closer again."
+  },
+  {
+   "speaker": "B",
+   "text": "Britain also said talks will continue on an agreement to dismantle some of the trade barriers. So think of it as a promising first step, not a finished deal."
+  },
+  {
+   "speaker": "A",
+   "text": "Now deals. And Theo, we have to start with the Anthropic hangover."
+  },
+  {
+   "speaker": "B",
+   "text": "Yesterday's brief covered the record debut. Anthropic raised eighty-one billion dollars in its initial public offering, or IPO, which is when a private company sells shares to the public for the first time. The stock closed its first day at ninety-seven dollars and seventeen cents, up about seventeen percent."
+  },
+  {
+   "speaker": "A",
+   "text": "So what's new today? The party did not spread. Global technology stocks fell on Friday, with sell-offs in Asia and Europe following declines on Wall Street, because the debut failed to reignite the faltering AI trade, as the Financial Times puts it."
+  },
+  {
+   "speaker": "B",
+   "text": "Morning Brew adds that the Nasdaq fell two point two percent Thursday, and some analysts say it was investors cashing out gains after the Anthropic pop, plus fresh nervousness about chip makers."
+  },
+  {
+   "speaker": "A",
+   "text": "There's also a longer-term view. Analysts say returns on Anthropic shares hinge on how productive its technology makes customers, how well it competes, and whether revenue can grow fast enough to justify spending about nine hundred billion dollars on AI infrastructure."
+  },
+  {
+   "speaker": "B",
+   "text": "Morning Brew also notes that Anthropic is a public benefit corporation, which means it has legally committed to prioritizing the good of humanity. Some experts say that could turn off investors, if its idea of public good conflicts with profit. And the IPO has intensified calls from lawmakers to regulate the industry."
+  },
+  {
+   "speaker": "A",
+   "text": "One more fun number. Investment platform Hill dot com estimates about twenty-eight hundred Anthropic employees now hold shares worth at least ten million dollars, and six hundred have stakes above one hundred million. More yachts in San Francisco Bay."
+  },
+  {
+   "speaker": "B",
+   "text": "Next, an exclusive from the Financial Times. Beijing's flagship sovereign wealth fund has been leading an effort to restart investment into American private equity funds. A sovereign wealth fund is a country's investment pot, and private equity firms buy companies using money from big investors."
+  },
+  {
+   "speaker": "A",
+   "text": "Why does it matter? It could signal a thaw. Fundraising from crucial Chinese investors has dried up, and the fund is trying to negotiate terms that could change that."
+  },
+  {
+   "speaker": "B",
+   "text": "Also in the headlines, the Financial Times says lenders to SpaceX aim to block the launch of forty billion dollars of chips into orbit. We only have that one line in the newsletter, so we will watch for details."
+  },
+  {
+   "speaker": "A",
+   "text": "And a sports deal. The Los Angeles Sparks are reportedly close to being sold to private equity billionaire José Feliciano and his wife, Kwanza Jones, for seven hundred fifty million dollars, a record for a women's basketball team."
+  },
+  {
+   "speaker": "A",
+   "text": "Companies. Walmart had a big day. It raised its annual forecast after global e-commerce sales jumped seventeen percent last quarter."
+  },
+  {
+   "speaker": "B",
+   "text": "Raising a forecast, which companies call guidance, is a company saying it expects to earn more than it told investors before. Part of the growth came from price cuts designed to attract inflation-weary Americans. Walmart cut prices on more than eight thousand items."
+  },
+  {
+   "speaker": "A",
+   "text": "And CEO John Furner told CNBC it aims to keep prices as low as it can."
+  },
+  {
+   "speaker": "B",
+   "text": "It suggests shoppers keep spending even with higher fuel costs. That ties back to the oil story we told earlier."
+  },
+  {
+   "speaker": "A",
+   "text": "Now a controversy. The Financial Times reports that the American government approved requests from Nvidia and AMD to ship advanced AI chips to several Chinese companies, according to newly released files."
+  },
+  {
+   "speaker": "B",
+   "text": "The numbers are large. Companies asked for permission over six months, from December, to ship more than three point four million chips to Chinese groups including Alibaba, Tencent, Baidu and BYD. Some of those firms were ones the Pentagon believed were associated with China's People's Liberation Army."
+  },
+  {
+   "speaker": "A",
+   "text": "And lawmakers are already demanding tougher export controls, which are rules limiting what technology can be sold abroad. It follows the resignation of Nvidia's chief executive Jensen Huang."
+  },
+  {
+   "speaker": "B",
+   "text": "In the Financial Times account, Huang had an affair with Alice Huang, an executive US authorities determined was a Chinese spy. US officials also believe she may have been involved in export-control violations. Meanwhile Bloomberg reports, via Morning Brew, that Nvidia approached Arm chief executive Rene Haas as part of its search for a permanent chief executive."
+  },
+  {
+   "speaker": "A",
+   "text": "Next, Costco. This one is a bit wild. Mizuho says Costco is enjoying a panic-fueled sales bump after the Microsoft outage, a flight ground stop and apocalyptic worries on social media."
+  },
+  {
+   "speaker": "B",
+   "text": "As of Sunday, twenty-one of Costco's twenty-six high-end generator models were sold out. US comparable sales, excluding gasoline, rose eleven to twelve percent in the last week of October, versus six to seven percent in the previous three weeks, according to Mizuho's estimates."
+  },
+  {
+   "speaker": "A",
+   "text": "But Morning Brew notes it started two weeks before the outages, after the UK urged people to stockpile goods and the Pentagon reportedly called for military bases to keep ninety days of supplies. Mizuho expects Home Depot, Lowe's and Sam's Club to benefit too."
+  },
+  {
+   "speaker": "B",
+   "text": "Quick hits. Netflix, Amazon, YouTube and Fox will reportedly bid for the American broadcast rights to the twenty thirty men's World Cup, while Disney decided not to bid. Uber launched a limited test letting parents order rides for kids aged ten to twelve. And Roaring Kitty, the meme-stock figure Keith Gill, posted for the first time in almost two years, and GameStop rose three percent."
+  },
+  {
+   "speaker": "A",
+   "text": "The Financial Times also reports the fintech Revolut is under pressure from authorities across Europe to clamp down on financial crime."
+  },
+  {
+   "speaker": "A",
+   "text": "Industry trends, starting with tech and AI. Morning Brew says tech leaders are distancing themselves from Trump's movement after the Democrats' midterm wins."
+  },
+  {
+   "speaker": "B",
+   "text": "Elon Musk said at the DealBook Summit that he is not MAGA and that he feels pretty foolish about giving five hundred million dollars to Republican candidates who lost. Palantir's Alex Karp called himself an unhappy Democrat."
+  },
+  {
+   "speaker": "A",
+   "text": "Why now? Democrats have taken the Senate and House majority, so they can launch investigations. Strategists are lobbying tech executives to rework how they court Congress and communities, and many winning governors campaigned on slowing the AI industry."
+  },
+  {
+   "speaker": "B",
+   "text": "Also in tech, the Financial Times says the White House replaced its top cybersecurity official, days after a wave of tech outages. That's all the detail in the newsletter."
+  },
+  {
+   "speaker": "A",
+   "text": "And on financials, we've covered the Revolut scrutiny and the sovereign wealth fund. Nothing in tonight's newsletters on healthcare, real estate or telecom."
+  },
+  {
+   "speaker": "A",
+   "text": "Now the markets table. These are Thursday's closing levels from Morning Brew, so it was a rough day. The S and P five hundred closed at seven thousand one hundred seventy-five point eight three, down two point oh two percent."
+  },
+  {
+   "speaker": "B",
+   "text": "The Dow fell two point one nine percent to forty-nine thousand ninety-seven. The Nasdaq dropped two point two five percent to twenty-three thousand eight hundred seventy-nine."
+  },
+  {
+   "speaker": "A",
+   "text": "The ten-year Treasury yield was five point oh five two percent, down one basis point. Bitcoin was sixty-one thousand nine hundred twenty-six dollars as of four thirty Thursday afternoon, down about half a percent."
+  },
+  {
+   "speaker": "B",
+   "text": "Brent oil was about ninety-one dollars thirty-six cents and gold about three thousand five hundred seventy dollars, both from the Financial Times early Friday morning."
+  },
+  {
+   "speaker": "A",
+   "text": "One honest caveat. The table normally compares those levels with six months and one year ago, but we could not reach a reliable source for past prices tonight, so those columns say not available. We do not guess."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for the three-point recap. One: stocks fell more than two percent on Thursday, and Anthropic's record debut did not lift the broader AI trade."
+  },
+  {
+   "speaker": "B",
+   "text": "Two: oil and bond yields have stopped moving together, with the ten-year yield still above five percent, and gold dropped about three percent."
+  },
+  {
+   "speaker": "A",
+   "text": "Three: the US approved big AI chip sales to Chinese companies, and that is stirring up calls for tougher export rules."
+  },
+  {
+   "speaker": "B",
+   "text": "What to watch next: whether tech stocks stabilize, how Nvidia picks its next chief executive, and any reaction from Congress on those chip approvals. Also whether Putin's Moscow invitation gets any takers."
+  },
+  {
+   "speaker": "A",
+   "text": "That's the Nightly Brief podcast. Thanks for listening."
+  },
+  {
+   "speaker": "B",
+   "text": "I'm Theo."
+  },
+  {
+   "speaker": "A",
+   "text": "And I'm Maya. See you next time."
+  }
+ ]
+}
