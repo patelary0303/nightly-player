@@ -1,0 +1,421 @@
+{
+ "id": "2026-11-21",
+ "title": "Nightly Brief - Sat, Nov 21",
+ "date": "Sat, Nov 21",
+ "hosts": {
+  "A": "Maya",
+  "B": "Theo"
+ },
+ "chapters": [
+  {
+   "title": "Cold open",
+   "i": 0
+  },
+  {
+   "title": "Macro & Rates",
+   "i": 8
+  },
+  {
+   "title": "Deals & Capital Markets",
+   "i": 27
+  },
+  {
+   "title": "Companies",
+   "i": 35
+  },
+  {
+   "title": "Industry Trends",
+   "i": 58
+  },
+  {
+   "title": "Markets",
+   "i": 76
+  },
+  {
+   "title": "Wrap-up",
+   "i": 87
+  }
+ ],
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Quick question. When was the last time the whole stock market lost almost four percent in a single day?"
+  },
+  {
+   "speaker": "B",
+   "text": "Honestly, I'd have to think about it. That's the kind of day you remember."
+  },
+  {
+   "speaker": "A",
+   "text": "Well, you're about to remember this one. Friday, the S and P five hundred fell three point seven percent, and the tech-heavy Nasdaq dropped more than five percent."
+  },
+  {
+   "speaker": "B",
+   "text": "And the wild part is that it happened right after the biggest initial public offering ever. Talk about bad timing."
+  },
+  {
+   "speaker": "A",
+   "text": "Welcome to Nightly Brief, the show that takes the business news from your inbox and makes it make sense. I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. It's Saturday, November twenty-first, and tonight's episode is built from one newsletter, Morning Brew's Saturday edition, which covers Friday's market action."
+  },
+  {
+   "speaker": "A",
+   "text": "Here's what's on tonight's show. First, the big picture on interest rates and bonds. Then a quick look at deals, with one very famous lagoon. Then the companies, and there are some big names in the penalty box. After that, a tech industry segment, a walk through the markets scoreboard, and a wrap-up."
+  },
+  {
+   "speaker": "B",
+   "text": "Grab a snack. Let's go."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's start with the thing under everything else, which is interest rates. The ten-year Treasury yield ended Friday at four point nine one two percent. That's down fourteen basis points on the day."
+  },
+  {
+   "speaker": "B",
+   "text": "Okay, two terms to unpack. A Treasury is a bond, basically an I O U from the US government. You lend the government money, and it pays you interest. The yield is the return you get for holding that bond."
+  },
+  {
+   "speaker": "A",
+   "text": "And a basis point?"
+  },
+  {
+   "speaker": "B",
+   "text": "A basis point is one hundredth of a percentage point. So fourteen basis points is zero point one four of a percentage point. Finance people use the term so nobody gets confused between a rate moving by half a percent and half of a percentage point."
+  },
+  {
+   "speaker": "A",
+   "text": "Got it. Now, here's the thing about yields. When a bond's price goes up, its yield goes down. They move in opposite directions, like a seesaw."
+  },
+  {
+   "speaker": "B",
+   "text": "Right. So a fall in yield means investors were buying bonds, pushing the price up. The newsletter says that as money left tech stocks, it flowed into safer stuff, including government bonds."
+  },
+  {
+   "speaker": "A",
+   "text": "That's classic flight to safety. When stocks look scary, people park money somewhere boring and dependable. Boring is a compliment in a market crash."
+  },
+  {
+   "speaker": "B",
+   "text": "And why should a regular person care about the ten-year yield? Because it's a benchmark. Mortgage rates, car loans and business borrowing costs tend to follow it. When it falls, borrowing gets a little cheaper, all else equal."
+  },
+  {
+   "speaker": "A",
+   "text": "Now, rates also show up as a worry in tonight's tech story. The newsletter says investors fear that higher interest rates could temper borrowing by the big companies building artificial intelligence infrastructure."
+  },
+  {
+   "speaker": "B",
+   "text": "Think about it like a house. If you're taking out a giant mortgage, the rate matters a lot. These companies are borrowing and spending at a giant scale to build data centers, so a higher rate makes that bill bigger."
+  },
+  {
+   "speaker": "A",
+   "text": "To give you context, the day before, the ten-year yield was at five point zero five two percent. So Friday's drop took it back under five percent."
+  },
+  {
+   "speaker": "B",
+   "text": "Which is a nice round number to watch. Five percent on the ten-year is the kind of line commentators love to circle."
+  },
+  {
+   "speaker": "A",
+   "text": "On the economic calendar, we don't have a hard data release in tonight's newsletter. What the newsletter does flag is Monday, when options on Anthropic shares start trading."
+  },
+  {
+   "speaker": "B",
+   "text": "We'll explain options when we get to that story. Hold that thought."
+  },
+  {
+   "speaker": "A",
+   "text": "Let me add a quick plain-English picture. Imagine the stock market as a crowded party and the bond market as the quiet kitchen where people go to catch their breath."
+  },
+  {
+   "speaker": "B",
+   "text": "Friday, a lot of guests left the loud room. Some of them wandered into the kitchen, and that crowding is what pushed bond prices up and yields down."
+  },
+  {
+   "speaker": "A",
+   "text": "And the Nasdaq, for anyone new, is a stock index heavy with technology companies. An index is just a scoreboard that tracks a basket of stocks, so you can see how a whole group is doing at once."
+  },
+  {
+   "speaker": "B",
+   "text": "Which is why a tech-led day hits the Nasdaq hardest. When the big tech names fall, the scoreboard falls with them, and that's exactly what the Friday numbers show."
+  },
+  {
+   "speaker": "A",
+   "text": "For a regular person with a retirement account, the practical takeaway is that a day like this shows up in a statement, but the newsletter itself offers no prediction. It reports the facts, and the facts say fear is high."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for deals. And I promised you a lagoon. Iceland's Blue Lagoon, the famous geothermal spa that fills everyone's travel photos, went public on Friday."
+  },
+  {
+   "speaker": "B",
+   "text": "Went public means it did an initial public offering, or I P O. That's when a private company sells shares to the public for the first time and lists on a stock exchange. Before an I P O, you can't just buy a piece of it. After, anyone with a brokerage account can."
+  },
+  {
+   "speaker": "A",
+   "text": "The Blue Lagoon trades on the Nasdaq Iceland exchange under the ticker B L U E. The offering raised about one hundred fifteen million dollars and valued the company at nearly one billion dollars."
+  },
+  {
+   "speaker": "B",
+   "text": "Valued means the share price times all the shares. So the market is saying the whole business, which also runs hotels and a restaurant, is worth close to a billion."
+  },
+  {
+   "speaker": "A",
+   "text": "Fun fact the newsletter drops. Tourism accounted for nine percent of Iceland's economy last year, according to Statistics Iceland."
+  },
+  {
+   "speaker": "B",
+   "text": "Nine percent! So this is not a tiny niche. Though the newsletter also notes some people wonder how much room an already popular destination has left to grow."
+  },
+  {
+   "speaker": "A",
+   "text": "It's a funny contrast, because Blue Lagoon's debut came on the same day as the largest I P O story in the news, which is Anthropic. That one needs its own segment."
+  },
+  {
+   "speaker": "B",
+   "text": "It does. Let's go to Companies."
+  },
+  {
+   "speaker": "A",
+   "text": "Anthropic, the company behind the Claude chatbot, held a record two trillion dollar I P O. Let me say that again. Two trillion dollars."
+  },
+  {
+   "speaker": "B",
+   "text": "Wait, really? That's bigger than the economies of most countries."
+  },
+  {
+   "speaker": "A",
+   "text": "It's huge. And yet, the newsletter says the I P O couldn't reverse the unraveling of the so-called A I trade. On Friday Anthropic's shares fell eight point five percent, and at one point they nearly hit the I P O price of eighty-three dollars."
+  },
+  {
+   "speaker": "B",
+   "text": "That's an important idea. An I P O price is the price the first big buyers paid. If the shares drop back toward that level, it means the early excitement is nearly gone."
+  },
+  {
+   "speaker": "A",
+   "text": "The newsletter compares it to taking your high school sweetheart to a theme park restaurant and thinking it'll save the relationship. It didn't."
+  },
+  {
+   "speaker": "B",
+   "text": "Rude, but fair."
+  },
+  {
+   "speaker": "A",
+   "text": "Now, the bigger name in the rout is Nvidia, the chip maker. Its shares fell about fourteen percent on Friday, to one hundred twenty-five dollars and fifty-three cents."
+  },
+  {
+   "speaker": "B",
+   "text": "And that's not a one-day story. Nvidia just posted its seventh weekly loss in a row, its longest losing streak since the two thousand eight financial crisis."
+  },
+  {
+   "speaker": "A",
+   "text": "Why did it fall so hard on Friday? The newsletter says federal regulators announced they were probing Nvidia's accounting practices."
+  },
+  {
+   "speaker": "B",
+   "text": "An accounting probe means regulators are looking at how a company reports its financial numbers. Investors hate uncertainty, so even the start of a probe can hit the stock, before anyone knows if anything is wrong."
+  },
+  {
+   "speaker": "A",
+   "text": "And that's layered on top of two other things. Jensen Huang resigned from Nvidia in the wake of a scandal, and that was followed by tighter US chip export controls."
+  },
+  {
+   "speaker": "B",
+   "text": "Export controls are rules about which products can be sold abroad. When they tighten, a chip company may lose customers in some countries."
+  },
+  {
+   "speaker": "A",
+   "text": "Other chipmakers got hit too. AMD sank thirteen percent, Intel eight percent, and Broadcom twelve percent."
+  },
+  {
+   "speaker": "B",
+   "text": "So it wasn't one company's problem. It was the whole group."
+  },
+  {
+   "speaker": "A",
+   "text": "And it spread beyond chips. Companies that spend piles of cash on data centers, like Alphabet, Meta and Amazon, also fell."
+  },
+  {
+   "speaker": "B",
+   "text": "Those are the customers who buy the chips, so if investors worry they're spending too much, the whole chain gets nervous."
+  },
+  {
+   "speaker": "A",
+   "text": "Okay, now a wildcard. An Anthropic mathematician, Levent Alpöge, claims he found a proof of the Riemann hypothesis while working with Claude."
+  },
+  {
+   "speaker": "B",
+   "text": "The Riemann hypothesis is a famous math puzzle about how prime numbers are spread out. Prime numbers are those like two, three, five and seven, which can only be divided evenly by one and themselves."
+  },
+  {
+   "speaker": "A",
+   "text": "It was first posed in eighteen fifty-nine, and it's one of the Millennium Prize Problems, a set of the hardest open questions in math."
+  },
+  {
+   "speaker": "B",
+   "text": "Important caveat from the newsletter. It's a claim, and it only matters if the proof checks out. Mathematicians will have to verify it, and that takes time."
+  },
+  {
+   "speaker": "A",
+   "text": "But if it holds up, it'd be a major moment for A I in math."
+  },
+  {
+   "speaker": "B",
+   "text": "And one lighter note from the entertainment side. The newsletter says Puck News reports that Disney has a new Home Alone movie in development, with Macaulay Culkin agreeing to play Kevin McCallister again."
+  },
+  {
+   "speaker": "A",
+   "text": "A tiny bit of holiday joy in a very red day."
+  },
+  {
+   "speaker": "A",
+   "text": "On to industry trends, and tonight it's mostly one industry. Technology and A I."
+  },
+  {
+   "speaker": "B",
+   "text": "First, the policy angle. President Trump said that the federal government would impose what he called a tremendous tax on US companies that build data centers in other countries."
+  },
+  {
+   "speaker": "A",
+   "text": "A data center is a giant warehouse of computers that powers things like cloud services and A I. Companies like Microsoft, Alphabet and Amazon already have growing data center operations around the world."
+  },
+  {
+   "speaker": "B",
+   "text": "The newsletter says CNBC reported that the idea surprised the president's own staff when he brought it up at a press conference. The stated goal is to keep data centers in the US to help stay ahead of China on A I."
+  },
+  {
+   "speaker": "A",
+   "text": "There's also a domestic angle. Backlash to data centers has grown among the American public, and the newsletter says it helped some Democrats win in the midterm elections."
+  },
+  {
+   "speaker": "B",
+   "text": "And that ties into investor fears. Analysts anticipate that newly elected Democrats, when they take office in January, may push regulation that would slow the data center buildout."
+  },
+  {
+   "speaker": "A",
+   "text": "So we have three fears stacked up. Costly infrastructure spending, higher rates, and possible regulation."
+  },
+  {
+   "speaker": "B",
+   "text": "Now, is there any good news? The newsletter offers two reads. First, institutional investors, meaning big funds, have been selling A I stocks in recent weeks. Analysts say that's consistent with the usual habit of taking profits before the end of the year."
+  },
+  {
+   "speaker": "A",
+   "text": "Locking in gains, basically. If your portfolio is up a lot, you sell some to bank it before the calendar flips."
+  },
+  {
+   "speaker": "B",
+   "text": "Second, a valuation point. Using data from a firm called FactSet, the price-to-expected-earnings ratio of tech companies is the lowest since twenty twenty."
+  },
+  {
+   "speaker": "A",
+   "text": "Explain that one, Theo."
+  },
+  {
+   "speaker": "B",
+   "text": "A price-to-earnings ratio compares a stock's price with the profit per share a company is expected to earn. A lower number means you're paying less for each dollar of profit. So some analysts say tech is looking cheaper, since projected profits are still strong."
+  },
+  {
+   "speaker": "A",
+   "text": "Cheaper doesn't mean it can't get cheaper still, though."
+  },
+  {
+   "speaker": "B",
+   "text": "Exactly. And the rotation tells you where money went instead. The consumer staples sector, think groceries and household goods, rose zero point six eight percent on Friday."
+  },
+  {
+   "speaker": "A",
+   "text": "Boring wins again."
+  },
+  {
+   "speaker": "B",
+   "text": "And this brings us back to Monday, when options on Anthropic shares start trading. An option is a contract that gives you the right, but not the obligation, to buy or sell a stock at a set price by a set date."
+  },
+  {
+   "speaker": "A",
+   "text": "The newsletter says that will give a clearer sense of how much appetite retail investors have for the shares."
+  },
+  {
+   "speaker": "B",
+   "text": "Retail investors are everyday people like you and me, as opposed to big institutions. So Monday is a real test."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's do the scoreboard. These are Friday's closing numbers from Morning Brew, with Bitcoin as of five thirty p m Eastern."
+  },
+  {
+   "speaker": "B",
+   "text": "The S and P five hundred closed at six thousand nine hundred ten, down three point seven percent. The Dow Jones Industrial Average finished at forty-eight thousand one hundred forty-seven, down one point nine percent."
+  },
+  {
+   "speaker": "A",
+   "text": "And the Nasdaq closed at twenty-two thousand six hundred eighteen, down five point three percent."
+  },
+  {
+   "speaker": "B",
+   "text": "The newsletter's own text says the Nasdaq dropped five point six percent, while its data table says five point three. We're going with the table, and we're flagging the difference."
+  },
+  {
+   "speaker": "A",
+   "text": "There's another mismatch. The newsletter says the market looked like a correction, and also says the S and P entered bear market territory."
+  },
+  {
+   "speaker": "B",
+   "text": "Those are different things. A correction is usually a drop of ten percent or more from a recent high. A bear market is twenty percent or more. We can't confirm which one it is from this newsletter, so treat that as unresolved."
+  },
+  {
+   "speaker": "A",
+   "text": "Next, the ten-year Treasury yield, four point nine one two percent, down fourteen basis points, as we discussed."
+  },
+  {
+   "speaker": "B",
+   "text": "And Bitcoin sat at about fifty-eight thousand nine hundred twenty-three dollars, down five point one percent. Nvidia, as we said, closed at one hundred twenty-five dollars fifty-three cents."
+  },
+  {
+   "speaker": "A",
+   "text": "What about oil and gold, which are on our usual scoreboard?"
+  },
+  {
+   "speaker": "B",
+   "text": "Tonight's newsletter doesn't list levels for those, so we're leaving them out rather than guessing. Same for the comparison against six months and a year ago. Our data sources weren't reachable tonight, so those are marked not available in the email."
+  },
+  {
+   "speaker": "A",
+   "text": "Honest answers beat made-up numbers."
+  },
+  {
+   "speaker": "A",
+   "text": "Okay, three-point recap. Theo, take it away."
+  },
+  {
+   "speaker": "B",
+   "text": "One. Tech got crushed on Friday. Nvidia, the other chipmakers and the big spenders on data centers all fell, and the Nasdaq gave back all its gains for the year."
+  },
+  {
+   "speaker": "A",
+   "text": "Two. Money moved to safety. The ten-year yield dropped fourteen basis points to four point nine one two percent, and consumer staples rose."
+  },
+  {
+   "speaker": "B",
+   "text": "Three. Even a record Anthropic I P O couldn't stop the slide. Fears about spending, rates and regulation are all in the mix, though some analysts say valuations now look lower."
+  },
+  {
+   "speaker": "A",
+   "text": "What to watch next? Monday, when options on Anthropic start trading, and whether the selling in chip stocks continues."
+  },
+  {
+   "speaker": "B",
+   "text": "And keep an eye on the Nvidia accounting probe, since any new details could move the whole sector."
+  },
+  {
+   "speaker": "A",
+   "text": "That's Nightly Brief for Saturday. I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. This is news, not investment advice. Have a great weekend, and we'll see you tomorrow."
+  }
+ ]
+}
