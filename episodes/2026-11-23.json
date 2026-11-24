@@ -1,0 +1,437 @@
+{
+ "id": "2026-11-23",
+ "title": "Nightly Brief - Mon, Nov 23",
+ "date": "Mon, Nov 23",
+ "hosts": {
+  "A": "Maya",
+  "B": "Theo"
+ },
+ "chapters": [
+  {
+   "title": "Cold open",
+   "i": 0
+  },
+  {
+   "title": "Macro & Rates",
+   "i": 9
+  },
+  {
+   "title": "Energy, Commodities & Geopolitics",
+   "i": 31
+  },
+  {
+   "title": "Deals & Capital Markets",
+   "i": 46
+  },
+  {
+   "title": "Companies",
+   "i": 66
+  },
+  {
+   "title": "Industry Trends",
+   "i": 79
+  },
+  {
+   "title": "Markets",
+   "i": 86
+  },
+  {
+   "title": "Wrap-up",
+   "i": 90
+  }
+ ],
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Quick question. If a stock market lost about five percent in a single day on Friday, and then one man's job announcement added nearly a trillion dollars on Monday, would you call that a market, or a soap opera?"
+  },
+  {
+   "speaker": "B",
+   "text": "Honestly? Soap opera. With better graphics."
+  },
+  {
+   "speaker": "A",
+   "text": "Welcome to Nightly Brief, the show that takes the business news out of your inbox and makes it make sense. I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. It's Monday, November twenty-third, and tonight's show is built from five newsletters: Axios Pro Rata, the Financial Times FirstFT, Morning Brew, The Economist Today, and The Wall Street Journal's What's News."
+  },
+  {
+   "speaker": "A",
+   "text": "Here's what's on tonight's show. First, the big tech rebound and what it means for rates, mortgages, and the week's economic calendar."
+  },
+  {
+   "speaker": "B",
+   "text": "Then energy, commodities and geopolitics, including a very noisy climate summit, a sunk Russian ship, and a metal that might be warning us about the economy."
+  },
+  {
+   "speaker": "A",
+   "text": "After that, deals, because there is a forty-four billion dollar cybersecurity merger plus a whole parade of other acquisitions."
+  },
+  {
+   "speaker": "B",
+   "text": "Then companies, with the Nvidia story that everybody is talking about, followed by industry trends, the markets scoreboard, and our wrap-up."
+  },
+  {
+   "speaker": "A",
+   "text": "Grab a snack. Let's go."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's start with the headline. After a brutal week, American stocks were set to bounce back on Monday. The Financial Times reported that futures, which are bets on where the market will open, pointed to a three point one percent jump for the Nasdaq one hundred and a two point four percent rise for the S and P five hundred."
+  },
+  {
+   "speaker": "B",
+   "text": "Okay, quick definitions. The S and P five hundred is a scoreboard for five hundred of the biggest American companies. The Nasdaq one hundred is a scoreboard for the biggest tech-heavy names. And futures are contracts that let traders place bets on the market before it officially opens."
+  },
+  {
+   "speaker": "A",
+   "text": "And remember where we were. Friday was a rout. The Nasdaq one hundred sank into what's called a bear market, which just means it fell more than twenty percent from its high, and it had its worst week since twenty twenty."
+  },
+  {
+   "speaker": "B",
+   "text": "Wait, really? Worst week in about six years?"
+  },
+  {
+   "speaker": "A",
+   "text": "That's what the FT says. The cause was fear that the artificial intelligence investment boom is slowing down. A Barclays strategist quoted in the piece said the A I trade has hit a wall, but he also thinks the selloff went too far, so stocks could bounce."
+  },
+  {
+   "speaker": "B",
+   "text": "And bounce they did. The Wall Street Journal says the Nasdaq composite roared back and added more than two trillion dollars in market value. That is two trillion with a T."
+  },
+  {
+   "speaker": "A",
+   "text": "Overseas was more mixed. The Stoxx Europe six hundred rose zero point eight percent, and the chip equipment maker ASML jumped four point five percent. In Asia, South Korea's Kospi fell three point three percent, Hong Kong's Hang Seng slipped a tenth of a percent, and mainland China's index edged up."
+  },
+  {
+   "speaker": "B",
+   "text": "And regulators in China, Taiwan and South Korea have rolled out measures to support their flagging stock markets, because those markets are heavily exposed to the A I trade."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's talk about rates, because that is the part that touches regular wallets. The ten-year Treasury yield, which is the interest rate the government pays to borrow money for ten years, was about four point nine six four percent in the FT's Monday morning snapshot, up about five basis points."
+  },
+  {
+   "speaker": "B",
+   "text": "A basis point is one hundredth of a percentage point. So five basis points is a tiny nudge, but when it's the benchmark for mortgages, tiny nudges add up."
+  },
+  {
+   "speaker": "A",
+   "text": "And that leads to the FT's chart of the day. President Trump promised to bring mortgage rates down to three percent. Instead, the rise in Treasury yields after the war in Iran has pushed the thirty-year mortgage rate above seven percent."
+  },
+  {
+   "speaker": "B",
+   "text": "So for a family buying a first home, that's the difference between a dream and a spreadsheet that makes you cry."
+  },
+  {
+   "speaker": "A",
+   "text": "Now, the calendar. Today, S and P Global releases its flash manufacturing, services and composite indexes. Those are early surveys of business activity, a quick mood check on the economy."
+  },
+  {
+   "speaker": "B",
+   "text": "Then Wednesday is a big day. The personal consumption expenditures price index comes out. That's the Federal Reserve's favorite way to measure inflation, which is how fast prices are rising. It lands two weeks before the Fed's final policy meeting of the year."
+  },
+  {
+   "speaker": "A",
+   "text": "And the second estimate of third quarter G D P growth also arrives Wednesday. G D P is the total value of everything the economy produces."
+  },
+  {
+   "speaker": "B",
+   "text": "Also on Wednesday, tractor maker Deere reports earnings. Earnings are a company's profit report card."
+  },
+  {
+   "speaker": "A",
+   "text": "Tomorrow, Dell Technologies, Medtronic, Workday, Dollar Tree and Best Buy report. Today it's Hewlett Packard Enterprise, and Zoom, after a week where Zoom's stock fell eighteen percent."
+  },
+  {
+   "speaker": "B",
+   "text": "And fun fact for Thanksgiving week, the stock market is closed Thursday, and closes early at one p m on Black Friday."
+  },
+  {
+   "speaker": "A",
+   "text": "Morning Brew also says the American Farm Bureau expects Thanksgiving dinner to cost six percent more than last year."
+  },
+  {
+   "speaker": "B",
+   "text": "So the turkey is beating inflation. Great."
+  },
+  {
+   "speaker": "A",
+   "text": "One more consumer note. The FT interviewed Mastercard's chief executive, Michael Miebach, who talks about early signs that households are using credit cards to pay for essentials."
+  },
+  {
+   "speaker": "B",
+   "text": "That matters because it can be a sign that budgets are stretched. Cards are convenient, but if you carry a balance, higher interest rates make that more expensive."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's move on to energy, commodities and geopolitics."
+  },
+  {
+   "speaker": "B",
+   "text": "Starting with oil. In the FT's Monday morning snapshot, Brent crude, the global oil benchmark, was down one point eight five percent at about ninety dollars and eighty-six cents a barrel."
+  },
+  {
+   "speaker": "A",
+   "text": "And the Gulf is a recurring character in tonight's newsletters. The FT has a piece saying life in the Gulf is regaining its energy after the war, but many worry the conflict between the United States and Iran did lasting damage to the region's image."
+  },
+  {
+   "speaker": "B",
+   "text": "And The Economist has a piece with the headline, the unlikely winner from war in the Gulf. It says one Middle Eastern country, which claims to be neutral and enjoys a bit of geographical luck, is having a fragile economic boom. The newsletter doesn't name it in the text we have, so we'll leave it at that."
+  },
+  {
+   "speaker": "A",
+   "text": "Now for the metal story. Morning Brew says copper, the stuff in wiring and homes and data centers, is in disarray. It cost about five dollars and forty-eight cents a pound on Friday, down from six eighty-nine in September."
+  },
+  {
+   "speaker": "B",
+   "text": "Why does that matter? Copper is used when people build, buy and invest, so it's often seen as an early signal of the economy. Analysts quoted say a weak copper market could signal weak jobs and manufacturing."
+  },
+  {
+   "speaker": "A",
+   "text": "There's also a chart pattern called a death cross, which is when a short-term average price falls below a long-term average. It sounds scary, and it's only a warning sign, not a guarantee. The Bloomberg Industrials Metal Index, which is forty percent copper, is flashing one."
+  },
+  {
+   "speaker": "B",
+   "text": "And copper has been propped up for two years by companies stockpiling in the United States, because Trump kept threatening a tariff, which is a tax on imports. With the election results and pressure on Commerce Secretary Howard Lutnick, people are betting that tariff won't happen, so prices slipped."
+  },
+  {
+   "speaker": "A",
+   "text": "Gold is a little tangled. Morning Brew says gold is down as the A I selloff forces investors to sell assets like gold to cover losses. But the FT's morning snapshot showed Comex gold up three percent at about thirty-six hundred nineteen dollars. So we're flagging that the sources don't agree on direction."
+  },
+  {
+   "speaker": "B",
+   "text": "Next, the climate summit. The United Nations climate talks, called COP thirty-one, ended in Antalya, Turkey with no agreement. The European Union and some small island nations rejected the proposed pact because it left out any mention of fossil fuels, after pushback from Saudi Arabia, Russia and India."
+  },
+  {
+   "speaker": "A",
+   "text": "Morning Brew says the last time these talks failed was in the year two thousand. The Economist called it a messy breakdown, and the FT says the rift raises questions about the summit's consensus rule, meaning everyone has to agree."
+  },
+  {
+   "speaker": "B",
+   "text": "Now to the war in Ukraine. Ukraine's security services sank a Russian ship docked off the coast of Libya, and President Zelenskyy called the operation exemplary. The Wall Street Journal has a story going inside the attack."
+  },
+  {
+   "speaker": "A",
+   "text": "The FT adds a suspected Ukrainian drone strike on a Russian cargo ship off the coast of Finland on Saturday. The point is that the war's fallout is rippling across Europe and beyond."
+  },
+  {
+   "speaker": "B",
+   "text": "Two more quick ones. Spain votes this weekend, and the Economist says the country is short about seven hundred fifty thousand homes, according to the Bank of Spain, so the election is partly a referendum on Prime Minister Pedro Sanchez and housing."
+  },
+  {
+   "speaker": "A",
+   "text": "And the Journal says Cuba's economic troubles are being made worse by a mass exodus, with the population shrinking at an alarming rate, on top of U S sanctions and a fuel embargo."
+  },
+  {
+   "speaker": "A",
+   "text": "Now, deals. This is where Axios Pro Rata shines. And the big one is called the B F D, the big financial deal."
+  },
+  {
+   "speaker": "B",
+   "text": "CrowdStrike agreed to buy Zscaler for about forty-three point nine billion dollars in stock. Both are cybersecurity companies."
+  },
+  {
+   "speaker": "A",
+   "text": "Zscaler shareholders will get an implied two hundred sixty dollars and forty-one cents a share, a thirty-four percent premium to Friday's close. A premium is the extra a buyer pays over the current stock price to persuade owners to sell."
+  },
+  {
+   "speaker": "B",
+   "text": "Why now? Axios says cyber consolidation is accelerating because companies are trying to defend against A I-enabled threats and security holes found by A I. The Journal calls it one of the bigger deals in a blockbuster year for mergers and acquisitions."
+  },
+  {
+   "speaker": "A",
+   "text": "And Bloomberg notes it pitches CrowdStrike into more direct competition with Palo Alto Networks and Microsoft, and shows the shift toward fewer companies guarding more of the world's networks."
+  },
+  {
+   "speaker": "B",
+   "text": "Next, a pile of other acquisitions. AMD is buying Taalas, a Toronto A I chip startup, for two point nine billion dollars. ABB, the Swiss industrial group, agreed to buy Germany's Ziehl-Abegg for two point six five billion dollars. That company makes fans and electric motors."
+  },
+  {
+   "speaker": "A",
+   "text": "ConocoPhillips agreed to sell its Norwegian oil and gas business, plus a stake in a U.K. oil terminal, to Var Energi for three point nine billion dollars. MasTec is buying Murphy Corp, a St. Louis mechanical contractor, for one point two five billion dollars in cash."
+  },
+  {
+   "speaker": "B",
+   "text": "Texas Pacific Land is buying EagleRock Land, which is focused on the Permian Basin, for about three billion dollars in stock. Tata Steel is selling its tubes business and its Colors unit to APL Apollo Tubes for up to three point oh two billion dollars in cash."
+  },
+  {
+   "speaker": "A",
+   "text": "IQVIA agreed to acquire British drug manufacturing services firm Quotient Sciences from the private equity firm Permira for about one point one billion dollars. And BASF is selling its battery recycling business to Germany's Cylib."
+  },
+  {
+   "speaker": "B",
+   "text": "Private equity, by the way, means investment firms that buy companies with a mix of investor money and borrowed money, then try to improve and resell them. Let's do that segment."
+  },
+  {
+   "speaker": "A",
+   "text": "Brookfield Asset Management is buying Indian glass packaging maker PGP Glass from Blackstone for one point seven billion dollars. The buyout firm CD and R and the Swiss chemicals company Clariant are in talks to buy Ashland, a U.S. chemicals maker with a three point three billion dollar market value."
+  },
+  {
+   "speaker": "B",
+   "text": "CVC Capital Partners is in advanced talks to buy a forty-seven point five percent stake in the Central and Eastern Europe operations of Entain, the owner of Ladbrokes, for between one point five and one point seven five billion pounds."
+  },
+  {
+   "speaker": "A",
+   "text": "And a few smaller ones. Grit Infrastructure bought Reinhard Boring Technologies. HSG is in advanced talks to buy a controlling stake in a Chinese maker of chip-grade isopropyl alcohol, at about a six hundred million dollar enterprise value, meaning the company's total value including debt. Nationwide Medical bought YD Home Medical. And OrbeNovo and Stellex agreed to buy Score Group, a Scottish engineering services firm."
+  },
+  {
+   "speaker": "B",
+   "text": "Partners Group is buying New Zealand's StraitNZ ferry operator from Morgan Stanley Infrastructure Partners. Riverside invested in Stellar Service Brands. Rock Gate Partners bought Blast Deflectors, which makes jet blast deflectors for airports. And Verlinvest is raising its stake in oat drink maker Oatly to forty-two point six percent."
+  },
+  {
+   "speaker": "A",
+   "text": "One more big buyout story. Global Payments shares spiked nearly ten percent Friday after private equity firm GTCR confirmed it's working on a take-private bid. Take-private means buying all of a public company's shares and delisting it."
+  },
+  {
+   "speaker": "B",
+   "text": "GTCR already owns about sixteen percent of Global Payments, and the deal could be valued around fifty billion dollars, though GTCR would need partners."
+  },
+  {
+   "speaker": "A",
+   "text": "Over in venture capital, which is money for young fast-growing companies, Sierra, which builds A I agents for customer service, raised one point seven five billion dollars at a thirty billion dollar valuation. Databricks is in early talks to raise billions at around a two hundred twenty-five billion dollar valuation, according to the Journal."
+  },
+  {
+   "speaker": "B",
+   "text": "Smaller rounds: Bloom raised seventy-five million, Agon raised seventy million, AidenAI raised thirty-two million, and Coprod raised six million. Yellow Wood Partners is raising up to nine hundred fifty million for its fourth fund. No companies plan to go public this week in the U.S."
+  },
+  {
+   "speaker": "A",
+   "text": "And a couple of exits. Wonder, the food company planning to go public in early twenty twenty-seven, is weighing a sale of Grubhub. Amazon is reportedly in talks to buy A I startup Decart for seven point five billion dollars, according to the FT. And London-listed Compass, the catering giant, is expected to announce as soon as Tuesday that it will move its main listing to New York."
+  },
+  {
+   "speaker": "B",
+   "text": "That's another blow to the London stock market, and a sign of where companies think the money is."
+  },
+  {
+   "speaker": "A",
+   "text": "Now to companies. And the story of the day is Nvidia."
+  },
+  {
+   "speaker": "B",
+   "text": "Nvidia reinstated Jensen Huang as chief executive, effective immediately. He had been out for eleven days after allegations tied to a suspected Chinese spy."
+  },
+  {
+   "speaker": "A",
+   "text": "The Wall Street Journal says President Trump asked Vice President J D Vance to persuade the board. Vance worked on it over the weekend and told the board the government did not view Huang as a national security risk. Axios says the board's statement said it received input from senior levels of the government."
+  },
+  {
+   "speaker": "B",
+   "text": "And the market reaction was historic. The Journal says Nvidia added nearly a trillion dollars in market value, the most by any company in one day. Axios put the gain at around nine hundred billion dollars, with shares up around thirty percent."
+  },
+  {
+   "speaker": "A",
+   "text": "Wait, really? A trillion dollars. That's bigger than the entire value of most companies on Earth."
+  },
+  {
+   "speaker": "B",
+   "text": "But there are caveats. The Economist's headline is that Nvidia will never be the same, and says Huang faces a hostile Congress, rattled employees and wary business partners. Lawmakers from both parties sharply criticized the reinstatement."
+  },
+  {
+   "speaker": "A",
+   "text": "Axios points out that the company's independent investigation is still ongoing, which could box Nvidia in if the findings are disqualifying. Huang is expected to appear before House committees next week for a closed-door interview, and later at a public Senate Banking Committee hearing."
+  },
+  {
+   "speaker": "B",
+   "text": "Axios also says this might be a short-term sugar high. Spending by the biggest cloud companies on data centers appears to be flattening, and A I profits are still elusive for most companies besides the ones selling equipment."
+  },
+  {
+   "speaker": "A",
+   "text": "And the FT's Rana Foroohar asks what happens if the Jenga tower of Nvidia's vendor financing collapses. Vendor financing is when a supplier helps its customers pay for its own products, which can make demand look bigger than it is."
+  },
+  {
+   "speaker": "B",
+   "text": "One more Washington twist. Axios says Commerce Secretary Howard Lutnick appears to have bested Treasury Secretary Scott Bessent in the White House power struggle."
+  },
+  {
+   "speaker": "A",
+   "text": "A few more companies. BYD's Hong Kong shares fell as much as four percent after a Dutch court barred it from selling a seven-seat S U V in Europe, saying it copied the design of Jaguar Land Rover's Defender. BYD disagrees and will appeal."
+  },
+  {
+   "speaker": "B",
+   "text": "Delta Air Lines had about half its flights delayed Sunday because of a failure in its weight and balance system, which calculates whether passengers and bags are evenly distributed. Delta used manual workarounds and says it was fixed by evening."
+  },
+  {
+   "speaker": "A",
+   "text": "And Bayer got a judge's approval for a seven point two five billion dollar settlement of its Roundup weedkiller lawsuits, but around the same time a National Institutes of Health study linked the main ingredient, glyphosate, to cancer. Bayer says the findings are preliminary."
+  },
+  {
+   "speaker": "B",
+   "text": "On to industry trends, starting with tech and A I."
+  },
+  {
+   "speaker": "A",
+   "text": "The big theme is that the A I trade hit a wall, then bounced. The Economist asks whether investors' relief over Huang's return will last."
+  },
+  {
+   "speaker": "B",
+   "text": "Meanwhile the FT's Ian Harnett writes that enthusiasm turned into worry about a fall. And the FT's Nobel laureate Daron Acemoglu argues progressives should build institutions and norms to encourage pro-worker A I."
+  },
+  {
+   "speaker": "A",
+   "text": "In autos, the FT says China is winning the car war. The pace of the electric vehicle shift in China has crushed sales of Western brands with petrol-heavy lineups, and now Chinese carmakers are making advances in Europe."
+  },
+  {
+   "speaker": "B",
+   "text": "In financials, the New York Stock Exchange plans to use the Avalanche blockchain to settle tokenized stock trades on a new platform for round-the-clock trading. Tokenized means the shares are represented as digital tokens. The launch is targeted for the fourth quarter, pending regulatory approval."
+  },
+  {
+   "speaker": "A",
+   "text": "In real estate, the big story is mortgage rates above seven percent and Spain's housing shortage, which we covered. In healthcare, IQVIA and Bayer. In industrials, ABB, MasTec and the Ukrainian war's ripple effects."
+  },
+  {
+   "speaker": "B",
+   "text": "And in energy, ConocoPhillips selling Norway, Texas Pacific Land buying in the Permian, and the failed climate talks."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for the markets scoreboard. Here is the honest part. Our newsletters don't have Monday's closing numbers, so we're reporting what they do have."
+  },
+  {
+   "speaker": "B",
+   "text": "The S and P five hundred was at six thousand nine hundred ten, after falling three point seven percent on Friday. The Nasdaq composite closed Friday at twenty-two thousand six hundred seventeen, and the Dow at forty-eight thousand one hundred forty-seven."
+  },
+  {
+   "speaker": "A",
+   "text": "The ten-year Treasury yield was four point nine six four percent Monday morning, up about five basis points. Brent oil was ninety dollars and eighty-six cents, down one point eight five percent. Gold was thirty-six hundred nineteen dollars, up three percent, according to the FT. And Bitcoin was about sixty-one thousand dollars as of midnight."
+  },
+  {
+   "speaker": "B",
+   "text": "And we don't have trustworthy numbers for six months or one year ago tonight, so we're leaving those blank rather than guessing."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for our three-point recap. Theo, number one?"
+  },
+  {
+   "speaker": "B",
+   "text": "One. Jensen Huang is back at Nvidia, the stock added close to a trillion dollars, and tech snapped back after Friday's rout, though Washington scrutiny and an ongoing investigation remain."
+  },
+  {
+   "speaker": "A",
+   "text": "Two. CrowdStrike is buying Zscaler for about forty-four billion dollars, leading a busy day for deals."
+  },
+  {
+   "speaker": "B",
+   "text": "Three. Mortgage rates are above seven percent and the Fed's favorite inflation gauge arrives Wednesday, so rates stay the main story."
+  },
+  {
+   "speaker": "A",
+   "text": "What to watch tomorrow? Earnings from Dell, Best Buy and Workday, and Compass's expected move to New York."
+  },
+  {
+   "speaker": "B",
+   "text": "And later this week, inflation data on Wednesday, then Thanksgiving."
+  },
+  {
+   "speaker": "A",
+   "text": "That's Nightly Brief for Monday. I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. This is news, not investment advice. Have a great night, and we'll see you tomorrow."
+  }
+ ]
+}
