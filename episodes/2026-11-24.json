@@ -1,0 +1,405 @@
+{
+ "id": "2026-11-24",
+ "title": "Nightly Brief - Tue, Nov 24",
+ "date": "Tue, Nov 24",
+ "hosts": {
+  "A": "Maya",
+  "B": "Theo"
+ },
+ "chapters": [
+  {
+   "title": "Cold open",
+   "i": 0
+  },
+  {
+   "title": "Macro & Rates",
+   "i": 8
+  },
+  {
+   "title": "Energy, Commodities & Geopolitics",
+   "i": 26
+  },
+  {
+   "title": "Deals & Capital Markets",
+   "i": 40
+  },
+  {
+   "title": "Companies",
+   "i": 62
+  },
+  {
+   "title": "Industry Trends",
+   "i": 72
+  },
+  {
+   "title": "Markets",
+   "i": 80
+  },
+  {
+   "title": "Wrap-up",
+   "i": 84
+  }
+ ],
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Quick question. A CEO gets fired, gets rehired ten days later, adds nearly one trillion dollars to his company in a single day, and then stands up in front of his employees and says he's in therapy. Is that a business story, or the season finale of a prestige drama?"
+  },
+  {
+   "speaker": "B",
+   "text": "Both. Honestly, both. And the wild part is that every piece of that is in tonight's newsletters."
+  },
+  {
+   "speaker": "A",
+   "text": "Welcome to Nightly Brief, the show that takes the business news out of your inbox and makes it make sense. I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. It's Tuesday, November twenty-fourth, and tonight's show is built from five newsletters: Axios Pro Rata, the Financial Times FirstFT, Morning Brew, The Economist Today, and The Wall Street Journal's What's News."
+  },
+  {
+   "speaker": "A",
+   "text": "Here's what's on tonight's show. First, the macro picture: the giant stock rebound, where bond yields are sitting, and what's on the calendar. Then energy, commodities and geopolitics, including tariffs and a big court verdict. Then deals, where a forty-one billion dollar drug company takeover leads the pack."
+  },
+  {
+   "speaker": "B",
+   "text": "After that, companies, with the Nvidia saga's next chapter. Then a quick tour of industry trends, a walk through the markets table, and a recap with what to watch tomorrow."
+  },
+  {
+   "speaker": "A",
+   "text": "And a promise: any jargon that shows up, Theo explains it in plain English."
+  },
+  {
+   "speaker": "B",
+   "text": "I'll try to do it without putting anyone to sleep."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's start with the market whiplash. On Monday, the S and P five hundred jumped four point seven percent, closing at about seven thousand two hundred thirty-seven. The Nasdaq composite, the tech-heavy index, shot up six and a half percent."
+  },
+  {
+   "speaker": "B",
+   "text": "Wait, really? Six and a half percent in one day? For a big index, that's like a marathon runner suddenly setting a sprint record."
+  },
+  {
+   "speaker": "A",
+   "text": "It is huge. Both indexes had their best day since April of last year. The Dow, which is the thirty big old-school companies, rose three percent to about forty-nine thousand six hundred."
+  },
+  {
+   "speaker": "B",
+   "text": "Context matters here. The week before, tech had a brutal rout, with tech stocks were hit hard. So Monday erased all of Friday's losses, according to the Financial Times."
+  },
+  {
+   "speaker": "A",
+   "text": "And the party spread around the world. Overnight in Asia, South Korea's Kospi index jumped six point three percent, Japan's Nikkei rose three point nine percent, and Taiwan's chip giant TSMC soared nearly ten percent."
+  },
+  {
+   "speaker": "B",
+   "text": "But here's the catch. Futures, which are bets on where stocks will open, pointed lower for New York this morning. Nvidia was down about five point seven percent in pre-market trading."
+  },
+  {
+   "speaker": "A",
+   "text": "Morning Brew passed along a warning from analysts: sharp rebounds like this are typical of a bear market, which just means a long slide of twenty percent or more, and they can reverse. So, relief rally, yes. All clear? Not yet."
+  },
+  {
+   "speaker": "B",
+   "text": "Next, bonds. The ten-year Treasury yield closed Monday around four point nine one eight percent, up about one basis point. A basis point is one hundredth of a percent, so one basis point is almost nothing."
+  },
+  {
+   "speaker": "A",
+   "text": "And what's a yield, for anyone new to this?"
+  },
+  {
+   "speaker": "B",
+   "text": "A yield is the annual return you earn for lending money to the government by buying its bond. When bond prices fall, yields rise. The ten-year yield matters because it sets the tone for mortgage rates, car loans and business borrowing. Higher yields tend to mean higher borrowing costs for everyone."
+  },
+  {
+   "speaker": "A",
+   "text": "The Financial Times snapshot also shows other countries. British ten-year yields are around five point one nine percent, Japan's around two point seven percent, and Germany's around three point two seven."
+  },
+  {
+   "speaker": "B",
+   "text": "Britain at over five percent is notable. It means the UK government is paying a lot to borrow."
+  },
+  {
+   "speaker": "A",
+   "text": "One more from the Fed corner. The Financial Times reports the Federal Reserve's inspector general is reviewing whether Michelle Bowman, the Fed's vice chair for supervision, broke the rules around the blackout period when she attended a private Bank of America dinner in June."
+  },
+  {
+   "speaker": "B",
+   "text": "The blackout period is the stretch right before a Fed meeting when officials are supposed to stay quiet about interest rates, so nobody can trade on hints. Even the appearance of a leak matters, because the Fed's credibility is basically its whole product."
+  },
+  {
+   "speaker": "A",
+   "text": "Also, The Economist is already looking ahead to twenty twenty-seven. One of its pieces says fiscal angst, meaning worry about government deficits and debt, will get real next year, and that markets will watch politics in France and America closely."
+  },
+  {
+   "speaker": "B",
+   "text": "That's only a headline-level look in the newsletter, so we'll leave it there. But it's the kind of slow-burning story that can move bond yields later."
+  },
+  {
+   "speaker": "A",
+   "text": "On deck today: the Conference Board's consumer confidence index for November, and the Case-Shiller national home price index. Earnings from Dell, HP, retailers Best Buy and Dollar Tree, Workday, and J. M. Smucker. Mexico also publishes inflation figures and Argentina releases September activity data."
+  },
+  {
+   "speaker": "B",
+   "text": "Best Buy and Dollar Tree are the ones to watch for a read on how shoppers feel right before the holidays."
+  },
+  {
+   "speaker": "A",
+   "text": "Over to energy and commodities. Brent crude, the global oil benchmark, was about eighty-nine dollars and thirty-two cents a barrel in the Financial Times snapshot this morning, basically flat. American crude, called WTI, was around eighty dollars."
+  },
+  {
+   "speaker": "B",
+   "text": "Gold sat near thirty-six hundred and fifty dollars an ounce, also flat. Copper was around five dollars sixty-three cents a pound, and natural gas rose one and a half percent."
+  },
+  {
+   "speaker": "A",
+   "text": "Oil matters for your wallet in a really direct way. Morning Brew points out that diesel prices have jumped because of the war in Iran, and the American Farm Bureau says feeding ten people Thanksgiving dinner costs six percent more this year. That's the first increase since twenty twenty-two."
+  },
+  {
+   "speaker": "B",
+   "text": "So the Iran war is literally in your gravy. Diesel runs the trucks that move the food."
+  },
+  {
+   "speaker": "A",
+   "text": "Now geopolitics that moves markets. The Wall Street Journal reports that the US Trade Representative, Jamieson Greer, could as soon as this week unveil the results of a months-long investigation into industrial subsidies in China, the European Union and fourteen other countries."
+  },
+  {
+   "speaker": "B",
+   "text": "A subsidy is government money that helps a country's own companies compete. The Trump administration argues that hurts American businesses, and the likely outcome is higher tariffs. A tariff is a tax on imported goods. Final rates aren't known yet, and the timing could slip."
+  },
+  {
+   "speaker": "A",
+   "text": "Why should a regular person care?"
+  },
+  {
+   "speaker": "B",
+   "text": "Because tariffs usually get passed along. Importers pay the tax, then they raise prices on shelves, or they absorb it and profits shrink. Either way, it shows up somewhere."
+  },
+  {
+   "speaker": "A",
+   "text": "Related, there's a major courtroom result. A federal jury in Brooklyn convicted China's Huawei Technologies on ten of twelve counts, including bank fraud, wire fraud and conspiring to violate US sanctions. The companies were acquitted on racketeering conspiracy and obstruction conspiracy."
+  },
+  {
+   "speaker": "B",
+   "text": "So a split verdict, but a significant one, and it lands right as US and China tensions are being tested on trade."
+  },
+  {
+   "speaker": "A",
+   "text": "On Russia and Ukraine, the Financial Times says Germany is taking seriously intelligence reports that Russia may launch a nuclear-armed satellite as soon as next month. About sixty Patriot air defense interceptors that the US already agreed to give Ukraine are still waiting for Pentagon approval."
+  },
+  {
+   "speaker": "B",
+   "text": "Those are intelligence reports, to be clear, not confirmed facts. Markets tend to react to this kind of headline mainly through oil, gold and defense stocks."
+  },
+  {
+   "speaker": "A",
+   "text": "And a couple of Journal quick hits. Venezuela revealed a debt load of two hundred thirty-seven billion dollars. And Yemen's Houthis took a second swipe at the tallest tower in the Saudi capital."
+  },
+  {
+   "speaker": "B",
+   "text": "That's a huge number for one country, but we only have the headline, so no more detail than that."
+  },
+  {
+   "speaker": "A",
+   "text": "Deals time. The headline is Sanofi agreeing to buy the New Jersey drugmaker Insmed for forty-one billion dollars in cash, or one hundred seventy-five dollars a share."
+  },
+  {
+   "speaker": "B",
+   "text": "That is about forty-six percent above Insmed's price on November eighteenth, before news of the talks leaked, per the Financial Times. Axios calls it the largest biotech deal in three years."
+  },
+  {
+   "speaker": "A",
+   "text": "Why would Sanofi pay so much?"
+  },
+  {
+   "speaker": "B",
+   "text": "Two reasons. Insmed has two approved treatments for lung diseases. And Sanofi faces what the industry calls a patent cliff. Its blockbuster drug Dupixent will eventually lose patent protection, which means cheaper copies can enter and revenue can fall off a cliff. Buying new products is how you fill that hole."
+  },
+  {
+   "speaker": "A",
+   "text": "Second big one: Amazon agreed to buy the chip optimization software assets of Decart, an Israeli artificial intelligence developer, for a reported seven and a half billion dollars. Bloomberg had the number first."
+  },
+  {
+   "speaker": "B",
+   "text": "Notice the structure. Amazon is not buying the whole company or its world models, only certain assets, and hiring the founding team and some engineers. Axios says Big Tech keeps doing AI deals as asset purchases to avoid antitrust scrutiny."
+  },
+  {
+   "speaker": "A",
+   "text": "And there's a chip angle, right?"
+  },
+  {
+   "speaker": "B",
+   "text": "Yes. Amazon makes its own AI chips, called Trainium, and has mostly used them in its own data centers. TechCrunch's take, quoted by Axios, is that Amazon is getting ready to sell them to customers as a rival to Nvidia. Decart's software could make it easier to run workloads on Amazon chips, instead of Nvidia's."
+  },
+  {
+   "speaker": "A",
+   "text": "A follow-up on yesterday's big cybersecurity merger. CrowdStrike is buying Zscaler for forty-three point nine billion dollars in stock. Yesterday CrowdStrike's shares fell nine percent, while Zscaler's jumped eighteen percent, per Morning Brew."
+  },
+  {
+   "speaker": "B",
+   "text": "That's the classic pattern. The buyer's stock often drops because investors worry it's overpaying, and the target's stock pops. CrowdStrike says it expects five hundred million dollars in yearly cost savings within eighteen to twenty-four months, and the deal should close by mid twenty twenty-seven."
+  },
+  {
+   "speaker": "A",
+   "text": "Now a quick lightning round of other deals from Axios Pro Rata. Linamar agreed to buy the Genie access platforms business from Terex for one point four billion dollars. Eli Lilly acquired the British Huntington's disease drug developer LoQus23 for up to seven hundred twenty-five million dollars. And John Deere bought Orchard Robotics, an AI farming company."
+  },
+  {
+   "speaker": "B",
+   "text": "In private equity, which just means investment firms buying companies, Mubadala Capital bought the trucking broker Arrive Logistics. Madison Dearborn agreed to buy Peli BioThermal from Platinum Equity, and Bain's APP Jet Center agreed to acquire Sheltair."
+  },
+  {
+   "speaker": "A",
+   "text": "There was also activist news. Trian Fund Management is pushing Solventum to spin off its health information systems business."
+  },
+  {
+   "speaker": "B",
+   "text": "An activist investor buys a stake and then pressures management to change strategy. A spin-off means splitting a division into its own separate company."
+  },
+  {
+   "speaker": "A",
+   "text": "In venture capital, the big rounds. Marlowe, an AI cloud infrastructure developer, raised two hundred seventy-seven million dollars in seed funding at a one point one five billion dollar valuation. Embo, which builds robot brains, raised one hundred ten million."
+  },
+  {
+   "speaker": "B",
+   "text": "A seed round is the earliest stage of funding, so a two hundred seventy-seven million dollar seed is eyebrow-raising. Also, Ritzey Therapeutics raised one hundred twelve and a half million, and Chinese humanoid robot startup Simplexity raised one hundred million from Ant Group and others."
+  },
+  {
+   "speaker": "A",
+   "text": "Fundraising notes: Israeli growth firm Key1 Capital held a three hundred twenty million dollar first close on its second fund, and India's Lok Capital held a one hundred thirty million dollar first close."
+  },
+  {
+   "speaker": "B",
+   "text": "A first close is the first batch of commitments a fund locks in, before it finishes raising."
+  },
+  {
+   "speaker": "A",
+   "text": "Finally, the IPO story everyone's watching. Anthropic's record-setting stock market debut is going sideways. Shares fell six and a half percent on Monday to eighty-one dollars and ninety-one cents, the first close below the eighty-three dollar IPO price."
+  },
+  {
+   "speaker": "B",
+   "text": "An IPO, an initial public offering, is when a private company first sells shares to the public. Anthropic opened Thursday up thirty-four percent, and Axios says early trades hit one hundred eleven dollars and fifty cents. This morning the stock was below the IPO price in pre-market trading."
+  },
+  {
+   "speaker": "A",
+   "text": "The Journal notes the weak showing is unwelcome news for OpenAI, which wants to do its own IPO next year, and other AI companies eyeing offerings."
+  },
+  {
+   "speaker": "B",
+   "text": "If you bought at the IPO price, you're underwater. The lesson: hot IPOs can cool fast, especially in a tech selloff."
+  },
+  {
+   "speaker": "A",
+   "text": "Companies, and of course we start with Nvidia. Jensen Huang apologized to staff in an all-hands meeting and told them he is in therapy, according to the Journal. He also thanked the Trump administration for giving Nvidia quick access to intelligence that helped the board decide the national security risk was low."
+  },
+  {
+   "speaker": "B",
+   "text": "Recap for newcomers. The board pushed Huang out about two weeks ago after reports about affairs, including one with a suspected Chinese spy. Then it brought him back unanimously on Monday, and the stock rose thirty-one point five percent, adding nine hundred fifty-two billion dollars, a record one-day gain for any company, per the Financial Times."
+  },
+  {
+   "speaker": "A",
+   "text": "And now the fallout. The FBI and the SEC are investigating, and lawmakers from both parties are furious. Huang is scheduled to answer questions behind closed doors from three House committees next Tuesday, and Senator Tim Scott says he'll testify publicly on December third about export controls."
+  },
+  {
+   "speaker": "B",
+   "text": "Export controls are the rules limiting which advanced chips can be sold to countries like China. Morning Brew adds that the Commerce Department is reportedly preparing to restrict chip sales to a Singapore company called Megaspeed, which employed the woman at the center of the story."
+  },
+  {
+   "speaker": "A",
+   "text": "Also, the Financial Times says the value of President Trump's own Nvidia stock rose as much as fifteen million dollars Monday."
+  },
+  {
+   "speaker": "B",
+   "text": "Meanwhile, Axios is making a bigger point. Its Top of the Morning says we still don't know why Huang was fired or why he was rehired, and that if Nvidia is too big to fail, the public deserves answers. The Economist's leader goes further, arguing this shows a culture of impunity."
+  },
+  {
+   "speaker": "A",
+   "text": "Next, SpaceX. Oregon and Virginia's attorneys general sued, claiming the Grok chatbot generated nonconsensual sexual images, including of children, per Morning Brew. Separately, the Financial Times profiles five executives tasked with combining Elon Musk's companies into a potential three and a half trillion dollar giant."
+  },
+  {
+   "speaker": "B",
+   "text": "A lot of that is still reported plans, so treat the three point five trillion as a potential size, not a done deal."
+  },
+  {
+   "speaker": "A",
+   "text": "On the consumer side, Walmart's Thanksgiving meal deal feeds ten people for thirty-five dollars. CEO John Furner said it has already sold a million more turkeys this November than last year."
+  },
+  {
+   "speaker": "B",
+   "text": "Grocers take a loss on those bundles on purpose. It's a loss leader, meant to get you in the door so you buy other things too."
+  },
+  {
+   "speaker": "A",
+   "text": "Industry trends, quickly. Starting with tech and A I. The Financial Times says Western intelligence chiefs warn that authoritarian governments are laser-focused on stealing Silicon Valley's innovations, and that tech companies may be unprepared for old-fashioned spying."
+  },
+  {
+   "speaker": "B",
+   "text": "Morning Brew adds that A I fueled hacks, from refrigerators to a bank, are pushing businesses to spend on defense. That's the logic behind the CrowdStrike deal."
+  },
+  {
+   "speaker": "A",
+   "text": "Industrials and defense. The Journal reports the Pentagon is in talks with General Motors and Ford to mass produce military drones, using automakers' supply chains. So far the response from auto executives has been mixed."
+  },
+  {
+   "speaker": "B",
+   "text": "It's the same playbook the government has used for months with missiles and tactical trucks: borrow civilian factories to fix shortages."
+  },
+  {
+   "speaker": "A",
+   "text": "Healthcare. The Financial Times says Roche thinks its newly approved breast cancer drug Wilserdly could be the best-selling medicine in the Swiss company's history. And a Journal stat: only sixty-five point six percent of US newborns got the hepatitis B birth dose in the first half of twenty twenty-six, down from about eighty percent in twenty twenty to twenty twenty-two, after a federal panel dropped its recommendation."
+  },
+  {
+   "speaker": "B",
+   "text": "That's a public health trend more than a market one, but it shapes the long-run picture for vaccine makers and hospitals."
+  },
+  {
+   "speaker": "A",
+   "text": "And real estate. Marriott and Hilton are accelerating a push into branded residential apartments. Savills counts eight hundred seventy-one completed projects worldwide, up from three hundred twenty-eight a decade ago, and projects the number will double by twenty thirty."
+  },
+  {
+   "speaker": "B",
+   "text": "The appeal for hotel companies is that selling apartments brings cash upfront, which helps fund new resorts."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's walk the markets table. Closing levels from Monday, per Morning Brew: S and P five hundred, seven thousand two hundred thirty-seven, up four point seven three percent. Dow, forty-nine thousand five hundred ninety-five, up three percent. Nasdaq composite, twenty-four thousand and ninety, up six point five percent."
+  },
+  {
+   "speaker": "B",
+   "text": "The ten-year Treasury yield, four point nine one eight percent, up one basis point. Bitcoin around sixty-one thousand two hundred fifty dollars, up point four percent as of five thirty Monday evening."
+  },
+  {
+   "speaker": "A",
+   "text": "Brent oil, eighty-nine thirty-two this morning, and gold, thirty-six forty-nine, both about flat in the Financial Times snapshot from six thirty-one this morning Eastern."
+  },
+  {
+   "speaker": "B",
+   "text": "One honest note. The columns comparing today to six months and one year ago all say not available tonight. We couldn't reach a reliable source for those past prices, and we never guess a number."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for the three-point recap. One: stocks staged a historic rebound on Nvidia's reinstatement of Jensen Huang, but futures and Nvidia's pre-market drop suggest the relief may be fragile."
+  },
+  {
+   "speaker": "B",
+   "text": "Two: deals are rolling. Sanofi is buying Insmed for forty-one billion dollars, Amazon is buying Decart's chip software for a reported seven and a half billion, and CrowdStrike's Zscaler deal is sorting out."
+  },
+  {
+   "speaker": "A",
+   "text": "Three: Anthropic is trading below its IPO price, and tariff news from the US Trade Representative could arrive any day."
+  },
+  {
+   "speaker": "B",
+   "text": "What to watch tomorrow: whether the rebound holds, today's consumer confidence and home price data, and earnings from Dell, HP, Best Buy and Dollar Tree. Also keep an eye on the tariff announcement and anything new on Huang's hearings."
+  },
+  {
+   "speaker": "A",
+   "text": "That's Nightly Brief for Tuesday, November twenty-fourth. I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. Thanks for listening, and we'll see you tomorrow night."
+  }
+ ]
+}
