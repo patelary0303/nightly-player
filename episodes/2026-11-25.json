@@ -1,0 +1,453 @@
+{
+ "id": "2026-11-25",
+ "title": "Nightly Brief - Wed, Nov 25",
+ "date": "Wed, Nov 25",
+ "hosts": {
+  "A": "Maya",
+  "B": "Theo"
+ },
+ "chapters": [
+  {
+   "title": "Cold open",
+   "i": 0
+  },
+  {
+   "title": "Macro & Rates",
+   "i": 10
+  },
+  {
+   "title": "Energy, Commodities & Geopolitics",
+   "i": 40
+  },
+  {
+   "title": "Deals & Capital Markets",
+   "i": 54
+  },
+  {
+   "title": "Companies",
+   "i": 76
+  },
+  {
+   "title": "Industry Trends",
+   "i": 85
+  },
+  {
+   "title": "Markets",
+   "i": 93
+  },
+  {
+   "title": "Wrap-up",
+   "i": 97
+  }
+ ],
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Okay, quick question, Theo. When a stock has a big, glamorous debut and then slides below the price it started at, what do we call that?"
+  },
+  {
+   "speaker": "B",
+   "text": "A hangover? A cautionary tale? A very expensive lesson for the people who bought on day one?"
+  },
+  {
+   "speaker": "A",
+   "text": "All three. And tonight, two of the most hyped public debuts of the year are in exactly that spot, while the economy comes in hotter than anyone expected."
+  },
+  {
+   "speaker": "B",
+   "text": "Hotter growth, hotter inflation, a tariff plan with fine print, and a deal list that spans from satellites to sodium batteries. It's a packed night."
+  },
+  {
+   "speaker": "A",
+   "text": "Welcome to the Nightly Brief podcast. I'm Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I'm Theo. It's Wednesday, November twenty-fifth, and this is the in-depth companion to tonight's email."
+  },
+  {
+   "speaker": "A",
+   "text": "Here's what's on tonight's show. First, macro and rates: a big growth number, an inflation number that stings, and the latest on tariffs."
+  },
+  {
+   "speaker": "B",
+   "text": "Then energy, commodities and geopolitics, including a Russia plan that just got shelved. After that, deals and capital markets, with that IPO hangover front and center."
+  },
+  {
+   "speaker": "A",
+   "text": "Then the companies, a quick tour of industry trends, a walk through the markets scoreboard, and a wrap-up with what to watch next."
+  },
+  {
+   "speaker": "B",
+   "text": "One note: the newsletters are taking Thanksgiving off, so this is our last stretch before the long weekend. Let's go."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's start with the big one. The government's second estimate of third-quarter economic growth came in at four point three percent, annualized."
+  },
+  {
+   "speaker": "B",
+   "text": "Let me translate. Gross domestic product, or GDP, is the total value of everything the country makes and sells. Annualized means they take the growth for one quarter and express it as if it kept going for a full year."
+  },
+  {
+   "speaker": "A",
+   "text": "And the first estimate was three point four percent. So it got revised up by almost a full percentage point."
+  },
+  {
+   "speaker": "B",
+   "text": "Wait, really? That's nearly double the two point two percent pace from the spring. The summer was much stronger than anyone thought."
+  },
+  {
+   "speaker": "A",
+   "text": "Here's the catch, though. Consumers didn't go wild at the end. Personal income jumped zero point seven percent in October, but spending, after adjusting for inflation, basically stalled."
+  },
+  {
+   "speaker": "B",
+   "text": "So people earned more and didn't spend it. The saving rate climbed to four point one percent from three point six percent the month before. Think of it as everyone quietly putting money in the piggy bank."
+  },
+  {
+   "speaker": "A",
+   "text": "Now the part that matters for your wallet. The PCE price index, which stands for personal consumption expenditures, rose three point eight percent from a year earlier. That's up from three point six percent in September."
+  },
+  {
+   "speaker": "B",
+   "text": "PCE is the Federal Reserve's favorite inflation gauge. It's like a grocery receipt for the whole economy, tracking what households pay for everything. The Fed has a target of around two percent, so three point eight is a long way from it."
+  },
+  {
+   "speaker": "A",
+   "text": "And core inflation, which strips out food and energy because those jump around a lot, accelerated to three point three percent from three point one."
+  },
+  {
+   "speaker": "B",
+   "text": "Which is the worrying detail. Core is the underlying trend. If even that is speeding up, it's harder for the Fed to talk about cutting interest rates."
+  },
+  {
+   "speaker": "A",
+   "text": "Why should a regular person care? Because interest rates set the price of borrowing: car loans, credit cards, mortgages. Strong growth plus sticky inflation tends to keep those rates higher for longer."
+  },
+  {
+   "speaker": "B",
+   "text": "Speaking of rates, the ten-year Treasury yield. That's what the government pays to borrow money for ten years, and it's the benchmark that mortgage rates follow. It closed Tuesday at four point nine zero four percent, down one basis point."
+  },
+  {
+   "speaker": "A",
+   "text": "Basis point, quick definition: one hundredth of a percentage point. So one basis point is tiny."
+  },
+  {
+   "speaker": "B",
+   "text": "By early Wednesday morning, the Financial Times had it at four point eight six eight percent, a drop of about three and a half basis points. So the market is breathing a little easier, but we're still sitting just below five percent."
+  },
+  {
+   "speaker": "A",
+   "text": "Now, a little brighter news. The Conference Board's first survey of consumers since the November third midterm elections shows Americans are more confident about the economy."
+  },
+  {
+   "speaker": "B",
+   "text": "They expect inflation to ease and they're noticing some improvement in the job market. Confidence rose among Democrats and independents after the Democrats won control of both houses of Congress starting next year, and fell among Republicans, though Republicans stayed more upbeat than the others."
+  },
+  {
+   "speaker": "A",
+   "text": "But people are still worried about rising prices, which, given three point eight percent inflation, makes sense."
+  },
+  {
+   "speaker": "B",
+   "text": "Which brings us to tariffs, because that's a price story too. Remember, last night we told you the findings on tariffs were expected this week. Tonight there are new details."
+  },
+  {
+   "speaker": "A",
+   "text": "The Wall Street Journal reports the US is set to raise tariffs on China, the European Union and about fourteen other countries that the administration accuses of propping up their own manufacturers."
+  },
+  {
+   "speaker": "B",
+   "text": "The new country-specific duties would apply to most of what those countries export, but products already tariffed separately, like cars and steel, would likely be left out."
+  },
+  {
+   "speaker": "A",
+   "text": "And here's the fine print. These would stack on existing tariffs, but total rates wouldn't go above the caps each partner negotiated over the past year."
+  },
+  {
+   "speaker": "B",
+   "text": "So, for example, the overall tariff on the EU, Japan and South Korea wouldn't exceed fifteen percent, while China's could climb to twenty percent. The Financial Times adds that Japan, South Korea and the EU may get relatively small increases, and countries like Vietnam, Cambodia and Malaysia would get hit harder."
+  },
+  {
+   "speaker": "A",
+   "text": "Why now? The Supreme Court struck down the first batch of tariffs in February, so the White House is rebuilding them under different laws, including Section three oh one of the Trade Act of nineteen seventy-four, which targets unfair trade practices."
+  },
+  {
+   "speaker": "B",
+   "text": "Timing is a question mark. Some trade experts think the administration may wait until after next month's G20 summit in Miami, and until a trade court rules on separate forced-labor tariffs."
+  },
+  {
+   "speaker": "A",
+   "text": "And the politics are tricky, because voters just rewarded the party that campaigned on cost of living. Tariffs, as one WSJ reader put it, are paid by importers and often passed on to consumers."
+  },
+  {
+   "speaker": "B",
+   "text": "One more macro item from abroad. Argentina probably slipped into a technical recession in the third quarter. A proxy for its GDP fell one point eight percent from the previous quarter, after a zero point six percent drop in the second quarter."
+  },
+  {
+   "speaker": "A",
+   "text": "A technical recession means two straight quarters of shrinking. It's a setback for President Javier Milei's free-market shock therapy."
+  },
+  {
+   "speaker": "B",
+   "text": "And in Venezuela, the government unveiled debts of close to two hundred forty billion dollars as it prepares what the FT calls the biggest sovereign debt restructuring in history. Restructuring just means renegotiating what a country owes, usually by stretching out or reducing payments."
+  },
+  {
+   "speaker": "A",
+   "text": "What's on deck? Today's calendar includes durable goods orders, which measure big-ticket purchases like machinery and appliances, plus weekly jobless claims."
+  },
+  {
+   "speaker": "B",
+   "text": "Mexico reports its current account, Argentina releases retail sales, and Deere, the tractor maker, is expected to report higher fourth-quarter profit. And on Sunday, Switzerland votes on loosening its arms export laws, in a vote described as knife-edge."
+  },
+  {
+   "speaker": "A",
+   "text": "Onto geopolitics. The Trump administration has shelved its plan to use business deals as bait to get Russia to end the war in Ukraine."
+  },
+  {
+   "speaker": "B",
+   "text": "The Financial Times says Jared Kushner and envoy Steve Witkoff told European officials that corporate tie-ups are no longer a core part of the pitch. The ideas included American companies investing in Russian oil projects and restarting pipeline gas sales to Europe, plus aviation ventures."
+  },
+  {
+   "speaker": "A",
+   "text": "At first Russian officials responded positively, but the Kremlin cooled once it became clear the money wasn't going to substitute for what it really wants, which is territory from Ukraine."
+  },
+  {
+   "speaker": "B",
+   "text": "So the focus shifts to territory and security. For energy markets, that means the idea of Russian oil and gas flowing back into Western channels as part of a peace package just got less likely."
+  },
+  {
+   "speaker": "A",
+   "text": "Speaking of oil, Brent crude, the global benchmark, was at about ninety dollars ninety-seven cents a barrel on Wednesday morning, down about half a percent. US crude was around eighty-one dollars forty."
+  },
+  {
+   "speaker": "B",
+   "text": "And a related warning from The Economist: the Gulf survived a short, hot war, but a long, cold one will be harder. Many officials there expect the conflict to continue through twenty twenty-seven, and perhaps until January twenty twenty-nine."
+  },
+  {
+   "speaker": "A",
+   "text": "That's a big deal for oil, because the Gulf is where so much of the world's supply comes from, and a drawn-out standoff keeps a risk premium in the price."
+  },
+  {
+   "speaker": "B",
+   "text": "A risk premium is the extra amount people pay today because of worry about what might go wrong tomorrow. Think surge pricing, but for barrels of oil."
+  },
+  {
+   "speaker": "A",
+   "text": "Now, a story that sounds like a thriller. Last month hackers staged a cyberattack on refrigeration systems at hundreds of supermarkets across France, destroying millions of euros of food."
+  },
+  {
+   "speaker": "B",
+   "text": "French intelligence now points to an elite unit of Iran's Islamic Revolutionary Guard Corps. It's a reminder that modern conflict reaches your grocery store, not just the battlefield."
+  },
+  {
+   "speaker": "A",
+   "text": "Two more China headlines. China launched its first mission with a foreigner, sending a Pakistani fighter pilot into space with two Chinese astronauts."
+  },
+  {
+   "speaker": "B",
+   "text": "And the powerful Communist Party boss of Shanghai, Chen Jining, is under investigation. The Economist calls it a purge of unusual speed and profile, part of President Xi's escalating clean-out of senior leadership."
+  },
+  {
+   "speaker": "A",
+   "text": "Last one here. The Economist reports on Elon Musk shifting blame for throttling Starshield, the satellite service that powers Ukraine's drone operations. A Ukrainian officer said last month's failure felt like a warning."
+  },
+  {
+   "speaker": "B",
+   "text": "It shows how dependent the battlefield has become on a private company's network. And gold, for the record, sat at about three thousand five hundred sixty dollars an ounce in the Comex futures quote, unchanged on the morning."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for deals, starting with the story that opened Axios Pro Rata's Top of the Morning. Anthropic's IPO pop has turned into a thud."
+  },
+  {
+   "speaker": "B",
+   "text": "An IPO, an initial public offering, is when a private company first sells shares to the public. Anthropic's IPO price was eighty-three dollars. It closed Tuesday at eighty-one ninety, and it opened Wednesday down another five percent, at about seventy-seven ninety-three."
+  },
+  {
+   "speaker": "A",
+   "text": "That's twenty-six and a half percent below the first trades after the IPO. And it's not alone. SpaceX also opened below its IPO price today, around twenty-five percent under its first post-IPO trades and about forty-four percent below its first-day high."
+  },
+  {
+   "speaker": "B",
+   "text": "Dan Primack's point is that this might make life harder for OpenAI, which reportedly still plans to go public in early twenty twenty-seven. Big fund managers may push harder on price, and many retail investors may just sit it out after getting burned."
+  },
+  {
+   "speaker": "A",
+   "text": "The FT adds that global tech stocks are lower again, with Nasdaq one hundred futures pointing to a two percent drop at the open, as investors question whether the AI boom can last."
+  },
+  {
+   "speaker": "B",
+   "text": "So the lesson: hype is not a valuation. Even a company everyone loves can trade below its IPO price."
+  },
+  {
+   "speaker": "A",
+   "text": "Next, our big deal of the day. Airbus agreed to sell its US space business to Cerberus Capital Management. Cerberus is a private equity firm, meaning it buys companies using investor money and a lot of borrowed money, tries to improve them, and sells later."
+  },
+  {
+   "speaker": "B",
+   "text": "Axios calls it a big deal for a few reasons. Airbus has taken congressional heat over allegedly providing satellite imagery of US military assets to China before the Iran war. Now the business moves into US hands."
+  },
+  {
+   "speaker": "A",
+   "text": "And the firm was founded and previously led by Steve Feinberg, who is now the Pentagon's number two official, behind Pete Hegseth. The unit builds satellites near Florida's Kennedy Space Center for national security and commercial customers, and the deal is expected to close by year-end."
+  },
+  {
+   "speaker": "B",
+   "text": "Meanwhile, Airbus is merging its remaining satellite operations with Leonardo and Thales to form a European joint venture that would compete with SpaceX."
+  },
+  {
+   "speaker": "A",
+   "text": "More from the Top of the Morning. BC Partners Credit bought a majority stake in GSE Worldwide, the sports agency that represents golfers like Bryson DeChambeau, buying the rest from Gatemore Capital Management."
+  },
+  {
+   "speaker": "B",
+   "text": "Axios's source says the idea of another version of the LIV golf league, quote, LIV three point oh is dead, and this is a standalone investment."
+  },
+  {
+   "speaker": "A",
+   "text": "Also, Representative Jamie Raskin, the incoming chair of the House Judiciary Committee, plans to pursue an investigation of the investment firm 1789 Capital, which Donald Trump Junior joined after the twenty twenty-four election."
+  },
+  {
+   "speaker": "B",
+   "text": "And Payward, the owner of crypto exchange Kraken, bought Tribe Capital, a venture firm that has raised more than two billion dollars. Its co-founder is now a Payward co-CEO. Axios notes a Tribe portfolio company, Foundation, stopped paying employees last month."
+  },
+  {
+   "speaker": "A",
+   "text": "Now the venture capital rundown. Stripe is in talks for an employee share sale that could value it around two hundred billion dollars, according to the Wall Street Journal."
+  },
+  {
+   "speaker": "B",
+   "text": "A tender offer like that lets employees sell shares without the company going public. Also, Israeli cloud backup company Eon is in talks at a six billion dollar valuation."
+  },
+  {
+   "speaker": "A",
+   "text": "Funding rounds: Peak Energy, a sodium-ion battery maker, raised forty-nine million dollars. Avicena, which makes optical interconnects, raised one hundred million, with investors including Tiger Global and AMD Ventures. And a long tail of smaller rounds, from French solar to Scottish fish-farm robots."
+  },
+  {
+   "speaker": "B",
+   "text": "On the private equity side: Advent International is weighing a bid for French testing firm Bureau Veritas. Accent Equity agreed to buy Norwegian retailer Plantasjen for about forty million dollars, and Reinova Partners bought Vattenfall's UK district heating business."
+  },
+  {
+   "speaker": "A",
+   "text": "Exits: Atairos is seeking to sell UK outdoor advertiser Ocean Outdoor, which could fetch around eight hundred million pounds. And Parker-Hannifin completed its two point five five billion dollar purchase of Circor Aerospace from KKR."
+  },
+  {
+   "speaker": "B",
+   "text": "In other M&A, CF Industries is buying the Faustina ammonia plant in Louisiana from Mosaic for about six hundred million dollars, and BYD is in talks to buy an Ineos factory in France."
+  },
+  {
+   "speaker": "A",
+   "text": "Plus, Starbucks picked banks to sell its Japan business, and the Wall Street Journal says Dodgers owner Todd Boehly clinched a deal for the overseas assets of Russia's Lukoil."
+  },
+  {
+   "speaker": "B",
+   "text": "Fun footnote: Al Gore agreed to buy a Tennessee newspaper, the Carthage Courier."
+  },
+  {
+   "speaker": "A",
+   "text": "Now companies, and we have to talk about Nvidia. Jensen Huang, back as CEO, defended the company's lack of succession planning at an all-hands meeting."
+  },
+  {
+   "speaker": "B",
+   "text": "Succession planning is just a plan for who runs the company next. He also apologized to staff and said he's in therapy. We covered that last night, so here's what's new."
+  },
+  {
+   "speaker": "A",
+   "text": "The Wall Street Journal reports that US officials told Congress there's no evidence China orchestrated the affair. The current evidence suggests the relationship may have been romantic, not a coordinated play in the race for advanced chips."
+  },
+  {
+   "speaker": "B",
+   "text": "But officials said new information could change that. And Nvidia still faces multiple probes, including whether its advanced chips ended up in China."
+  },
+  {
+   "speaker": "A",
+   "text": "And opinions are split. The Economist ran a piece arguing Nvidia was right to bring Huang back, while the FT's Unhedged podcast hosts called it a dark day for US capitalism."
+  },
+  {
+   "speaker": "B",
+   "text": "Next, a feel-good retail story. Dick's Sporting Goods jumped more than fourteen percent after Foot Locker, the chain it bought for two point four billion dollars last year, grew sales by half a percent. Analysts expected a two percent decline."
+  },
+  {
+   "speaker": "A",
+   "text": "Dick's own stores grew two point six percent. Foot Locker is about a third of revenue, so it had been a worry. Abercrombie and Gap also jumped lately on strong earnings."
+  },
+  {
+   "speaker": "B",
+   "text": "Best Buy reported its best comparable sales growth in five years, helped by video game launches. Comparable sales just means sales at stores open at least a year, which strips out the effect of opening new ones."
+  },
+  {
+   "speaker": "A",
+   "text": "And Shein agreed to pay a hundred million dollars to settle US allegations that it made misleading claims about the origins of cotton fabrics, suppressed negative reviews and delivered orders months late."
+  },
+  {
+   "speaker": "A",
+   "text": "Industry trends, starting with tech and AI. The Wall Street Journal's number of the day is one million. That's how many data centers the FCC authorized SpaceX to launch into space."
+  },
+  {
+   "speaker": "B",
+   "text": "A massive bet that SpaceX can build systems that don't exist yet. And on the music side, Tidal will be the first major streaming service to ban fully AI-generated tracks starting December ninth, removing twenty-nine million songs."
+  },
+  {
+   "speaker": "A",
+   "text": "Tidal says forty-three percent of tracks delivered in the past ninety days were detected as AI-generated."
+  },
+  {
+   "speaker": "B",
+   "text": "In The Economist's Buttonwood column, copper is shown as a proxy bet on the AI revolution, and the column warns about the pitfalls of that role."
+  },
+  {
+   "speaker": "A",
+   "text": "Healthcare: Roche's new pill Wilserdly won FDA approval for some early-stage breast cancer, the first new hormone therapy for the disease in more than twenty years. Analysts see up to fourteen billion dollars in annual sales, at twenty-two thousand five hundred dollars a month."
+  },
+  {
+   "speaker": "B",
+   "text": "Telecom: a New York jury found Huawei guilty on ten of twelve charges, including conspiracy to steal trade secrets and bank fraud."
+  },
+  {
+   "speaker": "A",
+   "text": "Financials: Jamie Dimon reportedly loved Britain until it raised taxes on JPMorgan. And the FT profiles Corient, a Miami upstart that in six years became the world's largest non-bank wealth manager at five hundred billion dollars."
+  },
+  {
+   "speaker": "B",
+   "text": "Real estate: a Manhattan judge upheld New York City Mayor Zohran Mamdani's rent freeze on nearly one million rent-stabilized apartments, rejecting a challenge from landlords, and finding it has a rational basis."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for the scoreboard. These are Tuesday's closing levels from Morning Brew, with Brent and gold from the FT's six thirty a.m. Eastern snapshot."
+  },
+  {
+   "speaker": "B",
+   "text": "The S and P five hundred closed at seven thousand two hundred one, down half a percent. The Nasdaq composite, heavy with tech, fell one point four eight percent to twenty-three thousand seven hundred thirty-four."
+  },
+  {
+   "speaker": "A",
+   "text": "The Dow bucked the trend, rising point eight five percent to just over fifty thousand eighteen. The ten-year yield was four point nine zero four percent. Bitcoin was down two point five eight percent, at about fifty-nine thousand six hundred eighty dollars."
+  },
+  {
+   "speaker": "B",
+   "text": "Brent was ninety dollars ninety-seven cents, and Comex gold was three thousand five hundred sixty dollars. Our comparison columns, six months and one year ago, are marked n/a tonight because our data sources were unreachable, and we don't guess."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's recap in three points. One: the economy ran hot, with growth revised up to four point three percent and inflation at three point eight percent, which makes rate cuts harder."
+  },
+  {
+   "speaker": "B",
+   "text": "Two: the tariff plan has caps, but may still hit China and others, and the timing could slip until after the G20. Three: the AI trade is wobbling, with Anthropic and SpaceX under their IPO prices."
+  },
+  {
+   "speaker": "A",
+   "text": "What to watch next? Durable goods and jobless claims, the tariff announcement, and whether OpenAI keeps its early twenty twenty-seven IPO plans."
+  },
+  {
+   "speaker": "B",
+   "text": "Thanks for listening. Have a wonderful Thanksgiving, and we'll be back with the next brief soon."
+  },
+  {
+   "speaker": "A",
+   "text": "Eat well, everyone. See you soon."
+  }
+ ]
+}
