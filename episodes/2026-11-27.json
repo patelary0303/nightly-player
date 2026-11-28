@@ -1,0 +1,429 @@
+{
+ "id": "2026-11-27",
+ "title": "Nightly Brief - Fri, Nov 27",
+ "date": "Fri, Nov 27",
+ "hosts": {
+  "A": "Maya",
+  "B": "Theo"
+ },
+ "chapters": [
+  {
+   "title": "Cold open",
+   "i": 0
+  },
+  {
+   "title": "The day in three lines",
+   "i": 10
+  },
+  {
+   "title": "Energy, Commodities & Geopolitics",
+   "i": 14
+  },
+  {
+   "title": "Deals & Capital Markets",
+   "i": 38
+  },
+  {
+   "title": "Companies",
+   "i": 46
+  },
+  {
+   "title": "Industry Trends",
+   "i": 66
+  },
+  {
+   "title": "Markets",
+   "i": 80
+  },
+  {
+   "title": "Wrap-up",
+   "i": 89
+  }
+ ],
+ "turns": [
+  {
+   "speaker": "A",
+   "text": "Here is a sentence I never thought I would say on a Friday night: the next big thing in your living room might be a robot with arms, legs, and a surprisingly reasonable price tag."
+  },
+  {
+   "speaker": "B",
+   "text": "Okay, Maya, I need you to slow down. A robot in my living room? I can barely keep a houseplant alive."
+  },
+  {
+   "speaker": "A",
+   "text": "Hey, the houseplant is not on the news tonight. The robots are. And that is just the start, because we also have a bunch of people getting ready to give away a lot of money, a blimp comeback, and a train robbery story that sounds like a movie."
+  },
+  {
+   "speaker": "B",
+   "text": "Wait, train robberies? In this economy?"
+  },
+  {
+   "speaker": "A",
+   "text": "In this exact economy, Theo. Welcome to Nightly Brief, the show where we take the day's business and money news and make it make sense. I am Maya."
+  },
+  {
+   "speaker": "B",
+   "text": "And I am Theo. It is Friday, November twenty-seventh, the day after Thanksgiving, which means Black Friday, which means half the country is either shopping or lying on the couch regretting the pie."
+  },
+  {
+   "speaker": "A",
+   "text": "Both are valid life choices. Quick heads up on tonight's show. It is a lighter news day, because a lot of the usual business newsletters took the holiday off. So we are working from two sources: The Economist's daily edition, and a special Black Friday issue from Morning Brew, which was entirely about shipping and handling."
+  },
+  {
+   "speaker": "B",
+   "text": "Which sounds boring, and is actually secretly fascinating. Trust me."
+  },
+  {
+   "speaker": "A",
+   "text": "Here is the plan. First, the big idea of the night: the cost of getting stuff from point A to point B, and why diesel fuel is quietly making everything more expensive. Then geopolitics and commodities, because there is a fun story about minerals. Then money moving around, including what happens when employees at one famous A I company suddenly get rich. Then the companies, then the industries, a walk through the markets, and a three-point recap."
+  },
+  {
+   "speaker": "B",
+   "text": "Let's go."
+  },
+  {
+   "speaker": "A",
+   "text": "Before we dive in, here is the whole night in three lines. One: humanoid robots, which are robots built roughly like people, are getting cheaper and more capable, and The Economist thinks their first stop might be the home."
+  },
+  {
+   "speaker": "B",
+   "text": "Two: shipping and handling costs are through the roof, because of expensive diesel, fewer truck drivers, and tariffs. That shows up in the price of, well, everything."
+  },
+  {
+   "speaker": "A",
+   "text": "And three: a wave of new wealth from the A I boom might spill over into charities, while the United States seems to be swapping traditional foreign aid for deals to get minerals abroad."
+  },
+  {
+   "speaker": "B",
+   "text": "Three lines, a lot of ground. Let's start where the money actually flows, with shipping."
+  },
+  {
+   "speaker": "A",
+   "text": "Morning Brew's special edition opens with a joke that I love. It says the US economy is like a struggling stand-up comedian: it is having delivery problems."
+  },
+  {
+   "speaker": "B",
+   "text": "Ba dum tss. But the numbers behind the joke are serious. Start with diesel. Diesel is the fuel that powers most big trucks. Morning Brew says diesel prices have skyrocketed since the United States and Israel attacked Iran in late February."
+  },
+  {
+   "speaker": "A",
+   "text": "And just to be clear for anyone catching up, that conflict matters for prices because the Middle East is a huge source of the world's oil, and when oil supply feels risky, the price of fuels made from oil, like diesel, tends to jump."
+  },
+  {
+   "speaker": "B",
+   "text": "Right. Prices have eased off their record highs, which were above six dollars and fifty cents a gallon. But eased off is a relative term. They are still well above last year's price, which was under four dollars a gallon, according to the American Automobile Association."
+  },
+  {
+   "speaker": "A",
+   "text": "So picture that. Last year you pay under four dollars for a gallon. This year even after the drop it is well above that. If you run a fleet of trucks, that is a gigantic bill."
+  },
+  {
+   "speaker": "B",
+   "text": "And trucks matter more than people think. The American Trucking Associations says freight trucks moved nearly seventy-three percent of US freight by weight in twenty twenty-four. Nearly three out of every four tons of stuff, moved by a truck."
+  },
+  {
+   "speaker": "A",
+   "text": "Wait, really? Almost three quarters?"
+  },
+  {
+   "speaker": "B",
+   "text": "Really. So when the cost of truck transportation jumps nearly twenty-five percent over the past year, that is not a small thing. It is like a tax on the whole economy."
+  },
+  {
+   "speaker": "A",
+   "text": "And here is the part that hits a regular person. The Independent Grocers Alliance estimates that fuel accounts for about fifteen to thirty percent of the total cost of food. So when diesel goes up, your grocery bill goes up. That is how an oil story turns into a dinner story."
+  },
+  {
+   "speaker": "B",
+   "text": "That is also the plain-English definition of inflation creeping in through the back door. Inflation just means prices rising across the economy over time. Here, one input, fuel, pushes up lots of different prices at once."
+  },
+  {
+   "speaker": "A",
+   "text": "And it is not just fuel. Morning Brew points to a shortage of truckers, partly because of a government crackdown on immigrant drivers, which makes trucking harder. Add port congestion, and the conflict in the Middle East, and container shipping rates have gone higher too."
+  },
+  {
+   "speaker": "B",
+   "text": "A container, by the way, is one of those giant metal boxes you see stacked on ships and trains. We will get to the history in a minute, it is a great story."
+  },
+  {
+   "speaker": "A",
+   "text": "There is one more ingredient: tariffs. A tariff is a tax on imported goods. Morning Brew says shifting US tariff policies made retailers rush to import products early, ahead of the holiday season. All that sudden demand drove transportation costs up around the world."
+  },
+  {
+   "speaker": "B",
+   "text": "It is like everyone in a town deciding to drive to the same store at the same time. The road gets jammed and the price of a ride surges."
+  },
+  {
+   "speaker": "A",
+   "text": "And the pain is showing up in the business world. Higher prices have pushed a slew of freight companies into bankruptcy, which means they could not pay their bills and had to go through a legal process to restructure or shut down."
+  },
+  {
+   "speaker": "B",
+   "text": "Meanwhile FedEx, UPS, the US Postal Service, and even railroads have raised their prices. So if you are wondering why that Black Friday deal feels a little less deal-like once shipping is added, there is your answer."
+  },
+  {
+   "speaker": "A",
+   "text": "Okay, from fuel to rocks. Theo, mineral deals."
+  },
+  {
+   "speaker": "B",
+   "text": "Yes. The Economist has a piece in its finance and economics coverage with a great headline: mineral deals are the new foreign aid. The related piece says, as its generosity ends, America wants resources abroad."
+  },
+  {
+   "speaker": "A",
+   "text": "Unpack that for me. What is foreign aid, and what is the new thing?"
+  },
+  {
+   "speaker": "B",
+   "text": "Foreign aid is when a rich country gives money or help to a poorer country, usually for health, food, or development, with no direct payback. The Economist's point, as the headlines frame it, is that America is pulling back on that kind of giving and is instead looking for something in return: access to resources, like minerals, in other countries."
+  },
+  {
+   "speaker": "A",
+   "text": "Minerals, as in the stuff inside batteries, electronics, and a lot of military and energy equipment."
+  },
+  {
+   "speaker": "B",
+   "text": "Right. And I want to be careful here, because the newsletter only gave us the headlines and a teaser, so we are not going to pretend to know the details of which countries or which deals. The big idea is the shift: from gifts to trades."
+  },
+  {
+   "speaker": "A",
+   "text": "Which matters because whoever controls the supply of important minerals has leverage in the global economy. Think of it like the world's most important pantry, and everyone is trying to get a key."
+  },
+  {
+   "speaker": "B",
+   "text": "Good analogy. And it ties right back to our shipping story. Those minerals have to get moved too, on the same expensive trucks and ships."
+  },
+  {
+   "speaker": "A",
+   "text": "Alright, money in motion. This one is wild. The Economist has a story with the headline: how will Anthropic's cashed-up employees spend their riches?"
+  },
+  {
+   "speaker": "B",
+   "text": "Anthropic is the A I company, and cashed-up is the British way of saying they suddenly have a lot of cash. When a private company's stock gets valued highly, employees who own shares can end up with serious wealth, especially when they get to sell some."
+  },
+  {
+   "speaker": "A",
+   "text": "Let me explain that for the beginners. Many employees at fast-growing companies get paid partly in equity, which means a small slice of ownership in the company. If the company's value shoots up, that slice is suddenly worth a lot. When they are allowed to sell some of it, that paper wealth turns into real money."
+  },
+  {
+   "speaker": "B",
+   "text": "And what do you do with a sudden pile of money? That is the question. The related Economist piece has a headline: charities are headed for a windfall."
+  },
+  {
+   "speaker": "A",
+   "text": "A windfall just means a big, unexpected pile of money arriving all at once. So the idea is that a lot of that new wealth could flow to charities, which would be a big deal for the nonprofit world."
+  },
+  {
+   "speaker": "B",
+   "text": "Again, we only have the headlines and a short teaser in the newsletter, so we cannot tell you the exact amounts or which charities. But the signal is interesting: the A I boom is not just a tech story, it is a money-moving story that could ripple out into philanthropy."
+  },
+  {
+   "speaker": "A",
+   "text": "It is a bit like a lottery town. When a lot of people in one place get rich at once, it changes the local restaurants, the real estate, and the donation plates."
+  },
+  {
+   "speaker": "B",
+   "text": "And that is a thing to watch for investors too. When new wealth gets created fast, it can fuel spending, giving, and new investing all at once."
+  },
+  {
+   "speaker": "A",
+   "text": "Now to the companies, and the Morning Brew special has a cast of characters. Let's start with the blimps."
+  },
+  {
+   "speaker": "B",
+   "text": "I am so excited about the blimps."
+  },
+  {
+   "speaker": "A",
+   "text": "Almost ninety years after the Hindenburg disaster gave blimps the worst reputation imaginable, a group of startups is betting that next generation airships are the future of cargo delivery. They pitch them as a cleaner and cheaper, though slower, alternative to freight planes."
+  },
+  {
+   "speaker": "B",
+   "text": "Three names to know. First, LTA Research, backed by Sergey Brin. It has been testing a rigid airship called Pathfinder One, about four hundred six and a half feet long, which Morning Brew says is the world's biggest aircraft, flying over the Bay Area."
+  },
+  {
+   "speaker": "A",
+   "text": "Four hundred feet. That is longer than a football field, and then some."
+  },
+  {
+   "speaker": "B",
+   "text": "Second, a French startup called Flying Whales, which wants to build blimps for remote shipments of up to sixty-six tons at a factory in Quebec. Third, Hybrid Air Vehicles, an airship company backed by the UK government, which has two point two billion dollars worth of orders for its planned gas-buoyed aircraft, for both civilian and defense uses."
+  },
+  {
+   "speaker": "A",
+   "text": "Two point two billion dollars in orders for something that has not even fully launched. Wait, really?"
+  },
+  {
+   "speaker": "B",
+   "text": "Orders, which are promises to buy, so a bit different from cash in the bank. But it shows real interest."
+  },
+  {
+   "speaker": "A",
+   "text": "Now, the safety question. Everybody thinks of the Hindenburg."
+  },
+  {
+   "speaker": "B",
+   "text": "The key difference is the gas. Old blimps used hydrogen, which can catch fire. These new ones use helium, which does not burn. They also use stronger modern materials like carbon fiber, digital controls for precise steering, and better wind prediction to dodge storms."
+  },
+  {
+   "speaker": "A",
+   "text": "The catch, which Morning Brew is honest about, is that airships are still more prone to weather disruptions than planes. So it is a turbulent liftoff, literally."
+  },
+  {
+   "speaker": "B",
+   "text": "Next company story: Nike. Not for the sneakers themselves, but for the sneakers that got stolen. Morning Brew reports that four hundred forty thousand dollars worth of Nike sneakers were swiped from a freight train in Arizona, following a string of Nike cargo thefts in California, which is home to the Western Hemisphere's busiest container port."
+  },
+  {
+   "speaker": "A",
+   "text": "Okay, this train heist story. Walk me through it."
+  },
+  {
+   "speaker": "B",
+   "text": "Train robberies in the US recently spiked by about forty percent, to more than sixty-five thousand reported incidents in twenty twenty-four. Last year that number hit seventy-five thousand, representing more than two hundred million dollars in stolen goods, according to a railway industry group."
+  },
+  {
+   "speaker": "A",
+   "text": "And the loot is not gold bars. It is stuff you would find at the mall. One example was fifty-four thousand dollars worth of Hot Wheels toy cars."
+  },
+  {
+   "speaker": "B",
+   "text": "Electronics, luxury clothes, and alcohol are popular targets too, investigators told Fortune. And the six largest freight railroads in the US lost more than one hundred million dollars in twenty twenty-four, counting stolen goods and the cost to repair trains that thieves damaged."
+  },
+  {
+   "speaker": "A",
+   "text": "How do they do it?"
+  },
+  {
+   "speaker": "B",
+   "text": "Thieves board trains when they are moving slowly, like when changing tracks, and cut the air brake hoses, which triggers an emergency stop. Railroads have spent millions to stop it, but with over one hundred forty thousand miles of track in the US, there is a lot of ground to cover."
+  },
+  {
+   "speaker": "A",
+   "text": "Last company item is a different kind of company: the carriers. FedEx, UPS, and the Postal Service have raised prices, as we said. Keep that in mind when you click Buy Now this weekend."
+  },
+  {
+   "speaker": "B",
+   "text": "And one more: in The Economist's technology coverage there is an interview with He Xiaopeng, with the headline: get ready for humanoid robots. We will get to why robots matter in the next section."
+  },
+  {
+   "speaker": "A",
+   "text": "Let's go industry by industry. First up, tech and A I, where the star is the humanoid robot."
+  },
+  {
+   "speaker": "B",
+   "text": "The Economist's daily edition, written by senior digital editor Lane Greene, makes a nice point. Artificial intelligence was around for many years before people took seriously its ability to handle language, something quintessentially human. Now humanoid robots are following suit."
+  },
+  {
+   "speaker": "A",
+   "text": "In plain English: for a long time, A I was a thing on a screen. Now it is getting a body."
+  },
+  {
+   "speaker": "B",
+   "text": "The Economist says, powered by breakthroughs in A I and in hardware too, these robots are finally falling in price, becoming more flexible, and maybe even headed to a home near you. One headline says their first destination may be the home. Another says robots will have a staggering economic impact."
+  },
+  {
+   "speaker": "A",
+   "text": "Let me translate why that matters. If a robot gets cheap enough, it can do chores, or work in warehouses, or help care for people. And a technology that can do many kinds of work can change how much a country produces."
+  },
+  {
+   "speaker": "B",
+   "text": "Which is what economists mean by economic impact. More output from the same number of people. The Economist uses the word staggering, though we only have the headline, so we will not guess at the numbers."
+  },
+  {
+   "speaker": "A",
+   "text": "Is this a thing for investors?"
+  },
+  {
+   "speaker": "B",
+   "text": "It is something to keep an eye on. Falling prices are usually the sign that a technology is about to go from fancy demo to normal product. Think of how phones went from rare to everywhere."
+  },
+  {
+   "speaker": "A",
+   "text": "Next, industrials and logistics, which is basically the whole shipping saga we just told. Let me tie it up with one more history bite."
+  },
+  {
+   "speaker": "B",
+   "text": "Yes, containerization. Before a trucking company owner named Malcolm McLean came along, shipping by water meant throwing everything loose into a cargo hold. McLean helped create the shipping container that became the world's standard by the nineteen seventies, eight feet by eight feet by twenty feet."
+  },
+  {
+   "speaker": "A",
+   "text": "Which sounds like a boring box, but it made old cargo ships obsolete, and forced docks to be redesigned. Dockworkers who unloaded ships lost jobs when cranes replaced them. And it cut unloading time by up to three weeks."
+  },
+  {
+   "speaker": "B",
+   "text": "Three weeks. That one boring box is basically why you can order something from the other side of the world."
+  },
+  {
+   "speaker": "A",
+   "text": "And that is why today's cost problems matter so much. The whole modern economy is built on moving boxes cheaply, so when the cost of moving them goes up, everything feels it."
+  },
+  {
+   "speaker": "B",
+   "text": "Quick note on what we are skipping tonight. The Economist's edition also had stories about young people having less sex, with a theory that blames helicopter parenting, and a best books list. Interesting, but not really money news, so we are leaving those for the weekend."
+  },
+  {
+   "speaker": "A",
+   "text": "Time for our markets walk. Here is an honest note first. The newsletters we had tonight did not include closing market numbers, so we do not have today's levels, and we are not going to make any up."
+  },
+  {
+   "speaker": "B",
+   "text": "Right. So instead of numbers, let's explain what we normally watch, so the numbers make sense when they return."
+  },
+  {
+   "speaker": "A",
+   "text": "The S and P five hundred is an index of about five hundred of the biggest US public companies. It is the go-to scoreboard for how the stock market is doing."
+  },
+  {
+   "speaker": "B",
+   "text": "The Dow Jones Industrial Average tracks thirty big companies. The Nasdaq leans toward technology. If tech has a good day, the Nasdaq usually shows it first."
+  },
+  {
+   "speaker": "A",
+   "text": "The US ten-year Treasury yield is what the government pays to borrow money for ten years. When it rises, loans like mortgages tend to get more expensive. We measure changes in it in basis points, and one basis point is one hundredth of one percent."
+  },
+  {
+   "speaker": "B",
+   "text": "So a move of twenty-five basis points is a quarter of a percentage point. Small-sounding, but big for bonds."
+  },
+  {
+   "speaker": "A",
+   "text": "Brent oil is the global benchmark price for crude oil, and tonight's diesel story shows why it matters, since fuel costs ripple into prices everywhere."
+  },
+  {
+   "speaker": "B",
+   "text": "Gold is the classic safe place investors run to when they are nervous. And Bitcoin, the most famous cryptocurrency, trades every day of the year, even on holidays."
+  },
+  {
+   "speaker": "A",
+   "text": "The takeaway: no fresh numbers tonight, so nothing to react to. Next week, with a full set of newsletters, we will be back with the real levels."
+  },
+  {
+   "speaker": "A",
+   "text": "Alright, our three-point recap. Number one: shipping is expensive, mostly because of diesel, fewer drivers, and tariffs, and that feeds into prices of nearly everything, from groceries to gadgets."
+  },
+  {
+   "speaker": "B",
+   "text": "Number two: humanoid robots are getting cheaper and more capable, and The Economist thinks their first big stop could be the home. A I is getting a body."
+  },
+  {
+   "speaker": "A",
+   "text": "Number three: new A I wealth could flow to charities, while America trades foreign aid for mineral deals abroad. Money is moving in new directions."
+  },
+  {
+   "speaker": "B",
+   "text": "What to watch tomorrow? Honestly, it is Saturday, so markets are closed. Watch for whether shipping prices and diesel keep cooling, and whether any of those blimp startups announce more orders."
+  },
+  {
+   "speaker": "A",
+   "text": "And watch your wallet at the checkout page, where shipping and handling is the real boss."
+  },
+  {
+   "speaker": "B",
+   "text": "That is Nightly Brief for Friday, November twenty-seventh. I am Theo."
+  },
+  {
+   "speaker": "A",
+   "text": "And I am Maya. Thanks for listening, enjoy the leftovers, and we will see you next time."
+  }
+ ]
+}
